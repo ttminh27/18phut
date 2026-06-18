@@ -84,6 +84,54 @@ Khởi chạy server production:
 npm run start
 ```
 
+
+---
+
+## 🌐 Hướng Dẫn Deploy Lên Vercel
+
+Ứng dụng Next.js này có thể được triển khai (deploy) dễ dàng và nhanh chóng lên nền tảng **Vercel** bằng hai phương thức sau:
+
+### Cách 1: Sử dụng Vercel Dashboard (Khuyên dùng)
+
+1. **Đưa mã nguồn lên GitHub/GitLab/Bitbucket**:
+   - Đảm bảo dự án của bạn đã được đẩy lên một kho lưu trữ (repository) trực tuyến (ví dụ: GitHub).
+2. **Liên kết với Vercel**:
+   - Truy cập [Vercel](https://vercel.com/) và đăng nhập bằng tài khoản Git tương ứng.
+   - Nhấp vào nút **Add New...** -> **Project**.
+3. **Import Repository**:
+   - Chọn kho lưu trữ chứa dự án `18phut`.
+4. **Cấu hình dự án (Project Settings)**:
+   - Vercel sẽ tự động phát hiện đây là dự án **Next.js** và điền sẵn cấu hình chuẩn:
+     - **Framework Preset**: `Next.js`
+     - **Build Command**: `npm run build`
+     - **Output Directory**: `.next`
+   - Nhấp vào nút **Deploy**.
+5. **Hoàn tất**:
+   - Vercel sẽ tiến hành biên dịch và cung cấp một đường dẫn (URL) chạy trực tuyến sau khoảng 1-2 phút.
+
+### Cách 2: Sử dụng Vercel CLI
+
+Nếu muốn deploy trực tiếp từ dòng lệnh (terminal):
+
+1. **Cài đặt Vercel CLI**:
+   ```bash
+   npm install -g vercel
+   ```
+2. **Đăng nhập vào Vercel**:
+   ```bash
+   vercel login
+   ```
+3. **Triển khai dự án**:
+   Chạy lệnh sau tại thư mục gốc của dự án:
+   ```bash
+   vercel
+   ```
+   Làm theo các hướng dẫn trên màn hình để thiết lập và deploy bản nháp (preview build).
+4. **Deploy lên môi trường Production**:
+   ```bash
+   vercel --prod
+   ```
+
 ---
 
 ## 📝 Bản Quyền & Thiết Kế

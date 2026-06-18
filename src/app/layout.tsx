@@ -39,7 +39,7 @@ export default function RootLayout({
           <header className="sticky top-0 z-50 bg-white/80 dark:bg-slate-900/80 backdrop-blur-md border-b border-slate-200 dark:border-slate-800 transition-colors">
             <div className="max-w-4xl mx-auto px-4 h-16 flex items-center justify-between">
               <Link href="/" className="text-xl font-bold text-indigo-600 dark:text-indigo-400">
-                18 Phút
+                18 Phút - Peter Bregman
               </Link>
               <nav className="flex items-center space-x-4">
                 <Link href="/chapters" className="flex items-center space-x-1 text-slate-600 dark:text-slate-300 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">

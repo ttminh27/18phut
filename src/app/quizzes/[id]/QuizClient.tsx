@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import { CheckCircle2, XCircle, ArrowRight, RotateCcw, Trophy } from "lucide-react";
+import { CheckCircle2, XCircle, ArrowRight, RotateCcw, Trophy, ZoomIn, ZoomOut } from "lucide-react";
 import Link from "next/link";
 
 interface Quiz {
@@ -18,6 +18,10 @@ export default function QuizClient({ quizzes, chapterTitle, chapterId }: { quizz
   const [isCorrect, setIsCorrect] = useState<boolean | null>(null);
   const [score, setScore] = useState(0);
   const [showResult, setShowResult] = useState(false);
+  const [fontSize, setFontSize] = useState(16); // Default font size for quiz
+
+  const handleZoomIn = () => setFontSize(s => Math.min(s + 2, 24));
+  const handleZoomOut = () => setFontSize(s => Math.max(s - 2, 12));
 
   const currentQuiz = quizzes[currentIndex];
 
@@ -83,7 +87,28 @@ export default function QuizClient({ quizzes, chapterTitle, chapterId }: { quizz
   }
 
   return (
-    <div className="max-w-3xl mx-auto px-2 sm:px-0">
+    <div className="max-w-3xl mx-auto px-2 sm:px-0 relative">
+      {/* Floating Zoom Controls */}
+      <div className="fixed bottom-8 right-6 md:right-8 z-50 flex items-center bg-white/90 dark:bg-slate-800/95 backdrop-blur-md p-1.5 rounded-full shadow-lg border border-slate-200/80 dark:border-slate-700/80 hover:shadow-xl transition-all duration-300 hover:scale-105 active:scale-95">
+        <button 
+          onClick={handleZoomOut} 
+          className="p-2 text-slate-500 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-700 hover:text-indigo-600 dark:hover:text-indigo-400 rounded-full transition-all disabled:opacity-30 disabled:pointer-events-none"
+          disabled={fontSize <= 12}
+          title="Thu nhỏ chữ"
+        >
+          <ZoomOut className="w-4.5 h-4.5" />
+        </button>
+        <span className="text-xs font-semibold text-slate-600 dark:text-slate-300 px-2 select-none min-w-[40px] text-center">{fontSize}px</span>
+        <button 
+          onClick={handleZoomIn} 
+          className="p-2 text-slate-500 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-700 hover:text-indigo-600 dark:hover:text-indigo-400 rounded-full transition-all disabled:opacity-30 disabled:pointer-events-none"
+          disabled={fontSize >= 24}
+          title="Phóng to chữ"
+        >
+          <ZoomIn className="w-4.5 h-4.5" />
+        </button>
+      </div>
+
       <div className="mb-3 sm:mb-6">
         <div className="flex items-center justify-between gap-2 text-xs sm:text-sm font-medium text-slate-500 dark:text-slate-400 bg-white dark:bg-slate-800 px-3 py-2 sm:px-5 sm:py-3 rounded-xl sm:rounded-2xl shadow-sm border border-slate-100 dark:border-slate-700 transition-colors w-full">
           <span className="flex-shrink-0">
@@ -106,7 +131,10 @@ export default function QuizClient({ quizzes, chapterTitle, chapterId }: { quizz
 
       <div className="bg-white dark:bg-slate-800 p-3.5 sm:p-10 rounded-2xl sm:rounded-3xl shadow-lg border border-slate-100 dark:border-slate-700 transition-colors relative overflow-hidden">
         <div className="absolute top-0 left-0 w-full h-1.5 bg-gradient-to-r from-indigo-500 to-purple-500"></div>
-        <h3 className="text-base sm:text-2xl font-bold text-slate-800 dark:text-slate-100 mb-4 sm:mb-6 leading-relaxed">
+        <h3 
+          className="font-bold text-slate-800 dark:text-slate-100 mb-4 sm:mb-6 leading-relaxed"
+          style={{ fontSize: `${fontSize * 1.25}px` }}
+        >
           {currentQuiz.question}
         </h3>
 
@@ -132,7 +160,8 @@ export default function QuizClient({ quizzes, chapterTitle, chapterId }: { quizz
                 key={idx}
                 onClick={() => handleSelect(option)}
                 disabled={selectedAnswer !== null}
-                className={`relative flex items-center justify-between w-full py-2 px-3 sm:py-3.5 sm:px-5 rounded-xl sm:rounded-2xl border-2 text-left font-medium transition-all duration-200 text-xs sm:text-base gap-2 sm:gap-3 ${itemClass}`}
+                className={`relative flex items-center justify-between w-full py-2 px-3 sm:py-3.5 sm:px-5 rounded-xl sm:rounded-2xl border-2 text-left font-medium transition-all duration-200 gap-2 sm:gap-3 ${itemClass}`}
+                style={{ fontSize: `${fontSize}px` }}
               >
                 <span className="leading-snug">{option}</span>
                 {Icon && <Icon className="w-4 h-4 sm:w-5 sm:h-5 flex-shrink-0" />}
@@ -144,8 +173,14 @@ export default function QuizClient({ quizzes, chapterTitle, chapterId }: { quizz
         {selectedAnswer && (
           <div className="mt-4 sm:mt-6 animate-in fade-in slide-in-from-bottom-2">
             {currentQuiz.explanation && (
-              <div className={`mb-4 sm:mb-5 p-3 sm:p-5 rounded-xl sm:rounded-2xl border text-xs sm:text-sm ${isCorrect ? 'bg-green-50 dark:bg-green-950/20 border-green-200 dark:border-green-900 text-green-900 dark:text-green-200' : 'bg-amber-50 dark:bg-amber-950/20 border-amber-200 dark:border-amber-900/60 text-amber-900 dark:text-amber-200'}`}>
-                <h4 className="font-bold mb-1.5 sm:mb-2 flex items-center text-sm sm:text-base">
+              <div 
+                className={`mb-4 sm:mb-5 p-3 sm:p-5 rounded-xl sm:rounded-2xl border ${isCorrect ? 'bg-green-50 dark:bg-green-950/20 border-green-200 dark:border-green-900 text-green-900 dark:text-green-200' : 'bg-amber-50 dark:bg-amber-950/20 border-amber-200 dark:border-amber-900/60 text-amber-900 dark:text-amber-200'}`}
+                style={{ fontSize: `${fontSize * 0.9}px` }}
+              >
+                <h4 
+                  className="font-bold mb-1.5 sm:mb-2 flex items-center"
+                  style={{ fontSize: `${fontSize * 1.05}px` }}
+                >
                   {isCorrect ? <CheckCircle2 className="w-4 h-4 sm:w-5 sm:h-5 mr-1.5 text-green-600" /> : <XCircle className="w-4 h-4 sm:w-5 sm:h-5 mr-1.5 text-amber-600" />}
                   Giải thích đáp án
                 </h4>

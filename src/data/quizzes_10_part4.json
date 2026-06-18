@@ -1,0 +1,612 @@
+{
+  "15_13. Ai Cũng Có Thể Học Cách Trồng Cây.md": [
+    {
+      "id": 1,
+      "question": "Câu chuyện tác giả hẹn gặp Colin chứng minh cho bài học gì?",
+      "options": [
+        "Sự quan trọng của việc gọi điện thoại thay vì nhắn tin",
+        "Thành quả to lớn đạt được khi không phản ứng dựa trên sự thất vọng và kiên trì lặp lại",
+        "Cần phải có một bản kế hoạch hoàn hảo trước khi gặp khách hàng",
+        "Không nên lãng phí thời gian với những người quá bận rộn"
+      ],
+      "answer": "Thành quả to lớn đạt được khi không phản ứng dựa trên sự thất vọng và kiên trì lặp lại",
+      "explanation": "Tác giả nhấn mạnh rằng việc kiên trì lặp lại những nỗ lực, dù bị từ chối nhiều lần, là chìa khóa để đạt được mục tiêu. Các lựa chọn khác không phản ánh đúng tinh thần kiên nhẫn và kiểm soát cảm xúc mà tác giả muốn truyền tải."
+    },
+    {
+      "id": 2,
+      "question": "Sau khi bị Colin từ chối, tác giả đã có cảm giác như thế nào?",
+      "options": [
+        "Tự tin hơn vào bản kế hoạch của mình",
+        "Cảm thấy bị sỉ nhục và gần như bỏ cuộc",
+        "Quyết định không bao giờ hợp tác với Colin nữa",
+        "Thấy thích thú với việc bị từ chối"
+      ],
+      "answer": "Cảm thấy bị sỉ nhục và gần như bỏ cuộc",
+      "explanation": "Tác giả miêu tả cảm giác thất vọng tột độ khi chỉ nhận được một lời nhắn thoại sau bao nỗ lực. Điều này làm nổi bật thử thách tâm lý trước khi học cách tận hưởng quá trình cố gắng."
+    },
+    {
+      "id": 3,
+      "question": "Khi bắt đầu tiếp cận cô đồng nghiệp Lily, tác giả đã phát hiện ra điều gì bất ngờ?",
+      "options": [
+        "Lily cũng bận rộn không kém Colin",
+        "Lily là người rất dễ tính trong công việc",
+        "Tác giả bắt đầu thấy thích quá trình tiếp cận khách hàng và coi đó như một trò chơi",
+        "Tác giả nhận ra bản thân không phù hợp với công việc kinh doanh"
+      ],
+      "answer": "Tác giả bắt đầu thấy thích quá trình tiếp cận khách hàng và coi đó như một trò chơi",
+      "explanation": "Đây là bước ngoặt quan trọng khi tác giả nhận ra sự thú vị của việc cố gắng, một trong ba điều kiện cốt lõi để thành công. Các đáp án khác không thể hiện sự thay đổi tích cực trong tư duy của ông."
+    },
+    {
+      "id": 4,
+      "question": "Tác giả đã học được kỹ năng gì mà ban đầu có vẻ 'hoàn toàn nằm ngoài khả năng'?",
+      "options": [
+        "Chơi đàn vi-ô-lông",
+        "Trồng cây chuối đứng bằng tay",
+        "Nói lưu loát một ngoại ngữ mới",
+        "Chạy bộ 10km mỗi ngày"
+      ],
+      "answer": "Trồng cây chuối đứng bằng tay",
+      "explanation": "Tác giả dùng trải nghiệm học trồng cây chuối của mình làm ví dụ minh chứng cho việc ai cũng có thể làm được bất cứ điều gì nếu kiên trì. Đây là hình ảnh ẩn dụ xuyên suốt cho việc vượt qua giới hạn bản thân."
+    },
+    {
+      "id": 5,
+      "question": "Đâu KHÔNG phải là một trong 3 điều kiện để con người có thể làm được bất kỳ việc gì theo quan điểm của tác giả?",
+      "options": [
+        "Bạn muốn đạt được điều đó",
+        "Bạn tin rằng bạn có thể đạt được điều đó",
+        "Bạn có năng khiếu bẩm sinh ở lĩnh vực đó",
+        "Bạn thích thú với quá trình cố gắng để đạt được điều đó"
+      ],
+      "answer": "Bạn có năng khiếu bẩm sinh ở lĩnh vực đó",
+      "explanation": "Tác giả khẳng định thành công phụ thuộc vào mong muốn, niềm tin và sự thích thú với quá trình, chứ không phải tài năng bẩm sinh. Việc dựa vào năng khiếu đi ngược lại hoàn toàn thông điệp của chương."
+    },
+    {
+      "id": 6,
+      "question": "Trong 3 điều kiện để làm được mọi việc, tác giả cho rằng điều kiện nào là quan trọng nhất?",
+      "options": [
+        "Sự hỗ trợ từ người khác",
+        "Muốn đạt được điều đó",
+        "Tin rằng mình có thể đạt được",
+        "Thích thú với quá trình cố gắng"
+      ],
+      "answer": "Thích thú với quá trình cố gắng",
+      "explanation": "Theo tác giả, việc thích thú với quá trình là động lực thực tế nhất giúp chúng ta duy trì sự kiên trì trong thời gian dài. Thiếu đi yếu tố này, ta sẽ dễ dàng bỏ cuộc khi gặp khó khăn."
+    },
+    {
+      "id": 7,
+      "question": "Theo Malcolm Gladwell trong tác phẩm Outliers, con số thần kỳ để trở nên xuất sắc ở bất kỳ lĩnh vực nào là bao nhiêu?",
+      "options": [
+        "4.000 giờ tập luyện",
+        "8.000 giờ tập luyện",
+        "10.000 giờ tập luyện",
+        "20.000 giờ tập luyện"
+      ],
+      "answer": "10.000 giờ tập luyện",
+      "explanation": "Đây là con số nổi tiếng được tác giả trích dẫn từ Malcolm Gladwell, minh chứng cho sức mạnh của sự lặp lại. Nó củng cố lập luận rằng sự xuất sắc là kết quả của quá trình kiên trì rèn luyện."
+    },
+    {
+      "id": 8,
+      "question": "Tại sao việc thích thú với quá trình cố gắng lại quan trọng để đạt được 10.000 giờ tập luyện?",
+      "options": [
+        "Vì những người xung quanh sẽ ủng hộ bạn hơn nếu bạn vui vẻ",
+        "Vì bạn không bao giờ có thể làm một việc gì đó trong 10.000 giờ nếu không cảm thấy hứng thú với nó",
+        "Vì bạn sẽ được trả nhiều tiền hơn cho sự cố gắng của mình",
+        "Vì các nhà nghiên cứu âm nhạc Berlin đã chứng minh điều đó"
+      ],
+      "answer": "Vì bạn không bao giờ có thể làm một việc gì đó trong 10.000 giờ nếu không cảm thấy hứng thú với nó",
+      "explanation": "Nếu không tận hưởng quá trình, sự nhàm chán và khó khăn sẽ khiến bạn bỏ cuộc trước khi đạt đủ số giờ cần thiết. Sự thích thú chính là nhiên liệu duy trì độ bền bỉ trong hành trình dài."
+    },
+    {
+      "id": 9,
+      "question": "Công ty của Lily đã trở thành gì của tác giả sau mười hai năm?",
+      "options": [
+        "Một đối thủ cạnh tranh đáng gờm",
+        "Vẫn là khách hàng lớn của Bregman Partners",
+        "Một đối tác thất bại",
+        "Một công ty đã phá sản"
+      ],
+      "answer": "Vẫn là khách hàng lớn của Bregman Partners",
+      "explanation": "Kết quả này chứng minh cho thành quả ngọt ngào của sự kiên trì theo đuổi khách hàng từ những ngày đầu. Nó cho thấy việc xây dựng niềm tin mang lại lợi ích lâu dài và bền vững."
+    },
+    {
+      "id": 10,
+      "question": "Lời khuyên cuối cùng của tác giả để hướng đến niềm đam mê là gì?",
+      "options": [
+        "Hãy nghĩ đến những gì bạn yêu thích và sẵn sàng kiên trì theo đuổi, ngay cả khi không cảm thấy mình sẽ đạt được mục tiêu",
+        "Hãy tìm một công việc mang lại thu nhập cao và ổn định trước",
+        "Chỉ nên tập trung vào những mục tiêu có thể đạt được trong thời gian ngắn",
+        "Hãy từ bỏ ngay nếu gặp thất bại lần đầu tiên"
+      ],
+      "answer": "Hãy nghĩ đến những gì bạn yêu thích và sẵn sàng kiên trì theo đuổi, ngay cả khi không cảm thấy mình sẽ đạt được mục tiêu",
+      "explanation": "Lời khuyên này tóm tắt trọn vẹn thông điệp của chương: đam mê đích thực là khi bạn yêu thích quá trình thực hiện nó, bất chấp kết quả. Các lựa chọn khác mang tính thực dụng và đi ngược lại triết lý này."
+    }
+  ],
+  "16_14. Công Thức Để Tìm Thấy Công Việc.md": [
+    {
+      "id": 1,
+      "question": "Bước đầu tiên trong công thức tìm việc mà tác giả đề xuất là gì?",
+      "options": [
+        "Liệt kê 5 hoạt động khiến bạn cảm thấy hào hứng hoặc muốn thử thực hiện",
+        "Nộp đơn vào ít nhất 10 công ty mỗi tuần",
+        "Xây dựng một bản CV hoàn hảo và chuyên nghiệp",
+        "Tham gia vào tất cả các hoạt động tập thể"
+      ],
+      "answer": "Liệt kê 5 hoạt động khiến bạn cảm thấy hào hứng hoặc muốn thử thực hiện",
+      "explanation": "Đây là bước khởi đầu để xác định đam mê và những gì thực sự mang lại năng lượng cho bạn. Nó giúp chuyển hướng tập trung từ việc tìm việc khô khan sang việc khám phá sở thích cá nhân."
+    },
+    {
+      "id": 2,
+      "question": "Theo tác giả, bạn nên làm gì với những hoạt động một mình trong danh sách nếu không thể biến chúng thành hoạt động tập thể?",
+      "options": [
+        "Giữ lại và dành nhiều thời gian hơn cho chúng",
+        "Gạch bỏ chúng khỏi danh sách",
+        "Tạm thời quên đi và thử lại sau",
+        "Đăng kết quả của chúng lên mạng xã hội"
+      ],
+      "answer": "Gạch bỏ chúng khỏi danh sách",
+      "explanation": "Tác giả nhấn mạnh tầm quan trọng của sự tương tác xã hội trong quá trình này. Việc làm một mình không tạo ra cơ hội kết nối với những người có thể giúp bạn tìm việc."
+    },
+    {
+      "id": 3,
+      "question": "Tác giả khuyên bạn nên dành bao nhiêu thời gian cho các công việc bạn yêu thích với những người cùng chung sở thích?",
+      "options": [
+        "10% thời gian rảnh rỗi",
+        "50% thời gian rảnh rỗi",
+        "90% thời gian của bạn",
+        "Chỉ thực hiện vào dịp cuối tuần"
+      ],
+      "answer": "90% thời gian của bạn",
+      "explanation": "Tác giả khuyên nên dành phần lớn thời gian cho đam mê thay vì chìm đắm trong sự căng thẳng của việc rải hồ sơ. Điều này giúp duy trì trạng thái tâm lý tích cực và năng lượng tràn đầy."
+    },
+    {
+      "id": 4,
+      "question": "Tác giả kể câu chuyện về người bạn tham gia hoạt động nhà thờ để minh họa cho điều gì?",
+      "options": [
+        "Sức mạnh của đức tin trong việc tìm kiếm việc làm",
+        "Tầm quan trọng của việc đóng góp tiền bạc cho tổ chức tôn giáo",
+        "Niềm hăng hái và năng lượng tràn đầy khi làm việc yêu thích cùng người khác",
+        "Cách lợi dụng tôn giáo để thăng tiến công việc"
+      ],
+      "answer": "Niềm hăng hái và năng lượng tràn đầy khi làm việc yêu thích cùng người khác",
+      "explanation": "Câu chuyện minh họa sự lột xác về mặt tinh thần khi được tham gia vào môi trường tích cực. Sự nhiệt huyết này chính là thỏi nam châm thu hút các nhà tuyển dụng."
+    },
+    {
+      "id": 5,
+      "question": "Woody Allen đã nói điều gì về sự thành công?",
+      "options": [
+        "80% thành công nằm ở sự hiện diện",
+        "Thành công là kết quả của 99% nỗ lực và 1% may mắn",
+        "Muốn thành công, phải có nhiều tiền",
+        "Không có thành công nào thiếu đi sự cạnh tranh khốc liệt"
+      ],
+      "answer": "80% thành công nằm ở sự hiện diện",
+      "explanation": "Tác giả mượn câu nói này để nhấn mạnh rằng việc chủ động tham gia và xuất hiện trong các cộng đồng là chìa khóa mở ra cơ hội. Nếu bạn không hiện diện, bạn sẽ không bao giờ được chú ý."
+    },
+    {
+      "id": 6,
+      "question": "Một lý do 'tế nhị' giải thích tại sao làm việc yêu thích cùng nhóm lại giúp tìm việc là gì?",
+      "options": [
+        "Vì những người trong nhóm thường giàu có và thích cho tiền người khác",
+        "Vì người ta muốn thuê những người hăng hái, có đam mê và hứng thú với những việc họ làm",
+        "Vì các công ty luôn tìm kiếm thành viên của các câu lạc bộ thể thao",
+        "Vì bạn có thể lén đưa CV cho họ trong lúc hoạt động"
+      ],
+      "answer": "Vì người ta muốn thuê những người hăng hái, có đam mê và hứng thú với những việc họ làm",
+      "explanation": "Năng lượng tích cực và đam mê là những phẩm chất khó đào tạo nhưng lại vô cùng hấp dẫn đối với nhà tuyển dụng. Nó chứng tỏ bạn có động lực nội tại mạnh mẽ."
+    },
+    {
+      "id": 7,
+      "question": "Tác giả nhận định gì về 'nỗi sợ hãi' của những người đang thất nghiệp khi áp dụng phương pháp này?",
+      "options": [
+        "Sợ hãi là một dấu hiệu cho thấy họ đang đi sai hướng",
+        "Sợ hãi là do họ không đủ khả năng tài chính để chi trả cho các hoạt động",
+        "Vượt qua nỗi sợ hãi là trở ngại lớn nhất, vì phương pháp này sẽ giúp họ tiết kiệm thời gian tìm việc hơn",
+        "Nỗi sợ hãi sẽ giúp họ cảnh giác và tìm được công việc an toàn hơn"
+      ],
+      "answer": "Vượt qua nỗi sợ hãi là trở ngại lớn nhất, vì phương pháp này sẽ giúp họ tiết kiệm thời gian tìm việc hơn",
+      "explanation": "Nhiều người sợ rằng làm việc mình thích là lãng phí thời gian tìm việc, nhưng tác giả chứng minh điều ngược lại. Vượt qua rào cản tâm lý này là bước ngoặt để áp dụng thành công phương pháp."
+    },
+    {
+      "id": 8,
+      "question": "Việc chủ động tham gia các hoạt động yêu thích mang lại lợi ích gì khi đi phỏng vấn xin việc?",
+      "options": [
+        "Giúp bạn che giấu được những điểm yếu trong chuyên môn",
+        "Bạn có thể kể về vô số việc đã làm thay vì chỉ nói mình đi xin việc suốt thời gian qua",
+        "Nhà tuyển dụng sẽ không hỏi bạn về kinh nghiệm làm việc nữa",
+        "Giúp bạn yêu cầu được mức lương cao hơn bình thường"
+      ],
+      "answer": "Bạn có thể kể về vô số việc đã làm thay vì chỉ nói mình đi xin việc suốt thời gian qua",
+      "explanation": "Việc tham gia các hoạt động giúp bạn có những câu chuyện thú vị và thể hiện sự chủ động trong thời gian thất nghiệp. Nó tạo ấn tượng tốt hơn hẳn so với việc chỉ ngồi nhà nộp hồ sơ."
+    },
+    {
+      "id": 9,
+      "question": "Người phụ nữ trong câu chuyện của tác giả đã hối tiếc điều gì sau 3 năm công ty phá sản?",
+      "options": [
+        "Đã không xin nghỉ phép nhiều hơn trong suốt 3 năm",
+        "Đã làm việc như trâu và ghét công việc đó, cảm thấy lãng phí 3 năm cuộc đời",
+        "Đã không đầu tư cổ phiếu của công ty",
+        "Đã không yêu cầu công ty trả lương cao hơn"
+      ],
+      "answer": "Đã làm việc như trâu và ghét công việc đó, cảm thấy lãng phí 3 năm cuộc đời",
+      "explanation": "Câu chuyện là lời cảnh tỉnh về việc đánh đổi thời gian và hạnh phúc cho một công việc không mang lại niềm vui. Nó nhấn mạnh hậu quả của việc bỏ qua đam mê cá nhân."
+    },
+    {
+      "id": 10,
+      "question": "Bài học quan trọng nhất từ chương này là gì?",
+      "options": [
+        "Hãy tận dụng thời gian tốt nhất bằng cách làm những việc bạn yêu thích, khiến bạn cảm thấy nhẹ nhàng dù khó khăn",
+        "Luôn chuẩn bị tài chính vững vàng trước khi theo đuổi đam mê",
+        "Đừng bao giờ làm việc miễn phí cho bất kỳ ai",
+        "Cách duy nhất để thành công là tham gia một tổ chức phi lợi nhuận"
+      ],
+      "answer": "Hãy tận dụng thời gian tốt nhất bằng cách làm những việc bạn yêu thích, khiến bạn cảm thấy nhẹ nhàng dù khó khăn",
+      "explanation": "Thông điệp cốt lõi là làm việc yêu thích không chỉ mang lại niềm vui mà còn là cách tự nhiên nhất để mở ra những cơ hội nghề nghiệp mới. Nó biến quá trình tìm việc từ áp lực thành một hành trình thú vị."
+    }
+  ],
+  "17_15. Điều Gì Quan Trọng Đối Với Bạn.md": [
+    {
+      "id": 1,
+      "question": "Số liệu nào về thời gian người Mỹ dành để xem ti-vi mỗi ngày được trích dẫn từ Cục Thống kê Lao động Hoa Kỳ?",
+      "options": [
+        "2,45 giờ/ngày",
+        "3,45 giờ/ngày",
+        "4,45 giờ/ngày",
+        "5,45 giờ/ngày"
+      ],
+      "answer": "3,45 giờ/ngày",
+      "explanation": "Đây là số liệu thống kê thực tế được tác giả sử dụng để làm nổi bật khoảng thời gian khổng lồ chúng ta lãng phí mỗi ngày. Con số này là hồi chuông cảnh tỉnh về việc quản lý thời gian."
+    },
+    {
+      "id": 2,
+      "question": "Cảm giác của tác giả khi đọc các số liệu thống kê về cách sử dụng thời gian là gì?",
+      "options": [
+        "Rất bình thường vì ai cũng vậy",
+        "Thấy sốc và nhận ra thực tế rằng mình sẽ chết",
+        "Cảm thấy tự hào vì mình làm việc nhiều hơn người khác",
+        "Thấy vui vì mình xem ti-vi ít hơn số trung bình"
+      ],
+      "answer": "Thấy sốc và nhận ra thực tế rằng mình sẽ chết",
+      "explanation": "Sự nhận thức về cái chết hữu hạn giúp tác giả đánh giá lại cách sử dụng quỹ thời gian của mình một cách sâu sắc hơn. Nó tạo ra động lực mạnh mẽ để thay đổi thay vì chỉ tiếp nhận thông tin thụ động."
+    },
+    {
+      "id": 3,
+      "question": "Theo bài viết của Bronnie Ware, điều hối tiếc lớn nhất của những người sắp trần là gì?",
+      "options": [
+        "Không kiếm được nhiều tiền hơn",
+        "Đã không đi du lịch khắp thế giới",
+        "Ước gì mình đủ dũng khí để sống cuộc đời của chính mình, chứ không phải cuộc đời theo ý muốn của người khác",
+        "Ước gì mình đã đối xử tốt hơn với hàng xóm"
+      ],
+      "answer": "Ước gì mình đủ dũng khí để sống cuộc đời của chính mình, chứ không phải cuộc đời theo ý muốn của người khác",
+      "explanation": "Đây là nỗi hối tiếc phổ biến nhất, cho thấy nhiều người đã đánh mất bản thân vì áp lực xã hội và kỳ vọng của người khác. Tác giả dùng điều này để khuyến khích lối sống chân thật."
+    },
+    {
+      "id": 4,
+      "question": "Nỗi hối tiếc thứ hai của những người sắp trần, theo bài viết của Bronnie Ware, là gì?",
+      "options": [
+        "Tôi ước gì mình đã không làm việc cật lực đến thế",
+        "Tôi ước gì mình đã tham gia nhiều hoạt động xã hội hơn",
+        "Tôi ước gì mình đã không tiêu tiền phung phí",
+        "Tôi ước gì mình đã học hỏi thêm nhiều kỹ năng"
+      ],
+      "answer": "Tôi ước gì mình đã không làm việc cật lực đến thế",
+      "explanation": "Nỗi hối tiếc này chỉ ra sự mất cân bằng giữa công việc và các giá trị sống khác. Nó phản ánh việc chúng ta thường ưu tiên sai lầm những thứ không thực sự quan trọng."
+    },
+    {
+      "id": 5,
+      "question": "Tác giả cho rằng, nếu ghép 2 nỗi hối tiếc lại với nhau, điều người ta thực sự tiếc nuối là gì?",
+      "options": [
+        "Làm việc quá ít cho những thứ quan trọng",
+        "Dành quá nhiều thời gian cho gia đình thay vì công việc",
+        "Làm quá nhiều những thứ không quan trọng đối với họ",
+        "Không biết tiết kiệm tiền bạc cho tuổi già"
+      ],
+      "answer": "Làm quá nhiều những thứ không quan trọng đối với họ",
+      "explanation": "Tác giả phân tích sâu hơn để chỉ ra rằng vấn đề cốt lõi không phải là làm việc nhiều, mà là làm việc không có ý nghĩa. Sự lãng phí thực sự nằm ở việc đầu tư sai chỗ."
+    },
+    {
+      "id": 6,
+      "question": "Việc 'sống theo ý bạn' có nghĩa là gì theo quan điểm của tác giả?",
+      "options": [
+        "Bán hết của cải để chăm lo cho người nghèo",
+        "Trở nên ích kỷ và không quan tâm đến người khác",
+        "Làm những công việc có ý nghĩa đối với bản thân, dù là chăm sóc người già hay nấu ăn cho gia đình",
+        "Chỉ làm những việc mang lại danh tiếng và quyền lực"
+      ],
+      "answer": "Làm những công việc có ý nghĩa đối với bản thân, dù là chăm sóc người già hay nấu ăn cho gia đình",
+      "explanation": "\"Sống theo ý bạn\" không nhất thiết phải là điều vĩ đại, mà là tìm thấy ý nghĩa trong những việc nhỏ bé thường ngày. Lựa chọn này thể hiện tính cá nhân hóa trong việc định nghĩa hạnh phúc."
+    },
+    {
+      "id": 7,
+      "question": "Tác giả gợi ý điều gì khi hỏi về 'những thứ trung lập' trong cuộc sống của bạn?",
+      "options": [
+        "Điều gì khiến bạn cảm thấy tự hào?",
+        "Điều gì đang khiến bạn tiêu tốn thời gian nhưng đối lập với những gì quan trọng đối với bạn?",
+        "Bạn dành thời gian cho những điều gì mà bạn không thật sự quan tâm, vô nghĩa hoặc không quan trọng đối với bạn?",
+        "Ai là người truyền cảm hứng lớn nhất cho bạn?"
+      ],
+      "answer": "Bạn dành thời gian cho những điều gì mà bạn không thật sự quan tâm, vô nghĩa hoặc không quan trọng đối với bạn?",
+      "explanation": "Tác giả muốn chúng ta nhận diện những \"kẻ cắp thời gian\" tàng hình trong cuộc sống hàng ngày. Nhận thức được chúng là bước đầu tiên để loại bỏ và tối ưu hóa thời gian."
+    },
+    {
+      "id": 8,
+      "question": "Cô lao công làm việc buổi tối được tác giả nhắc đến cảm thấy như thế nào về công việc của mình?",
+      "options": [
+        "Xấu hổ vì công việc thấp kém",
+        "Tự hào sâu sắc về việc đã lau dọn tốt và mang lại sự tuyệt vời cho văn phòng",
+        "Mệt mỏi và chỉ muốn đổi công việc khác",
+        "Tức giận vì không được trả công xứng đáng"
+      ],
+      "answer": "Tự hào sâu sắc về việc đã lau dọn tốt và mang lại sự tuyệt vời cho văn phòng",
+      "explanation": "Câu chuyện của cô lao công là minh chứng cho việc bất kỳ công việc nào cũng có thể mang lại ý nghĩa nếu người làm tìm thấy giá trị trong đó. Nó bác bỏ định kiến về các công việc \"thấp kém\"."
+    },
+    {
+      "id": 9,
+      "question": "Tác giả đã làm gì sau khi nhìn thấy bức ảnh chiếc xe lăn và cảm thấy sự sợ hãi?",
+      "options": [
+        "Trở lại giường và ngủ tiếp",
+        "Bật ti-vi lên xem để quên đi nỗi sợ",
+        "Hít một hơi thật sâu, đi tắm và ngồi xuống viết chương này",
+        "Gọi điện thoại tâm sự với một người bạn"
+      ],
+      "answer": "Hít một hơi thật sâu, đi tắm và ngồi xuống viết chương này",
+      "explanation": "Thay vì đầu hàng nỗi sợ, tác giả biến nó thành hành động thiết thực bằng cách tập trung vào công việc quan trọng với mình là viết lách. Đây là cách vượt qua sự trì hoãn hiệu quả."
+    },
+    {
+      "id": 10,
+      "question": "Kết luận chính của chương này khuyến khích độc giả làm gì?",
+      "options": [
+        "Hãy từ bỏ mọi công việc hiện tại để đi du lịch",
+        "Tập trung thời gian vào những việc quan trọng và có ý nghĩa đặc biệt đối với bạn",
+        "Phải tìm ra một thước đo khách quan để đánh giá giá trị công việc",
+        "Ngừng xem ti-vi và dành thời gian đó để ngủ"
+      ],
+      "answer": "Tập trung thời gian vào những việc quan trọng và có ý nghĩa đặc biệt đối với bạn",
+      "explanation": "Lời khuyên này tổng kết toàn bộ nội dung chương, hướng độc giả đến một cuộc sống có mục đích và trọn vẹn hơn. Nó là kim chỉ nam để tránh những hối tiếc vào cuối đời."
+    }
+  ],
+  "18_16. Tôi Là Bậc Cha Mẹ Mà Tôi Buộc.md": [
+    {
+      "id": 1,
+      "question": "Trong tình huống mở đầu chương, tác giả và nhóm NOLS đã gặp phải vấn đề gì?",
+      "options": [
+        "Bị thiếu thức ăn và nước uống",
+        "Đi lạc do không lưu ý đến cảnh vật xung quanh mà chỉ đi theo đường mòn",
+        "Gặp phải một con thú dữ trên đường",
+        "Bất đồng quan điểm về việc chọn điểm cắm trại"
+      ],
+      "answer": "Đi lạc do không lưu ý đến cảnh vật xung quanh mà chỉ đi theo đường mòn",
+      "explanation": "Câu chuyện này minh họa cho sự nguy hiểm của việc đi theo những lối mòn quen thuộc mà quên đi việc quan sát định vị. Nó là ẩn dụ cho \"tầm nhìn hẹp\" trong cuộc sống và công việc."
+    },
+    {
+      "id": 2,
+      "question": "Rủi ro của việc đi theo một con đường mòn quá dễ dàng là gì?",
+      "options": [
+        "Mất nhiều sức lực hơn",
+        "Tâm trí lơ đãng, bất cẩn trong việc quan sát và dẫn đến việc đi lạc",
+        "Bị người khác phát hiện và theo dõi",
+        "Không được học hỏi các kỹ năng sinh tồn"
+      ],
+      "answer": "Tâm trí lơ đãng, bất cẩn trong việc quan sát và dẫn đến việc đi lạc",
+      "explanation": "Sự dễ dàng của con đường mòn tạo ra ảo giác an toàn, khiến chúng ta tắt chế độ cảnh giác và dễ dàng đi chệch hướng. Đây là lời cảnh tỉnh về sự tự mãn."
+    },
+    {
+      "id": 3,
+      "question": "Trong câu chuyện về Sammy mắc kẹt trong lũ, tại sao anh ta lại chết đuối?",
+      "options": [
+        "Vì anh ta không biết bơi",
+        "Vì cứu hộ đến quá muộn",
+        "Vì anh ta quá chú tâm vào kế hoạch được Chúa cứu giúp trực tiếp mà bỏ lỡ các cơ hội khác",
+        "Vì tấm ván, chiếc thuyền và trực thăng đều bị hỏng"
+      ],
+      "answer": "Vì anh ta quá chú tâm vào kế hoạch được Chúa cứu giúp trực tiếp mà bỏ lỡ các cơ hội khác",
+      "explanation": "Sammy là ví dụ điển hình cho việc bám chấp vào một phương án duy nhất mà mù quáng trước những cơ hội cứu sinh khác. Nó cho thấy sự cứng nhắc có thể dẫn đến hậu quả tai hại."
+    },
+    {
+      "id": 4,
+      "question": "Bài học từ câu chuyện của Sammy có thể áp dụng vào điều gì trong cuộc sống?",
+      "options": [
+        "Không nên cầu nguyện khi gặp khó khăn",
+        "Cần phải có một bản kế hoạch hoàn hảo không thể thay đổi",
+        "Việc quá nhập tâm vào một phương pháp cụ thể có thể làm mất đi những cơ hội đạt mục tiêu",
+        "Phải tự mình học cách sống sót trong thảm họa"
+      ],
+      "answer": "Việc quá nhập tâm vào một phương pháp cụ thể có thể làm mất đi những cơ hội đạt mục tiêu",
+      "explanation": "Bài học được rút ra là sự linh hoạt quan trọng hơn sự trung thành mù quáng với một kế hoạch ban đầu. Nếu chỉ nhìn chằm chằm vào mục tiêu cố định, ta sẽ bỏ lỡ các lối đi khác hiệu quả hơn."
+    },
+    {
+      "id": 5,
+      "question": "Tác giả nhận xét gì về bản kế hoạch kinh doanh 50 trang của công ty mình sau 12 năm?",
+      "options": [
+        "Công ty hiện tại vẫn hoạt động y hệt như bản kế hoạch đó",
+        "Bản kế hoạch đó là lý do duy nhất khiến công ty thất bại",
+        "Công ty hiện tại không có chút nào giống với bản kế hoạch đó vì hoàn cảnh đã thay đổi",
+        "Ông hối hận vì đã lập bản kế hoạch đó"
+      ],
+      "answer": "Công ty hiện tại không có chút nào giống với bản kế hoạch đó vì hoàn cảnh đã thay đổi",
+      "explanation": "Tác giả thừa nhận sự biến đổi không ngừng của thực tế, chứng minh rằng không có kế hoạch nào hoàn hảo mãi mãi. Khả năng thích ứng mới là chìa khóa sinh tồn của doanh nghiệp."
+    },
+    {
+      "id": 6,
+      "question": "Câu nói 'Tôi không phải là bậc phụ huynh mà tôi đã chuẩn bị để trở thành... Tôi là vị phụ huynh mà tôi buộc phải trở thành' thể hiện điều gì?",
+      "options": [
+        "Sự thất vọng của người mẹ về khả năng làm cha mẹ của mình",
+        "Sự cứng nhắc trong việc áp dụng các phương pháp giáo dục",
+        "Sự linh hoạt và sẵn sàng thay đổi để phù hợp với thực tế đứa con mắc chứng tự kỷ",
+        "Việc từ bỏ trách nhiệm nuôi dạy con cái"
+      ],
+      "answer": "Sự linh hoạt và sẵn sàng thay đổi để phù hợp với thực tế đứa con mắc chứng tự kỷ",
+      "explanation": "Câu nói này là đỉnh cao của sự thấu hiểu về việc buông bỏ những kỳ vọng ban đầu để đối mặt với thực tại. Nó thể hiện tình yêu thương và sự trưởng thành trong vai trò làm cha mẹ."
+    },
+    {
+      "id": 7,
+      "question": "Bí quyết lãnh đạo hiệu quả đối với các nhà quản lý tài giỏi, theo tác giả là gì?",
+      "options": [
+        "Lên kế hoạch và bắt ép mọi người tuân thủ tuyệt đối",
+        "Theo dõi và điều chỉnh kế hoạch dựa trên ưu khuyết điểm của nhân viên",
+        "Thường xuyên khiển trách nhân viên khi họ làm sai",
+        "Chỉ thuê những người có cùng suy nghĩ với mình"
+      ],
+      "answer": "Theo dõi và điều chỉnh kế hoạch dựa trên ưu khuyết điểm của nhân viên",
+      "explanation": "Lãnh đạo xuất sắc không phải là người ép buộc người khác tuân theo khuôn mẫu, mà là người biết tùy cơ ứng biến dựa trên tình hình thực tế. Cách tiếp cận này giúp tối đa hóa tiềm năng của đội ngũ."
+    },
+    {
+      "id": 8,
+      "question": "Lời giải của cậu bé 16 tuổi để nhóm không bị đi lạc là gì?",
+      "options": [
+        "Dùng GPS",
+        "Xem bản đồ",
+        "Gọi điện thoại cứu hộ",
+        "Quay lại điểm xuất phát"
+      ],
+      "answer": "Xem bản đồ",
+      "explanation": "Hành động đơn giản này là cách để lấy lại phương hướng khi bị lạc lối. Nó tượng trưng cho việc lùi lại một bước để có cái nhìn tổng quan hơn về tình hình."
+    },
+    {
+      "id": 9,
+      "question": "Việc 'dừng lại một lần để nhìn cảnh vật xung quanh' trong công việc mang ý nghĩa gì?",
+      "options": [
+        "Để tìm kiếm lỗi lầm của người khác",
+        "Để từ bỏ mục tiêu ban đầu",
+        "Để tái kết nối với các cột mốc chỉ đường, ưu khuyết điểm và đam mê của bản thân",
+        "Để nghỉ ngơi một cách thụ động"
+      ],
+      "answer": "Để tái kết nối với các cột mốc chỉ đường, ưu khuyết điểm và đam mê của bản thân",
+      "explanation": "Trong công việc, việc tạm dừng giúp chúng ta đánh giá lại xem mình có đang đi đúng hướng hay không. Đây là cách để làm mới động lực và tránh rơi vào trạng thái làm việc như cái máy."
+    },
+    {
+      "id": 10,
+      "question": "Thông điệp cốt lõi của chương 'Tránh tầm nhìn hẹp' là gì?",
+      "options": [
+        "Luôn tin tưởng tuyệt đối vào bản đồ địa hình",
+        "Bám sát các cột mốc dẫn đường để tránh tầm nhìn hẹp và di chuyển đúng hướng",
+        "Đừng bao giờ thay đổi các chiến lược đã vạch ra",
+        "Đường mòn luôn là lựa chọn an toàn nhất"
+      ],
+      "answer": "Bám sát các cột mốc dẫn đường để tránh tầm nhìn hẹp và di chuyển đúng hướng",
+      "explanation": "Thông điệp cốt lõi nhấn mạnh việc duy trì sự linh hoạt và tỉnh táo thông qua việc liên tục đối chiếu với các giá trị cốt lõi. Nó giúp ta đi đúng đường mà không bị mù quáng bởi một kế hoạch duy nhất."
+    }
+  ],
+  "19_17. Tôi Đã Hụt Hơn Chín Ngàn Lượt.md": [
+    {
+      "id": 1,
+      "question": "Huấn luyện viên Calvin đã giữ tác giả lại sau giờ tập vì lý do gì?",
+      "options": [
+        "Tác giả đã nâng tạ quá nặng và gây nguy hiểm",
+        "Tác giả đã tập luyện sai tư thế",
+        "Tác giả đã 'không thất bại' trong quá trình nâng tạ",
+        "Tác giả đã bỏ tập giữa chừng"
+      ],
+      "answer": "Tác giả đã 'không thất bại' trong quá trình nâng tạ",
+      "explanation": "Việc tác giả chưa đạt đến giới hạn thất bại khi nâng tạ cho thấy anh chưa nỗ lực hết mức cần thiết để cơ bắp phát triển. Điều này mở đầu cho bài học về giá trị của sự thất bại."
+    },
+    {
+      "id": 2,
+      "question": "Theo Calvin, tại sao việc sử dụng quả tạ quá nhẹ lại không giúp ích?",
+      "options": [
+        "Vì nó làm hỏng cơ bắp",
+        "Vì cơ bắp chỉ phát triển khi luyện tập đến mức nâng tạ không nổi (thất bại)",
+        "Vì nó tốn quá nhiều thời gian",
+        "Vì nó làm người khác đánh giá thấp năng lực của bạn"
+      ],
+      "answer": "Vì cơ bắp chỉ phát triển khi luyện tập đến mức nâng tạ không nổi (thất bại)",
+      "explanation": "Huấn luyện viên nhấn mạnh rằng ranh giới của sự phát triển nằm ở điểm thất bại. Nếu bạn luôn làm những việc dễ dàng, cơ bắp (và khả năng của bạn) sẽ không bao giờ bứt phá."
+    },
+    {
+      "id": 3,
+      "question": "Tiến sĩ Carol Dweck từ Đại học Stanford đã chỉ ra nguyên nhân khiến con người bỏ cuộc trước nghịch cảnh là do đâu?",
+      "options": [
+        "Thiếu năng khiếu bẩm sinh",
+        "Suy nghĩ và tư tưởng của họ",
+        "Không được đào tạo bài bản",
+        "Ảnh hưởng từ môi trường sống"
+      ],
+      "answer": "Suy nghĩ và tư tưởng của họ",
+      "explanation": "Theo nghiên cứu, cách chúng ta nhận thức về bản thân quyết định phản ứng trước nghịch cảnh. Tư duy quyết định việc chúng ta sẽ gục ngã hay tiếp tục đứng lên."
+    },
+    {
+      "id": 4,
+      "question": "Người có 'tư tưởng cứng nhắc' thường có xu hướng như thế nào đối với thất bại?",
+      "options": [
+        "Coi thất bại là cơ hội để học hỏi",
+        "Cố gắng tránh né thất bại bằng mọi giá vì cho đó là bằng chứng về giới hạn của mình",
+        "Cố ý tạo ra thất bại để thử thách bản thân",
+        "Đổ lỗi cho người khác khi thất bại"
+      ],
+      "answer": "Cố gắng tránh né thất bại bằng mọi giá vì cho đó là bằng chứng về giới hạn của mình",
+      "explanation": "Người có tư duy cứng nhắc xem thất bại như một bản án về năng lực bẩm sinh của họ. Do đó, họ chọn sự an toàn để bảo vệ cái tôi thay vì đối mặt với rủi ro."
+    },
+    {
+      "id": 5,
+      "question": "Ngược lại với tư duy cứng nhắc, người có 'tư duy phát triển' cảm thấy mình thông minh khi nào?",
+      "options": [
+        "Khi được mọi người xung quanh khen ngợi",
+        "Khi họ giải quyết thành công một vấn đề quen thuộc",
+        "Khi được học hỏi và cải thiện từ thất bại",
+        "Khi họ không bao giờ phạm phải sai lầm"
+      ],
+      "answer": "Khi được học hỏi và cải thiện từ thất bại",
+      "explanation": "Ngược lại với tư duy cứng nhắc, tư duy phát triển tìm thấy sự thỏa mãn trong quá trình vượt qua khó khăn. Thất bại đối với họ là phản hồi quý giá để tiến bộ."
+    },
+    {
+      "id": 6,
+      "question": "Michael Jordan, vận động viên bóng rổ xuất sắc, đã nói gì về thành công của mình?",
+      "options": [
+        "Anh ấy đã thành công vì chưa từng thua trận nào",
+        "Anh ấy đã ném hụt hơn 9.000 cú, và chính những thất bại lặp đi lặp lại đó là lý do giúp anh thành công",
+        "Anh ấy có tố chất thiên bẩm không ai sánh kịp",
+        "Huấn luyện viên là người quyết định toàn bộ thành công của anh"
+      ],
+      "answer": "Anh ấy đã ném hụt hơn 9.000 cú, và chính những thất bại lặp đi lặp lại đó là lý do giúp anh thành công",
+      "explanation": "Câu nói nổi tiếng của Michael Jordan là minh chứng sống động cho việc thành công vĩ đại luôn được xây dựng trên nền tảng của vô số thất bại. Nó xóa bỏ lầm tưởng về tài năng hoàn hảo không tì vết."
+    },
+    {
+      "id": 7,
+      "question": "Theo tác giả, trong tình huống nào bạn nên tự thử thách bản thân và 'phá vỡ lớp vỏ bọc'?",
+      "options": [
+        "Tình huống có rủi ro cao ảnh hưởng đến sự nghiệp",
+        "Tình huống ít rủi ro, khi hậu quả của thất bại ít nặng nề hơn",
+        "Khi bạn chắc chắn mình sẽ đạt được thành công 100%",
+        "Khi có nhiều người đang quan sát bạn"
+      ],
+      "answer": "Tình huống ít rủi ro, khi hậu quả của thất bại ít nặng nề hơn",
+      "explanation": "Tác giả khuyên nên tập luyện đối mặt với thất bại ở những tình huống an toàn để xây dựng \"cơ bắp\" tinh thần. Điều này giúp ta dạn dĩ hơn trước khi bước vào những thử thách lớn."
+    },
+    {
+      "id": 8,
+      "question": "Để nâng cao khả năng của nhân viên, tác giả khuyên các nhà quản lý nên làm gì?",
+      "options": [
+        "Giao cho họ những nhiệm vụ dễ dàng để tạo sự tự tin",
+        "Giao cho họ những nhiệm vụ vượt quá khả năng của họ và khuyến khích họ tự xoay sở",
+        "Thường xuyên giám sát từng bước đi của họ",
+        "Phạt họ mỗi khi họ phạm sai lầm"
+      ],
+      "answer": "Giao cho họ những nhiệm vụ vượt quá khả năng của họ và khuyến khích họ tự xoay sở",
+      "explanation": "Cách quản lý này thúc đẩy nhân viên bước ra khỏi vùng an toàn và kích hoạt tư duy phát triển. Dù họ có thất bại, đó cũng là bước đệm cần thiết để nâng tầm năng lực."
+    },
+    {
+      "id": 9,
+      "question": "Nhà tâm lý học David McClelland khuyên nên đặt ra những mục tiêu lớn có cơ hội thành công là bao nhiêu?",
+      "options": [
+        "10 đến 20 phần trăm",
+        "30 đến 40 phần trăm",
+        "50 đến 70 phần trăm",
+        "90 đến 100 phần trăm"
+      ],
+      "answer": "50 đến 70 phần trăm",
+      "explanation": "Khoảng tỷ lệ này tạo ra sự cân bằng hoàn hảo giữa tính khả thi và tính thử thách. Nó đủ khó để kích thích nỗ lực, nhưng không quá bất khả thi để gây nản lòng."
+    },
+    {
+      "id": 10,
+      "question": "Hậu quả của việc tác giả tăng gấp đôi sức nặng tạ trong buổi tập tiếp theo là gì?",
+      "options": [
+        "Anh đã nâng thành công và được Calvin khen ngợi",
+        "Anh bị đuổi khỏi phòng tập vì làm hỏng dụng cụ",
+        "Anh bị sưng gân cùi chỏ, phải chườm đá và nghỉ ngơi",
+        "Anh quyết định từ bỏ việc tập thể hình mãi mãi"
+      ],
+      "answer": "Anh bị sưng gân cùi chỏ, phải chườm đá và nghỉ ngơi",
+      "explanation": "Kết cục này là một lời nhắc nhở thực tế rằng thất bại đôi khi đi kèm với những tổn thương nhất định. Tuy nhiên, đó là cái giá xứng đáng để biết được giới hạn thực sự của bản thân nằm ở đâu."
+    }
+  ]
+}

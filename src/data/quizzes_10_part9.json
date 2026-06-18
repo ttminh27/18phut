@@ -1,0 +1,612 @@
+{
+  "40_35. Nhưng Bố Ơi….md": [
+    {
+      "id": 1,
+      "question": "Tại sao ban đầu tác giả lại giữ im lặng khi hai cô con gái gõ cửa phòng làm việc?",
+      "options": [
+        "Vì ông đang tập trung viết bài và không nghe thấy tiếng gõ cửa.",
+        "Vì ông muốn phạt các con do chúng đã vi phạm quy tắc nhiều lần.",
+        "Vì ông đang nói chuyện với khách hàng mới và không muốn bị gián đoạn một cách thiếu chuyên nghiệp.",
+        "Vì ông muốn thử nghiệm một nguyên tắc kỷ luật mới với các con."
+      ],
+      "answer": "Vì ông đang nói chuyện với khách hàng mới và không muốn bị gián đoạn một cách thiếu chuyên nghiệp.",
+      "explanation": "Tác giả đang trong cuộc gọi quan trọng với một khách hàng mới và không muốn có tiếng ồn của trẻ con làm ảnh hưởng đến hình ảnh chuyên nghiệp. Vì vậy, ông đã ra hiệu cho các con giữ im lặng và cho chúng vào phòng, vô tình vi phạm chính quy tắc của mình. Do đó đáp án trên là chính xác."
+    },
+    {
+      "id": 2,
+      "question": "Theo tác giả, sai lầm lớn nhất của ông trong việc đặt ra quy tắc với hai cô con gái là gì?",
+      "options": [
+        "Đưa ra một quy tắc quá khắt khe đối với trẻ nhỏ.",
+        "Phá vỡ quy tắc cốt yếu nhất: Không bao giờ phá vỡ quy tắc.",
+        "Không giải thích rõ ràng lý do của quy tắc cho các con.",
+        "Áp dụng hình phạt quá nhẹ khi các con vi phạm."
+      ],
+      "answer": "Phá vỡ quy tắc cốt yếu nhất: Không bao giờ phá vỡ quy tắc.",
+      "explanation": "Tác giả nhận ra sai lầm của mình khi hai cô con gái phản bác rằng hôm trước ông vẫn cho chúng vào phòng. Điều này cho thấy ông đã vi phạm quy tắc cơ bản nhất là phải giữ vững quy tắc một cách kiên định trong mọi tình huống."
+    },
+    {
+      "id": 3,
+      "question": "Nghiên cứu của tập đoàn Microsoft về sự gián đoạn trong công việc đã đưa ra phát hiện đáng ngạc nhiên nào?",
+      "options": [
+        "Trung bình mỗi giờ nhân viên bị làm phiền 4 lần.",
+        "40% số lần bị làm phiền, nhân viên không tiếp tục công việc họ đang làm trước khi bị gián đoạn.",
+        "Công việc càng đơn giản thì xác suất nhân viên quay lại làm tiếp càng ít.",
+        "Nhân viên thường làm việc hiệu quả hơn sau khi bị gián đoạn."
+      ],
+      "answer": "40% số lần bị làm phiền, nhân viên không tiếp tục công việc họ đang làm trước khi bị gián đoạn.",
+      "explanation": "Nghiên cứu của Microsoft chỉ ra rằng một khi bị gián đoạn, có đến 40% khả năng nhân viên sẽ không quay lại làm công việc đang dang dở. Điều này nhấn mạnh mức độ tàn phá năng suất của những sự gián đoạn tưởng chừng nhỏ nhặt."
+    },
+    {
+      "id": 4,
+      "question": "Theo lời khuyên của tác giả dành cho Sean, Sean nên làm gì khi thư ký bước vào phòng và hỏi một câu hỏi đơn giản?",
+      "options": [
+        "Nhanh chóng trả lời để cô ấy rời đi ngay lập tức.",
+        "Cáu gắt và lớn tiếng yêu cầu cô ấy ra ngoài.",
+        "Không trả lời, chỉ nói rằng anh không thể bị làm phiền và rồi im lặng.",
+        "Giải thích cặn kẽ ngay lúc đó về tầm quan trọng của việc tập trung."
+      ],
+      "answer": "Không trả lời, chỉ nói rằng anh không thể bị làm phiền và rồi im lặng.",
+      "explanation": "Tác giả khuyên Sean phải kiên quyết từ chối ngay cả với những câu hỏi đơn giản bằng cách im lặng sau khi báo rằng mình bận. Bất kỳ câu trả lời nào cũng sẽ là một sự nhượng bộ, làm suy yếu tính hiệu lực của ranh giới đã đặt ra."
+    },
+    {
+      "id": 5,
+      "question": "Tại sao tác giả lại khuyên Sean tạo ra 'cảm giác không thoải mái' khi thư ký làm phiền?",
+      "options": [
+        "Vì đó là cách duy nhất để thể hiện quyền lực của một nhà quản lý.",
+        "Vì sự không thoải mái đó chính là thứ sẽ ngăn cô ấy tiếp tục làm phiền trong tương lai.",
+        "Vì thư ký của anh cần bị trừng phạt do sự mẫn cán thái quá của mình.",
+        "Vì điều đó giúp Sean xả stress sau những giờ làm việc căng thẳng."
+      ],
+      "answer": "Vì sự không thoải mái đó chính là thứ sẽ ngăn cô ấy tiếp tục làm phiền trong tương lai.",
+      "explanation": "Sự không thoải mái tạo ra một tín hiệu mạnh mẽ rằng quy tắc đang bị vi phạm và không được chào đón. Chính cảm giác e ngại này sẽ là yếu tố răn đe giúp thư ký tôn trọng không gian làm việc của Sean trong tương lai."
+    },
+    {
+      "id": 6,
+      "question": "Theo tác giả, lý do sâu xa nào khiến chúng ta (như Sean) thường dễ dãi trả lời người khác dù họ vi phạm quy tắc của ta?",
+      "options": [
+        "Chúng ta thích được yêu mến, quá tử tế và không muốn trở nên thô lỗ.",
+        "Chúng ta thực sự quan tâm đến vấn đề của họ hơn là công việc của mình.",
+        "Chúng ta sợ bị đánh giá là một người sếp kém năng lực.",
+        "Chúng ta muốn chứng tỏ mình có thể đa nhiệm hoàn hảo."
+      ],
+      "answer": "Chúng ta thích được yêu mến, quá tử tế và không muốn trở nên thô lỗ.",
+      "explanation": "Con người thường có xu hướng tránh xung đột và muốn duy trì hình ảnh tốt đẹp, thân thiện trong mắt người khác. Chính sự cả nể và sợ bị đánh giá là thô lỗ khiến chúng ta dễ dàng thỏa hiệp với các nguyên tắc cá nhân."
+    },
+    {
+      "id": 7,
+      "question": "Việc người khác vi phạm quy tắc mà không bị xử lý sẽ dẫn đến hậu quả thực sự là gì, thay vì khiến họ yêu mến bạn?",
+      "options": [
+        "Nó khiến họ kính trọng bạn hơn vì sự khoan dung.",
+        "Nó chỉ khiến họ phớt lờ bạn và các ranh giới bạn đặt ra.",
+        "Nó làm tăng tinh thần làm việc nhóm và sự gắn kết.",
+        "Nó giúp giải quyết công việc nhanh chóng và linh hoạt hơn."
+      ],
+      "answer": "Nó chỉ khiến họ phớt lờ bạn và các ranh giới bạn đặt ra.",
+      "explanation": "Nếu quy tắc đặt ra mà không được thực thi nghiêm túc, người khác sẽ nhận thấy sự thiếu kiên định và coi thường lời nói của bạn. Thay vì yêu mến, họ sẽ tiếp tục lấn lướt và phớt lờ những ranh giới mà bạn cố gắng thiết lập."
+    },
+    {
+      "id": 8,
+      "question": "Để giải quyết triệt để vấn đề bị thư ký làm phiền, Sean cần kết hợp thái độ kiên quyết với hành động thực tế nào?",
+      "options": [
+        "Chuyển thư ký sang một bộ phận khác ít quan trọng hơn.",
+        "Lên lịch hẹn định kỳ không thể hủy để giải quyết các thắc mắc của cô ấy.",
+        "Khóa trái cửa phòng làm việc và tắt luôn điện thoại di động.",
+        "Yêu cầu thư ký tự đưa ra mọi quyết định mà không cần hỏi ý kiến."
+      ],
+      "answer": "Lên lịch hẹn định kỳ không thể hủy để giải quyết các thắc mắc của cô ấy.",
+      "explanation": "Việc lên lịch định kỳ giúp thư ký yên tâm rằng cô ấy sẽ có cơ hội trao đổi công việc, từ đó loại bỏ lý do để cô ấy làm phiền đột xuất. Đây là giải pháp thực tế kết hợp với thái độ kiên quyết để bảo vệ thời gian làm việc tập trung."
+    },
+    {
+      "id": 9,
+      "question": "Lợi ích lâu dài của việc thiết lập ranh giới rõ ràng đối với những người xung quanh là gì?",
+      "options": [
+        "Nó giúp họ phát triển tư duy sáng tạo một cách tối đa.",
+        "Về cơ bản, con người cảm thấy an toàn hơn, giảm áp lực và sự mơ hồ khi biết ranh giới nằm ở đâu.",
+        "Nó khiến họ luôn cảm thấy sợ hãi và do đó làm việc năng suất hơn.",
+        "Nó tạo ra một khoảng cách quyền lực cần thiết trong môi trường chuyên nghiệp."
+      ],
+      "answer": "Về cơ bản, con người cảm thấy an toàn hơn, giảm áp lực và sự mơ hồ khi biết ranh giới nằm ở đâu.",
+      "explanation": "Khi ranh giới được xác định rõ ràng và nhất quán, người khác sẽ biết cách ứng xử phù hợp, không phải phỏng đoán thái độ của bạn. Điều này giúp loại bỏ sự mơ hồ, tạo ra môi trường làm việc thoải mái và an toàn hơn cho tất cả."
+    },
+    {
+      "id": 10,
+      "question": "Bài học quan trọng nhất mà tác giả muốn truyền tải thông qua trải nghiệm với các con gái là gì?",
+      "options": [
+        "Khi bạn nói không, hãy thật sự làm như vậy, điều đó sẽ giúp bạn không lãng phí thời gian vô ích.",
+        "Tình yêu thương gia đình quan trọng hơn bất kỳ nguyên tắc làm việc nào.",
+        "Trẻ em luôn có khả năng thao túng tâm lý người lớn nếu không cẩn thận.",
+        "Làm việc tại nhà là một rào cản lớn đối với năng suất làm việc chuyên nghiệp."
+      ],
+      "answer": "Khi bạn nói không, hãy thật sự làm như vậy, điều đó sẽ giúp bạn không lãng phí thời gian vô ích.",
+      "explanation": "Qua câu chuyện, tác giả nhấn mạnh tầm quan trọng của việc kiên định với từ 'không'. Việc tuân thủ tuyệt đối quy tắc do chính mình đặt ra là cách duy nhất để bảo vệ ranh giới cá nhân và tối ưu hóa thời gian."
+    }
+  ],
+  "41_36. Lần Thứ Ba.md": [
+    {
+      "id": 1,
+      "question": "Mike, giám đốc marketing, đang băn khoăn về vấn đề gì liên quan đến nhân viên Lorraine?",
+      "options": [
+        "Có nên đề bạt Lorraine lên vị trí quản lý hay không.",
+        "Có nên nói chuyện với cô ấy về những lỗi nhỏ lặp đi lặp lại hay cứ xem như không có gì.",
+        "Làm thế nào để sa thải Lorraine mà không vi phạm hợp đồng lao động.",
+        "Cần chuyển Lorraine sang một dự án khác phù hợp với năng lực hơn."
+      ],
+      "answer": "Có nên nói chuyện với cô ấy về những lỗi nhỏ lặp đi lặp lại hay cứ xem như không có gì.",
+      "explanation": "Mike nhận thấy Lorraine mắc phải một số lỗi nhỏ liên tiếp nhưng không nghiêm trọng, khiến anh khó chịu. Anh phân vân không biết có nên góp ý để chấn chỉnh hay bỏ qua vì sợ làm to chuyện một cách không cần thiết."
+    },
+    {
+      "id": 2,
+      "question": "Điều gì đã xảy ra khiến Mike bắt đầu khó chịu với Lorraine?",
+      "options": [
+        "Cô ấy ăn cắp ý tưởng của đồng nghiệp và nhận vơ là của mình.",
+        "Cô ấy đi muộn họp 10 phút, gửi email trễ 2 tiếng và vắng mặt trong một cuộc gọi không nêu lý do.",
+        "Cô ấy lớn tiếng cãi lại Mike trước mặt toàn bộ khách hàng.",
+        "Cô ấy nộp đơn xin nghỉ việc đột xuất trong lúc dự án đang cao điểm."
+      ],
+      "answer": "Cô ấy đi muộn họp 10 phút, gửi email trễ 2 tiếng và vắng mặt trong một cuộc gọi không nêu lý do.",
+      "explanation": "Dù Lorraine là một nhân viên giỏi, ba sự cố nhỏ này xảy ra liên tiếp đã tích tụ lại thành một sự bực dọc đối với Mike. Đây là minh chứng cho việc những lỗi nhỏ tưởng chừng vô hại lại có thể gây ảnh hưởng đến đánh giá của người quản lý."
+    },
+    {
+      "id": 3,
+      "question": "Theo tác giả, nỗ lực quyết định xem có nên nói với ai đó về một vấn đề nào đó hay không thường dẫn đến hậu quả tiêu cực nào?",
+      "options": [
+        "Nó khiến mối quan hệ giữa hai người trở nên tồi tệ ngay lập tức.",
+        "Nó là một hoạt động cực kỳ tốn thời gian của bản thân và của những người được hỏi ý kiến.",
+        "Nó luôn dẫn đến những xung đột pháp lý không đáng có nơi công sở.",
+        "Nó làm giảm sự tự tin của bản thân người quản lý trong mọi quyết định khác."
+      ],
+      "answer": "Nó là một hoạt động cực kỳ tốn thời gian của bản thân và của những người được hỏi ý kiến.",
+      "explanation": "Việc cân nhắc đi cân nhắc lại, thậm chí hỏi ý kiến nhiều người khác xem có nên góp ý hay không làm lãng phí rất nhiều thời gian. Sự lưỡng lự này đôi khi còn khiến vấn đề đi quá xa trước khi kịp can thiệp."
+    },
+    {
+      "id": 4,
+      "question": "'Nguyên tắc 3 lần' của tác giả khuyên chúng ta nên phản ứng thế nào vào 'lần đầu tiên' ai đó làm việc khiến ta khó chịu?",
+      "options": [
+        "Lập tức mời người đó vào phòng họp và khiển trách gay gắt.",
+        "Đơn giản là ghi nhận điều đó trong tâm trí.",
+        "Gửi ngay một email cảnh cáo chính thức có sự tham gia của nhân sự.",
+        "Bỏ qua hoàn toàn và tự nhủ rằng họ sẽ không bao giờ lặp lại."
+      ],
+      "answer": "Đơn giản là ghi nhận điều đó trong tâm trí.",
+      "explanation": "Ở lần vi phạm đầu tiên, vì ai cũng có lúc bất cẩn nên tác giả khuyên chỉ cần ghi nhận lại mà chưa cần phải phản ứng gay gắt. Điều này giúp tránh làm nghiêm trọng hóa một sai sót có thể chỉ là vô tình."
+    },
+    {
+      "id": 5,
+      "question": "Mục đích của việc quan sát kỹ hơn vào 'lần thứ hai' sự việc xảy ra là gì?",
+      "options": [
+        "Để thu thập đủ bằng chứng pháp lý nhằm sa thải nhân viên.",
+        "Để kể cho các đồng nghiệp khác nghe và tạo dư luận.",
+        "Để xác nhận rằng đó không phải là sự kiện cá biệt mà có khả năng lặp lại, và dự tính trước phản ứng.",
+        "Để chờ xem nhân viên có tự nhận ra lỗi lầm và chủ động xin lỗi hay không."
+      ],
+      "answer": "Để xác nhận rằng đó không phải là sự kiện cá biệt mà có khả năng lặp lại, và dự tính trước phản ứng.",
+      "explanation": "Khi sự việc xảy ra lần thứ hai, đó không còn là vô tình nữa mà là dấu hiệu của một thói quen hoặc hành vi có tính lặp lại. Việc quan sát lúc này giúp bạn chuẩn bị tinh thần và cách phản ứng cho lần vi phạm tiếp theo."
+    },
+    {
+      "id": 6,
+      "question": "Khi áp dụng nguyên tắc 3 lần để góp ý, lợi thế lớn nhất của việc nói 'Tôi đã để ý thấy chuyện này ba lần rồi' là gì?",
+      "options": [
+        "Nó khiến người nghe cảm thấy tội lỗi và lập tức quy phục.",
+        "Nó chứng tỏ bạn là một người có trí nhớ siêu phàm.",
+        "Cả hai người đều biết rõ đây không phải chuyện xảy ra chỉ một lần, giảm thiểu sự ngụy biện.",
+        "Nó là yêu cầu bắt buộc của luật lao động trước khi thi hành kỷ luật."
+      ],
+      "answer": "Cả hai người đều biết rõ đây không phải chuyện xảy ra chỉ một lần, giảm thiểu sự ngụy biện.",
+      "explanation": "Bằng cách chỉ ra cụ thể tần suất lặp lại, bạn chặn đứng khả năng người kia bao biện rằng đó chỉ là sự cố vô tình. Nó tạo ra một cơ sở vững chắc, buộc người nghe phải nghiêm túc nhìn nhận vấn đề."
+    },
+    {
+      "id": 7,
+      "question": "Tác giả giải thích lý do vì sao 'ba lần là quy tắc vàng', điều đó mang lại cho bạn điều gì khi quyết định lên tiếng?",
+      "options": [
+        "Sự cho phép của cấp trên để tiến hành một cuộc họp kỷ luật chính thức.",
+        "Khả năng hành động với niềm tin chắc chắn rằng đó không phải là thứ bạn tưởng tượng ra.",
+        "Đủ lý do để trừ lương người vi phạm một cách hợp pháp.",
+        "Sự đồng cảm từ phía các nhân viên khác trong cùng một nhóm."
+      ],
+      "answer": "Khả năng hành động với niềm tin chắc chắn rằng đó không phải là thứ bạn tưởng tượng ra.",
+      "explanation": "Quy tắc ba lần loại bỏ sự nghi ngờ của chính bạn về việc liệu mình có đang quá nhạy cảm hay xét nét. Nó mang lại cho bạn sự tự tin và cơ sở xác đáng để đưa vấn đề ra thảo luận một cách thẳng thắn."
+    },
+    {
+      "id": 8,
+      "question": "Thái độ của tác giả đối với việc lên tiếng ngay từ 'lần đầu tiên' ai đó mắc lỗi là như thế nào?",
+      "options": [
+        "Hoàn toàn cấm đoán vì điều đó thể hiện sự nhỏ nhen.",
+        "Rất khuyến khích vì nó ngăn chặn ngay lập tức thói quen xấu.",
+        "Hoàn toàn được, không cần phải đợi, nhưng cần nhớ rằng ai cũng có lúc bất cẩn.",
+        "Tùy thuộc vào việc người vi phạm là nam hay nữ."
+      ],
+      "answer": "Hoàn toàn được, không cần phải đợi, nhưng cần nhớ rằng ai cũng có lúc bất cẩn.",
+      "explanation": "Tác giả không cấm việc góp ý ngay từ lần đầu tiên nếu bạn thấy cần thiết. Tuy nhiên, ông nhắc nhở rằng con người không ai hoàn hảo, nên việc châm chước cho lỗi lầm lần đầu cũng là một cách ứng xử hợp lý."
+    },
+    {
+      "id": 9,
+      "question": "Câu trả lời của tác giả 'Tôi thấy là anh đã hỏi câu đó ba lần rồi' mang ngụ ý gì đối với Mike?",
+      "options": [
+        "Mike là một người rất đãng trí và cần ghi chép lại mọi thứ.",
+        "Mike nên từ bỏ việc quản lý Lorraine vì cô ấy sẽ không thay đổi.",
+        "Đã đến lúc Mike phải ngừng do dự và áp dụng ngay nguyên tắc vào việc nhắc nhở Lorraine.",
+        "Mike đã làm mất quá nhiều thời gian của tác giả cho một câu hỏi vô bổ."
+      ],
+      "answer": "Đã đến lúc Mike phải ngừng do dự và áp dụng ngay nguyên tắc vào việc nhắc nhở Lorraine.",
+      "explanation": "Tác giả khéo léo dùng chính quy tắc ba lần để chỉ ra rằng Mike đã lưỡng lự quá đủ và lặp lại câu hỏi quá nhiều lần. Đây là một lời thúc giục anh cần hành động ngay lập tức thay vì tiếp tục phân vân."
+    },
+    {
+      "id": 10,
+      "question": "Thông điệp cốt lõi được rút ra ở cuối chương về việc thiết lập ranh giới là gì?",
+      "options": [
+        "Mọi ranh giới đều phải được viết thành văn bản và có chữ ký xác nhận.",
+        "Ranh giới chỉ thực sự hiệu quả khi có các hình phạt đi kèm.",
+        "Người ta chỉ có thể tôn trọng những ranh giới mà họ nhận thức được thông qua việc bạn đưa ra vấn đề.",
+        "Ranh giới cá nhân không nên tồn tại trong một môi trường làm việc cởi mở."
+      ],
+      "answer": "Người ta chỉ có thể tôn trọng những ranh giới mà họ nhận thức được thông qua việc bạn đưa ra vấn đề.",
+      "explanation": "Ranh giới chỉ thực sự tồn tại và phát huy tác dụng khi bạn rõ ràng truyền đạt nó cho người khác. Nếu bạn cứ im lặng chịu đựng, người khác sẽ không bao giờ biết được giới hạn của bạn để mà tôn trọng."
+    }
+  ],
+  "42_37. Chúng Ta Vẫn Chưa Muộn.md": [
+    {
+      "id": 1,
+      "question": "Sự khác biệt cơ bản nhất trong cách tiếp cận thời gian giữa tác giả và vợ ông, Eleanor, là gì?",
+      "options": [
+        "Eleanor thường xuyên đi muộn, còn tác giả luôn luôn đến sớm.",
+        "Eleanor dự kiến tính toán cả thời gian trung chuyển, trong khi tác giả thường bỏ qua nó.",
+        "Tác giả dự kiến cả thời gian trung chuyển, còn Eleanor thì bỏ qua nó.",
+        "Tác giả thích trượt tuyết, còn Eleanor chỉ quan tâm đến các buổi tiệc tối."
+      ],
+      "answer": "Eleanor dự kiến tính toán cả thời gian trung chuyển, trong khi tác giả thường bỏ qua nó.",
+      "explanation": "Eleanor là người cẩn thận, cô tính toán cả những khoảng thời gian chuẩn bị và di chuyển để luôn đến đúng giờ. Ngược lại, tác giả thường chỉ tập trung vào thời gian bắt đầu sự kiện mà phớt lờ thời gian trung chuyển, dẫn đến việc hay đi muộn."
+    },
+    {
+      "id": 2,
+      "question": "Phương pháp tính toán thời gian của Eleanor để đảm bảo đến đúng giờ được thực hiện như thế nào?",
+      "options": [
+        "Tính toán ngẫu nhiên dựa trên linh cảm tại thời điểm xuất phát.",
+        "Tính toán ngược từ mục tiêu cuối cùng, phân bổ thời gian cho từng bước cụ thể.",
+        "Gấp đôi thời gian đi lại thông thường để phòng ngừa mọi rủi ro.",
+        "Phụ thuộc hoàn toàn vào các ứng dụng chỉ đường trên điện thoại."
+      ],
+      "answer": "Tính toán ngược từ mục tiêu cuối cùng, phân bổ thời gian cho từng bước cụ thể.",
+      "explanation": "Eleanor bắt đầu từ thời điểm cần có mặt, sau đó trừ lùi thời gian cho các hoạt động di chuyển, chuẩn bị, ngủ nghỉ. Phương pháp lập kế hoạch ngược này giúp cô kiểm soát tốt thời gian và đảm bảo không bị trễ."
+    },
+    {
+      "id": 3,
+      "question": "Lý do sâu xa nào khiến tác giả thường có xu hướng phớt lờ thời gian trung chuyển?",
+      "options": [
+        "Vì ông có khả năng lái xe cực nhanh và giỏi lách luật.",
+        "Vì ông muốn chọc tức Eleanor và chứng minh cô ấy sai.",
+        "Vì ông không tôn trọng những người tổ chức buổi tiệc.",
+        "Vì ông có nhu cầu rất cao về sự hiệu quả và coi thời gian trung chuyển là phiền phức."
+      ],
+      "answer": "Vì ông có nhu cầu rất cao về sự hiệu quả và coi thời gian trung chuyển là phiền phức.",
+      "explanation": "Tác giả muốn tối đa hóa sự năng suất và cảm thấy thời gian di chuyển, chuẩn bị là một sự lãng phí vô ích. Chính khao khát được hiệu quả tối đa này lại vô tình khiến ông mắc phải ảo tưởng về khả năng quản lý thời gian của mình."
+    },
+    {
+      "id": 4,
+      "question": "Tác giả gọi việc xếp lịch các cuộc họp nối tiếp nhau sát rạt không có thời gian nghỉ là gì?",
+      "options": [
+        "Một chiến lược quản lý thời gian đỉnh cao.",
+        "Một ảo tưởng dẫn đến sự trễ giờ được báo trước.",
+        "Bằng chứng của một nhân viên năng suất và tận tụy.",
+        "Một kỹ năng cần thiết cho mọi nhà quản lý hiện đại."
+      ],
+      "answer": "Một ảo tưởng dẫn đến sự trễ giờ được báo trước.",
+      "explanation": "Xếp lịch họp liên tiếp mà không có khoảng trống để di chuyển hay chuẩn bị tâm lý là một sai lầm phổ biến. Tác giả khẳng định đó là một ảo tưởng phi thực tế, chắc chắn sẽ dẫn đến việc trễ giờ dây chuyền."
+    },
+    {
+      "id": 5,
+      "question": "Nghịch lý lớn nhất đối với những người đi muộn (như tác giả) khi cố gắng lảng tránh thời gian trung chuyển là gì?",
+      "options": [
+        "Họ lại trở thành những người có nhiều thời gian rảnh rỗi nhất.",
+        "Họ phải trả nhiều tiền phạt hơn do vi phạm luật giao thông.",
+        "Đi muộn gây ra chính xác sự kém hiệu quả mà họ đang cố gắng trốn tránh.",
+        "Họ luôn được người khác thông cảm vì sự bận rộn của mình."
+      ],
+      "answer": "Đi muộn gây ra chính xác sự kém hiệu quả mà họ đang cố gắng trốn tránh.",
+      "explanation": "Mặc dù phớt lờ thời gian trung chuyển để tỏ ra hiệu quả, nhưng chính việc đi muộn lại làm hỏng toàn bộ lịch trình. Điều này gây lãng phí thời gian không chỉ cho bản thân mà còn cho cả những người phải chờ đợi."
+    },
+    {
+      "id": 6,
+      "question": "Tác giả đề xuất cách nhìn nhận mới mẻ nào về bản chất thực sự của 'thời gian trung chuyển'?",
+      "options": [
+        "Nó chỉ đơn thuần là sự bực dọc cần thiết khi di chuyển giữa các địa điểm.",
+        "Đó là thời gian lý tưởng nhất để gọi điện buôn chuyện với bạn bè.",
+        "Đó không chỉ là lúc di chuyển, mà là khoảng thời gian hiệu quả để suy nghĩ và lên kế hoạch.",
+        "Đó là lúc duy nhất bộ não được phép ngừng hoạt động hoàn toàn."
+      ],
+      "answer": "Đó không chỉ là lúc di chuyển, mà là khoảng thời gian hiệu quả để suy nghĩ và lên kế hoạch.",
+      "explanation": "Thay vì coi thời gian trung chuyển là lúc vô bổ, tác giả khuyên nên tận dụng nó như một khoảng đệm chiến lược. Đây là lúc lý tưởng để định hình lại suy nghĩ, chuẩn bị tinh thần và lập kế hoạch cho hoạt động tiếp theo."
+    },
+    {
+      "id": 7,
+      "question": "Nếu dành vài phút thời gian trung chuyển trước một cuộc họp kéo dài 60 phút để chuẩn bị, bạn có thể đạt được lợi ích gì?",
+      "options": [
+        "Thuyết phục mọi người hủy bỏ hoàn toàn cuộc họp.",
+        "Rút ngắn thời gian cuộc họp một cách đáng kể, có thể biến nó thành 30 phút.",
+        "Biến cuộc họp thành một buổi tiệc ăn uống thoải mái.",
+        "Buộc cấp dưới phải nhận toàn bộ trách nhiệm về dự án."
+      ],
+      "answer": "Rút ngắn thời gian cuộc họp một cách đáng kể, có thể biến nó thành 30 phút.",
+      "explanation": "Việc chuẩn bị trước giúp bạn xác định rõ mục tiêu và trọng tâm của cuộc họp, tránh lan man. Nhờ đó, một cuộc họp dự kiến 60 phút hoàn toàn có thể được giải quyết nhanh gọn và hiệu quả chỉ trong 30 phút."
+    },
+    {
+      "id": 8,
+      "question": "Câu hỏi quan trọng nhất bạn nên tự hỏi trong lúc sử dụng thời gian trung chuyển để chuẩn bị cho công việc tiếp theo là gì?",
+      "options": [
+        "Làm thế nào để đẩy công việc này cho một người khác làm thay?",
+        "Làm thế nào để làm cho công việc đó ngắn hơn, nhanh hơn và hiệu quả hơn?",
+        "Nếu mình vắng mặt thì ai sẽ là người chịu trách nhiệm?",
+        "Làm sao để giải thích một cách hợp lý nhất cho sự chậm trễ của mình?"
+      ],
+      "answer": "Làm thế nào để làm cho công việc đó ngắn hơn, nhanh hơn và hiệu quả hơn?",
+      "explanation": "Câu hỏi này kích thích tư duy tối ưu hóa, giúp bạn tập trung vào kết quả cốt lõi thay vì quy trình dài dòng. Trả lời được câu hỏi này là chìa khóa để biến thời gian làm việc trở nên năng suất vượt trội."
+    },
+    {
+      "id": 9,
+      "question": "Theo tác giả, không có thời điểm nào thích hợp để lên kế hoạch tốt hơn lúc nào?",
+      "options": [
+        "Ngay tối hôm trước khi sự kiện diễn ra.",
+        "Trong lúc đang tắm vào buổi sáng sớm.",
+        "15 phút trước khi bạn bước vào phòng họp hoặc trả lời điện thoại.",
+        "Ngay giữa lúc cuộc họp đang diễn ra căng thẳng nhất."
+      ],
+      "answer": "15 phút trước khi bạn bước vào phòng họp hoặc trả lời điện thoại.",
+      "explanation": "Ngay trước khi sự kiện bắt đầu là lúc thông tin và sự tập trung ở mức cao nhất. Việc lên kế hoạch vào thời điểm cận kề này giúp những ý tưởng được đưa ra sát với thực tế và dễ dàng áp dụng ngay lập tức."
+    },
+    {
+      "id": 10,
+      "question": "Bước hành động cụ thể nào được tác giả khuyến nghị để đưa phương pháp này vào thực tế?",
+      "options": [
+        "Xin phép sếp để được đi làm muộn 15 phút mỗi ngày.",
+        "Kết thúc các buổi họp sớm hơn dự định ít nhất 15 phút để làm thời gian chuẩn bị cho việc kế tiếp.",
+        "Bỏ hẳn 30% số lượng các cuộc họp trong tuần để có thêm thời gian trung chuyển.",
+        "Mua một chiếc xe tốt hơn để giảm thiểu thời gian di chuyển trên đường."
+      ],
+      "answer": "Kết thúc các buổi họp sớm hơn dự định ít nhất 15 phút để làm thời gian chuẩn bị cho việc kế tiếp.",
+      "explanation": "Bằng cách chủ động rút ngắn cuộc họp hiện tại, bạn tự tạo ra khoảng thời gian trung chuyển cần thiết. Khoảng đệm 15 phút này sẽ giúp bạn phục hồi năng lượng và chuẩn bị chu đáo để bước vào nhiệm vụ tiếp theo một cách hoàn hảo."
+    }
+  ],
+  "43_38. Con Không Muốn Đến Lớp Học.md": [
+    {
+      "id": 1,
+      "question": "Sai lầm của tác giả khi đối mặt với việc bé Sophia khóc lóc không muốn vào lớp trượt tuyết là gì?",
+      "options": [
+        "Đã ép buộc và la mắng con bé ngay lập tức giữa đám đông.",
+        "Đã kéo dài sự bi thảm bằng cách liên tục dỗ dành và thuyết phục.",
+        "Đã bỏ mặc con bé một mình trên tuyết và đi về khách sạn.",
+        "Đã ngay lập tức đồng ý cho con bé nghỉ học."
+      ],
+      "answer": "Đã kéo dài sự bi thảm bằng cách liên tục dỗ dành và thuyết phục.",
+      "explanation": "Cố gắng thuyết phục và ở lại dỗ dành khi con gái đang khóc lóc chỉ khiến nỗi sợ hãi và sự bất mãn kéo dài. Tác giả nhận ra rằng hành động này vô tình giữ con bé ở lại trong 'giai đoạn trung chuyển' đầy tiêu cực."
+    },
+    {
+      "id": 2,
+      "question": "Lời khuyên của người mẹ có những đứa con trai dành cho tác giả trong tình huống với Sophia là gì?",
+      "options": [
+        "Hãy mua cho con bé một món đồ chơi để đánh lạc hướng.",
+        "Hãy ở lại lớp học cùng con bé cho đến khi nó bình tĩnh.",
+        "Để nó ở đó và bỏ chạy!",
+        "Trẻ con khóc là chuyện bình thường, hãy mắng nó một trận."
+      ],
+      "answer": "Để nó ở đó và bỏ chạy!",
+      "explanation": "Vị phụ huynh giàu kinh nghiệm này khuyên rằng đôi khi cách tốt nhất là dứt khoát rời đi để đứa trẻ buộc phải đối mặt và thích nghi. Mặc dù nghe có vẻ phũ phàng, nhưng đây là giải pháp nhanh nhất để chấm dứt sự mè nheo."
+    },
+    {
+      "id": 3,
+      "question": "Trong bối cảnh chương này, 'thời gian trung chuyển' (việc chuẩn bị tinh thần trước một sự kiện) trở thành vấn đề thay vì giải pháp khi nào?",
+      "options": [
+        "Khi nó được dùng để lập kế hoạch chi tiết cho một cuộc họp.",
+        "Khi nó được sử dụng để suy nghĩ cách rút ngắn công việc tiếp theo.",
+        "Khi nó khiến người ta chìm đắm lâu hơn trong sự khốn khổ và lo lắng về một sự thay đổi.",
+        "Khi nó kéo dài hơn 15 phút."
+      ],
+      "answer": "Khi nó khiến người ta chìm đắm lâu hơn trong sự khốn khổ và lo lắng về một sự thay đổi.",
+      "explanation": "Mặc dù thời gian trung chuyển rất hữu ích cho việc lên kế hoạch, nhưng đối với những thay đổi gây sợ hãi, nó lại là một cái bẫy. Việc chuẩn bị quá nhiều chỉ tạo cơ hội để sự lo âu, chán nản được phóng đại và kéo dài."
+    },
+    {
+      "id": 4,
+      "question": "Ví dụ về công ty chuyển văn phòng sang New Jersey minh họa cho điều gì?",
+      "options": [
+        "Làm việc tại New York luôn mang lại năng suất cao hơn New Jersey.",
+        "Những người nán lại và cố gắng trì hoãn sự thay đổi đã phải chịu đựng nỗi lo lắng kéo dài hơn rất nhiều.",
+        "Di dời văn phòng là cách tốt nhất để thanh lọc những nhân viên kém cỏi.",
+        "Chi phí thuê văn phòng ảnh hưởng lớn đến tâm lý nhân viên."
+      ],
+      "answer": "Những người nán lại và cố gắng trì hoãn sự thay đổi đã phải chịu đựng nỗi lo lắng kéo dài hơn rất nhiều.",
+      "explanation": "Công ty di dời cho thấy các phòng ban cố tình trì hoãn việc chuyển đi lại chính là những người chịu áp lực tinh thần lớn nhất. Sự chần chừ này kéo dài giai đoạn trung chuyển khốn khổ, trong khi thực tế ở nơi làm mới lại không hề tồi tệ như họ tưởng."
+    },
+    {
+      "id": 5,
+      "question": "Tác giả so sánh việc vượt qua những tình huống đáng sợ nhưng bắt buộc với hình ảnh ẩn dụ nào?",
+      "options": [
+        "Đứng trên mép vách đá nhô ra sông và cứ thế nhắm mắt lại nhảy xuống nước.",
+        "Leo lên một ngọn núi cao và từ từ tận hưởng cảnh đẹp.",
+        "Chạy bộ trong một cơn bão tuyết khốc liệt không có áo khoác.",
+        "Lái xe băng qua một cây cầu đang rung lắc dữ dội."
+      ],
+      "answer": "Đứng trên mép vách đá nhô ra sông và cứ thế nhắm mắt lại nhảy xuống nước.",
+      "explanation": "Hình ảnh này nhấn mạnh rằng khi đối mặt với quyết định khó khăn, càng chần chừ nhìn xuống thì sẽ càng sợ hãi. Cách tốt nhất là nhắm mắt làm ngơ sự sợ hãi ban đầu và dứt khoát hành động để đẩy nhanh quá trình thích nghi."
+    },
+    {
+      "id": 6,
+      "question": "Khi chúng ta liên tục than phiền về một điều gì đó chúng ta lo sợ hoặc một quyết định đã được công bố, điều gì sẽ xảy ra?",
+      "options": [
+        "Chúng ta sẽ tìm được giải pháp hoàn hảo để tránh né nó.",
+        "Chúng ta tự làm mình mệt mỏi và thuyết phục bản thân rằng nỗi sợ đó là chính đáng.",
+        "Sếp sẽ thương tình và thay đổi quyết định để làm chúng ta vui lòng.",
+        "Chúng ta sẽ lây lan được sự tích cực sang cho những người xung quanh."
+      ],
+      "answer": "Chúng ta tự làm mình mệt mỏi và thuyết phục bản thân rằng nỗi sợ đó là chính đáng.",
+      "explanation": "Than phiền là một hình thức tự kỷ ám thị tiêu cực, làm cạn kiệt năng lượng bản thân. Càng than vãn, não bộ càng củng cố niềm tin rằng sự thay đổi đó thực sự tồi tệ, khiến chúng ta bị kẹt trong sự phẫn nộ."
+    },
+    {
+      "id": 7,
+      "question": "Chiến lược tốt nhất khi bạn phải thực hiện một công việc khó khăn, gây căng thẳng là gì?",
+      "options": [
+        "Đẩy nó sang cho đồng nghiệp làm thay.",
+        "Lùi ngày thực hiện vô thời hạn cho đến khi bạn sẵn sàng 100%.",
+        "Cố gắng thực hiện nó trước tiên ngay trong buổi sáng để giảm thời gian nghĩ ngợi về nó.",
+        "Chia nhỏ nó ra và làm mỗi ngày một chút trong suốt một năm."
+      ],
+      "answer": "Cố gắng thực hiện nó trước tiên ngay trong buổi sáng để giảm thời gian nghĩ ngợi về nó.",
+      "explanation": "Nguyên tắc 'ăn con ếch' này giúp giải quyết ngay vấn đề nan giải nhất từ sớm để tránh sự lo âu gặm nhấm cả ngày. Bằng cách rút ngắn thời gian chần chừ, bạn sẽ nhanh chóng giải phóng được áp lực tâm lý."
+    },
+    {
+      "id": 8,
+      "question": "Trong 3 bước giúp người khác vượt qua 'giai đoạn trung chuyển' một cách nhanh chóng, mục đích của Bước 1 (Lắng nghe và lặp lại) là gì?",
+      "options": [
+        "Để tìm ra điểm yếu trong lập luận của họ và phản bác.",
+        "Để đảm bảo rằng họ xác nhận bạn đã thực sự lắng nghe và hiểu mối bận tâm của họ.",
+        "Để kéo dài thời gian tranh luận nhằm chứng minh bạn đúng.",
+        "Để thu thập thông tin báo cáo lên ban giám đốc."
+      ],
+      "answer": "Để đảm bảo rằng họ xác nhận bạn đã thực sự lắng nghe và hiểu mối bận tâm của họ.",
+      "explanation": "Con người chỉ sẵn sàng bước tiếp khi cảm thấy mình đã được thấu hiểu và tôn trọng. Việc lặp lại ý kiến của họ là bằng chứng rõ ràng nhất cho thấy sự đồng cảm, từ đó làm dịu đi sự phản kháng ban đầu."
+    },
+    {
+      "id": 9,
+      "question": "Tại sao Bước 3 ('Đừng lặp lại') lại mang tính mấu chốt để đưa ai đó vượt qua giai đoạn trung chuyển?",
+      "options": [
+        "Vì lặp lại sẽ khiến bạn bị khản cổ và mất giọng.",
+        "Vì nói lại nhiều lần sẽ làm mất đi sự uy nghiêm của một người sếp.",
+        "Vì bất kỳ hành động lặp lại nào cũng chỉ khiến thời gian trung chuyển và sự lo lắng bị kéo dài thêm.",
+        "Vì nhân viên thường không thích nghe sếp nói quá nhiều."
+      ],
+      "answer": "Vì bất kỳ hành động lặp lại nào cũng chỉ khiến thời gian trung chuyển và sự lo lắng bị kéo dài thêm.",
+      "explanation": "Khi hai bên đã thấu hiểu nhau, việc cứ nhai đi nhai lại vấn đề chỉ làm tình hình dậm chân tại chỗ. Việc dừng việc thảo luận dài dòng sẽ buộc người đối diện phải chấp nhận thực tế và bắt đầu quá trình thích ứng."
+    },
+    {
+      "id": 10,
+      "question": "Việc rút ngắn thời gian trung chuyển đối với những sự kiện không mong muốn sẽ tạo ra kết quả tích cực cuối cùng là gì?",
+      "options": [
+        "Tạo ra một ranh giới rõ ràng giúp bản thân và người khác thích ứng nhanh chóng với thực tế mới.",
+        "Gây ra sự hận thù vĩnh viễn nhưng đổi lại là hoàn thành được nhiệm vụ.",
+        "Khiến cho rủi ro thất bại của dự án tăng lên nhưng tiết kiệm được tiền bạc.",
+        "Chứng tỏ được quyền lực tuyệt đối của bạn trước mặt nhân viên."
+      ],
+      "answer": "Tạo ra một ranh giới rõ ràng giúp bản thân và người khác thích ứng nhanh chóng với thực tế mới.",
+      "explanation": "Chấm dứt sự lấn cấn và dứt khoát bước vào tình huống mới tạo ra một điểm cắt rõ ràng giữa quá khứ và hiện tại. Sự rạch ròi này ép buộc tâm trí phải ngừng lo âu để bắt đầu tập trung vào việc giải quyết và thích ứng."
+    }
+  ],
+  "44_39. Chúng Tôi Sẽ Bê Trễ..md": [
+    {
+      "id": 1,
+      "question": "Tác giả thường trải qua hai cảm xúc đối lập nào mỗi khi bắt đầu một kỳ nghỉ mát?",
+      "options": [
+        "Phấn khích tột độ và buồn chán dai dẳng.",
+        "Hứng khởi và lo lắng.",
+        "Tự hào và ghen tị.",
+        "Hạnh phúc và tuyệt vọng."
+      ],
+      "answer": "Hứng khởi và lo lắng.",
+      "explanation": "Dù rất mong chờ được nghỉ ngơi, tác giả cũng đồng thời lo sợ rằng sự vắng mặt của mình sẽ gây ra vấn đề cho công việc. Trạng thái mâu thuẫn này là biểu hiện chung của những người quá gắn bó và có trách nhiệm với tổ chức."
+    },
+    {
+      "id": 2,
+      "question": "Yếu tố nào trong xã hội hiện đại khiến chúng ta thấy việc dành trọn vẹn thời gian cho bất cứ việc gì (ngay cả kỳ nghỉ) trở nên khó khăn?",
+      "options": [
+        "Sự đắt đỏ của các dịch vụ du lịch và khách sạn.",
+        "Sự cột chặt vào công nghệ và kỳ vọng luôn sẵn sàng mọi lúc mọi nơi.",
+        "Sự thay đổi khí hậu thất thường khiến các kế hoạch bị đảo lộn.",
+        "Sự sụt giảm chất lượng của các trung tâm chăm sóc sức khỏe."
+      ],
+      "answer": "Sự cột chặt vào công nghệ và kỳ vọng luôn sẵn sàng mọi lúc mọi nơi.",
+      "explanation": "Điện thoại thông minh và email đã phá vỡ ranh giới giữa công việc và đời tư, khiến con người luôn ở trong trạng thái trực chiến. Áp lực phải phản hồi lập tức làm cho việc thực sự ngắt kết nối để tận hưởng kỳ nghỉ trở thành một thách thức lớn."
+    },
+    {
+      "id": 3,
+      "question": "Cảm giác 'làm việc liên tục' tuy gây quá tải nhưng lại mang đến cho chúng ta một sự an tâm ngầm định nào?",
+      "options": [
+        "Cảm thấy mình được trả lương cao hơn những người khác.",
+        "Cảm thấy mình thông minh và vượt trội về mặt trí tuệ.",
+        "Cảm thấy mình bận rộn, có giá trị và không thể bị thay thế.",
+        "Cảm thấy mình đang cứu rỗi thế giới khỏi những thảm họa."
+      ],
+      "answer": "Cảm thấy mình bận rộn, có giá trị và không thể bị thay thế.",
+      "explanation": "Bận rộn thường bị lầm tưởng là thước đo của sự quan trọng. Việc có mặt để giải quyết mọi việc khiến chúng ta cảm thấy an tâm và thỏa mãn cái tôi cá nhân, mặc dù điều này đánh đổi bằng sự kiệt sức."
+    },
+    {
+      "id": 4,
+      "question": "Câu đùa của Ross ('Chúng tôi sẽ bê trễ. Chúng tôi sẽ quên anh. Và chúng tôi sẽ thay thế anh') thực chất đã chạm trúng vào nỗi sợ hãi sâu kín nào của những người đi nghỉ mát?",
+      "options": [
+        "Sợ công ty bị phá sản khi không có họ điều hành.",
+        "Sợ rằng người khác sẽ nhận ra mình không thực sự cần thiết và có thể bị lãng quên.",
+        "Sợ bị cắt giảm tiền lương trong những ngày vắng mặt.",
+        "Sợ mất cơ hội thăng tiến vào tay một người đồng nghiệp trẻ hơn."
+      ],
+      "answer": "Sợ rằng người khác sẽ nhận ra mình không thực sự cần thiết và có thể bị lãng quên.",
+      "explanation": "Ẩn sau việc không muốn nghỉ phép là nỗi lo bị chứng minh rằng tổ chức vẫn có thể vận hành tốt mà không cần đến mình. Nỗi sợ mất đi vị thế độc tôn và sự quan trọng mới là rào cản tâm lý thực sự ngăn chúng ta nghỉ ngơi."
+    },
+    {
+      "id": 5,
+      "question": "Theo tác giả, lợi ích bất ngờ lớn nhất của việc 'hoàn toàn ngắt liên lạc' trong một kỳ nghỉ (như chuyến đi Grand Canyon) là gì?",
+      "options": [
+        "Tiết kiệm được một khoản tiền lớn cước phí viễn thông quốc tế.",
+        "Tránh được việc nghe những lời phàn nàn vô lý từ khách hàng.",
+        "Tạo cơ hội cho đội ngũ nhân viên phát triển, tự đưa ra quyết định và tự giải quyết vấn đề.",
+        "Có thời gian để âm thầm tìm kiếm một công việc mới hấp dẫn hơn."
+      ],
+      "answer": "Tạo cơ hội cho đội ngũ nhân viên phát triển, tự đưa ra quyết định và tự giải quyết vấn đề.",
+      "explanation": "Khi người lãnh đạo hoàn toàn vắng bóng, nhân viên sẽ bị đặt vào tình thế buộc phải tự lập và trưởng thành. Sự ngắt kết nối này vô tình lại là một khóa huấn luyện hiệu quả giúp nâng cao năng lực tự chủ của cả đội ngũ."
+    },
+    {
+      "id": 6,
+      "question": "Lựa chọn thứ hai để đối mặt với kỳ nghỉ mà không hủy hoại nó (nếu bạn không thể ngắt liên lạc hoàn toàn) là gì?",
+      "options": [
+        "Mang theo toàn bộ hồ sơ dự án và làm việc 8 tiếng một ngày tại khách sạn.",
+        "Chuyển hướng mọi cuộc gọi của bạn sang số điện thoại của vợ/chồng.",
+        "Liên lạc có sắp xếp: chọn một khung thời gian nhất định mỗi ngày để xử lý công việc.",
+        "Chỉ trả lời các cuộc gọi từ chủ tịch hội đồng quản trị."
+      ],
+      "answer": "Liên lạc có sắp xếp: chọn một khung thời gian nhất định mỗi ngày để xử lý công việc.",
+      "explanation": "Đây là giải pháp thỏa hiệp thông minh dành cho những người không thể tắt máy hoàn toàn. Bằng cách giới hạn việc kiểm tra công việc trong một khung giờ cố định, bạn vừa duy trì được sự kết nối vừa bảo vệ được phần lớn thời gian nghỉ ngơi."
+    },
+    {
+      "id": 7,
+      "question": "Tại sao chiến lược 'liên lạc có sắp xếp' lại có thể cứu vãn kỳ nghỉ của bạn?",
+      "options": [
+        "Nó giúp bạn kiếm thêm thu nhập phụ trong lúc đang đi chơi.",
+        "Nó chứng tỏ với gia đình rằng công việc của bạn là tối thượng.",
+        "Thừa nhận việc dành một ít thời gian làm việc đồng nghĩa với việc toàn bộ số thời gian còn lại bạn hoàn toàn tận hưởng kỳ nghỉ.",
+        "Nó khiến sếp của bạn cảm thấy có lỗi và sẽ tăng lương cho bạn khi trở về."
+      ],
+      "answer": "Thừa nhận việc dành một ít thời gian làm việc đồng nghĩa với việc toàn bộ số thời gian còn lại bạn hoàn toàn tận hưởng kỳ nghỉ.",
+      "explanation": "Chấp nhận có quy củ việc xử lý công việc giúp giải tỏa cảm giác tội lỗi và lo âu. Quan trọng hơn, nó khoanh vùng được sự phiền toái, cho phép bạn toàn tâm toàn ý tận hưởng khoảng thời gian vui chơi còn lại cùng gia đình."
+    },
+    {
+      "id": 8,
+      "question": "Chiến lược 'liên lạc có sắp xếp' có thể áp dụng hữu ích như thế nào trong cuộc sống thường ngày ngoài kỳ nghỉ?",
+      "options": [
+        "Giúp thiết lập thời điểm cụ thể cho email/cuộc gọi, tránh bị công nghệ kiểm soát và tăng khả năng tập trung.",
+        "Giúp bạn phân loại bạn bè: ai quan trọng thì trả lời, ai không quan trọng thì bỏ qua.",
+        "Giúp bạn luôn có cớ để từ chối các cuộc họp không báo trước.",
+        "Giúp giảm thiểu hao mòn tuổi thọ của các thiết bị điện tử."
+      ],
+      "answer": "Giúp thiết lập thời điểm cụ thể cho email/cuộc gọi, tránh bị công nghệ kiểm soát và tăng khả năng tập trung.",
+      "explanation": "Thói quen kiểm tra email, tin nhắn liên tục gây phân tâm và giảm hiệu suất nghiêm trọng. Việc gom các hoạt động này vào những khung giờ cố định trong ngày sẽ giúp bạn lấy lại quyền làm chủ thời gian và làm việc sâu hơn."
+    },
+    {
+      "id": 9,
+      "question": "Việc xác định khoảng thời gian cụ thể để làm việc trong kỳ nghỉ mang lại lợi ích tâm lý nào cho tất cả mọi người liên quan?",
+      "options": [
+        "Nó tạo ra một sự cạnh tranh ngầm xem ai xử lý công việc nhanh hơn.",
+        "Đặt ra những kỳ vọng rõ ràng, giúp cả bạn và những người liên lạc đều cảm thấy nhẹ nhõm.",
+        "Nó làm tăng tính bí ẩn và sự quan trọng của bạn trong mắt đồng nghiệp.",
+        "Giúp mọi người có cớ để làm việc kém hiệu quả khi bạn không có mặt."
+      ],
+      "answer": "Đặt ra những kỳ vọng rõ ràng, giúp cả bạn và những người liên lạc đều cảm thấy nhẹ nhõm.",
+      "explanation": "Khi mọi người biết chính xác bạn sẽ phản hồi lúc nào, họ sẽ ngừng nhắn tin thúc giục hay trông ngóng vô ích. Sự minh bạch này giúp giải tỏa áp lực trả lời ngay lập tức cho bạn và đem lại sự yên tâm cho đồng nghiệp ở nhà."
+    },
+    {
+      "id": 10,
+      "question": "Ở phần kết của chương, tác giả nhắc nhở rằng ngoài những mối phân tâm từ người khác, chúng ta còn phải đối mặt với loại phân tâm nguy hiểm nào nhất?",
+      "options": [
+        "Mối phân tâm do sự cạnh tranh từ các công ty đối thủ.",
+        "Mối phân tâm từ các biến động kinh tế vĩ mô.",
+        "Mối phân tâm do chính bản thân chúng ta tự tạo ra (như sự cám dỗ của email, sự cầu toàn thái quá).",
+        "Mối phân tâm từ các nền tảng mạng xã hội chuyên nghiệp như LinkedIn."
+      ],
+      "answer": "Mối phân tâm do chính bản thân chúng ta tự tạo ra (như sự cám dỗ của email, sự cầu toàn thái quá).",
+      "explanation": "Tác giả nhấn mạnh rằng kẻ thù lớn nhất của sự tập trung không đến từ bên ngoài mà chính từ tâm lý của chúng ta. Sự cầu toàn, thói quen trì hoãn hay cơn nghiện công nghệ là những rào cản tự thân rất khó để nhận diện và kiểm soát."
+    }
+  ]
+}

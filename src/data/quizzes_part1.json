@@ -1,0 +1,600 @@
+{
+  "00_LỜI GIỚI THIỆU.md": [
+    {
+      "id": 1,
+      "question": "Theo tác giả, tại sao việc để người khác chờ đợi lại được ví như một hình thức ăn cắp tồi tệ nhất?",
+      "options": [
+        "A. Vì nó thể hiện sự thiếu tôn trọng quyền lực và địa vị của người khác.",
+        "B. Vì thời gian là thứ duy nhất không thể vãn hồi và đền bù một khi đã mất đi.",
+        "C. Vì nó gây ra sự bực bội và làm giảm năng suất làm việc của đối tác.",
+        "D. Vì việc chờ đợi tạo ra những cảm xúc tiêu cực ảnh hưởng đến sức khỏe."
+      ],
+      "answer": "B. Vì thời gian là thứ duy nhất không thể vãn hồi và đền bù một khi đã mất đi."
+    },
+    {
+      "id": 2,
+      "question": "Câu chuyện về Marie, một người phụ nữ có cuộc sống \"tốt\" nhưng không cảm thấy mình hoàn thành được điều gì, phản ánh quy luật nào được nhắc đến trong chương này?",
+      "options": [
+        "A. Định luật bảo toàn năng lượng.",
+        "B. Định luật 1 về chuyển động của Newton (quán tính).",
+        "C. Định luật Murphy về sự rủi ro.",
+        "D. Thuyết tương đối của Einstein."
+      ],
+      "answer": "B. Định luật 1 về chuyển động của Newton (quán tính)."
+    },
+    {
+      "id": 3,
+      "question": "Giải pháp cốt lõi mà cuốn sách \"18 Phút\" hướng tới nhằm giải quyết sự bận rộn không hiệu quả là gì?",
+      "options": [
+        "A. Tối ưu hóa thời gian để hoàn thành tất cả mọi việc trong ngày một cách nhanh nhất.",
+        "B. Tạo ra một bản kế hoạch chi tiết từng phút để không có khoảng thời gian chết.",
+        "C. Đưa ra các quyết định thông minh về những việc cần làm và những việc nên bỏ qua.",
+        "D. Đa nhiệm hiệu quả để có thể xử lý cùng lúc nhiều công việc khác nhau."
+      ],
+      "answer": "C. Đưa ra các quyết định thông minh về những việc cần làm và những việc nên bỏ qua."
+    },
+    {
+      "id": 4,
+      "question": "Hình ảnh ứng dụng Google Earth và nút \"TÌM VỊ TRÍ CỦA TÔI\" được dùng làm ẩn dụ cho điều gì?",
+      "options": [
+        "A. Khả năng tìm kiếm sự trợ giúp từ công nghệ để quản lý thời gian.",
+        "B. Nhu cầu đi du lịch để giải tỏa áp lực công việc.",
+        "C. Khả năng giám sát và kiểm soát mọi hoạt động của bản thân.",
+        "D. Việc dừng lại để nhìn nhận tổng thể và định vị bản thân trước khi hành động."
+      ],
+      "answer": "D. Việc dừng lại để nhìn nhận tổng thể và định vị bản thân trước khi hành động."
+    }
+  ],
+  "01_I. Tạm Dừng.md": [
+    {
+      "id": 1,
+      "question": "Điều gì là nguyên nhân thực sự khiến tác giả cảm thấy không hạnh phúc ngay cả khi đã xây dựng được một công ty thành công và kiếm được nhiều tiền?",
+      "options": [
+        "A. Vì ông bị áp lực cạnh tranh từ các công ty tư vấn khác.",
+        "B. Vì ông không có thời gian dành cho gia đình và bạn bè.",
+        "C. Vì ông không cảm nhận được mình đang làm đúng việc để phát huy tối đa tiềm năng.",
+        "D. Vì đội ngũ nhân viên của ông không đủ năng lực để phát triển công ty xa hơn."
+      ],
+      "answer": "C. Vì ông không cảm nhận được mình đang làm đúng việc để phát huy tối đa tiềm năng."
+    },
+    {
+      "id": 2,
+      "question": "Sự sụp đổ của công ty tư vấn trong cuộc cách mạng dotcom đã mang lại cho tác giả cảm giác gì bất ngờ?",
+      "options": [
+        "A. Sự tiếc nuối và oán trách hoàn cảnh.",
+        "B. Một sự nhẹ nhõm yên ắng và kỳ lạ.",
+        "C. Cảm giác hoảng loạn tột độ về tài chính.",
+        "D. Khao khát trả thù những đối thủ cạnh tranh."
+      ],
+      "answer": "B. Một sự nhẹ nhõm yên ắng và kỳ lạ."
+    },
+    {
+      "id": 3,
+      "question": "Việc trải nghiệm nhiều lĩnh vực khác nhau (diễn xuất, y khoa, giáo trưởng Do Thái) sau khi phá sản đã giúp tác giả đạt được điều gì?",
+      "options": [
+        "A. Kiếm được những nguồn thu nhập mới thay thế cho công ty cũ.",
+        "B. Tránh né thực tại khó khăn và sự chỉ trích từ gia đình.",
+        "C. Tạo ra một mạng lưới quan hệ mới để mở công ty khác.",
+        "D. Dừng lại để khám phá những khía cạnh tiềm ẩn và nhận ra con đường làm chủ cuộc đời mình."
+      ],
+      "answer": "D. Dừng lại để khám phá những khía cạnh tiềm ẩn và nhận ra con đường làm chủ cuộc đời mình."
+    },
+    {
+      "id": 4,
+      "question": "Thông điệp quan trọng nhất của phần \"Tạm Dừng\" thông qua ẩn dụ về việc \"bay lượn trên thế giới của bạn\" là gì?",
+      "options": [
+        "A. Cần có một cái nhìn toàn cảnh về bản thân trước khi quyết định nơi mình muốn đến.",
+        "B. Nên thường xuyên đi du lịch để có góc nhìn đa chiều về thế giới.",
+        "C. Phải luôn giữ vị trí cao hơn người khác để kiểm soát tình hình.",
+        "D. Tưởng tượng ra thành công trong tương lai sẽ giúp bạn vượt qua hiện tại."
+      ],
+      "answer": "A. Cần có một cái nhìn toàn cảnh về bản thân trước khi quyết định nơi mình muốn đến."
+    }
+  ],
+  "02_1. Chuyển Động Chậm Lại.md": [
+    {
+      "id": 1,
+      "question": "Câu chuyện về việc đạp xe đạp được tác giả sử dụng để minh họa cho sự khó khăn nào trong tâm lý con người?",
+      "options": [
+        "A. Việc khó khăn khi bắt đầu một thói quen mới.",
+        "B. Khó khăn trong việc chống lại đà di chuyển để dừng lại khi đang tiến về phía trước.",
+        "C. Khó khăn trong việc giữ thăng bằng giữa công việc và cuộc sống.",
+        "D. Nỗ lực cần thiết để vượt qua các rào cản thể chất."
+      ],
+      "answer": "B. Khó khăn trong việc chống lại đà di chuyển để dừng lại khi đang tiến về phía trước."
+    },
+    {
+      "id": 2,
+      "question": "Tại sao người ta lại đặc biệt khó dừng lại khi nhận ra mình đang có một quan điểm sai lầm hoặc một quyết định tồi tệ?",
+      "options": [
+        "A. Vì họ thiếu khả năng phân tích logic.",
+        "B. Vì họ đã đổ quá nhiều thời gian, công sức và cái tôi vào việc bảo vệ quyết định đó.",
+        "C. Vì họ sợ những người xung quanh không hiểu ý mình.",
+        "D. Vì họ không tìm thấy bất kỳ lựa chọn thay thế nào tốt hơn."
+      ],
+      "answer": "B. Vì họ đã đổ quá nhiều thời gian, công sức và cái tôi vào việc bảo vệ quyết định đó."
+    },
+    {
+      "id": 3,
+      "question": "Trò chơi tinh thần \"Bắt đầu lại\" (tưởng tượng mình là người mới tiếp nhận dự án) nhằm mục đích gì?",
+      "options": [
+        "A. Giúp loại bỏ những cảm xúc tiêu cực đối với người tiền nhiệm.",
+        "B. Trốn tránh trách nhiệm về những sai lầm trong quá khứ.",
+        "C. Loại bỏ yếu tố \"chi phí chìm\" để đưa ra quyết định sáng suốt dựa trên thực tại.",
+        "D. Tạo ra sự tự tin giả tạo để tiếp tục công việc đang dang dở."
+      ],
+      "answer": "C. Loại bỏ yếu tố \"chi phí chìm\" để đưa ra quyết định sáng suốt dựa trên thực tại."
+    },
+    {
+      "id": 4,
+      "question": "Phản ứng của Tiến sĩ Allan Rosenfield trước sự phản đối thiếu căn cứ về vắc-xin thể hiện phẩm chất nào của một nhà lãnh đạo xuất sắc?",
+      "options": [
+        "A. Khả năng dùng quyền lực để dập tắt sự phản kháng.",
+        "B. Khả năng tranh luận sắc bén để giành phần thắng ngay lập tức.",
+        "C. Sự thiếu quyết đoán trong việc bảo vệ quan điểm khoa học.",
+        "D. Sự tự tin để giảm tốc, lắng nghe và xem xét ý kiến trái chiều mà không vội phản ứng."
+      ],
+      "answer": "D. Sự tự tin để giảm tốc, lắng nghe và xem xét ý kiến trái chiều mà không vội phản ứng."
+    }
+  ],
+  "03_2. Cô Bé Khiến Người Cá Sấu Dừng Lại.md": [
+    {
+      "id": 1,
+      "question": "Tác giả so sánh chức năng \"Undo Send\" của Gmail với điều gì trong giao tiếp thực tế?",
+      "options": [
+        "A. Khả năng xóa bỏ hoàn toàn ký ức của người khác về lời nói của mình.",
+        "B. Khoảng thời gian tạm dừng ngắn ngủi trước khi phản ứng theo bản năng.",
+        "C. Lời xin lỗi được nói ra sau khi hai bên đã tranh cãi.",
+        "D. Việc sử dụng văn bản thay vì nói chuyện trực tiếp để tránh xung đột."
+      ],
+      "answer": "B. Khoảng thời gian tạm dừng ngắn ngủi trước khi phản ứng theo bản năng."
+    },
+    {
+      "id": 2,
+      "question": "Về mặt thần kinh học, mục đích của việc hít thở sâu và tạm dừng 5 giây trước khi phản ứng là gì?",
+      "options": [
+        "A. Để hạch hạnh nhân (amygdala) có thêm thời gian xử lý thông tin.",
+        "B. Để cung cấp thêm oxy cho cơ bắp, chuẩn bị cho phản ứng \"chiến đấu hay bỏ chạy\".",
+        "C. Để vỏ não trước có thời gian áp chế phản ứng cảm tính của hạch hạnh nhân.",
+        "D. Để đối phương cảm thấy sợ hãi và tự nhận ra lỗi lầm của họ."
+      ],
+      "answer": "C. Để vỏ não trước có thời gian áp chế phản ứng cảm tính của hạch hạnh nhân."
+    },
+    {
+      "id": 3,
+      "question": "Việc cô bé Isabelle la lên \"DỪNG LẠI!\" khi đang chơi đùa dưới nước mang ý nghĩa ẩn dụ gì trong cuộc sống?",
+      "options": [
+        "A. Chúng ta nên từ bỏ ngay lập tức khi gặp khó khăn.",
+        "B. Khi cảm thấy bị quá tải hoặc đi sai hướng, ta có quyền chủ động tạo ra một khoảng dừng.",
+        "C. Việc kêu gọi sự trợ giúp là biểu hiện của sự yếu đuối.",
+        "D. Trẻ em luôn có phản xạ sinh tồn tốt hơn người lớn."
+      ],
+      "answer": "B. Khi cảm thấy bị quá tải hoặc đi sai hướng, ta có quyền chủ động tạo ra một khoảng dừng."
+    },
+    {
+      "id": 4,
+      "question": "Lợi ích lớn nhất của việc \"tạm dừng\" trong cuộc sống hàng ngày là gì?",
+      "options": [
+        "A. Giúp chúng ta chọn lựa con đường một cách có chủ đích thay vì hành động mù quáng.",
+        "B. Khiến đối thủ mất kiên nhẫn và từ bỏ ý định tấn công.",
+        "C. Tạo ra ảo giác về sự điềm tĩnh để che giấu sự thiếu hiểu biết.",
+        "D. Kéo dài thời gian làm việc để được trả thêm tiền."
+      ],
+      "answer": "A. Giúp chúng ta chọn lựa con đường một cách có chủ đích thay vì hành động mù quáng."
+    }
+  ],
+  "04_3. Ngày Andy Rời Sở Làm Sớm.md": [
+    {
+      "id": 1,
+      "question": "Câu chuyện về ngày Shabbat của Andy minh họa cho nguyên tắc nào về sự hiệu quả?",
+      "options": [
+        "A. Làm việc dưới áp lực thời gian sẽ tạo ra nhiều sai sót.",
+        "B. Cần làm việc xuyên suốt không nghỉ ngơi để đảm bảo tiến độ dự án.",
+        "C. Việc chủ động dừng lại và nghỉ ngơi giúp tái tạo năng lượng và tăng tốc độ làm việc sau đó.",
+        "D. Các quy định tôn giáo thường gây cản trở tiến độ công việc trong thế giới hiện đại."
+      ],
+      "answer": "C. Việc chủ động dừng lại và nghỉ ngơi giúp tái tạo năng lượng và tăng tốc độ làm việc sau đó."
+    },
+    {
+      "id": 2,
+      "question": "Tại sao tác giả lại so sánh cuộc đời với một cuộc đua ma-ra-tông?",
+      "options": [
+        "A. Vì cả hai đều đòi hỏi sự cạnh tranh gay gắt và loại bỏ đối thủ.",
+        "B. Vì để đi được đường dài, chúng ta cần xen kẽ những khoảng thời gian nghỉ ngơi thay vì chỉ chạy nước rút.",
+        "C. Vì mục tiêu duy nhất là trở thành người về đích đầu tiên.",
+        "D. Vì phần lớn thời gian chúng ta phải hoạt động một cách đơn độc."
+      ],
+      "answer": "B. Vì để đi được đường dài, chúng ta cần xen kẽ những khoảng thời gian nghỉ ngơi thay vì chỉ chạy nước rút."
+    },
+    {
+      "id": 3,
+      "question": "Tại sao con người thường vô thức chống lại việc dành thời gian để nghỉ ngơi?",
+      "options": [
+        "A. Vì nghỉ ngơi làm tốn chi phí và giảm thu nhập.",
+        "B. Vì họ sợ bị đánh giá là lười biếng và thiếu trách nhiệm.",
+        "C. Vì thời gian rảnh rỗi cho phép họ suy nghĩ và phải đối mặt với những sự thật mà họ muốn né tránh.",
+        "D. Vì nghỉ ngơi làm mất đi cảm giác bận rộn đầy tự hào."
+      ],
+      "answer": "C. Vì thời gian rảnh rỗi cho phép họ suy nghĩ và phải đối mặt với những sự thật mà họ muốn né tránh."
+    },
+    {
+      "id": 4,
+      "question": "Phương pháp \"Chạy-Đi\" được đề cập trong chương mang ý nghĩa gì khi áp dụng vào cuộc sống?",
+      "options": [
+        "A. Nên bỏ cuộc khi cảm thấy không thể đạt được mục tiêu.",
+        "B. Tạo ra một chuỗi những khoảng lặng để tự vấn và định hướng lại bản thân, từ đó tiến bộ nhanh hơn.",
+        "C. Chuyển đổi liên tục giữa các công việc khác nhau để không bị nhàm chán.",
+        "D. Giảm tiêu chuẩn và mục tiêu xuống mức thấp nhất để dễ dàng hoàn thành."
+      ],
+      "answer": "B. Tạo ra một chuỗi những khoảng lặng để tự vấn và định hướng lại bản thân, từ đó tiến bộ nhanh hơn."
+    }
+  ],
+  "05_4. Lạnh Cóng Giữa Mùa Xuân.md": [
+    {
+      "id": 1,
+      "question": "Trải nghiệm bị hoại tử do tê cóng vào mùa xuân của tác giả minh họa cho bài học gì?",
+      "options": [
+        "A. Thiên nhiên luôn ẩn chứa những nguy hiểm không thể lường trước.",
+        "B. Chúng ta dễ bị nhầm lẫn và chịu hậu quả khi để sự kỳ vọng che lấp hiện thực khách quan.",
+        "C. Dụng cụ bảo hộ trượt tuyết thường không hiệu quả khi thời tiết thay đổi.",
+        "D. Không nên thực hiện các hoạt động thể thao mạo hiểm vào thời điểm giao mùa."
+      ],
+      "answer": "B. Chúng ta dễ bị nhầm lẫn và chịu hậu quả khi để sự kỳ vọng che lấp hiện thực khách quan."
+    },
+    {
+      "id": 2,
+      "question": "\"Xu hướng tự chứng thực\" (confirmation bias) là gì theo giải thích trong bài?",
+      "options": [
+        "A. Hành vi luôn tin tưởng vào lời nói của những người có uy tín.",
+        "B. Thói quen tìm kiếm thông tin và bằng chứng để xác nhận rằng quan điểm có sẵn của mình là đúng.",
+        "C. Khả năng tự thuyết phục bản thân vượt qua nỗi sợ hãi.",
+        "D. Khuynh hướng chứng minh những sai lầm của người khác để bảo vệ bản thân."
+      ],
+      "answer": "B. Thói quen tìm kiếm thông tin và bằng chứng để xác nhận rằng quan điểm có sẵn của mình là đúng."
+    },
+    {
+      "id": 3,
+      "question": "Tại sao việc thay đổi nhận thức của người khác về một người (như trong trường hợp tư vấn nhân sự) lại vô cùng khó khăn?",
+      "options": [
+        "A. Vì con người bản chất là không bao giờ có thể thay đổi thật sự.",
+        "B. Vì sự thay đổi của một cá nhân diễn ra quá nhanh khiến tổ chức không theo kịp.",
+        "C. Vì một khi đã có định kiến, con người thường từ chối chấp nhận những thông tin mới trái ngược.",
+        "D. Vì thiếu các hệ thống đánh giá khách quan trong môi trường doanh nghiệp."
+      ],
+      "answer": "C. Vì một khi đã có định kiến, con người thường từ chối chấp nhận những thông tin mới trái ngược."
+    },
+    {
+      "id": 4,
+      "question": "Cách hiệu quả nhất để thoát khỏi \"cái bẫy của sự kỳ vọng\" là gì?",
+      "options": [
+        "A. Luôn tin tưởng tuyệt đối vào kinh nghiệm đã có từ quá khứ.",
+        "B. Chủ động tìm kiếm thông tin có thể chứng minh rằng quan điểm hiện tại của mình là sai.",
+        "C. Bảo vệ quan điểm của mình bằng mọi giá trong các cuộc tranh luận.",
+        "D. Bỏ qua các sự kiện hiện tại và chỉ tập trung vào việc lập kế hoạch tương lai."
+      ],
+      "answer": "B. Chủ động tìm kiếm thông tin có thể chứng minh rằng quan điểm hiện tại của mình là sai."
+    }
+  ],
+  "06_5. Đa Tính Cách Không Phải Là Một.md": [
+    {
+      "id": 1,
+      "question": "Nguyên nhân sâu xa khiến việc mất việc làm có thể dẫn đến những phản ứng cực đoan như tuyệt vọng hay tự sát là gì?",
+      "options": [
+        "A. Áp lực tài chính quá lớn không thể vượt qua trong thời gian ngắn.",
+        "B. Sự trừng phạt và khinh bỉ từ xã hội đối với người thất nghiệp.",
+        "C. Con người tự thu hẹp bản sắc của mình chỉ bằng công việc, khiến họ mất đi ý nghĩa tồn tại khi công việc không còn.",
+        "D. Do môi trường làm việc ngày càng trở nên độc hại và tàn nhẫn."
+      ],
+      "answer": "C. Con người tự thu hẹp bản sắc của mình chỉ bằng công việc, khiến họ mất đi ý nghĩa tồn tại khi công việc không còn."
+    },
+    {
+      "id": 2,
+      "question": "Theo bài đọc, việc \"đa dạng hóa bản thân\" có nghĩa là gì?",
+      "options": [
+        "A. Học hỏi nhiều kỹ năng kỹ thuật khác nhau để dễ xin việc.",
+        "B. Xây dựng và duy trì nhiều vai trò khác nhau trong cuộc sống (người cha, người bạn, nghệ sĩ, v.v.).",
+        "C. Tham gia đầu tư vào nhiều danh mục tài chính khác nhau.",
+        "D. Thường xuyên thay đổi công việc để có nhiều trải nghiệm mới mẻ."
+      ],
+      "answer": "B. Xây dựng và duy trì nhiều vai trò khác nhau trong cuộc sống (người cha, người bạn, nghệ sĩ, v.v.)."
+    },
+    {
+      "id": 3,
+      "question": "Việc đảm nhiệm nhiều vai trò cùng một lúc mang lại lợi ích gì cho hiệu suất công việc?",
+      "options": [
+        "A. Làm giảm đi sự tập trung, khiến bạn nhận ra công việc không quan trọng như bạn nghĩ.",
+        "B. Những kỹ năng và góc nhìn học được từ các vai trò khác nhau sẽ hỗ trợ và làm cho bạn giỏi hơn trong công việc.",
+        "C. Tạo ra sự cạnh tranh nội tâm, thúc đẩy tinh thần làm việc nhóm.",
+        "D. Khiến người sử dụng lao động lo sợ mất bạn và tăng lương cho bạn."
+      ],
+      "answer": "B. Những kỹ năng và góc nhìn học được từ các vai trò khác nhau sẽ hỗ trợ và làm cho bạn giỏi hơn trong công việc."
+    },
+    {
+      "id": 4,
+      "question": "Hành động cụ thể nào được tác giả đề xuất để củng cố các vai trò đa dạng của bản thân?",
+      "options": [
+        "A. Liệt kê các vai trò ra giấy và đọc nó mỗi sáng.",
+        "B. Nghỉ việc hiện tại để tìm kiếm một môi trường làm việc ít áp lực hơn.",
+        "C. Thiết lập ranh giới rõ ràng, như ngừng kiểm tra email và dành thời gian cho gia đình, bạn bè.",
+        "D. Tập trung làm việc cật lực để kiếm đủ tiền trước khi bắt đầu dành thời gian cho các vai trò khác."
+      ],
+      "answer": "C. Thiết lập ranh giới rõ ràng, như ngừng kiểm tra email và dành thời gian cho gia đình, bạn bè."
+    }
+  ],
+  "07_6. Tại Sao Chúng Ta Thích Susan Boyle.md": [
+    {
+      "id": 1,
+      "question": "Câu chuyện về hiện tượng Susan Boyle gợi lên khao khát sâu kín nào trong mỗi con người?",
+      "options": [
+        "A. Khát khao được xuất hiện trên truyền hình và trở nên nổi tiếng trên toàn thế giới.",
+        "B. Khát khao chứng tỏ rằng những người trẻ tuổi không thể hát hay bằng những người lớn tuổi.",
+        "C. Mong ước được mọi người thương hại và giúp đỡ vượt qua nghèo khó.",
+        "D. Niềm tin và hy vọng rằng bản thân mang một tiềm năng phi thường đằng sau vẻ ngoài bình thường."
+      ],
+      "answer": "D. Niềm tin và hy vọng rằng bản thân mang một tiềm năng phi thường đằng sau vẻ ngoài bình thường."
+    },
+    {
+      "id": 2,
+      "question": "Theo tác giả, cần có yếu tố cốt lõi nào để cho phép tài năng của mình được bộc lộ và đánh giá?",
+      "options": [
+        "A. Sự chuẩn bị về mặt tài chính và chiến lược marketing kỹ lưỡng.",
+        "B. Một ngoại hình đẹp và sự duyên dáng khi giao tiếp.",
+        "C. Lòng can đảm để chân thực phơi bày bản thân trước khả năng bị chế nhạo và thất bại.",
+        "D. Sự hứa hẹn từ ban tổ chức về một phần thưởng lớn."
+      ],
+      "answer": "C. Lòng can đảm để chân thực phơi bày bản thân trước khả năng bị chế nhạo và thất bại."
+    },
+    {
+      "id": 3,
+      "question": "Vai trò của những người ủng hộ (như mẹ hay người huấn luyện của Susan Boyle) là gì trong hành trình khám phá bản thân?",
+      "options": [
+        "A. Họ giúp che giấu những khuyết điểm để tạo ra một hình ảnh hoàn hảo trước công chúng.",
+        "B. Họ nhìn thấu tài năng thực sự, luôn tin tưởng và đưa ra những lời khuyên giúp hoàn thiện bản thân.",
+        "C. Họ là những người đứng ra giải quyết các vấn đề tài chính và rắc rối pháp lý.",
+        "D. Họ luôn khen ngợi và bảo vệ chúng ta khỏi những lời chỉ trích của người khác."
+      ],
+      "answer": "B. Họ nhìn thấu tài năng thực sự, luôn tin tưởng và đưa ra những lời khuyên giúp hoàn thiện bản thân."
+    },
+    {
+      "id": 4,
+      "question": "Việc \"an phận với những gì thấp hơn bản chất con người bạn\" mang lại hậu quả gì theo quan điểm của chương sách?",
+      "options": [
+        "A. Giúp cuộc sống bình yên nhưng không mang lại lợi ích thực sự cho cả bạn và người khác.",
+        "B. Tạo ra một cuộc sống ổn định và hạnh phúc lâu dài.",
+        "C. Khiến bạn bị xã hội đào thải ngay lập tức.",
+        "D. Giúp bảo toàn năng lượng để tập trung vào những việc lớn lao hơn."
+      ],
+      "answer": "A. Giúp cuộc sống bình yên nhưng không mang lại lợi ích thực sự cho cả bạn và người khác."
+    }
+  ],
+  "08_7. Bạn Không Cần Phải Thích Anh Ta.md": [
+    {
+      "id": 1,
+      "question": "\"Chuỗi phản ứng bản năng\" thường gây ra những kết quả không mong muốn trong giao tiếp được mô tả như thế nào?",
+      "options": [
+        "A. Sự việc -> Phản ứng -> Kết quả",
+        "B. Sự việc -> Kết quả -> Phản ứng",
+        "C. Cảm xúc -> Phản ứng -> Sự việc",
+        "D. Kết quả -> Phản ứng -> Sự việc"
+      ],
+      "answer": "A. Sự việc -> Phản ứng -> Kết quả"
+    },
+    {
+      "id": 2,
+      "question": "Cách thức mới (chuỗi tư duy hiệu quả) mà tác giả học được từ người chú của mình là gì?",
+      "options": [
+        "A. Thay đổi sự việc để tạo ra phản ứng tích cực.",
+        "B. Dừng lại suy nghĩ về kết quả mong muốn, sau đó mới chọn cách phản ứng.",
+        "C. Phản ứng ngay lập tức để giành lấy quyền chủ động điều khiển kết quả.",
+        "D. Loại bỏ hoàn toàn cảm xúc để chỉ tập trung vào công việc."
+      ],
+      "answer": "B. Dừng lại suy nghĩ về kết quả mong muốn, sau đó mới chọn cách phản ứng."
+    },
+    {
+      "id": 3,
+      "question": "Khi vợ của tác giả kể về những rắc rối, việc tác giả lắng nghe (thay vì đưa ra giải pháp) là ứng dụng của nguyên tắc nào?",
+      "options": [
+        "A. Nguyên tắc không can thiệp vào chuyện cá nhân của người khác.",
+        "B. Hành động dựa trên kết quả mong muốn (duy trì mối quan hệ bền vững) thay vì phản ứng bản năng (cố gắng giải quyết vấn đề).",
+        "C. Sự né tránh trách nhiệm khi không tìm ra cách giải quyết thỏa đáng.",
+        "D. Việc sử dụng khoảng lặng để khiến đối phương tự nhận ra lỗi của mình."
+      ],
+      "answer": "B. Hành động dựa trên kết quả mong muốn (duy trì mối quan hệ bền vững) thay vì phản ứng bản năng (cố gắng giải quyết vấn đề)."
+    },
+    {
+      "id": 4,
+      "question": "Việc chuyển sự tập trung từ \"Sự việc\" sang \"Kết quả\" có bản chất là sự thay đổi định hướng thời gian như thế nào?",
+      "options": [
+        "A. Chuyển từ việc sống trong hiện tại sang việc nuối tiếc quá khứ.",
+        "B. Chuyển từ việc lo lắng về tương lai sang việc chấp nhận hiện tại.",
+        "C. Chuyển từ hành động vì quá khứ (những gì đã xảy ra) sang hành động vì tương lai (điều mình muốn tạo ra).",
+        "D. Không có sự thay đổi về thời gian, chỉ thay đổi về thái độ."
+      ],
+      "answer": "C. Chuyển từ hành động vì quá khứ (những gì đã xảy ra) sang hành động vì tương lai (điều mình muốn tạo ra)."
+    }
+  ],
+  "09_II. Làm Gì Trong Năm Nay.md": [
+    {
+      "id": 1,
+      "question": "Sau khi dừng lại trải nghiệm nhiều lĩnh vực, tác giả phát hiện ra \"con đường trở lại mặt đất\" của mình là gì?",
+      "options": [
+        "A. Từ bỏ hoàn toàn nghề tư vấn để theo đuổi đam mê nghệ thuật diễn xuất.",
+        "B. Tìm ra một cách thức làm việc mới kết hợp được những sở thích, giá trị và điểm mạnh của bản thân vào chính nghề tư vấn.",
+        "C. Mở một chuỗi các công ty khác nhau để đa dạng hóa nguồn thu nhập.",
+        "D. Trở thành một người quản lý điều hành xuất sắc thay vì làm chuyên môn."
+      ],
+      "answer": "B. Tìm ra một cách thức làm việc mới kết hợp được những sở thích, giá trị và điểm mạnh của bản thân vào chính nghề tư vấn."
+    },
+    {
+      "id": 2,
+      "question": "Đâu là nguyên nhân cốt lõi khiến chúng ta dù làm việc chăm chỉ nhưng vẫn không tiến gần đến mục tiêu mong muốn?",
+      "options": [
+        "A. Thiếu định hướng và trọng tâm rõ ràng.",
+        "B. Kỹ năng quản lý thời gian kém và hay trì hoãn.",
+        "C. Khối lượng công việc quá lớn so với sức người.",
+        "D. Sự thiếu hợp tác từ đồng nghiệp và cấp trên."
+      ],
+      "answer": "A. Thiếu định hướng và trọng tâm rõ ràng."
+    },
+    {
+      "id": 3,
+      "question": "Để sử dụng thời gian một cách hợp lý và hiệu quả nhất, chúng ta nên tập trung vào đâu?",
+      "options": [
+        "A. Những công việc mang lại lợi ích tài chính ngay lập tức.",
+        "B. Điểm giao nhau của ưu điểm, khuyết điểm, sự khác biệt và đam mê.",
+        "C. Khắc phục triệt để mọi khuyết điểm của bản thân.",
+        "D. Những công việc mà xã hội đang đánh giá là quan trọng và xu hướng."
+      ],
+      "answer": "B. Điểm giao nhau của ưu điểm, khuyết điểm, sự khác biệt và đam mê."
+    },
+    {
+      "id": 4,
+      "question": "Thái độ nào cần thiết khi đối mặt với những sai lầm và thất bại trong quá trình đi tìm trọng tâm của bản thân?",
+      "options": [
+        "A. Từ bỏ ngay khi gặp thất bại để không lãng phí thêm thời gian.",
+        "B. Bỏ qua thất bại và tiếp tục làm việc mù quáng với hy vọng thành công sẽ đến.",
+        "C. Lường trước khó khăn và chấp nhận sai lầm như một phần tất yếu của quá trình khám phá.",
+        "D. Đổ lỗi cho các yếu tố bên ngoài để bảo vệ sự tự tin của bản thân."
+      ],
+      "answer": "C. Lường trước khó khăn và chấp nhận sai lầm như một phần tất yếu của quá trình khám phá."
+    }
+  ],
+  "10_8. Làm Gì Khi Bạn Không Biết Phải Làm.md": [
+    {
+      "id": 1,
+      "question": "Câu chuyện về những người sáng lập Facebook và Google chứng minh điều gì về việc lập kế hoạch?",
+      "options": [
+        "A. Một bản kế hoạch kinh doanh chi tiết là yếu tố bắt buộc để khởi nghiệp.",
+        "B. Đôi khi bắt đầu hành động dựa trên đam mê và tài năng quan trọng hơn việc có một kế hoạch kiếm tiền rõ ràng từ đầu.",
+        "C. Thành công vĩ đại luôn là kết quả của việc tiên đoán chính xác tương lai 10 năm.",
+        "D. Các dự án công nghệ không cần bất kỳ sự suy tính nào về tương lai."
+      ],
+      "answer": "B. Đôi khi bắt đầu hành động dựa trên đam mê và tài năng quan trọng hơn việc có một kế hoạch kiếm tiền rõ ràng từ đầu."
+    },
+    {
+      "id": 2,
+      "question": "Nghiên cứu về việc chọn mứt của giáo sư Sheena Iyengar phản ánh vấn đề tâm lý nào?",
+      "options": [
+        "A. Khách hàng luôn thích mua mứt có hương vị truyền thống.",
+        "B. Khi có quá nhiều sự lựa chọn, con người dễ bị \"tê liệt\" và không đưa ra quyết định nào.",
+        "C. Việc giới hạn lựa chọn làm giảm chất lượng của các quyết định mua hàng.",
+        "D. Con người có khả năng xử lý thông tin vô hạn khi được trao quyền quyết định."
+      ],
+      "answer": "B. Khi có quá nhiều sự lựa chọn, con người dễ bị \"tê liệt\" và không đưa ra quyết định nào."
+    },
+    {
+      "id": 3,
+      "question": "Khi không có một kế hoạch rõ ràng cho tương lai, bước đi tốt nhất để bắt đầu là gì?",
+      "options": [
+        "A. Dừng mọi hoạt động lại cho đến khi viết ra được mục tiêu 5 năm kế tiếp.",
+        "B. Bắt chước con đường thành công của người khác để giảm thiểu rủi ro.",
+        "C. Tập trung vào vị trí hiện tại, trải nghiệm và hành động tại điểm giao nhau của 4 yếu tố sức mạnh (ưu, khuyết, sự khác biệt, đam mê).",
+        "D. Chọn công việc nào trả lương cao nhất để tích lũy tư bản trước."
+      ],
+      "answer": "C. Tập trung vào vị trí hiện tại, trải nghiệm và hành động tại điểm giao nhau của 4 yếu tố sức mạnh (ưu, khuyết, sự khác biệt, đam mê)."
+    },
+    {
+      "id": 4,
+      "question": "Tác giả đã giải quyết \"nhược điểm\" lo lắng thái quá về sự an toàn của mình như thế nào trong sự nghiệp?",
+      "options": [
+        "A. Ông tìm đến bác sĩ tâm lý để điều trị chứng lo âu.",
+        "B. Ông tránh xa mọi công việc liên quan đến môi trường nguy hiểm.",
+        "C. Ông biến nó thành một \"điểm cộng\" khi dẫn dắt các hoạt động ngoài trời cho đội nhóm.",
+        "D. Ông che giấu nó để không làm ảnh hưởng đến hình ảnh của một người lãnh đạo."
+      ],
+      "answer": "C. Ông biến nó thành một \"điểm cộng\" khi dẫn dắt các hoạt động ngoài trời cho đội nhóm."
+    }
+  ],
+  "11_9. Tái Lập Trò Chơi.md": [
+    {
+      "id": 1,
+      "question": "Thông điệp chính đằng sau các câu chuyện về vua David, đội bóng chày Oakland A's và nhà lập trình Doug Lenat là gì?",
+      "options": [
+        "A. Yếu tố may mắn quyết định phần lớn các cuộc chiến trong cuộc sống.",
+        "B. Nếu không thể thắng bằng luật lệ thông thường, hãy thay đổi luật và chơi trò chơi phù hợp với ưu điểm của bạn.",
+        "C. Kẻ yếu không bao giờ có thể chiến thắng nếu không có sự can thiệp của người thứ ba.",
+        "D. Công nghệ là chìa khóa duy nhất để đánh bại các đối thủ khổng lồ."
+      ],
+      "answer": "B. Nếu không thể thắng bằng luật lệ thông thường, hãy thay đổi luật và chơi trò chơi phù hợp với ưu điểm của bạn."
+    },
+    {
+      "id": 2,
+      "question": "Trong câu chuyện về đội bóng Oakland A's, họ đã làm gì để giành chiến thắng trước các đội bóng giàu có hơn?",
+      "options": [
+        "A. Họ huy động được nguồn tài trợ ẩn từ các tỷ phú công nghệ.",
+        "B. Họ tập trung chiêu mộ những cầu thủ nổi tiếng với mức giá rẻ do dính scandal.",
+        "C. Họ phát hiện và áp dụng một hệ thống tiêu chí đánh giá cầu thủ mới bị các đội khác bỏ qua.",
+        "D. Họ huấn luyện cầu thủ của mình chơi với lối chơi bạo lực để áp đảo đối phương."
+      ],
+      "answer": "C. Họ phát hiện và áp dụng một hệ thống tiêu chí đánh giá cầu thủ mới bị các đội khác bỏ qua."
+    },
+    {
+      "id": 3,
+      "question": "Tại sao những người yếu thế (như các doanh nhân không có bằng đại học) lại thường thành lập công ty riêng?",
+      "options": [
+        "A. Vì họ muốn tận dụng những ưu điểm độc nhất của mình bằng cách tự thiết kế trò chơi mà họ có thể thắng.",
+        "B. Vì luật pháp ưu đãi thuế cho những người khởi nghiệp tay trắng.",
+        "C. Vì họ muốn trả thù những công ty đã từ chối tuyển dụng họ.",
+        "D. Vì chi phí thành lập công ty rất rẻ và không đòi hỏi nhiều nỗ lực."
+      ],
+      "answer": "A. Vì họ muốn tận dụng những ưu điểm độc nhất của mình bằng cách tự thiết kế trò chơi mà họ có thể thắng."
+    },
+    {
+      "id": 4,
+      "question": "Lý do chính khiến 70% bên yếu hơn thất bại trong chiến tranh (theo nghiên cứu của Ivan Arreguin-Toft) là gì?",
+      "options": [
+        "A. Bị nội bộ phản bội ngay trong lúc chiến đấu.",
+        "B. Thiếu kinh phí duy trì quân đội lâu dài.",
+        "C. Chơi theo nguyên tắc và cách thức thông thường của kẻ mạnh hơn.",
+        "D. Vũ khí quá lạc hậu và không chịu áp dụng kỹ thuật mới."
+      ],
+      "answer": "C. Chơi theo nguyên tắc và cách thức thông thường của kẻ mạnh hơn."
+    }
+  ],
+  "12_10. Tôi Sẽ Lấy Con Tôm.md": [
+    {
+      "id": 1,
+      "question": "Tính \"keo kiệt\" (hoặc tiết kiệm khắc nghiệt) của người bạn triệu phú Geoff được tác giả nhìn nhận như thế nào?",
+      "options": [
+        "A. Là một rào cản khiến anh không thể hạnh phúc trọn vẹn.",
+        "B. Là một thói quen xấu cần được che giấu trước đối tác kinh doanh.",
+        "C. Là nguồn sức mạnh cốt lõi và là bí quyết góp phần tạo nên sự thành công rực rỡ của anh.",
+        "D. Là triệu chứng của một căn bệnh tâm lý ám ảnh cưỡng chế."
+      ],
+      "answer": "C. Là nguồn sức mạnh cốt lõi và là bí quyết góp phần tạo nên sự thành công rực rỡ của anh."
+    },
+    {
+      "id": 2,
+      "question": "Tại sao người nổi tiếng được đề cập trong chương lại thường khoe khoang về các mối quan hệ của mình?",
+      "options": [
+        "A. Để cố gắng lừa gạt tác giả đầu tư vào dự án mới.",
+        "B. Vì cảm giác bất an từ bên trong, chính cảm giác này cũng là động lực thúc đẩy anh ta vươn tới đỉnh cao.",
+        "C. Đó là một chiến lược quảng cáo PR đã được chuẩn bị kỹ lưỡng.",
+        "D. Do anh ta thiếu kiến thức chuyên môn và muốn dùng quan hệ để bù đắp."
+      ],
+      "answer": "B. Vì cảm giác bất an từ bên trong, chính cảm giác này cũng là động lực thúc đẩy anh ta vươn tới đỉnh cao."
+    },
+    {
+      "id": 3,
+      "question": "Nhà cải cách sức khỏe cộng đồng đã tận dụng \"điểm dị thường\" nào để tạo ra tác động vĩ đại?",
+      "options": [
+        "A. Sự ám ảnh chi tiết về vi khuẩn học.",
+        "B. Khả năng nhìn thế giới một cách đơn giản, rạch ròi đúng sai thay vì sa đà vào các màu xám phức tạp.",
+        "C. Sở thích kết bạn với các chính trị gia cấp cao.",
+        "D. Khả năng thao túng truyền thông một cách chuyên nghiệp."
+      ],
+      "answer": "B. Khả năng nhìn thế giới một cách đơn giản, rạch ròi đúng sai thay vì sa đà vào các màu xám phức tạp."
+    },
+    {
+      "id": 4,
+      "question": "Lời khuyên trọng tâm của tác giả về cách đối xử với khuyết điểm cá nhân là gì?",
+      "options": [
+        "A. Tập trung toàn bộ thời gian rảnh để sửa chữa và loại bỏ chúng.",
+        "B. Ngụy trang chúng cẩn thận để duy trì hình ảnh chuyên nghiệp.",
+        "C. Chỉ thừa nhận chúng với những người thật sự thân thiết.",
+        "D. Chấp nhận và tìm cách biến chúng thành nguồn sức mạnh, thành tài sản độc đáo của bản thân."
+      ],
+      "answer": "D. Chấp nhận và tìm cách biến chúng thành nguồn sức mạnh, thành tài sản độc đáo của bản thân."
+    }
+  ]
+}

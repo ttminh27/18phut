@@ -1,0 +1,978 @@
+{
+  "45_41. Obama Có Đeo Dây Chuyền Ngọc.md": [
+    {
+      "id": 1,
+      "question": "Tác giả đã làm gì để dỗ con gái Isabelle khi cô bé khóc vì bị em trai giật cây bút dạ?",
+      "options": [
+        "Giải thích rằng em trai còn nhỏ chưa biết gì",
+        "Đưa cho cô bé một cây bút dạ khác",
+        "Hỏi cô bé về hình ảnh trên chiếc áo cô đang mặc",
+        "Phạt cậu em trai vì đã giành đồ của chị"
+      ],
+      "answer": "Hỏi cô bé về hình ảnh trên chiếc áo cô đang mặc",
+      "explanation": "Tác giả ban đầu sử dụng các lý lẽ thông thường như giải thích em còn nhỏ hay đã đến giờ ăn sáng. Tuy nhiên, cách dỗ dành này hoàn toàn thất bại trong việc làm cô bé ngừng khóc."
+    },
+    {
+      "id": 2,
+      "question": "Thí nghiệm về kẹo dẻo nổi tiếng được thực hiện bởi ai?",
+      "options": [
+        "Walter Mischel",
+        "Daniel Goleman",
+        "Sigmund Freud",
+        "B.F. Skinner"
+      ],
+      "answer": "Walter Mischel",
+      "explanation": "Thay vì tiếp tục dỗ dành, tác giả đột ngột hỏi về hình in trên chiếc áo bé đang mặc. Sự chuyển hướng chú ý này ngay lập tức khiến bé tò mò, bật cười và quên đi cơn giận."
+    },
+    {
+      "id": 3,
+      "question": "Theo nghiên cứu, những đứa trẻ có thể trì hoãn việc ăn kẹo dẻo có kết quả gì khi lớn lên?",
+      "options": [
+        "Chúng có xu hướng trở thành bác sĩ tâm lý",
+        "Điểm thi SAT trung bình cao hơn 210 điểm",
+        "Chúng có ít mối quan hệ bạn bè hơn",
+        "Chúng không thích ăn đồ ngọt nữa"
+      ],
+      "answer": "Điểm thi SAT trung bình cao hơn 210 điểm",
+      "explanation": "Thí nghiệm được thiết kế để tìm hiểu nguyên nhân tại sao một số đứa trẻ có thể cưỡng lại cám dỗ ban đầu. Mục tiêu là khám phá bí quyết đằng sau khả năng trì hoãn sự thỏa mãn."
+    },
+    {
+      "id": 4,
+      "question": "Bí quyết giúp những đứa trẻ trong thí nghiệm có thể cưỡng lại việc ăn kẹo dẻo là gì?",
+      "options": [
+        "Chúng có ý chí và kỷ luật cao hơn",
+        "Chúng sử dụng kỹ năng xao nhãng, tự đánh lạc hướng bản thân",
+        "Chúng rất sợ người tiến hành thí nghiệm",
+        "Chúng được dặn dò kỹ lưỡng từ trước"
+      ],
+      "answer": "Chúng sử dụng kỹ năng xao nhãng, tự đánh lạc hướng bản thân",
+      "explanation": "Khác với suy nghĩ thông thường về ý chí hay kỷ luật, bí quyết thực sự là khả năng tự đánh lạc hướng bản thân. Những đứa trẻ thành công đã chủ động làm việc khác như che mắt hay ca hát để không nghĩ đến viên kẹo."
+    },
+    {
+      "id": 5,
+      "question": "Theo tác giả, chúng ta đối diện với hai thử thách nào khi kiểm soát hành vi?",
+      "options": [
+        "Thử thách của việc bắt đầu và thử thách của sự kiềm chế",
+        "Thử thách của sự tập trung và thử thách của sự ghi nhớ",
+        "Thử thách của sức khỏe và thử thách của công việc",
+        "Thử thách của gia đình và thử thách của xã hội"
+      ],
+      "answer": "Thử thách của việc bắt đầu và thử thách của sự kiềm chế",
+      "explanation": "Việc cố gắng dùng ý chí để kháng cự lại cám dỗ thường phản tác dụng, giống như cố không nghĩ về 'con voi màu trắng'. Sự tập trung vào việc kiềm chế nghịch lý thay lại khiến ta càng ám ảnh và dễ nhượng bộ hơn."
+    },
+    {
+      "id": 6,
+      "question": "Để chứng minh việc dùng ý chí để cưỡng lại cám dỗ thường thất bại, tác giả đã đưa ra ví dụ gì?",
+      "options": [
+        "Cố gắng không nghĩ về con voi màu trắng",
+        "Cố gắng không ăn chiếc bánh kem",
+        "Cố gắng không nhìn vào viên kẹo dẻo",
+        "Cố gắng không ngủ trong giờ làm việc"
+      ],
+      "answer": "Cố gắng không nghĩ về con voi màu trắng",
+      "explanation": "Đây là cốt lõi của phương pháp quản lý hành vi: sự tập trung cần thiết để bắt đầu công việc. Ngược lại, để tránh làm một việc không mong muốn, tạo ra sự xao nhãng là cách hiệu quả nhất."
+    },
+    {
+      "id": 7,
+      "question": "Quy tắc cốt lõi mà tác giả rút ra về việc kiểm soát hành vi là gì?",
+      "options": [
+        "Luôn tập trung cao độ trong mọi hoàn cảnh",
+        "Khi muốn làm gì đó, hãy tập trung; khi không muốn làm, hãy xao nhãng",
+        "Phải rèn luyện ý chí sắt đá để vượt qua mọi cám dỗ",
+        "Xao nhãng là kẻ thù của năng suất làm việc"
+      ],
+      "answer": "Khi muốn làm gì đó, hãy tập trung; khi không muốn làm, hãy xao nhãng",
+      "explanation": "Việc liên tục theo dõi tin tức tiêu cực chỉ làm tăng thêm sự lo lắng và căng thẳng. Do đó, giải pháp tốt nhất là chủ động đánh lạc hướng bản thân bằng các hoạt động tích cực khác."
+    },
+    {
+      "id": 8,
+      "question": "Trong thời đại sợ hãi hiện nay, phản ứng thường thấy nhưng sai lầm của con người là gì?",
+      "options": [
+        "Đi dạo ngoài trời để quên đi nỗi sợ",
+        "Chơi với trẻ em để giảm bớt căng thẳng",
+        "Càng lo sợ, càng tìm đọc nhiều về căn nguyên của nỗi sợ",
+        "Tập trung hoàn toàn vào công việc"
+      ],
+      "answer": "Càng lo sợ, càng tìm đọc nhiều về căn nguyên của nỗi sợ",
+      "explanation": "Thay vì cố gắng trực tiếp thay đổi thói quen quản lý vi mô của Phillip, tác giả đề xuất giao cho anh một dự án đúng đam mê. Điều này tạo ra 'sự phân tâm có chủ ý', giúp anh bận rộn và bớt can thiệp vào công việc cấp dưới."
+    },
+    {
+      "id": 9,
+      "question": "Tác giả đã tư vấn cho vị CEO giải quyết vấn đề quản lý vi mô (micromanaging) của nhân viên Phillip như thế nào?",
+      "options": [
+        "Đuổi việc Phillip ngay lập tức",
+        "Giao cho Phillip phụ trách một nhóm về môi trường để làm anh ta phân tâm",
+        "Mở một khóa đào tạo về kỹ năng quản lý cho Phillip",
+        "Yêu cầu Phillip viết báo cáo chi tiết hàng tuần"
+      ],
+      "answer": "Giao cho Phillip phụ trách một nhóm về môi trường để làm anh ta phân tâm",
+      "explanation": "Chương sách đảo ngược quan niệm thông thường về sự phân tâm. Nó chứng minh rằng khi được sử dụng có chủ đích, sự xao nhãng chính là chìa khóa để vượt qua cám dỗ và kiểm soát hành vi."
+    },
+    {
+      "id": 10,
+      "question": "Tác giả định nghĩa bản chất của sự phân tâm (xao nhãng) một cách có chủ ý là gì?",
+      "options": [
+        "Là sự thiếu ý chí và kỷ luật",
+        "Là việc từ bỏ mục tiêu ban đầu",
+        "Để xao nhãng khỏi việc X, bạn cần phải tập trung vào việc Y",
+        "Là sự lãng phí thời gian vào những việc vô bổ"
+      ],
+      "answer": "Để xao nhãng khỏi việc X, bạn cần phải tập trung vào việc Y",
+      "explanation": "Tác giả nhấn mạnh rằng để xao nhãng khỏi một việc, bản chất là bạn đang phải tập trung cao độ vào một việc khác. Vì vậy, phân tâm và tập trung thực chất là hai mặt của cùng một đồng xu."
+    }
+  ],
+  "46_42. Bạn Có Phê Thuốc Khi Đang Làm.md": [
+    {
+      "id": 1,
+      "question": "Tác giả đã quyết định thử nghiệm điều gì trong vòng một tuần?",
+      "options": [
+        "Làm việc 12 tiếng mỗi ngày",
+        "Không sử dụng email và điện thoại",
+        "Không làm nhiều việc cùng một lúc (multitasking)",
+        "Chỉ ăn chay và tập thể dục"
+      ],
+      "answer": "Không làm nhiều việc cùng một lúc (multitasking)",
+      "explanation": "Nghiên cứu cho thấy việc thực hiện nhiều công việc cùng lúc, cụ thể là kiểm tra email liên tục, làm giảm 10 điểm IQ của người lao động. Mức độ suy giảm này tương đương với tác động của việc thiếu ngủ."
+    },
+    {
+      "id": 2,
+      "question": "Trong quá trình thử nghiệm, tác giả nhận ra điều gì khi dành thời gian cho các con?",
+      "options": [
+        "Cảm thấy nhàm chán và muốn quay lại làm việc",
+        "Gắn bó sâu sắc hơn và thật sự hiện diện cùng chúng",
+        "Bọn trẻ không thích tác giả ở nhà quá nhiều",
+        "Tác giả dễ nổi cáu hơn bình thường"
+      ],
+      "answer": "Gắn bó sâu sắc hơn và thật sự hiện diện cùng chúng",
+      "explanation": "Kết quả nghiên cứu chỉ ra rằng tác động tiêu cực của việc làm nhiều việc cùng lúc đối với nhận thức còn trầm trọng hơn cả việc hút cần sa. Điều này nhấn mạnh mức độ nguy hại của thói quen phân tán sự chú ý."
+    },
+    {
+      "id": 3,
+      "question": "Đối với những loại công việc đòi hỏi phải đầu tư suy nghĩ như viết lách hay lập chiến lược, phương pháp làm từng việc một mang lại kết quả gì?",
+      "options": [
+        "Tiến bộ đáng kể do cự tuyệt sự xao nhãng",
+        "Bị chậm tiến độ do thiếu thông tin từ email",
+        "Tác giả không thể hoàn thành vì quá tập trung vào gia đình",
+        "Không có sự thay đổi nào rõ rệt"
+      ],
+      "answer": "Tiến bộ đáng kể do cự tuyệt sự xao nhãng",
+      "explanation": "Con người thực chất không thể xử lý song song nhiều việc cùng một lúc. Thay vào đó, bộ não phải liên tục chuyển đổi trạng thái giữa các nhiệm vụ, dẫn đến sự kém hiệu quả và tiêu hao năng lượng."
+    },
+    {
+      "id": 4,
+      "question": "Nghiên cứu được tác giả trích dẫn chỉ ra rằng làm nhiều việc cùng lúc có tác động tâm lý như thế nào?",
+      "options": [
+        "Giúp con người nhạy bén hơn",
+        "Kích thích sự sáng tạo tối đa",
+        "Gây ra căng thẳng (stress)",
+        "Tạo cảm giác thành tựu lớn hơn"
+      ],
+      "answer": "Gây ra căng thẳng (stress)",
+      "explanation": "Việc liên tục chuyển đổi sự chú ý khiến não bộ phải khởi động lại quá trình xử lý nhiều lần. Hậu quả là tổng thời gian hoàn thành công việc kéo dài hơn và năng suất giảm tới 40%."
+    },
+    {
+      "id": 5,
+      "question": "Khi ngừng làm nhiều việc cùng lúc, thái độ của tác giả đối với những cuộc họp kéo dài hoặc vô nghĩa thay đổi ra sao?",
+      "options": [
+        "Trở nên kiên nhẫn và biết lắng nghe hơn",
+        "Mất hết kiên nhẫn và cảm thấy mau chán hơn",
+        "Tìm cách lảng tránh bằng cách bấm điện thoại",
+        "Thích thú tham gia để giết thời gian"
+      ],
+      "answer": "Mất hết kiên nhẫn và cảm thấy mau chán hơn",
+      "explanation": "Khi từ bỏ việc kiểm tra điện thoại liên tục, tác giả nhận ra mình thực sự hiện diện trong khoảnh khắc hiện tại. Điều này giúp ông kết nối tốt hơn với gia đình và tận hưởng được những điều bình dị xung quanh."
+    },
+    {
+      "id": 6,
+      "question": "Mặt trái (tác hại) của việc KHÔNG làm nhiều việc một lúc theo quan sát của tác giả sau một tuần là gì?",
+      "options": [
+        "Bị sếp phàn nàn vì trả lời email chậm",
+        "Bỏ lỡ nhiều hợp đồng quan trọng",
+        "Hoàn toàn không có mặt trái nào",
+        "Cảm thấy bị cô lập với đồng nghiệp"
+      ],
+      "answer": "Hoàn toàn không có mặt trái nào",
+      "explanation": "Làm nhiều việc cùng lúc tạo ra áp lực liên tục do phải duy trì sự chú ý vào nhiều luồng thông tin. Bằng cách tập trung hoàn thành từng việc một, tác giả cảm nhận được sự thanh thản và nhẹ nhõm."
+    },
+    {
+      "id": 7,
+      "question": "Theo tác giả, lý do khiến chúng ta khó cưỡng lại ý muốn làm nhiều việc cùng lúc là gì?",
+      "options": [
+        "Do yêu cầu công việc ngày nay quá cao",
+        "Do bộ não hoạt động nhanh hơn rất nhiều so với thế giới bên ngoài, tạo cảm giác dư thừa năng lực",
+        "Do chúng ta luôn muốn chứng tỏ bản thân xuất sắc",
+        "Do sợ bị đánh giá là lười biếng"
+      ],
+      "answer": "Do bộ não hoạt động nhanh hơn rất nhiều so với thế giới bên ngoài, tạo cảm giác dư thừa năng lực",
+      "explanation": "Khi không còn tự làm mình phân tâm bằng các việc khác, tác giả buộc phải đối diện trực tiếp với sự trì trệ của cuộc họp. Sự tập trung toàn bộ này khiến ông nhanh chóng nhận ra và chán nản với những khoảng thời gian bị lãng phí vô ích."
+    },
+    {
+      "id": 8,
+      "question": "Năng lực trí tuệ mà chúng ta lầm tưởng là \"dư thừa\" khi đang nghe ai đó nói thực chất đang được dùng để làm gì?",
+      "options": [
+        "Đánh giá tình huống, vận dụng sáng tạo và giữ kết nối",
+        "Chuẩn bị câu trả lời để phản bác",
+        "Ghi nhớ các thông tin chi tiết",
+        "Không làm gì cả, thực sự là nó đang nghỉ ngơi"
+      ],
+      "answer": "Đánh giá tình huống, vận dụng sáng tạo và giữ kết nối",
+      "explanation": "Tốc độ xử lý của não bộ nhanh hơn nhiều so với tốc độ tiếp nhận thông tin từ môi trường. Khoảng trống này tạo ra ảo giác rằng ta có dư thừa năng lực và thời gian để làm thêm việc khác."
+    },
+    {
+      "id": 9,
+      "question": "Một trong những cách tác giả đề xuất để chống lại ham muốn làm nhiều việc cùng lúc là gì?",
+      "options": [
+        "Uống nhiều cà phê để tăng tập trung",
+        "Nhờ đồng nghiệp giám sát lẫn nhau",
+        "Đặt ra những thời hạn ngắn đến mức không thực tế",
+        "Dùng phần mềm khóa các trang web giải trí"
+      ],
+      "answer": "Đặt ra những thời hạn ngắn đến mức không thực tế",
+      "explanation": "Bằng cách thu hẹp đáng kể thời gian cho phép, tác giả tạo ra áp lực tích cực buộc bản thân phải tập trung cao độ. Khi thời gian quá gấp rút, ta sẽ không còn tâm trí hay cơ hội để xao nhãng sang việc khác."
+    },
+    {
+      "id": 10,
+      "question": "Tác giả đã kết thúc chương bằng hình ảnh mình đang vừa làm việc vừa chiều theo ý muốn của cậu con trai 2 tuổi để chứng minh điều gì?",
+      "options": [
+        "Rằng trẻ em luôn làm gián đoạn công việc",
+        "Rằng phương pháp của ông hoàn toàn thất bại",
+        "Rằng ông là một người cha tuyệt vời",
+        "Rằng chúng ta không hoàn hảo và đôi khi ôm đồm một chút cũng không sao"
+      ],
+      "answer": "Rằng chúng ta không hoàn hảo và đôi khi ôm đồm một chút cũng không sao",
+      "explanation": "Tác giả khẳng định nguyên tắc chung là nên tránh làm nhiều việc cùng lúc vì tính kém hiệu quả của nó. Tuy nhiên, ông cũng thừa nhận rằng trong thực tế cuộc sống, đôi khi ta vẫn phải chấp nhận sự linh hoạt."
+    }
+  ],
+  "47_43. Vấn Đề Không Phải Là Những Kỹ.md": [
+    {
+      "id": 1,
+      "question": "Theo Hệ thống Dữ liệu Hạnh phúc Thế giới, quốc gia nào được đánh giá là nơi hạnh phúc nhất?",
+      "options": [
+        "Đan Mạch",
+        "Thụy Sĩ",
+        "Iceland",
+        "Phần Lan"
+      ],
+      "answer": "Iceland",
+      "explanation": "Dữ liệu Hạnh phúc Thế giới đánh giá Iceland là quốc gia hạnh phúc nhất thế giới bất chấp thời tiết u ám. Điều này cho thấy hạnh phúc không phụ thuộc hoàn toàn vào điều kiện khách quan."
+    },
+    {
+      "id": 2,
+      "question": "Tác giả Eric Weiner phát hiện ra bí quyết hạnh phúc của người dân quốc gia trên là gì?",
+      "options": [
+        "Khí hậu ấm áp và cảnh quan tươi đẹp",
+        "Nền kinh tế phát triển mạnh mẽ",
+        "Văn hóa của họ không nhấn mạnh sự thất bại",
+        "Họ có hệ thống giáo dục tốt nhất thế giới"
+      ],
+      "answer": "Văn hóa của họ không nhấn mạnh sự thất bại",
+      "explanation": "Ở Iceland, văn hóa không lên án sự thất bại, giúp người dân dám theo đuổi đam mê mà không sợ hãi. Sự thoải mái này giải phóng sức sáng tạo và mang lại hạnh phúc cho họ."
+    },
+    {
+      "id": 3,
+      "question": "Nhà tâm lý học Mihaly Csikszentmihalyi cho rằng điều gì thực sự quyết định cách chúng ta cảm nhận và hành động?",
+      "options": [
+        "Những kỹ năng thực tế mà chúng ta đang sở hữu",
+        "Số lượng bằng cấp mà chúng ta có",
+        "Những kỹ năng mà chúng ta nghĩ (tin rằng) mình có",
+        "Lời đánh giá từ những người xung quanh"
+      ],
+      "answer": "Những kỹ năng mà chúng ta nghĩ (tin rằng) mình có",
+      "explanation": "Theo Mihaly Csikszentmihalyi, niềm tin vào năng lực của bản thân quan trọng hơn kỹ năng thực tế. Khi tin rằng mình làm được, bạn sẽ có động lực để bắt tay vào hành động."
+    },
+    {
+      "id": 4,
+      "question": "Tác giả đưa ra ví dụ về hệ thống kinh tế quốc gia và ca phẫu thuật tim để chứng minh điều gì?",
+      "options": [
+        "Đó là những lĩnh vực đem lại thu nhập cao nhất",
+        "Đó là những thời điểm, sự việc mà chúng ta không thể chấp nhận sự thất bại",
+        "Đó là những ngành nghề đòi hỏi sự sáng tạo nhất",
+        "Đó là những minh chứng cho chủ nghĩa hoàn hảo"
+      ],
+      "answer": "Đó là những thời điểm, sự việc mà chúng ta không thể chấp nhận sự thất bại",
+      "explanation": "Có những lĩnh vực đòi hỏi sự chính xác tuyệt đối và không được phép sai sót. Tuy nhiên, tác giả nhấn mạnh đây chỉ là số ít, còn đa số các dự án khác đều có thể chấp nhận thất bại như một bước khởi đầu."
+    },
+    {
+      "id": 5,
+      "question": "Vấn đề cốt lõi khiến Raphael, bạn của tác giả, mãi không bắt đầu công việc dạy đàn ghi-ta là gì?",
+      "options": [
+        "Anh ấy là người theo chủ nghĩa cầu toàn",
+        "Anh ấy không có tiền mua nhạc cụ",
+        "Anh ấy quá bận rộn với công việc hiện tại",
+        "Không có ai đăng ký học anh ấy"
+      ],
+      "answer": "Anh ấy là người theo chủ nghĩa cầu toàn",
+      "explanation": "Chủ nghĩa hoàn hảo khiến Raphael tự ti về khả năng hiện tại và ngần ngại không dám bắt đầu. Đây là rào cản tâm lý ngăn cản chúng ta đưa ý tưởng vào thực tế."
+    },
+    {
+      "id": 6,
+      "question": "Theo tác giả, thế giới này không tưởng thưởng sự hoàn hảo, mà tưởng thưởng điều gì?",
+      "options": [
+        "Sự chăm chỉ",
+        "Tính hiệu quả",
+        "Lòng dũng cảm",
+        "Sự hy sinh"
+      ],
+      "answer": "Tính hiệu quả",
+      "explanation": "Thế giới không quan tâm đến một ý tưởng hoàn hảo nằm trên giấy, mà đánh giá cao những người bắt tay vào hành động để tạo ra kết quả. Tính hiệu quả luôn thực tế và có giá trị hơn sự hoàn hảo viển vông."
+    },
+    {
+      "id": 7,
+      "question": "Tác giả khuyên nên làm gì để bắt đầu thoát khỏi chủ nghĩa hoàn hảo (ý tưởng thứ nhất)?",
+      "options": [
+        "Phải lên kế hoạch chi tiết cho một dự án lớn",
+        "Đừng cố làm một việc lớn cho đúng, hãy chọn mục tiêu nhỏ và cứ bắt đầu trước đã",
+        "Tìm một chuyên gia giỏi nhất để tư vấn",
+        "Chờ đợi đến khi có đủ kỹ năng mới làm"
+      ],
+      "answer": "Đừng cố làm một việc lớn cho đúng, hãy chọn mục tiêu nhỏ và cứ bắt đầu trước đã",
+      "explanation": "Bắt đầu với những bước đi rất nhỏ giúp bạn dễ dàng đạt được thành công ban đầu. Sự thành công liên tục này sẽ xây dựng sự tự tin để bạn tiếp tục theo đuổi các mục tiêu lớn hơn."
+    },
+    {
+      "id": 8,
+      "question": "Câu chuyện về vợ tác giả, Eleanor, và những cuốn sách dạy làm cha mẹ mang lại bài học gì?",
+      "options": [
+        "Nên áp dụng tất cả các phương pháp trong sách",
+        "Sách là nguồn tri thức đáng tin cậy nhất để nuôi dạy con",
+        "Chỉ khi vứt sách đi và tự tìm ra cách riêng, cô ấy mới thấy tự tin và hiệu quả",
+        "Cần tham gia các khóa học chuyên sâu về nuôi dạy trẻ"
+      ],
+      "answer": "Chỉ khi vứt sách đi và tự tìm ra cách riêng, cô ấy mới thấy tự tin và hiệu quả",
+      "explanation": "Sự bối rối của vợ tác giả trước quá nhiều lời khuyên cho thấy không có một chuẩn mực chung nào cho mọi việc. Đôi khi, từ bỏ việc tìm kiếm một 'câu trả lời hoàn hảo' lại là cách tốt nhất để tìm ra giải pháp phù hợp với bản thân."
+    },
+    {
+      "id": 9,
+      "question": "Tiêu chuẩn vàng mới mà tác giả đề xuất để thay thế sự hoàn hảo là gì?",
+      "options": [
+        "Tuyệt đối không có sai sót",
+        "Vừa đủ tốt",
+        "Xuất sắc vượt trội",
+        "Nhanh nhất có thể"
+      ],
+      "answer": "Vừa đủ tốt",
+      "explanation": "Tiêu chuẩn 'vừa đủ tốt' giúp bạn giải tỏa áp lực của sự hoàn hảo và tập trung vào việc hoàn thành công việc. Khi chấp nhận mức độ này, bạn sẽ làm việc thường xuyên hơn và tiến bộ dần dần."
+    },
+    {
+      "id": 10,
+      "question": "Tác giả khuyên các nhà quản lý nên áp dụng tỷ lệ nào khi đánh giá nhân viên để không làm mòn sự tự tin của họ?",
+      "options": [
+        "Quan sát 3 việc làm đúng trước khi chỉ ra 1 việc sai",
+        "Quan sát 5 việc làm đúng trước khi chỉ ra 1 việc sai",
+        "Quan sát 7 việc làm đúng trước khi chỉ ra 1 việc sai",
+        "Quan sát 10 việc làm đúng trước khi chỉ ra 1 việc sai"
+      ],
+      "answer": "Quan sát 7 việc làm đúng trước khi chỉ ra 1 việc sai",
+      "explanation": "Các nhà quản lý thường có xu hướng chỉ trích sai lầm của nhân viên, làm suy giảm sự tự tin của họ. Tỷ lệ 1/7 đảm bảo rằng những đóng góp tích cực được công nhận đúng mức trước khi nhắc đến thiếu sót."
+    }
+  ],
+  "48_44. Vì Sao Điều Này Không Hiệu Quả.md": [
+    {
+      "id": 1,
+      "question": "Tại sao tác giả cho rằng những bài thuyết trình dài dòng hay cuộc họp lê thê thường không mang lại sự hợp tác?",
+      "options": [
+        "Vì chúng ta mất dần khán giả và khiến họ chán chường",
+        "Vì người nghe không hiểu được các thuật ngữ chuyên môn",
+        "Vì nội dung thường quá ngắn gọn và sơ sài",
+        "Vì không có phần thảo luận ở cuối"
+      ],
+      "answer": "Vì chúng ta mất dần khán giả và khiến họ chán chường",
+      "explanation": "Sự áp đặt một chiều bằng các cuộc họp hay bài thuyết trình dài thường khiến người khác nhàm chán và mất tập trung. Thay vì hợp tác, họ có xu hướng lờ đi vì không cảm thấy mình là một phần của kế hoạch."
+    },
+    {
+      "id": 2,
+      "question": "Công ty dịch vụ tài chính trong câu chuyện gặp phải vấn đề gì với quy trình đánh giá kết quả công việc?",
+      "options": [
+        "Hệ thống phần mềm liên tục bị lỗi",
+        "Họ không có đủ tiền để thưởng cho nhân viên",
+        "Chỉ có 50% quản lý hoàn thành các đánh giá nhận xét",
+        "Nhân viên từ chối nhận kết quả đánh giá"
+      ],
+      "answer": "Chỉ có 50% quản lý hoàn thành các đánh giá nhận xét",
+      "explanation": "Công ty này đối mặt với việc các quản lý không hoàn thành quy trình đánh giá kết quả dù đã được đầu tư kỹ lưỡng. Đây là minh chứng cho việc một hệ thống hoàn hảo trên giấy không đồng nghĩa với việc nó sẽ được thực thi."
+    },
+    {
+      "id": 3,
+      "question": "Khi công ty tự thiết kế hệ thống đánh giá, họ đã mắc phải sai lầm cốt lõi nào theo nhận định sau này của tác giả?",
+      "options": [
+        "Họ đã thiết kế ra một hệ thống hoàn hảo theo góc nhìn của họ và không cho ai thay đổi",
+        "Họ đã tạo ra một hệ thống quá tồi tệ và nhiều lỗi",
+        "Họ không có chương trình tập huấn cho nhân viên",
+        "Họ không có nhà tài trợ để thúc đẩy dự án"
+      ],
+      "answer": "Họ đã thiết kế ra một hệ thống hoàn hảo theo góc nhìn của họ và không cho ai thay đổi",
+      "explanation": "Họ đã cố gắng tạo ra một quy trình quá chi tiết và ép buộc mọi người phải tuân theo mà không cho họ quyền tự điều chỉnh. Điều này vô tình cướp đi sự tự chủ của các cá nhân liên quan."
+    },
+    {
+      "id": 4,
+      "question": "Tác giả đã làm gì sau khi lần triển khai thứ hai (do nhóm của ông thực hiện) gặp thất bại hoàn toàn?",
+      "options": [
+        "Từ bỏ dự án và trả lại tiền cho khách hàng",
+        "Thúc ép nhân viên mạnh mẽ hơn bằng các hình thức kỷ luật",
+        "Ngừng quy trình, thay đổi mọi thứ để nó chỉ \"đúng một nửa, tốt một nửa\"",
+        "Tổ chức thêm nhiều cuộc họp kéo dài để giải thích"
+      ],
+      "answer": "Ngừng quy trình, thay đổi mọi thứ để nó chỉ \"đúng một nửa, tốt một nửa\"",
+      "explanation": "Sau khi áp đặt không thành công, tác giả nhận ra sự sai lầm và quyết định ngừng ngay việc triển khai một cách áp đặt. Ông bắt đầu thay đổi mọi thứ để trở nên 'đúng một nửa' nhằm thu hút sự tham gia."
+    },
+    {
+      "id": 5,
+      "question": "Câu hỏi \"thần chú\" mà tác giả luôn hỏi các quản lý trong mỗi chương trình tập huấn là gì?",
+      "options": [
+        "\"Làm thế nào để các anh chị làm việc chăm chỉ hơn?\"",
+        "\"Tại sao điều này không có tác dụng với bạn?\"",
+        "\"Các anh chị có thấy hệ thống này hoàn hảo không?\"",
+        "\"Tại sao các anh chị lại lười biếng như vậy?\""
+      ],
+      "answer": "\"Tại sao điều này không có tác dụng với bạn?\"",
+      "explanation": "Câu hỏi này trực tiếp đặt vấn đề về sự bất cập của quy trình đối với từng cá nhân. Nó khơi mào cho việc tìm kiếm những giải pháp thực tế và phù hợp hơn từ chính người sử dụng."
+    },
+    {
+      "id": 6,
+      "question": "Phản ứng của tác giả khi các quản lý đề xuất cách thay đổi hệ thống là gì?",
+      "options": [
+        "Ông phản bác lại và giải thích tại sao cách của ông tốt hơn",
+        "Ông báo cáo lên lãnh đạo công ty để khiển trách họ",
+        "Ông nói \"Tuyệt vời\" và để họ tự thay đổi hệ thống cho phù hợp",
+        "Ông lờ đi các ý kiến và tiếp tục bài giảng"
+      ],
+      "answer": "Ông nói \"Tuyệt vời\" và để họ tự thay đổi hệ thống cho phù hợp",
+      "explanation": "Thay vì bác bỏ, tác giả hoàn toàn đón nhận và khuyến khích các ý kiến đóng góp. Thái độ cởi mở này trao quyền cho nhân viên để họ tự điều chỉnh quy trình cho phù hợp."
+    },
+    {
+      "id": 7,
+      "question": "Theo tác giả, lợi ích lớn nhất của việc cho phép người khác sửa đổi kế hoạch của bạn (dù bạn nghĩ cách mới kém hiệu quả hơn) là gì?",
+      "options": [
+        "Giúp bạn rảnh rỗi và không phải làm gì",
+        "Sự nỗ lực, động lực và trách nhiệm mà người đó có được từ việc thực hiện ý tưởng của chính mình",
+        "Giúp bạn đổ lỗi cho họ nếu dự án thất bại",
+        "Giúp bạn thể hiện quyền lực tuyệt đối"
+      ],
+      "answer": "Sự nỗ lực, động lực và trách nhiệm mà người đó có được từ việc thực hiện ý tưởng của chính mình",
+      "explanation": "Khi người khác được phép chỉnh sửa kế hoạch, họ sẽ làm chủ ý tưởng đó. Nỗ lực và tinh thần trách nhiệm mà họ bỏ ra sẽ vượt xa những rủi ro do sự thay đổi mang lại."
+    },
+    {
+      "id": 8,
+      "question": "Cách tiếp cận \"làm một nửa\" có thể được ứng dụng trong bán hàng như thế nào?",
+      "options": [
+        "Giới thiệu sản phẩm hoàn hảo và ép khách hàng mua",
+        "Giảm giá sản phẩm xuống còn một nửa",
+        "Giới thiệu sản phẩm phân nửa và để khách hàng cùng thiết kế lại cho phù hợp",
+        "Chỉ bán hàng cho một nửa số khách hàng tiềm năng"
+      ],
+      "answer": "Giới thiệu sản phẩm phân nửa và để khách hàng cùng thiết kế lại cho phù hợp",
+      "explanation": "Bằng cách chỉ giới thiệu sản phẩm 'một nửa', bạn mời gọi khách hàng cùng tham gia vào quá trình hoàn thiện nó. Khi họ đóng góp ý tưởng, họ sẽ có xu hướng muốn mua sản phẩm do chính tay mình định hình."
+    },
+    {
+      "id": 9,
+      "question": "Kết quả của hệ thống đánh giá tại công ty tài chính sau một năm áp dụng phương pháp của tác giả là gì?",
+      "options": [
+        "Tỷ lệ hoàn thành nhận xét giảm xuống còn 30%",
+        "95% ban quản lý đã hoàn thành phần nhận xét của mình",
+        "Công ty phải trả thêm tiền để quản lý làm đánh giá",
+        "Hệ thống bị hủy bỏ hoàn toàn"
+      ],
+      "answer": "95% ban quản lý đã hoàn thành phần nhận xét của mình",
+      "explanation": "Kết quả đạt được là tỷ lệ hoàn thành vô cùng ấn tượng. Tuy quy trình đã bị sửa đổi không còn hoàn hảo như ban đầu, nhưng tính hiệu quả thực tế của nó đã được chứng minh."
+    },
+    {
+      "id": 10,
+      "question": "Thông điệp cốt lõi của tác giả trong chương này về sự không hoàn hảo là gì?",
+      "options": [
+        "Đừng an phận với sự không hoàn hảo. Hãy nhắm đến nó.",
+        "Sự không hoàn hảo là kẻ thù của thành công.",
+        "Hãy cố gắng hết sức để loại bỏ sự không hoàn hảo.",
+        "Chỉ những người lười biếng mới chấp nhận sự không hoàn hảo."
+      ],
+      "answer": "Đừng an phận với sự không hoàn hảo. Hãy nhắm đến nó.",
+      "explanation": "Đừng ngại ngần nhắm đến sự không hoàn hảo trong các dự án hợp tác. Việc chấp nhận khiếm khuyết ban đầu sẽ tạo không gian cho sự đóng góp của mọi người, mang lại thành công thiết thực."
+    }
+  ],
+  "49_45. Đừng Dùng Bóng Rổ Trong Sân Bóng.md": [
+    {
+      "id": 1,
+      "question": "Tác giả đã làm gì khi bất ngờ gặp phải một cơn bão tuyết lúc đang lái xe?",
+      "options": [
+        "Dừng xe lại ngay lập tức và chờ đến khi bão tan",
+        "Thay đổi hoàn toàn cách lái xe: giảm tốc độ, bật đèn, tắt đài và điện thoại",
+        "Gọi điện thoại nhờ đội cứu hộ đến giúp đỡ",
+        "Tăng tốc độ để vượt qua cơn bão nhanh nhất có thể"
+      ],
+      "answer": "Thay đổi hoàn toàn cách lái xe: giảm tốc độ, bật đèn, tắt đài và điện thoại",
+      "explanation": "Đối mặt với hoàn cảnh thay đổi đột ngột và nguy hiểm, tác giả không cố chấp lái xe như bình thường mà lập tức thích ứng. Ông giảm tốc độ, tắt các thiết bị gây xao nhãng để tập trung cao độ và lái xe an toàn."
+    },
+    {
+      "id": 2,
+      "question": "Điều gì khiến tác giả ngạc nhiên nhất khi thay đổi cách lái xe trong cơn bão tuyết?",
+      "options": [
+        "Ông đã đến nơi nhanh hơn dự kiến",
+        "Ông cảm thấy rất bực tức vì tốn quá nhiều thời gian",
+        "Ông thật sự tận hưởng sự yên tĩnh, thư giãn và vẻ đẹp của tuyết",
+        "Xe của ông không hề bị hao tốn nhiên liệu"
+      ],
+      "answer": "Ông thật sự tận hưởng sự yên tĩnh, thư giãn và vẻ đẹp của tuyết",
+      "explanation": "Khi hoàn cảnh thay đổi hoàn toàn, việc cố gắng nỗ lực hơn với phương pháp cũ sẽ trở nên vô nghĩa. Bạn bắt buộc phải từ bỏ cách làm cũ và sử dụng công cụ, kỹ năng phù hợp với môi trường mới."
+    },
+    {
+      "id": 3,
+      "question": "Tác giả dùng hình ảnh \"quả bóng rổ trên sân bóng cỏ (bóng đá)\" để minh họa cho điều gì?",
+      "options": [
+        "Nếu môi trường đã thay đổi, việc cố dùng nhiều sức lực hơn với phương pháp cũ sẽ vô ích",
+        "Cần phải biết chơi nhiều môn thể thao để rèn luyện sức khỏe",
+        "Kinh doanh cũng giống như thi đấu thể thao",
+        "Sự cố gắng chăm chỉ luôn mang lại kết quả tốt"
+      ],
+      "answer": "Nếu môi trường đã thay đổi, việc cố dùng nhiều sức lực hơn với phương pháp cũ sẽ vô ích",
+      "explanation": "Tác giả cho rằng sự nhất quán và kiên định cứng nhắc có thể gây hại khi môi trường thay đổi. Sự linh hoạt, biết điều chỉnh hành vi theo hoàn cảnh mới là chìa khóa để tồn tại và phát triển."
+    },
+    {
+      "id": 4,
+      "question": "Tác giả có quan điểm như thế nào về \"sự nhất quán\" (kiên định) trong hành động?",
+      "options": [
+        "Đó là chìa khóa duy nhất để dẫn tới thành công",
+        "Nên dẹp nó sang một bên và hãy cố gắng thay đổi hành động cho phù hợp với môi trường",
+        "Phải luôn nhất quán dù hoàn cảnh có khắc nghiệt đến đâu",
+        "Nhất quán giúp chúng ta tiết kiệm thời gian suy nghĩ"
+      ],
+      "answer": "Nên dẹp nó sang một bên và hãy cố gắng thay đổi hành động cho phù hợp với môi trường",
+      "explanation": "Việc xác định rõ tình huống giúp bạn đánh giá đúng mức độ nghiêm trọng và yêu cầu thực tế của vấn đề. Nhờ đó, bạn mới có thể đưa ra quyết định phù hợp nhất."
+    },
+    {
+      "id": 5,
+      "question": "Câu hỏi đầu tiên trong 3 câu hỏi tác giả khuyên bạn nên tự hỏi trước khi hành động là gì?",
+      "options": [
+        "\"Tình huống gì?\"",
+        "\"Tôi có thể kiếm được bao nhiêu tiền?\"",
+        "\"Ai sẽ là người chịu trách nhiệm?\"",
+        "\"Tôi nên từ bỏ hay tiếp tục?\""
+      ],
+      "answer": "\"Tình huống gì?\"",
+      "explanation": "Mọi hành động đều tác động đến những người xung quanh. Việc đánh giá năng lực và nhu cầu của đối phương giúp bạn lựa chọn phương pháp tương tác đem lại hiệu quả hợp tác cao nhất."
+    },
+    {
+      "id": 6,
+      "question": "Câu hỏi \"Còn ai khác liên quan?\" nhằm mục đích gì?",
+      "options": [
+        "Để tìm ra người đổ lỗi nếu có sự cố",
+        "Để phán xét những sai lầm của người khác",
+        "Để xác định thế mạnh, khuyết điểm, giá trị và nhu cầu của họ",
+        "Để loại bỏ họ khỏi dự án nếu họ yếu kém"
+      ],
+      "answer": "Để xác định thế mạnh, khuyết điểm, giá trị và nhu cầu của họ",
+      "explanation": "Tự nhận thức về khả năng và giới hạn của bản thân giúp bạn xác định cách đóng góp phù hợp. Từ đó, bạn có thể đưa ra cách giải quyết vấn đề bằng thế mạnh của mình."
+    },
+    {
+      "id": 7,
+      "question": "Trong bối cảnh kinh tế khó khăn (như khủng hoảng), tác giả cho rằng điều gì mới là lợi thế cạnh tranh thực sự?",
+      "options": [
+        "Vốn đầu tư lớn",
+        "Sự tin tưởng, độ tín nhiệm và các mối quan hệ",
+        "Sản phẩm giá rẻ nhất thị trường",
+        "Chiến dịch quảng cáo rầm rộ"
+      ],
+      "answer": "Sự tin tưởng, độ tín nhiệm và các mối quan hệ",
+      "explanation": "Khi thị trường bất ổn, giá trị cốt lõi giữ chân khách hàng không chỉ nằm ở sản phẩm mà ở sự tin cậy. Xây dựng lòng tin trong lúc khó khăn là sự đầu tư bền vững nhất cho tương lai."
+    },
+    {
+      "id": 8,
+      "question": "Nếu một khách hàng muốn hủy bỏ dự án do khó khăn kinh tế, phản ứng \"bản năng\" ban đầu thường là gì?",
+      "options": [
+        "Cảm thấy vui vẻ vì được rảnh rỗi",
+        "Lập tức đồng ý và trả lại toàn bộ tiền",
+        "Nghĩ về số tiền cần để giữ lợi nhuận và cảm thấy bị khách hàng lợi dụng",
+        "Chúc mừng khách hàng vì quyết định đó"
+      ],
+      "answer": "Nghĩ về số tiền cần để giữ lợi nhuận và cảm thấy bị khách hàng lợi dụng",
+      "explanation": "Thay vì phản ứng bản năng như tức giận hay đòi bồi thường, việc hỗ trợ khách hàng lúc khó khăn sẽ tạo dựng mối quan hệ sâu sắc. Đây là cơ hội để biến họ thành đối tác trung thành lâu dài."
+    },
+    {
+      "id": 9,
+      "question": "Theo tác giả, nền kinh tế tồi tệ hay sự thất bại nên được nhìn nhận như thế nào?",
+      "options": [
+        "Là những trở ngại cần tránh xa bằng mọi giá",
+        "Là cơ hội để sửa chữa sai lầm và phát hiện những người gắn bó sâu đậm, trung thành",
+        "Là dấu chấm hết cho sự nghiệp kinh doanh",
+        "Là lý do chính đáng để bỏ cuộc"
+      ],
+      "answer": "Là cơ hội để sửa chữa sai lầm và phát hiện những người gắn bó sâu đậm, trung thành",
+      "explanation": "Khủng hoảng luôn đi kèm với cơ hội cho những ai biết tận dụng. Các nhà đầu tư xem sự bất ổn không phải là rào cản, mà là điều kiện lý tưởng để tạo ra bước ngoặt thành công."
+    },
+    {
+      "id": 10,
+      "question": "Thông điệp cốt lõi của tác giả khi đối mặt với sự thay đổi của hoàn cảnh là gì?",
+      "options": [
+        "Hãy xem sự thay đổi là cơ hội để thể hiện sự linh hoạt và xây dựng lòng tin",
+        "Sự thay đổi luôn là một sự phân tâm và cản trở",
+        "Hãy cố gắng làm việc chăm chỉ hơn nữa theo cách cũ",
+        "Thay đổi môi trường làm việc ngay lập tức"
+      ],
+      "answer": "Hãy xem sự thay đổi là cơ hội để thể hiện sự linh hoạt và xây dựng lòng tin",
+      "explanation": "Sự thay đổi và hoàn cảnh khó khăn không phải là thứ để cản trở bạn, mà là sân khấu để chứng minh năng lực thích ứng. Thay đổi mang đến cơ hội để tạo ra những giá trị mới tốt đẹp hơn."
+    }
+  ],
+  "50_KẾT LUẬN.md": [
+    {
+      "id": 1,
+      "question": "Theo tổng kết của tác giả, ở Phần 1 của cuốn sách, bạn đã chuẩn bị cho thành công của mình bằng cách nào?",
+      "options": [
+        "Hiểu rõ bản thân, tự vấn và chuẩn bị để tạm dừng",
+        "Bắt đầu làm việc chăm chỉ hơn gấp đôi",
+        "Lập danh sách 10 điều cần thay đổi ngay lập tức",
+        "Đọc thật nhiều sách về quản lý thời gian"
+      ],
+      "answer": "Hiểu rõ bản thân, tự vấn và chuẩn bị để tạm dừng",
+      "explanation": "Phần 1 đặt nền móng bằng cách khuyến khích bạn chậm lại và thấu hiểu chính mình. Việc tạm dừng giúp bạn nhìn nhận lại mọi thứ trước khi hành động để hướng tới đúng kết quả mong đợi."
+    },
+    {
+      "id": 2,
+      "question": "Trong Phần 2, để khám phá bí quyết dẫn đến thành công và hạnh phúc, bạn cần kết hợp những yếu tố nào?",
+      "options": [
+        "Tiền bạc, quyền lực, địa vị và danh vọng",
+        "Ưu điểm, khuyết điểm, sự khác biệt và đam mê",
+        "Kỹ năng mềm, kỹ năng cứng, kinh nghiệm và bằng cấp",
+        "Sự chăm chỉ, kiên nhẫn, may mắn và quan hệ"
+      ],
+      "answer": "Ưu điểm, khuyết điểm, sự khác biệt và đam mê",
+      "explanation": "Tác giả nhấn mạnh việc tận dụng toàn diện mọi khía cạnh của bản thân, không chỉ điểm mạnh mà cả điểm yếu. Sự kết hợp độc đáo này là cơ sở để tạo ra con đường thành công riêng biệt cho mỗi người."
+    },
+    {
+      "id": 3,
+      "question": "Mục tiêu cốt lõi của Phần 2 là giúp bạn chú trọng vào điều gì trong năm?",
+      "options": [
+        "10 cách hành xử vàng",
+        "5 việc chính (hoặc một con số cụ thể) để tập trung thực hiện",
+        "Hàng trăm mục tiêu nhỏ lẻ",
+        "Chỉ duy nhất 1 việc"
+      ],
+      "answer": "5 việc chính (hoặc một con số cụ thể) để tập trung thực hiện",
+      "explanation": "Thay vì ôm đồm quá nhiều việc, bạn cần thu hẹp sự tập trung. Xác định 5 trọng tâm chính giúp định hướng rõ ràng mục tiêu phấn đấu trong suốt một năm."
+    },
+    {
+      "id": 4,
+      "question": "Theo tổng kết Phần 3, từ những việc chính đã chọn, bạn cần tạo ra điều gì?",
+      "options": [
+        "Một cuốn sách hướng dẫn chi tiết",
+        "Một danh sách việc cần làm hàng ngày giúp di chuyển theo hướng muốn đi",
+        "Một bản báo cáo tài chính",
+        "Một bản tóm tắt các dự án đã thất bại"
+      ],
+      "answer": "Một danh sách việc cần làm hàng ngày giúp di chuyển theo hướng muốn đi",
+      "explanation": "Phần 3 hướng dẫn cách cụ thể hóa các mục tiêu dài hạn. Việc chia nhỏ chúng thành các công việc hàng ngày đảm bảo bạn luôn di chuyển đúng hướng và bám sát kế hoạch."
+    },
+    {
+      "id": 5,
+      "question": "Công cụ nào được nhắc đến trong Phần 3 để giữ vững tiến độ mỗi ngày?",
+      "options": [
+        "Phần mềm quản lý dự án",
+        "Đồng hồ báo thức thông minh",
+        "Bản kế hoạch 18 phút, danh sách việc cần làm và thời gian biểu",
+        "Trợ lý ảo AI"
+      ],
+      "answer": "Bản kế hoạch 18 phút, danh sách việc cần làm và thời gian biểu",
+      "explanation": "Đây là hệ thống công cụ giúp bạn tổ chức quỹ thời gian một cách khoa học. Chúng đóng vai trò duy trì sự tập trung và điều chỉnh lại những điều chưa hiệu quả theo từng ngày."
+    },
+    {
+      "id": 6,
+      "question": "Ở Phần 4, tác giả đã chỉ ra điều gì về \"sự phân tâm\" (xao nhãng)?",
+      "options": [
+        "Nó luôn luôn có hại và phải loại bỏ hoàn toàn",
+        "Đôi khi sự phân tâm là có ích",
+        "Phân tâm chỉ dành cho những người lười biếng",
+        "Phân tâm là dấu hiệu của tuổi tác"
+      ],
+      "answer": "Đôi khi sự phân tâm là có ích",
+      "explanation": "Trái với quan niệm thông thường, sự xao nhãng không hoàn toàn mang tính tiêu cực. Nếu được sử dụng có chủ đích, nó có thể là giải pháp mạnh mẽ để kiềm chế cám dỗ và giải tỏa căng thẳng."
+    },
+    {
+      "id": 7,
+      "question": "Khi sự phân tâm trở nên không có ích (trở ngại), bạn cần làm gì theo Phần 4?",
+      "options": [
+        "Mặc kệ nó và hy vọng nó tự biến mất",
+        "Sử dụng một loạt công cụ (lời nói, hành động, suy nghĩ) để chế ngự nó",
+        "Từ bỏ mục tiêu hiện tại",
+        "Thay đổi môi trường làm việc"
+      ],
+      "answer": "Sử dụng một loạt công cụ (lời nói, hành động, suy nghĩ) để chế ngự nó",
+      "explanation": "Tác giả trang bị cho bạn các công cụ để giành lại quyền kiểm soát tâm trí khi bị xao nhãng quá mức. Sự chủ động trong lời nói và hành động sẽ giúp dẹp bỏ những rào cản ảnh hưởng đến hiệu suất."
+    },
+    {
+      "id": 8,
+      "question": "Những khả năng nào bạn cần rèn luyện để thực hiện các trọng tâm trong năm (theo Phần 4)?",
+      "options": [
+        "Làm chủ bước khởi đầu, làm chủ ranh giới và làm chủ bản thân",
+        "Làm chủ công nghệ và máy móc",
+        "Làm chủ cấp dưới và đồng nghiệp",
+        "Làm chủ tài chính và đầu tư"
+      ],
+      "answer": "Làm chủ bước khởi đầu, làm chủ ranh giới và làm chủ bản thân",
+      "explanation": "Đây là ba kỹ năng then chốt để duy trì kỷ luật và hiện thực hóa mục tiêu. Việc rèn luyện khả năng quản lý bản thân giúp bạn vững bước trước những cám dỗ và khó khăn."
+    },
+    {
+      "id": 9,
+      "question": "Tác giả cảnh báo điều gì khi bạn cố gắng trở nên quá hoàn hảo, quá tập trung hay quá hiệu quả?",
+      "options": [
+        "Nếu dùng sai liều lượng, chúng sẽ cản đường bạn (chống lại bạn)",
+        "Bạn sẽ nhanh chóng trở thành tỷ phú",
+        "Bạn sẽ mất hết bạn bè",
+        "Không có tác hại nào cả"
+      ],
+      "answer": "Nếu dùng sai liều lượng, chúng sẽ cản đường bạn (chống lại bạn)",
+      "explanation": "Sự hoàn hảo và tập trung chỉ mang lại lợi ích khi ở mức độ vừa đủ. Việc lạm dụng chúng sẽ tạo ra sự cứng nhắc, gây quá tải và làm giảm khả năng thích ứng linh hoạt trong công việc."
+    },
+    {
+      "id": 10,
+      "question": "Sau khi đã áp dụng các ý tưởng và công cụ của cuốn sách, câu hỏi \"Bây giờ thì sao?\" (Bước tiếp theo tốt nhất) được tác giả trả lời như thế nào?",
+      "options": [
+        "Hãy đọc lại cuốn sách từ đầu",
+        "Hãy làm tất cả mọi thứ cùng một lúc",
+        "Hãy chọn chỉ một thứ duy nhất để bắt đầu",
+        "Hãy đi nghỉ dưỡng một thời gian"
+      ],
+      "answer": "Hãy chọn chỉ một thứ duy nhất để bắt đầu",
+      "explanation": "Để tránh cảm giác bị choáng ngợp bởi hàng loạt thay đổi, bạn chỉ cần chọn một hành động duy nhất có tác động lớn nhất để thực hiện. Sự đơn giản này là chìa khóa để bắt đầu hành trình cải thiện bản thân."
+    }
+  ],
+  "51_46. Bạn Không Có 10 Cách Hành Xử.md": [
+    {
+      "id": 1,
+      "question": "Tác giả đã làm cách nào để giảm được 8 ký trong vòng một tháng rưỡi?",
+      "options": [
+        "Thuê một huấn luyện viên cá nhân",
+        "Tập thể dục cường độ cao mỗi ngày",
+        "Đọc thêm nhiều sách hướng dẫn ăn kiêng",
+        "Đưa ra một quyết định đơn giản: ngừng tiêu thụ đường"
+      ],
+      "answer": "Đưa ra một quyết định đơn giản: ngừng tiêu thụ đường",
+      "explanation": "Tác giả từ bỏ các phương pháp ăn kiêng rườm rà hay việc thuê huấn luyện viên vì chúng khó duy trì. Thay vào đó, ông lựa chọn một sự thay đổi hành vi duy nhất nhưng mang lại hiệu quả cao."
+    },
+    {
+      "id": 2,
+      "question": "Theo nghiên cứu trên Tạp chí Y học của New England, yếu tố cốt lõi giúp các chế độ ăn kiêng có hiệu quả giảm cân là gì?",
+      "options": [
+        "Tăng lượng protein hấp thụ",
+        "Cắt giảm hoàn toàn carbohydrate",
+        "Giới hạn lượng ca-lo hấp thụ vào cơ thể",
+        "Tăng lượng chất béo tốt"
+      ],
+      "answer": "Giới hạn lượng ca-lo hấp thụ vào cơ thể",
+      "explanation": "Nghiên cứu chứng minh rằng mọi chế độ giảm cân, dù khác biệt về tỷ lệ chất dinh dưỡng, đều dựa trên nguyên lý cốt lõi là cắt giảm lượng calo. Do đó, phương pháp đơn giản nhất sẽ là phương pháp tối ưu nhất."
+    },
+    {
+      "id": 3,
+      "question": "Từ kinh nghiệm cá nhân, tác giả khuyên chúng ta nên thực hiện thay đổi hành vi như thế nào?",
+      "options": [
+        "Tự khiến bản thân quá tải với hàng loạt quy định",
+        "Dành thời gian tìm ra \"một thứ duy nhất\" có tác động lớn nhất và tập trung 100% vào nó",
+        "Sao chép chính xác phương pháp của những người thành công",
+        "Lên kế hoạch gồm 10 bước phức tạp"
+      ],
+      "answer": "Dành thời gian tìm ra \"một thứ duy nhất\" có tác động lớn nhất và tập trung 100% vào nó",
+      "explanation": "Thay vì tự làm khó mình bằng hàng tá quy tắc rắc rối, bạn chỉ cần tìm ra một hành động cốt lõi mang lại kết quả lớn nhất. Sự tập trung tuyệt đối vào một điểm này sẽ dẫn đến những thay đổi toàn diện."
+    },
+    {
+      "id": 4,
+      "question": "Điều gì đã xảy ra sau khi tác giả ngừng ăn đường?",
+      "options": [
+        "Tác giả tự động tập thể dục đều đặn hơn và ăn nhiều rau củ hơn",
+        "Tác giả cảm thấy mệt mỏi và kiệt sức",
+        "Tác giả bắt đầu ăn nhiều đồ chiên xào hơn",
+        "Tác giả tăng cân trở lại"
+      ],
+      "answer": "Tác giả tự động tập thể dục đều đặn hơn và ăn nhiều rau củ hơn",
+      "explanation": "Khi bạn thiết lập thành công một thói quen nòng cốt, nó sẽ tạo đà tâm lý tích cực. Những thay đổi tốt đẹp khác sẽ diễn ra một cách tự nhiên mà không cần bạn phải gượng ép bản thân."
+    },
+    {
+      "id": 5,
+      "question": "Khi khách hàng Fortune 100 yêu cầu thiết kế một chương trình đào tạo lãnh đạo mới, tác giả nhận ra điều gì về chương trình cũ của họ?",
+      "options": [
+        "Chương trình cũ hoàn toàn sai lầm và lỗi thời",
+        "Chương trình cũ cũng tương đối tốt, vì tinh hoa không nằm ở phương pháp mà ở việc áp dụng",
+        "Chương trình cũ quá tốn kém để duy trì",
+        "Nó do một công ty đối thủ kém cỏi thiết kế"
+      ],
+      "answer": "Chương trình cũ cũng tương đối tốt, vì tinh hoa không nằm ở phương pháp mà ở việc áp dụng",
+      "explanation": "Tác giả khuyên doanh nghiệp không nên lãng phí công sức đã xây dựng với hệ thống cũ. Việc đơn giản hóa hệ thống và chỉ tập trung vào yếu tố quan trọng nhất sẽ mang lại sự chuyển biến thiết thực hơn."
+    },
+    {
+      "id": 6,
+      "question": "Trong câu chuyện về chuỗi hệ thống cửa hàng bán lẻ, tại sao việc nhân viên thực hiện 9/10 \"cách hành xử vàng\" lại KHÔNG giúp tăng doanh số?",
+      "options": [
+        "Vì khách hàng không thích những nhân viên quá nhiệt tình",
+        "Vì hành vi duy nhất bị bỏ qua lại chính là hành vi quan trọng nhất mang lại doanh số",
+        "Vì 9 hành vi đó được thực hiện một cách miễn cưỡng",
+        "Vì sản phẩm của cửa hàng quá đắt"
+      ],
+      "answer": "Vì hành vi duy nhất bị bỏ qua lại chính là hành vi quan trọng nhất mang lại doanh số",
+      "explanation": "Công ty nhận ra rằng phần lớn vấn đề có thể được giải quyết nếu sự gắn kết nội bộ được tăng cường. Do đó, đây là mục tiêu duy nhất họ dồn mọi nỗ lực để thực hiện."
+    },
+    {
+      "id": 7,
+      "question": "Hành vi duy nhất bị bỏ qua nhưng lại quyết định doanh số của các nhân viên bán hàng là gì?",
+      "options": [
+        "Chào hỏi từng vị khách",
+        "Cảm ơn khách hàng đã mua sắm",
+        "Tìm hiểu nhu cầu của khách để giới thiệu sản phẩm phù hợp nhất",
+        "Mời khách hàng dùng thử sản phẩm"
+      ],
+      "answer": "Tìm hiểu nhu cầu của khách để giới thiệu sản phẩm phù hợp nhất",
+      "explanation": "Đây là một ngoại lệ so với lời khuyên thông thường của tác giả về việc tập trung vào điểm mạnh. Bằng cách chọn một thử thách khắc phục khuyết điểm lớn nhất, Brandon sẽ xây dựng được sự tự tin mạnh mẽ để thay đổi mọi thứ khác."
+    },
+    {
+      "id": 8,
+      "question": "Tác giả ví các phương pháp lãnh đạo cũng giống như cái gì?",
+      "options": [
+        "Giống như chơi thể thao",
+        "Giống như các phương pháp ăn kiêng",
+        "Giống như việc lái xe",
+        "Giống như việc trồng cây"
+      ],
+      "answer": "Giống như các phương pháp ăn kiêng",
+      "explanation": "Cửa hàng kỳ vọng nhân viên tuân thủ một hệ thống gồm 10 quy tắc ứng xử chuẩn mực. Tuy nhiên, sự rườm rà này không phải là nguyên nhân thực sự mang lại doanh thu."
+    },
+    {
+      "id": 9,
+      "question": "Tác giả nhấn mạnh mối liên hệ giữa thời gian và cuộc sống như thế nào?",
+      "options": [
+        "Thời gian là vàng bạc",
+        "Thời khắc tạo thành ngày, ngày tạo thành năm, năm tạo nên cuộc sống",
+        "Đừng lãng phí thời gian vào những việc vô bổ",
+        "Quá khứ quyết định tương lai"
+      ],
+      "answer": "Thời khắc tạo thành ngày, ngày tạo thành năm, năm tạo nên cuộc sống",
+      "explanation": "Khi phân tích dữ liệu, ban quản lý phát hiện ra 9 hành vi khác dù được thực hiện tốt cũng không tạo ra doanh số. Việc nắm bắt chính xác nhu cầu của khách hàng mới là chìa khóa thực sự tạo ra sự khác biệt."
+    },
+    {
+      "id": 10,
+      "question": "Tác giả kết luận chương bằng câu nói: \"Tất cả đều bắt đầu từ...\" điều gì?",
+      "options": [
+        "...sự nỗ lực không ngừng nghỉ.",
+        "...một lựa chọn duy nhất của bạn.",
+        "...một kế hoạch chi tiết.",
+        "...sự may mắn."
+      ],
+      "answer": "...một lựa chọn duy nhất của bạn.",
+      "explanation": "Đây là thông điệp bao trùm toàn bộ chương sách. Mọi sự thay đổi lớn lao trong cuộc sống và công việc luôn bắt nguồn từ một hành động nhỏ nhoi nhưng được định hướng đúng đắn."
+    }
+  ],
+  "52_LỜI CẢM ƠN.md": [
+    {
+      "id": 1,
+      "question": "Tác giả nhận định như thế nào về quá trình viết cuốn sách này ở đầu phần Lời cảm ơn?",
+      "options": [
+        "Là một nỗ lực trong đơn độc",
+        "Cuốn sách có rất nhiều \"dấu tay\" (sự đóng góp) của người khác, không phải là sự đơn độc",
+        "Là một quá trình đầy đau khổ và mệt mỏi",
+        "Là tác phẩm do một mình ông tự làm từ A đến Z"
+      ],
+      "answer": "Cuốn sách có rất nhiều \"dấu tay\" (sự đóng góp) của người khác, không phải là sự đơn độc",
+      "explanation": "Tác giả khẳng định rằng viết sách không phải là một công việc cá nhân lẻ loi. Sự thành công của tác phẩm là kết tinh từ sự giúp đỡ và đóng góp của rất nhiều người xung quanh ông."
+    },
+    {
+      "id": 2,
+      "question": "Rick Wolff, người được tác giả gửi lời cảm ơn đầu tiên, giữ vai trò gì đối với cuốn sách?",
+      "options": [
+        "Nhà xuất bản và biên tập viên tại Business Plus",
+        "Quản lý cá nhân của tác giả",
+        "Huấn luyện viên thể dục của tác giả",
+        "Người cung cấp tài chính cho dự án"
+      ],
+      "answer": "Nhà xuất bản và biên tập viên tại Business Plus",
+      "explanation": "Rick Wolff được vinh danh đầu tiên vì sự hỗ trợ to lớn của ông trong vai trò xuất bản. Tác giả cảm ơn ông vì tầm nhìn và sự tin tưởng không ngừng nghỉ dành cho những ý tưởng của sách."
+    },
+    {
+      "id": 3,
+      "question": "Tác giả đã mô tả Giles Anderson bằng cụm từ nào?",
+      "options": [
+        "Biên tập viên khó tính nhất",
+        "Người quản lý mà tôi mơ ước",
+        "Một khách hàng khó chiều",
+        "Nhà đầu tư mạo hiểm"
+      ],
+      "answer": "Người quản lý mà tôi mơ ước",
+      "explanation": "Giles Anderson được trân trọng bởi sự tin cậy, tính chính trực và sự tận tâm. Ông là một cộng sự tuyệt vời đã luôn đồng hành cùng tác giả."
+    },
+    {
+      "id": 4,
+      "question": "Nếu không có Katherine Bell (từ Harvard Business Review) và Daisy Wademan, điều gì sẽ xảy ra với các bài viết của tác giả?",
+      "options": [
+        "Chúng sẽ bị từ chối xuất bản",
+        "Chúng sẽ vẫn nằm mãi trong máy tính của tác giả",
+        "Chúng sẽ được đăng trên một tạp chí khác",
+        "Tác giả sẽ tự xuất bản chúng"
+      ],
+      "answer": "Chúng sẽ vẫn nằm mãi trong máy tính của tác giả",
+      "explanation": "Đây là hai biên tập viên đã tạo động lực và không gian để tác giả cất tiếng nói. Nhờ sự khích lệ của họ, những bản thảo mới có cơ hội được hoàn thiện và ra mắt công chúng."
+    },
+    {
+      "id": 5,
+      "question": "Mermer Blakeslee đã giúp đỡ tác giả điều gì trong hơn 30 năm qua?",
+      "options": [
+        "Hỗ trợ tài chính",
+        "Thiết kế bìa sách",
+        "Tư vấn và giúp rèn luyện giọng nói (văn phong) của tác giả",
+        "Quản lý mạng xã hội"
+      ],
+      "answer": "Tư vấn và giúp rèn luyện giọng nói (văn phong) của tác giả",
+      "explanation": "Mermer đóng vai trò như một người cố vấn quan trọng về mặt văn học. Nhờ sự hỗ trợ của ông, tác giả đã định hình và mài giũa được phong cách viết riêng biệt của mình."
+    },
+    {
+      "id": 6,
+      "question": "Tác giả nhắc đến những vị khách hàng của mình với vai trò gì trong cuốn sách?",
+      "options": [
+        "Là những người chi trả toàn bộ chi phí in ấn",
+        "Là những người luôn chỉ trích gay gắt",
+        "Là cội nguồn cảm hứng và sẵn sàng trở thành một phần trong những câu chuyện",
+        "Là những người mua nhiều sách nhất"
+      ],
+      "answer": "Là cội nguồn cảm hứng và sẵn sàng trở thành một phần trong những câu chuyện",
+      "explanation": "Khách hàng không chỉ là đối tác kinh doanh mà còn là nguồn chất liệu sống động cho cuốn sách. Những câu chuyện thực tế của họ đã mang lại giá trị thực tiễn sâu sắc cho các trang viết."
+    },
+    {
+      "id": 7,
+      "question": "Ai là những người mà sự hiện diện, những lời phản hồi và email của họ đã giúp tác giả tiếp tục cố gắng?",
+      "options": [
+        "Các đối thủ cạnh tranh",
+        "Những bạn đọc trên blog của tác giả",
+        "Các nhà phê bình văn học",
+        "Các giáo sư đại học"
+      ],
+      "answer": "Những bạn đọc trên blog của tác giả",
+      "explanation": "Độc giả trên blog là nguồn động viên trực tiếp và thường xuyên. Tình cảm và những phản hồi tích cực của họ đã tiếp thêm sức mạnh để tác giả duy trì công việc viết lách."
+    },
+    {
+      "id": 8,
+      "question": "Tác giả cảm ơn ba người con (Isabelle, Sophia và Daniel) vì điều gì?",
+      "options": [
+        "Vì chúng luôn đạt điểm cao ở trường",
+        "Vì chúng giúp ông làm việc nhà",
+        "Vì chúng luôn là chính mình, là ánh sáng tuyệt đẹp trong đời bố",
+        "Vì chúng luôn giữ im lặng khi bố làm việc"
+      ],
+      "answer": "Vì chúng luôn là chính mình, là ánh sáng tuyệt đẹp trong đời bố",
+      "explanation": "Gia đình là bến đỗ tinh thần vững chắc. Những cảm xúc hồn nhiên và sự tồn tại giản dị của các con chính là ánh sáng mang lại niềm vui và ý nghĩa sống cho tác giả."
+    },
+    {
+      "id": 9,
+      "question": "Vai trò đặc biệt nào của người vợ (Eleanor) khiến tác giả trân trọng nhất?",
+      "options": [
+        "Cô ấy là người đánh máy toàn bộ bản thảo",
+        "Cô ấy là người kiếm tiền chính cho gia đình",
+        "Cô ấy yêu ông vì chính ông, khích lệ ông hoàn thiện và khiến việc mạo hiểm trở nên dễ dàng",
+        "Cô ấy là một chuyên gia tâm lý xuất sắc"
+      ],
+      "answer": "Cô ấy yêu ông vì chính ông, khích lệ ông hoàn thiện và khiến việc mạo hiểm trở nên dễ dàng",
+      "explanation": "Eleanor không chỉ là người bạn đời mà còn là chỗ dựa lớn nhất của tác giả. Tình yêu thương vô điều kiện của cô đã tiếp thêm cho ông sự tự tin để vượt qua mọi thử thách."
+    },
+    {
+      "id": 10,
+      "question": "Thái độ của tác giả đối với những nhận xét, góp ý của Anthony Bregman, Howie Jacobson và Eleanor là gì?",
+      "options": [
+        "Ông luôn bực tức khi nghe họ góp ý",
+        "Ý kiến của họ rất quan trọng, ngay cả khi ông không làm theo",
+        "Ông luôn tuân thủ và làm theo 100% lời khuyên của họ",
+        "Ông lờ đi vì cho rằng họ không hiểu vấn đề"
+      ],
+      "answer": "Ý kiến của họ rất quan trọng, ngay cả khi ông không làm theo",
+      "explanation": "Tác giả đánh giá cao sự đóng góp xây dựng từ những người xung quanh. Dù đôi khi không nhất thiết làm theo lời khuyên, nhưng góc nhìn của họ luôn giúp ông hoàn thiện tác phẩm hơn."
+    }
+  ]
+}

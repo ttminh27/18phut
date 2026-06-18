@@ -1,0 +1,612 @@
+{
+  "10_8. Làm Gì Khi Bạn Không Biết Phải Làm.md": [
+    {
+      "id": 1,
+      "question": "Câu chuyện của Mark Zuckerberg và hai nhà sáng lập Google được tác giả đưa ra nhằm minh họa cho điều gì?",
+      "options": [
+        "Thành công luôn cần một kế hoạch rõ ràng từ đầu.",
+        "Hành động ngay cả khi chưa có kế hoạch rõ ràng vẫn có thể mang lại thành công.",
+        "Đam mê công nghệ là yếu tố duy nhất quyết định thành bại.",
+        "Kế hoạch kinh doanh càng chi tiết thì tỷ lệ thành công càng cao."
+      ],
+      "answer": "Hành động ngay cả khi chưa có kế hoạch rõ ràng vẫn có thể mang lại thành công.",
+      "explanation": "Tác giả đưa ra câu chuyện của những nhà sáng lập công nghệ để chứng minh rằng không phải lúc nào thành công cũng bắt đầu từ một kế hoạch kinh doanh chi tiết. Việc dám hành động ngay cả khi chưa rõ toàn bộ con đường đã tạo tiền đề cho những đổi mới vĩ đại."
+    },
+    {
+      "id": 2,
+      "question": "Theo nghiên cứu của giáo sư Sheena Iyengar về các mẫu mứt, người tiêu dùng có xu hướng mua hàng như thế nào?",
+      "options": [
+        "Tỷ lệ mua hàng cao hơn khi có 24 loại mứt để lựa chọn.",
+        "Tỷ lệ mua hàng cao gấp 10 lần khi sự lựa chọn bị giới hạn ở 6 loại mứt.",
+        "Người tiêu dùng không mua mứt nếu chỉ có dưới 10 sự lựa chọn.",
+        "Số lượng lựa chọn không ảnh hưởng đến quyết định mua hàng."
+      ],
+      "answer": "Tỷ lệ mua hàng cao gấp 10 lần khi sự lựa chọn bị giới hạn ở 6 loại mứt.",
+      "explanation": "Nghiên cứu của Sheena Iyengar cho thấy khi khách hàng phải đối mặt với quá nhiều sự lựa chọn, họ sẽ bị quá tải thông tin và khó đưa ra quyết định. Do đó, việc giới hạn số lượng mứt ở mức 6 loại giúp khách hàng dễ dàng chọn lựa và mua hàng nhiều hơn đáng kể."
+    },
+    {
+      "id": 3,
+      "question": "Tác giả gọi sự kết hợp của 4 yếu tố nào là \"nhóm bốn yếu tố\" dẫn đến thành công?",
+      "options": [
+        "Tận dụng điểm mạnh, che giấu điểm yếu, hòa nhập cộng đồng, theo đuổi đam mê.",
+        "Tận dụng điểm mạnh, chấp nhận điểm yếu, khẳng định sự khác biệt, theo đuổi đam mê.",
+        "Khám phá điểm mạnh, sửa chữa điểm yếu, bắt chước người giỏi, lập kế hoạch chi tiết.",
+        "Tận dụng điểm mạnh, chấp nhận điểm yếu, giảm thiểu rủi ro, theo đuổi lợi nhuận."
+      ],
+      "answer": "Tận dụng điểm mạnh, chấp nhận điểm yếu, khẳng định sự khác biệt, theo đuổi đam mê.",
+      "explanation": "Nhóm bốn yếu tố này là nền tảng cốt lõi được tác giả đề xuất để định hướng con đường sự nghiệp và cuộc đời. Việc kết hợp cả ưu điểm, nhược điểm, cá tính riêng và đam mê cá nhân sẽ giúp mỗi người phát huy tối đa năng lực bản thân."
+    },
+    {
+      "id": 4,
+      "question": "Trong câu chuyện cá nhân của tác giả, điểm yếu \"lo lắng thái quá về sự an toàn\" đã mang lại lợi ích gì?",
+      "options": [
+        "Khiến ông từ bỏ các hoạt động ngoài trời để làm việc văn phòng.",
+        "Trở thành một điểm cộng lớn khi ông hướng dẫn những người mới tham gia hoạt động ngoài trời.",
+        "Giúp ông trở thành một luật sư xuất sắc như dự định ban đầu.",
+        "Giúp ông tránh được những sai lầm trong kinh doanh."
+      ],
+      "answer": "Trở thành một điểm cộng lớn khi ông hướng dẫn những người mới tham gia hoạt động ngoài trời.",
+      "explanation": "Nhược điểm lo lắng thái quá bỗng chốc trở thành ưu điểm khi tác giả phải chịu trách nhiệm hướng dẫn những người mới. Nhờ sự thận trọng đó, ông đã đảm bảo an toàn tối đa cho mọi người, chứng minh rằng điểm yếu có thể hữu ích trong những hoàn cảnh phù hợp."
+    },
+    {
+      "id": 5,
+      "question": "Tác giả khuyên sinh viên Đại học Princeton nên làm gì khi lo lắng về tương lai?",
+      "options": [
+        "Lên một kế hoạch chi tiết cho 10 năm tới.",
+        "Quên tương lai đi một lát, tập trung vào vị trí hiện tại và hiểu rõ bản thân mình là ai.",
+        "Tìm kiếm một công việc ổn định để đảm bảo thu nhập.",
+        "So sánh bản thân với những người thành công để tìm ra con đường đúng."
+      ],
+      "answer": "Quên tương lai đi một lát, tập trung vào vị trí hiện tại và hiểu rõ bản thân mình là ai.",
+      "explanation": "Tác giả nhấn mạnh rằng việc quá lo lắng về tương lai sẽ tạo ra áp lực không cần thiết và làm mất đi định hướng. Thay vào đó, việc thấu hiểu bản thân ở thời điểm hiện tại mới là chìa khóa để đưa ra những quyết định đúng đắn cho con đường phía trước."
+    },
+    {
+      "id": 6,
+      "question": "Tại sao việc lập kế hoạch nghề nghiệp cho tương lai hiện nay lại trở nên khó khăn hơn trước?",
+      "options": [
+        "Vì chúng ta có quá ít sự lựa chọn trong nghề nghiệp.",
+        "Vì công nghệ phát triển quá chậm.",
+        "Vì chúng ta đối mặt với những sự lựa chọn không giới hạn, khiến bản thân dễ bị tê liệt.",
+        "Vì các trường đại học không còn đào tạo kỹ năng lập kế hoạch."
+      ],
+      "answer": "Vì chúng ta đối mặt với những sự lựa chọn không giới hạn, khiến bản thân dễ bị tê liệt.",
+      "explanation": "Ngày nay, con người đứng trước vô vàn cơ hội và sự đa dạng trong nghề nghiệp, điều này gây ra tình trạng \"tê liệt vì lựa chọn\". Việc có quá nhiều hướng đi khiến người ta sợ đưa ra quyết định sai lầm và gặp khó khăn trong việc lập kế hoạch."
+    },
+    {
+      "id": 7,
+      "question": "Đâu KHÔNG PHẢI là một trong những đặc điểm của những người sáng lập Facebook và Google trong giai đoạn đầu?",
+      "options": [
+        "Có một chiến lược doanh thu và kế hoạch kiếm tiền rõ ràng.",
+        "Bắt tay vào hành động vì thấy thú vị và phát huy được tài năng.",
+        "Hợp tác với người khác để bổ khuyết cho điểm yếu của mình.",
+        "Đưa ra những cách tiếp cận độc đáo khác biệt với phần còn lại."
+      ],
+      "answer": "Có một chiến lược doanh thu và kế hoạch kiếm tiền rõ ràng.",
+      "explanation": "Ban đầu, những người sáng lập này chỉ tập trung vào việc tạo ra sản phẩm hữu ích dựa trên đam mê và khả năng của họ chứ chưa hề có kế hoạch lợi nhuận rõ ràng. Các lựa chọn khác đều phản ánh đúng tinh thần làm việc của họ ở giai đoạn đầu, do đó chiến lược doanh thu là đáp án sai."
+    },
+    {
+      "id": 8,
+      "question": "Tác giả đã vận dụng nhóm 4 yếu tố vào công việc hiện tại của mình như thế nào?",
+      "options": [
+        "Trở thành một đạo diễn phim để sử dụng sự sáng tạo.",
+        "Chuyển hướng sang theo học ngành luật để có thu nhập ổn định.",
+        "Xây dựng các hoạt động phát huy tinh thần làm việc nhóm cho doanh nghiệp.",
+        "Bỏ phố vào rừng sống để thỏa mãn niềm đam mê thiên nhiên."
+      ],
+      "answer": "Xây dựng các hoạt động phát huy tinh thần làm việc nhóm cho doanh nghiệp.",
+      "explanation": "Tác giả đã kết hợp sở thích hoạt động ngoài trời, điểm mạnh về khả năng hướng dẫn và điểm yếu cẩn trọng của mình để tạo ra một hướng đi nghề nghiệp riêng. Đó là thiết kế các chương trình huấn luyện xây dựng đội ngũ (team building) cho các doanh nghiệp."
+    },
+    {
+      "id": 9,
+      "question": "Bài học rút ra từ việc có quá nhiều lựa chọn (qua ví dụ về các loại mứt) là gì?",
+      "options": [
+        "Quá nhiều lựa chọn khiến chúng ta dễ bị tê liệt và cuối cùng không đưa ra quyết định nào.",
+        "Càng nhiều lựa chọn thì cơ hội thành công của chúng ta càng cao.",
+        "Lựa chọn nhiều giúp phát huy tối đa khả năng sáng tạo của con người.",
+        "Sự đa dạng luôn mang lại kết quả tích cực trong kinh doanh."
+      ],
+      "answer": "Quá nhiều lựa chọn khiến chúng ta dễ bị tê liệt và cuối cùng không đưa ra quyết định nào.",
+      "explanation": "Thí nghiệm về mứt chứng minh rằng sự dư thừa lựa chọn thường dẫn đến trạng thái do dự và bất lực trong việc ra quyết định. Điều này cho thấy trong cuộc sống, việc thu hẹp các tùy chọn sẽ giúp chúng ta hành động dứt khoát và hiệu quả hơn."
+    },
+    {
+      "id": 10,
+      "question": "Câu nói \"Bạn không cần phải thấy rõ toàn bộ con đường phía trước\" mang hàm ý gì?",
+      "options": [
+        "Lập kế hoạch là việc làm vô ích và lãng phí thời gian.",
+        "Cứ đi theo sự sắp đặt của người khác thì sẽ đến đích.",
+        "Thành công thường đến từ việc dám bước đi và rèn giũa tài năng theo những cách chưa từng tưởng tượng.",
+        "Chỉ những người không có tầm nhìn mới không thấy rõ con đường."
+      ],
+      "answer": "Thành công thường đến từ việc dám bước đi và rèn giũa tài năng theo những cách chưa từng tưởng tượng.",
+      "explanation": "Câu nói này khuyên chúng ta không nên chờ đợi một kế hoạch hoàn hảo mới bắt đầu hành động. Việc tự tin dấn bước và sẵn sàng thích nghi với những tình huống mới sẽ mở ra những cơ hội bất ngờ mà chúng ta không thể lường trước được."
+    }
+  ],
+  "11_9. Tái Lập Trò Chơi.md": [
+    {
+      "id": 1,
+      "question": "Yếu tố đầu tiên trong nhóm 4 yếu tố mà tác giả nhắc đến trong chương này là gì?",
+      "options": [
+        "Chấp nhận điểm yếu của bạn.",
+        "Phát huy điểm mạnh của bạn.",
+        "Khẳng định sự khác biệt của bạn.",
+        "Theo đuổi đam mê của bạn."
+      ],
+      "answer": "Phát huy điểm mạnh của bạn.",
+      "explanation": "Tác giả bắt đầu phân tích nhóm bốn yếu tố bằng việc tập trung vào điểm mạnh của bản thân. Tận dụng và phát huy tối đa những ưu điểm sẵn có là bước đầu tiên để xây dựng nền tảng vững chắc cho mọi thành công trong công việc."
+    },
+    {
+      "id": 2,
+      "question": "Nhân vật Phineas trong tiểu thuyết \"A Separate Peace\" đã luôn chiến thắng trò chơi Blitzball bằng cách nào?",
+      "options": [
+        "Tập luyện không ngừng nghỉ mỗi ngày.",
+        "Gian lận trong quá trình thi đấu.",
+        "Tự tạo ra trò chơi với luật chơi phù hợp với những kỹ năng riêng của mình.",
+        "Hợp tác với những người chơi khác để loại bỏ đối thủ mạnh nhất."
+      ],
+      "answer": "Tự tạo ra trò chơi với luật chơi phù hợp với những kỹ năng riêng của mình.",
+      "explanation": "Phineas đã không tuân theo những luật lệ có sẵn của các trò chơi truyền thống mà tự sáng tạo ra Blitzball. Bằng cách thiết lập luật chơi dựa trên chính thế mạnh của mình, cậu đã nắm chắc phần thắng và kiểm soát hoàn toàn cuộc chơi."
+    },
+    {
+      "id": 3,
+      "question": "Đội bóng chày Oakland A’s đã áp dụng chiến lược gì để đánh bại các đội có ngân sách khổng lồ?",
+      "options": [
+        "Chiêu mộ những huấn luyện viên giỏi nhất thế giới.",
+        "Thay đổi tiêu chí đánh giá và lựa chọn cầu thủ bị định giá thấp nhưng giỏi về tỷ lệ chiếm gôn.",
+        "Ép các cầu thủ luyện tập gấp đôi thời gian so với các đội khác.",
+        "Mua chuộc trọng tài trong các trận đấu quan trọng."
+      ],
+      "answer": "Thay đổi tiêu chí đánh giá và lựa chọn cầu thủ bị định giá thấp nhưng giỏi về tỷ lệ chiếm gôn.",
+      "explanation": "Đội Oakland A’s không có ngân sách lớn nên họ đã từ bỏ lối chơi truyền thống và áp dụng phương pháp Moneyball. Họ tìm kiếm những yếu tố bị đánh giá thấp như tỷ lệ chiếm gôn, giúp họ xây dựng một đội hình mạnh mẽ với chi phí thấp nhất."
+    },
+    {
+      "id": 4,
+      "question": "Tại sao một nhà thầu độc lập có thể đánh bại một công ty tư vấn lớn để giành hợp đồng triệu đô?",
+      "options": [
+        "Bằng cách đưa ra mức giá rẻ hơn một nửa so với công ty lớn.",
+        "Nhờ mối quan hệ cá nhân với giám đốc của công ty khách hàng.",
+        "Bằng cách cùng khách hàng thiết kế dự án để họ có quyền sở hữu, thay vì nộp bản kế hoạch bóng bẩy dài hàng trăm trang.",
+        "Nhờ thuê mướn những chuyên gia giỏi nhất từ chính công ty đối thủ."
+      ],
+      "answer": "Bằng cách cùng khách hàng thiết kế dự án để họ có quyền sở hữu, thay vì nộp bản kế hoạch bóng bẩy dài hàng trăm trang.",
+      "explanation": "Nhà thầu độc lập biết mình không thể cạnh tranh về hình thức hay quy mô với công ty lớn, nên đã chọn cách tương tác trực tiếp với khách hàng. Phương pháp này tận dụng thế mạnh linh hoạt của anh ta và tạo ra sự tin tưởng tuyệt đối từ phía đối tác."
+    },
+    {
+      "id": 5,
+      "question": "Trong bài báo của Malcolm Gladwell, vua David đã chiến thắng Goliath nhờ chiến thuật nào?",
+      "options": [
+        "Tự trang bị áo giáp kiên cố và vũ khí tối tân nhất thời bấy giờ.",
+        "Gọi thêm quân tiếp viện để tạo lợi thế về số lượng.",
+        "Từ chối trò chơi sức mạnh, cởi bỏ áo giáp và dùng tốc độ cùng tầm ngắm chính xác với 5 hòn đá.",
+        "Đầu hàng giả vờ và tấn công bất ngờ vào ban đêm."
+      ],
+      "answer": "Từ chối trò chơi sức mạnh, cởi bỏ áo giáp và dùng tốc độ cùng tầm ngắm chính xác với 5 hòn đá.",
+      "explanation": "Vua David không chiến đấu với Goliath bằng sức mạnh cơ bắp hay vũ khí truyền thống vì đó là điểm yếu của ông. Việc thay đổi luật chơi, tận dụng tốc độ và sự nhanh nhẹn đã giúp ông đánh bại đối thủ to lớn một cách bất ngờ."
+    },
+    {
+      "id": 6,
+      "question": "Theo nghiên cứu của Ivan Arreguin-Toft, nguyên nhân khiến 70% các đội yếu hơn thất bại trước đối thủ mạnh là gì?",
+      "options": [
+        "Họ không có vũ khí hiện đại.",
+        "Họ chiến đấu theo cách thông thường với cùng nguyên tắc mà đối thủ mạnh sử dụng.",
+        "Họ thiếu sự dũng cảm và ý chí chiến đấu.",
+        "Họ không nhận được sự ủng hộ từ các nước đồng minh."
+      ],
+      "answer": "Họ chiến đấu theo cách thông thường với cùng nguyên tắc mà đối thủ mạnh sử dụng.",
+      "explanation": "Nghiên cứu chỉ ra rằng khi kẻ yếu đối đầu với kẻ mạnh bằng chính sở trường của kẻ mạnh, tỷ lệ thất bại là rất cao. Do đó, việc áp dụng cùng một luật chơi thông thường với kẻ mạnh chính là con đường nhanh nhất dẫn đến thất bại."
+    },
+    {
+      "id": 7,
+      "question": "Doug Lenat đã giành chiến thắng trong cuộc thi đấu dàn trận hải quân ảo bằng cách nào?",
+      "options": [
+        "Xây dựng một hạm đội gồm các tàu chiến kích thước lớn và trang bị phòng thủ mạnh mẽ.",
+        "Thiết kế chương trình máy tính mua vô số tàu nhỏ, vũ khí mạnh nhưng không có tính phòng bị để lấy số lượng áp đảo.",
+        "Từ chối tham gia và kiện ban tổ chức vì luật lệ không công bằng.",
+        "Sao chép y hệt chiến thuật quân sự của những người từng chiến thắng trước đó."
+      ],
+      "answer": "Thiết kế chương trình máy tính mua vô số tàu nhỏ, vũ khí mạnh nhưng không có tính phòng bị để lấy số lượng áp đảo.",
+      "explanation": "Doug Lenat không tuân theo các quy tắc thiết kế tàu chiến thông thường mà sử dụng AI để tìm ra kẽ hở trong luật chơi. Chương trình của ông đã tạo ra một hạm đội với chiến thuật dị biệt, giúp ông chiến thắng bằng cách phá vỡ hoàn toàn mọi kỳ vọng của đối thủ."
+    },
+    {
+      "id": 8,
+      "question": "Bài học cốt lõi rút ra từ các ví dụ về vua David, Oakland A's và Doug Lenat là gì?",
+      "options": [
+        "Luôn cố gắng trở nên to lớn và giàu có hơn đối thủ.",
+        "Nếu không thể thắng trong cuộc chơi hiện tại, hãy từ bỏ và tìm mục tiêu khác.",
+        "Đừng ngại đấu lại đối thủ bằng chính thế mạnh của họ để chứng tỏ bản lĩnh.",
+        "Hãy chơi trò chơi phù hợp với ưu điểm của bạn, thậm chí là tự tạo ra hoặc tái lập luật chơi."
+      ],
+      "answer": "Hãy chơi trò chơi phù hợp với ưu điểm của bạn, thậm chí là tự tạo ra hoặc tái lập luật chơi.",
+      "explanation": "Qua các ví dụ về những kẻ yếu đánh bại kẻ mạnh, tác giả khẳng định tầm quan trọng của việc định hình lại cuộc chiến. Việc thay đổi luật chơi để chúng có lợi cho thế mạnh của mình là chiến lược khôn ngoan nhất để đạt được thành công."
+    },
+    {
+      "id": 9,
+      "question": "Tại sao nhiều doanh nhân thành đạt nhưng chưa từng tốt nghiệp đại học lại lựa chọn mở công ty riêng?",
+      "options": [
+        "Vì họ muốn chứng tỏ bằng cấp đại học là không cần thiết.",
+        "Vì công ty riêng được thiết kế để tận dụng những ưu điểm độc nhất của họ, giúp họ chiến thắng cuộc chơi.",
+        "Vì họ có sẵn nguồn vốn khổng lồ từ gia đình nên không cần đi xin việc.",
+        "Vì họ không thích làm việc dưới sự chỉ đạo của người khác."
+      ],
+      "answer": "Vì công ty riêng được thiết kế để tận dụng những ưu điểm độc nhất của họ, giúp họ chiến thắng cuộc chơi.",
+      "explanation": "Những người không phù hợp với hệ thống giáo dục đại học thường tìm cách khởi nghiệp vì môi trường doanh nghiệp truyền thống không giúp họ phát huy sở trường. Việc tự mở công ty cho phép họ thiết lập một sân chơi riêng nơi họ có thể làm chủ luật chơi."
+    },
+    {
+      "id": 10,
+      "question": "Tác giả khuyên bạn nên làm gì nếu đang ở trong một môi trường không phù hợp để giành chiến thắng?",
+      "options": [
+        "Cố gắng thích nghi và chịu đựng cho đến khi cơ hội đến.",
+        "Than vãn và đổ lỗi cho sự bất công của luật chơi.",
+        "Thay đổi trò chơi hoặc tham gia một trò chơi khác mà bạn có thể chiến thắng.",
+        "Bắt chước những người chiến thắng trong môi trường đó."
+      ],
+      "answer": "Thay đổi trò chơi hoặc tham gia một trò chơi khác mà bạn có thể chiến thắng.",
+      "explanation": "Nếu bạn đang ở trong một môi trường không thuận lợi, việc cố gắng chịu đựng hay thay đổi bản thân theo hướng tiêu cực là vô ích. Thay vào đó, hãy dũng cảm chuyển hướng sang một môi trường khác hoặc tạo ra một sân chơi mới phù hợp với thế mạnh của bạn."
+    }
+  ],
+  "12_10. Tôi Sẽ Lấy Con Tôm.md": [
+    {
+      "id": 1,
+      "question": "Yếu tố thứ hai trong nhóm 4 yếu tố mà tác giả đề cập trong chương này là gì?",
+      "options": [
+        "Tận dụng điểm mạnh của bạn.",
+        "Khẳng định sự khác biệt của bạn.",
+        "Chấp nhận điểm yếu của bạn.",
+        "Theo đuổi đam mê của bạn."
+      ],
+      "answer": "Chấp nhận điểm yếu của bạn.",
+      "explanation": "Sau khi nhấn mạnh việc phát huy điểm mạnh, tác giả chuyển sang yếu tố quan trọng thứ hai là việc đối mặt và chấp nhận điểm yếu. Đây là bước cần thiết để biến những khiếm khuyết thành sự độc đáo mang tính cá nhân, giúp bản thân trở nên nổi bật."
+    },
+    {
+      "id": 2,
+      "question": "Qua câu chuyện về Geoff và việc gọi món salad, lý do thực sự khiến anh ấy từ chối đổi món tôm lấy cá hồi với giá 1 đô-la thêm là gì?",
+      "options": [
+        "Anh ấy là một người cực kỳ keo kiệt và không muốn tốn tiền.",
+        "Anh ấy có quy định giá trị nghiêm ngặt: 1 đô-la bỏ ra phải mang lại ít nhất 2 đô-la giá trị khác.",
+        "Anh ấy ghét ăn cá hồi hơn tôm nhưng muốn thử phản ứng của phục vụ.",
+        "Anh ấy không mang theo đủ tiền mặt để trả thêm 1 đô-la."
+      ],
+      "answer": "Anh ấy có quy định giá trị nghiêm ngặt: 1 đô-la bỏ ra phải mang lại ít nhất 2 đô-la giá trị khác.",
+      "explanation": "Geoff không chịu thêm 1 đô-la không phải vì keo kiệt mà vì anh duy trì một kỷ luật chi tiêu vô cùng cứng rắn. Quy tắc \"tiền đẻ ra tiền\" này là cốt lõi trong tư duy đầu tư của anh, khiến anh luôn đưa ra những quyết định mua bán có lợi nhất."
+    },
+    {
+      "id": 3,
+      "question": "Tác giả đánh giá như thế nào về sự lập dị của Geoff?",
+      "options": [
+        "Đó là nguyên nhân khiến anh bị nhiều người xa lánh.",
+        "Anh ấy thành công cho dù bản thân lập dị.",
+        "Sự lập dị chính là bí quyết giúp anh đạt được thành công vang dội.",
+        "Anh ấy cần phải đi khám tâm lý để chữa khỏi sự lập dị này."
+      ],
+      "answer": "Sự lập dị chính là bí quyết giúp anh đạt được thành công vang dội.",
+      "explanation": "Tác giả nhận ra rằng tính cách nghiêm ngặt đến mức lập dị của Geoff không phải là điều cần giấu giếm mà chính là cốt lõi tạo nên sự thành công. Chính sự kỷ luật sắt đá này đã giúp anh tích lũy được khối tài sản khổng lồ."
+    },
+    {
+      "id": 4,
+      "question": "Tại sao người bạn nổi tiếng của tác giả lại thường xuyên kể tên những người nổi tiếng khác khi trò chuyện?",
+      "options": [
+        "Vì anh ấy muốn giới thiệu những người bạn đó cho tác giả.",
+        "Vì anh ấy được trả tiền để quảng cáo cho họ.",
+        "Vì sâu thẳm bên trong, anh ấy vẫn cảm thấy không yên tâm và bất an về giá trị của mình.",
+        "Vì anh ấy mắc chứng hay quên và chỉ nhớ tên những người nổi tiếng."
+      ],
+      "answer": "Vì sâu thẳm bên trong, anh ấy vẫn cảm thấy không yên tâm và bất an về giá trị của mình.",
+      "explanation": "Thói quen nhắc tên người nổi tiếng của người bạn đó cho thấy một nỗi bất an ngầm về địa vị cá nhân. Sự yếu đuối này, tuy là một khuyết điểm, nhưng lại là động lực mạnh mẽ thúc đẩy anh ta không ngừng nỗ lực và vươn lên trong sự nghiệp."
+    },
+    {
+      "id": 5,
+      "question": "Câu nói của Malcolm Jones: “Những tiểu thuyết thú vị nhất chính là câu chuyện mà trong đó cái xấu và cái tốt không thể tách rời” mang ý nghĩa gì khi áp dụng vào con người?",
+      "options": [
+        "Những người quyền lực nhất biết cách loại bỏ hoàn toàn cái xấu trong họ.",
+        "Con người chỉ trở nên vĩ đại khi che giấu được những cảm xúc đáng xấu hổ của mình.",
+        "Sự kết hợp giữa sức mạnh và những điểm kỳ dị, bất thường tạo nên tác động mạnh mẽ đến thế giới.",
+        "Sách tiểu thuyết thường miêu tả con người một cách thiếu thực tế."
+      ],
+      "answer": "Sự kết hợp giữa sức mạnh và những điểm kỳ dị, bất thường tạo nên tác động mạnh mẽ đến thế giới.",
+      "explanation": "Malcolm Jones ngụ ý rằng con người không ai hoàn hảo, và những điểm tốt, xấu thường đan xen tạo nên một cá thể đặc biệt. Chính sự dung hòa giữa năng lực vượt trội và những khuyết điểm mới làm nên một cá nhân có sức ảnh hưởng thực sự."
+    },
+    {
+      "id": 6,
+      "question": "Người bạn làm trong lĩnh vực y tế công cộng của tác giả có điểm \"dị thường\" nào đã giúp anh cứu sống hàng triệu người?",
+      "options": [
+        "Khả năng nhìn thấy các sắc thái màu xám phức tạp trong học thuật.",
+        "Nhìn thế giới một cách đơn giản thái quá, chỉ có đúng và sai, đen và trắng.",
+        "Luôn tham gia vào các cuộc tranh luận học thuật kéo dài.",
+        "Che giấu sự đơn giản của mình để hòa nhập với giới trí thức."
+      ],
+      "answer": "Nhìn thế giới một cách đơn giản thái quá, chỉ có đúng và sai, đen và trắng.",
+      "explanation": "Thay vì sa đà vào các sắc thái phức tạp của học thuật, người bạn của tác giả lại có một tư duy cực kỳ đơn giản và trắng đen rõ ràng. Chính điểm \"dị thường\" này đã giúp anh có một niềm tin mạnh mẽ, thúc đẩy những hành động quyết liệt để cứu sống nhiều người."
+    },
+    {
+      "id": 7,
+      "question": "Khuyết điểm hay điểm kỳ dị của nhà quản lý đầu tư xuất sắc được nhắc đến trong truyện là gì?",
+      "options": [
+        "Anh ấy không biết trượt tuyết nhưng vẫn cố gắng tham gia.",
+        "Anh ấy luôn mang theo tiền mặt trong mọi chuyến đi chơi.",
+        "Sự ám ảnh cực độ với công việc, đến mức mang theo hàng mét báo cáo tài chính đi trượt tuyết.",
+        "Thường xuyên đầu tư vào những công ty đang phá sản."
+      ],
+      "answer": "Sự ám ảnh cực độ với công việc, đến mức mang theo hàng mét báo cáo tài chính đi trượt tuyết.",
+      "explanation": "Sự cống hiến mù quáng và ám ảnh không ngừng đối với công việc thường bị coi là một nhược điểm trong việc cân bằng cuộc sống. Tuy nhiên, chính đặc điểm này lại giúp nhà quản lý tài chính duy trì được phong độ xuất sắc và mang lại lợi nhuận khổng lồ."
+    },
+    {
+      "id": 8,
+      "question": "Sai lầm lớn nhất mà chúng ta thường mắc phải khi đối mặt với những điểm kỳ dị của bản thân là gì?",
+      "options": [
+        "Thừa nhận chúng và khoe khoang với mọi người.",
+        "Cố gắng chối bỏ, che giấu và loại bỏ chúng vì sợ cản trở thành công.",
+        "Tận dụng chúng để tạo ra lợi thế cạnh tranh.",
+        "Tìm cách biến người khác trở nên kỳ dị giống mình."
+      ],
+      "answer": "Cố gắng chối bỏ, che giấu và loại bỏ chúng vì sợ cản trở thành công.",
+      "explanation": "Theo tác giả, con người thường mắc sai lầm khi luôn muốn che đậy những khiếm khuyết của bản thân để trông hoàn hảo hơn trong mắt người khác. Việc chối bỏ này sẽ làm mất đi sự chân thật và tước đi cơ hội biến điểm yếu thành lợi thế riêng."
+    },
+    {
+      "id": 9,
+      "question": "Từ câu chuyện của những nhân vật trong bài, tác giả muốn truyền đạt thông điệp cốt lõi nào?",
+      "options": [
+        "Để thành công, bạn phải trở thành một người hoàn hảo không tì vết.",
+        "Những điểm kỳ lạ, yếu kém có thể chính là nguồn sức mạnh bí mật nếu biết tận dụng.",
+        "Không ai có thể thành công nếu vẫn giữ những thói quen xấu xa.",
+        "Chỉ những người lập dị mới có khả năng tạo ra tài sản lớn."
+      ],
+      "answer": "Những điểm kỳ lạ, yếu kém có thể chính là nguồn sức mạnh bí mật nếu biết tận dụng.",
+      "explanation": "Thông điệp cốt lõi của chương là hãy ngừng đấu tranh với những khiếm khuyết của bản thân. Thay vào đó, nếu biết cách chấp nhận và khai thác, chính những điểm yếu hay sự lập dị đó lại mang đến một lợi thế cạnh tranh vô cùng lớn lao."
+    },
+    {
+      "id": 10,
+      "question": "Thái độ của Geoff đối với quy định chi tiêu khắt khe của mình thể hiện điều gì?",
+      "options": [
+        "Anh ấy cảm thấy vô cùng ngượng ngùng và muốn che giấu nó.",
+        "Anh ấy chấp nhận nó, không xấu hổ và sử dụng nó như một tài sản.",
+        "Anh ấy cố gắng thay đổi bản thân để phù hợp với xã hội.",
+        "Anh ấy kiềm nén nó mỗi khi ở nơi đông người."
+      ],
+      "answer": "Anh ấy chấp nhận nó, không xấu hổ và sử dụng nó như một tài sản.",
+      "explanation": "Geoff hoàn toàn tự tin và trung thực với những nguyên tắc khắt khe của mình mà không hề cảm thấy xấu hổ hay ngượng ngùng. Thái độ chấp nhận này giúp anh biến sự lập dị thành một bản sắc cá nhân độc đáo và công cụ mạnh mẽ trong kinh doanh."
+    }
+  ],
+  "13_11. Những Chỗ Ngồi Ấm Áp.md": [
+    {
+      "id": 1,
+      "question": "Yếu tố thứ ba trong nhóm 4 yếu tố mà tác giả đề cập trong chương này là gì?",
+      "options": [
+        "Khẳng định sự khác biệt của bạn.",
+        "Chấp nhận điểm yếu của bạn.",
+        "Tận dụng điểm mạnh của bạn.",
+        "Theo đuổi đam mê của bạn."
+      ],
+      "answer": "Khẳng định sự khác biệt của bạn.",
+      "explanation": "Yếu tố tiếp theo mà tác giả đề cập trong nhóm bốn yếu tố chính là sự khác biệt cá nhân. Việc nhận diện và khẳng định điểm độc đáo của bản thân là điều cần thiết để nổi bật và không bị thay thế trong một môi trường cạnh tranh khốc liệt."
+    },
+    {
+      "id": 2,
+      "question": "Tại sao chiếc xe ba bánh ở Công viên Trung tâm lại đắt khách trong mùa đông lạnh giá?",
+      "options": [
+        "Vì tài xế xe ba bánh mời chào nhiệt tình nhất.",
+        "Vì chiếc xe đó có giá rẻ hơn các xe khác.",
+        "Vì chiếc xe có biển báo \"Ghế được làm ấm\", tạo sự khác biệt.",
+        "Vì đó là chiếc xe mới và đẹp nhất trong công viên."
+      ],
+      "answer": "Vì chiếc xe có biển báo \"Ghế được làm ấm\", tạo sự khác biệt.",
+      "explanation": "Giữa muôn vàn chiếc xe ba bánh ở Công viên Trung tâm, việc trang bị ghế sưởi ấm là một điểm nhấn độc đáo trong mùa đông. Tiện ích nhỏ này đã tạo ra sự khác biệt lớn, thu hút khách hàng mạnh mẽ so với những đối thủ cạnh tranh khác."
+    },
+    {
+      "id": 3,
+      "question": "Theo tác giả, trong một lĩnh vực có tính cạnh tranh cao, cách duy nhất để chiến thắng là gì?",
+      "options": [
+        "Trở thành một thứ hàng hóa thông thường với giá thành rẻ nhất.",
+        "Trở nên khác biệt.",
+        "Sao chép hình mẫu của những con người thành đạt khác.",
+        "Cố gắng hòa nhập với bầy đàn để không bị sa thải."
+      ],
+      "answer": "Trở nên khác biệt.",
+      "explanation": "Trong một thị trường cạnh tranh nơi mọi thứ đều dễ dàng bị thay thế, cách duy nhất để chiến thắng không phải là cố gắng làm tốt hơn người khác trong cùng một khuôn mẫu. Việc tạo ra một lối đi riêng biệt sẽ giúp bạn định vị bản thân một cách không thể hòa lẫn."
+    },
+    {
+      "id": 4,
+      "question": "Khi cố gắng hòa nhập và trở nên giống như mọi người khác trong công ty, hậu quả là gì?",
+      "options": [
+        "Bạn sẽ dễ dàng được thăng chức.",
+        "Bạn tạo ra sự độc đáo và nổi bật cho bản thân.",
+        "Bạn trở nên không quan trọng và gia tăng số lượng đối thủ cạnh tranh của chính mình.",
+        "Bạn sẽ chiếm được cảm tình tuyệt đối từ cấp trên."
+      ],
+      "answer": "Bạn trở nên không quan trọng và gia tăng số lượng đối thủ cạnh tranh của chính mình.",
+      "explanation": "Việc cố gắng giống như mọi người chỉ khiến bạn bị đánh đồng vào số đông và mất đi giá trị riêng. Khi đó, thay vì nổi bật, bạn tự biến mình thành một phiên bản dễ dàng bị thay thế bởi bất kỳ đối thủ cạnh tranh nào khác có cùng kỹ năng."
+    },
+    {
+      "id": 5,
+      "question": "Câu chuyện về Paul Faerstein tại Hay Group minh họa cho điều gì?",
+      "options": [
+        "Trở thành bản sao giỏi hơn của người khác là cách giữ vững công việc.",
+        "Khi không mang đến bất kỳ giá trị độc đáo nào, bạn rất dễ mất việc khi hiệu suất giảm sút.",
+        "Sự trung thành mù quáng với công ty luôn được đền đáp xứng đáng.",
+        "Nghề tư vấn không cần đến sự khác biệt."
+      ],
+      "answer": "Khi không mang đến bất kỳ giá trị độc đáo nào, bạn rất dễ mất việc khi hiệu suất giảm sút.",
+      "explanation": "Paul Faerstein từng cố gắng sao chép cách làm của người khác thay vì phát huy điểm mạnh riêng. Hậu quả là anh thiếu đi sự độc đáo, khiến vị trí của anh trong công ty trở nên mờ nhạt và anh bị sa thải ngay khi công ty cắt giảm nhân sự."
+    },
+    {
+      "id": 6,
+      "question": "Tại sao hiện tượng Susan Boyle lại được tác giả đưa ra làm ví dụ?",
+      "options": [
+        "Để chứng minh rằng ngoại hình là yếu tố quyết định thành công.",
+        "Để nhấn mạnh rằng nếu cô ấy trông giống như mọi ca sĩ khác, thế giới đã không chú ý đến cô ấy. Sự khác biệt đã làm cô nổi bật.",
+        "Để cho thấy âm nhạc không cần sự cạnh tranh.",
+        "Để chê bai những người theo đuổi vẻ đẹp hình thể."
+      ],
+      "answer": "Để nhấn mạnh rằng nếu cô ấy trông giống như mọi ca sĩ khác, thế giới đã không chú ý đến cô ấy. Sự khác biệt đã làm cô nổi bật.",
+      "explanation": "Susan Boyle không có ngoại hình lung linh của một ngôi sao nhạc pop truyền thống, nhưng chính giọng hát thiên phú đối lập với vẻ bề ngoài bình dị đã tạo nên một hiện tượng. Tác giả dùng cô để minh họa sức mạnh của việc mạnh dạn tỏa sáng với sự khác biệt của mình."
+    },
+    {
+      "id": 7,
+      "question": "Lời khuyên của tác giả dành cho một người 70 tuổi là gì?",
+      "options": [
+        "Hãy đi nâng mặt để trông giống 30 tuổi và dễ cạnh tranh hơn.",
+        "Hãy nghỉ hưu và nhường cơ hội cho người trẻ.",
+        "Giữ lấy tuổi 70 và dùng kinh nghiệm rèn luyện như một thế mạnh vượt trội.",
+        "Cố gắng giấu đi tuổi thật của mình trong môi trường làm việc."
+      ],
+      "answer": "Giữ lấy tuổi 70 và dùng kinh nghiệm rèn luyện như một thế mạnh vượt trội.",
+      "explanation": "Thay vì cố che giấu tuổi tác bằng cách làm cho mình trông trẻ trung hơn để cạnh tranh với thế hệ trẻ, người 70 tuổi nên xem kinh nghiệm và sự từng trải là điểm khác biệt độc đáo. Đó là một thứ tài sản quý giá mà những người trẻ không thể nào có được."
+    },
+    {
+      "id": 8,
+      "question": "Paul Faerstein sau này đã thay đổi và trở thành Paramacharya Swami Parameshwarananda. Lý do lớn nhất khiến anh ấy thành công và hạnh phúc ở hiện tại là gì?",
+      "options": [
+        "Anh ấy đã kiếm được nhiều tiền hơn từ cộng đồng tôn giáo.",
+        "Anh ấy học được cách sao chép tốt hơn các vị lãnh đạo tinh thần khác.",
+        "Anh ấy cảm nhận và hành động đúng với bản chất con người thật của mình, trở thành người không thể thiếu.",
+        "Anh ấy từ bỏ hoàn toàn công việc tư vấn trước đây."
+      ],
+      "answer": "Anh ấy cảm nhận và hành động đúng với bản chất con người thật của mình, trở thành người không thể thiếu.",
+      "explanation": "Sau khi từ bỏ vỏ bọc của một chuyên gia tư vấn để sống đúng với bản chất tinh thần của mình, Paul đã tìm thấy thành công và hạnh phúc đích thực. Việc chấp nhận sự khác biệt đã giúp ông trở thành một phiên bản tốt nhất và không thể bị thay thế."
+    },
+    {
+      "id": 9,
+      "question": "Tác giả khuyên bạn nên phản ứng thế nào với những chuẩn mực văn hóa ủng hộ tính đồng nhất ở nơi làm việc (như câu \"Đừng làm chuyện để ý\")?",
+      "options": [
+        "Hãy tuân thủ tuyệt đối để đảm bảo sự an toàn.",
+        "Cứ làm chuyện để ý đi, hãy mạnh dạn thể hiện sự khác biệt.",
+        "Hãy bí mật làm trái quy định nhưng ngoài mặt vẫn tuân theo.",
+        "Nên từ chức ngay lập tức để tìm công ty khác."
+      ],
+      "answer": "Cứ làm chuyện để ý đi, hãy mạnh dạn thể hiện sự khác biệt.",
+      "explanation": "Trong môi trường làm việc thường cổ vũ sự đồng nhất, tác giả khuyên chúng ta nên phá vỡ những rào cản đó. Việc tự tin thể hiện cá tính riêng, dù có bị xem là \"làm chuyện để ý\", chính là chìa khóa để tạo dấu ấn đậm nét và đạt được bước tiến lớn."
+    },
+    {
+      "id": 10,
+      "question": "Hình ảnh \"chiếc ghế ấm\" trong bài tượng trưng cho điều gì?",
+      "options": [
+        "Giá trị độc nhất và sự khác biệt mà chỉ bạn mới có thể mang lại.",
+        "Nơi làm việc an toàn và thoải mái nhất trong công ty.",
+        "Vị trí lãnh đạo mà ai cũng khao khát đạt được.",
+        "Việc tận dụng công nghệ hiện đại để thu hút khách hàng."
+      ],
+      "answer": "Giá trị độc nhất và sự khác biệt mà chỉ bạn mới có thể mang lại.",
+      "explanation": "Hình ảnh chiếc ghế ấm trong bài đại diện cho những phẩm chất, kỹ năng và giá trị độc đáo của mỗi người. Nó chính là yếu tố làm nên sự khác biệt cốt lõi, giúp bạn vượt lên trên đối thủ trong bất kỳ hoàn cảnh cạnh tranh nào."
+    }
+  ],
+  "14_12. Vị Cơ Trưởng Cứu Mạng 155 Hành.md": [
+    {
+      "id": 1,
+      "question": "Yếu tố thứ tư trong nhóm 4 yếu tố mà tác giả nhắc đến trong chương này là gì?",
+      "options": [
+        "Tận dụng điểm mạnh của bạn.",
+        "Khẳng định sự khác biệt của bạn.",
+        "Chấp nhận điểm yếu của bạn.",
+        "Theo đuổi đam mê (khát vọng) của bạn."
+      ],
+      "answer": "Theo đuổi đam mê (khát vọng) của bạn.",
+      "explanation": "Yếu tố cuối cùng khép lại nhóm bốn yếu tố chính là niềm đam mê hay khát vọng thực sự của mỗi người. Đam mê là nguồn động lực vô tận, giúp chúng ta luôn nỗ lực vượt qua khó khăn để gắn bó và thăng hoa trong lĩnh vực mình đã chọn."
+    },
+    {
+      "id": 2,
+      "question": "Điều gì làm nên sự khác biệt của Greg Davis, người hướng dẫn câu cá tài tình?",
+      "options": [
+        "Anh ấy được trang bị thuyền câu cá đắt tiền nhất vùng.",
+        "Anh ấy có khả năng giao tiếp và thuyết phục xuất sắc.",
+        "Anh ấy có đam mê sâu sắc, đi câu cá ngay cả vào ngày nghỉ của mình.",
+        "Anh ấy sử dụng mồi câu nhập khẩu từ nước ngoài."
+      ],
+      "answer": "Anh ấy có đam mê sâu sắc, đi câu cá ngay cả vào ngày nghỉ của mình.",
+      "explanation": "Greg Davis không chỉ coi câu cá là một nghề để kiếm sống, mà còn là một niềm đam mê mãnh liệt. Sự cống hiến vượt giới hạn công việc này giúp anh tích lũy những kinh nghiệm quý báu mà những người hướng dẫn thông thường không thể có được."
+    },
+    {
+      "id": 3,
+      "question": "Tác giả nhận định như thế nào về quy trình tuyển dụng sử dụng mô hình xác định phẩm chất xuất sắc mà công ty tư vấn của ông từng áp dụng?",
+      "options": [
+        "Đây là phương pháp hiệu quả nhất để tìm ra các tài năng trẻ.",
+        "Phương pháp này hao tốn thời gian, chi phí và chỉ tuyển được những người đã là \"ngôi sao\" sáng sẵn.",
+        "Đây là cách tiết kiệm nhất để phát triển nguồn nhân lực bền vững.",
+        "Mô hình này giúp tìm ra những nhân viên giỏi với chi phí cực thấp."
+      ],
+      "answer": "Phương pháp này hao tốn thời gian, chi phí và chỉ tuyển được những người đã là \"ngôi sao\" sáng sẵn.",
+      "explanation": "Các công ty tài chính thường bỏ ra một nguồn lực lớn để thiết lập mô hình tìm kiếm nhân tài. Tuy nhiên, theo tác giả, những phương pháp truyền thống này lại quá tốn kém và thường chỉ nhắm đến những ứng viên vốn đã thành danh."
+    },
+    {
+      "id": 4,
+      "question": "Một trong những phương pháp tốn kém mà các công ty tài chính sử dụng để tìm kiếm nhân viên giỏi là gì?",
+      "options": [
+        "Đào tạo lại toàn bộ nhân viên cũ bằng các khóa học nước ngoài.",
+        "Thuê gần gấp mười lần số lượng nhà phân tích cần thiết, sau đó sa thải những người không thành công.",
+        "Trả lương cao gấp đôi thị trường để thu hút nhân tài từ đối thủ.",
+        "Tổ chức các cuộc thi tuyển dụng công khai quy mô toàn cầu."
+      ],
+      "answer": "Thuê gần gấp mười lần số lượng nhà phân tích cần thiết, sau đó sa thải những người không thành công.",
+      "explanation": "Để tìm ra những người thực sự xuất sắc, nhiều công ty sẵn sàng tuyển dụng một lượng lớn nhân viên rồi đào thải khắc nghiệt. Sự sàng lọc dựa trên số lượng lớn này cho thấy các phương pháp đánh giá tiềm năng truyền thống thường không đạt hiệu quả tối ưu."
+    },
+    {
+      "id": 5,
+      "question": "Câu hỏi đơn giản và tiết kiệm nhất để dự đoán khả năng thành công của một người trong một lĩnh vực là gì?",
+      "options": [
+        "\"Bạn kỳ vọng mức lương bao nhiêu?\"",
+        "\"Kinh nghiệm làm việc trước đây của bạn là gì?\"",
+        "\"Bạn làm gì trong lúc rảnh rỗi?\"",
+        "\"Điểm yếu lớn nhất của bạn là gì?\""
+      ],
+      "answer": "\"Bạn làm gì trong lúc rảnh rỗi?\"",
+      "explanation": "Theo tác giả, câu hỏi về sở thích cá nhân khi rảnh rỗi có thể phản ánh chính xác niềm đam mê sâu thẳm của ứng viên. Những người luôn dành thời gian rảnh cho một công việc nhất định chắc chắn sẽ đạt được sự xuất sắc trong lĩnh vực đó."
+    },
+    {
+      "id": 6,
+      "question": "Dấu hiệu nào trong quá khứ của cơ trưởng Sullenberger cho thấy đam mê và sự thành công của ông sau này?",
+      "options": [
+        "Có bằng lái máy bay từ thời niên thiếu và tự lái tàu lượn để thư giãn.",
+        "Thường xuyên tham gia các cuộc thi bơi lội dưới sông.",
+        "Đam mê trò chơi điện tử về máy bay chiến đấu.",
+        "Từng cứu nhiều người trong các vụ tai nạn xe hơi."
+      ],
+      "answer": "Có bằng lái máy bay từ thời niên thiếu và tự lái tàu lượn để thư giãn.",
+      "explanation": "Cơ trưởng Sullenberger không chỉ điều khiển máy bay trong giờ làm việc mà ông đã dành trọn tình yêu cho bầu trời từ khi còn trẻ. Việc coi lái tàu lượn là hình thức thư giãn chứng tỏ bay lượn là một đam mê ngấm vào máu thịt của ông."
+    },
+    {
+      "id": 7,
+      "question": "Thói quen nào thuở nhỏ của Sullenberger giúp giải thích sự cẩn thận khi ông kiểm tra máy bay hai lần trước khi thoát ra ngoài?",
+      "options": [
+        "Ông từng là đội trưởng đội cứu hộ trên biển.",
+        "Ông thích dựng và sơn phết cẩn thận từng chi tiết của mô hình hàng không mẫu hạm.",
+        "Ông rất thích đọc sách về kỹ năng sinh tồn.",
+        "Ông có thói quen làm sạch phòng ngủ hàng ngày."
+      ],
+      "answer": "Ông thích dựng và sơn phết cẩn thận từng chi tiết của mô hình hàng không mẫu hạm.",
+      "explanation": "Ngay từ thời thơ ấu, Sullenberger đã bộc lộ sự tỉ mỉ, cẩn trọng thông qua việc lắp ráp mô hình. Phẩm chất này được rèn luyện bền bỉ theo thời gian và là yếu tố then chốt giúp ông bình tĩnh xử lý tình huống khẩn cấp cứu sống 155 hành khách."
+    },
+    {
+      "id": 8,
+      "question": "Khi được phó thư ký an toàn cộng đồng bang New York cảm ơn, cơ trưởng Sullenberger đã trả lời như thế nào?",
+      "options": [
+        "Ông khẳng định mình là một anh hùng thực sự.",
+        "Ông cho rằng đó là một phép màu từ Chúa.",
+        "Ông thản nhiên nói: \"Đó là những việc chúng tôi được huấn luyện để thực hiện.\"",
+        "Ông yêu cầu được thưởng một khoản tiền lớn."
+      ],
+      "answer": "Ông thản nhiên nói: \"Đó là những việc chúng tôi được huấn luyện để thực hiện.\"",
+      "explanation": "Dù tạo ra một kỳ tích phi thường, phản ứng của cơ trưởng Sullenberger lại vô cùng khiêm tốn. Điều này chứng tỏ với ông, hành động đó không phải là phép màu mà là kết quả tất yếu của quá trình rèn luyện đam mê và sự chuyên nghiệp tuyệt đối."
+    },
+    {
+      "id": 9,
+      "question": "Tác giả có quan điểm như thế nào về sự \"ám ảnh\" của một người đối với thành công?",
+      "options": [
+        "Sự ám ảnh là dấu hiệu của các vấn đề về tâm lý cần tránh.",
+        "Các nỗi ám ảnh chính là một trong những dấu hiệu rõ ràng nhất cho sự thành công và động lực bẩm sinh.",
+        "Người thành công phải biết gạt bỏ mọi ám ảnh cá nhân.",
+        "Chỉ những ám ảnh về tiền bạc mới đem lại sự giàu có."
+      ],
+      "answer": "Các nỗi ám ảnh chính là một trong những dấu hiệu rõ ràng nhất cho sự thành công và động lực bẩm sinh.",
+      "explanation": "Tác giả cho rằng \"sự ám ảnh\" không mang nghĩa tiêu cực, mà thực chất nó là biểu hiện rõ nét nhất của niềm đam mê mãnh liệt. Chính nỗi ám ảnh với một công việc nào đó sẽ tiếp thêm sức mạnh để con người liên tục nỗ lực và đạt đến đỉnh cao."
+    },
+    {
+      "id": 10,
+      "question": "Để khám phá ra niềm đam mê, tác giả khuyên chúng ta nên tập trung vào điều gì khi chọn trọng tâm cho năm tới?",
+      "options": [
+        "Tập trung vào những thứ mà xã hội cho là \"cần thiết\".",
+        "Chỉ làm những việc sinh ra lợi nhuận ngay lập tức.",
+        "Bớt chú ý đến những thứ \"cần\" và chú ý nhiều hơn đến những thứ \"muốn\".",
+        "Hỏi xin lời khuyên của những người đã thành công trước đó."
+      ],
+      "answer": "Bớt chú ý đến những thứ \"cần\" và chú ý nhiều hơn đến những thứ \"muốn\".",
+      "explanation": "Tác giả khuyên mọi người hãy gạt bỏ áp lực từ những kỳ vọng xã hội hoặc những nghĩa vụ bắt buộc để lắng nghe mong muốn thực sự của bản thân. Tập trung vào điều bạn \"muốn\" sẽ giúp bạn định hình lại sự nghiệp một cách gắn kết và bền vững."
+    }
+  ]
+}

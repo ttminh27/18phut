@@ -1,0 +1,600 @@
+{
+  "13_11. Những Chỗ Ngồi Ấm Áp.md": [
+    {
+      "id": 1,
+      "question": "Theo tác giả, tại sao nhiều người lại tốn công sức để cố gắng \"không khác biệt\"?",
+      "options": [
+        "Vì họ sợ bị sa thải hoặc bị gạt ra rìa nếu quá nổi bật.",
+        "Vì họ tin rằng hòa nhập sẽ mang lại lợi thế cạnh tranh lâu dài.",
+        "Vì họ không có khả năng tạo ra sự khác biệt độc đáo.",
+        "Vì sao chép người thành công tốn ít thời gian và tiền bạc hơn."
+      ],
+      "answer": "Vì họ sợ bị sa thải hoặc bị gạt ra rìa nếu quá nổi bật."
+    },
+    {
+      "id": 2,
+      "question": "Câu chuyện về Paul Faerstein làm nổi bật hậu quả gì của việc hòa nhập quá tốt?",
+      "options": [
+        "Anh ấy trở nên không thể thiếu đối với các đối tác của mình.",
+        "Anh ấy mất đi bản sắc cá nhân và trở nên dễ bị thay thế khi gặp khó khăn.",
+        "Anh ấy được thăng chức vì đã sao chép xuất sắc mô hình thành công của người khác.",
+        "Anh ấy đã tạo ra một môi trường làm việc hiệu quả và thân thiện hơn."
+      ],
+      "answer": "Anh ấy mất đi bản sắc cá nhân và trở nên dễ bị thay thế khi gặp khó khăn."
+    },
+    {
+      "id": 3,
+      "question": "Khái niệm \"Chỗ ngồi ấm áp\" (Warm seats) trong bài tượng trưng cho điều gì?",
+      "options": [
+        "Dịch vụ chăm sóc khách hàng xuất sắc mà mọi doanh nghiệp đều nên học theo.",
+        "Sự tiện nghi vật chất giúp thu hút nhiều khách hàng hơn trong mọi hoàn cảnh.",
+        "Điểm khác biệt độc đáo giúp bạn nổi bật và thu hút sự chú ý trong một thị trường cạnh tranh.",
+        "Các nỗ lực để trở nên thân thiện và hòa đồng với mọi người xung quanh."
+      ],
+      "answer": "Điểm khác biệt độc đáo giúp bạn nổi bật và thu hút sự chú ý trong một thị trường cạnh tranh."
+    },
+    {
+      "id": 4,
+      "question": "Tác giả khuyên một người 70 tuổi nên làm gì trong một môi trường đề cao sự đa dạng nhưng ủng hộ tính đồng nhất?",
+      "options": [
+        "Giấu giếm tuổi thật và hành xử như một người 30 tuổi để dễ bề thăng tiến.",
+        "Cố gắng thích nghi với các quy chuẩn văn hóa chung để không bị xem là lạc hậu.",
+        "Lợi dụng độ tuổi 70 như một thế mạnh và hãy \"làm chuyện để ý\".",
+        "Rút lui khỏi các lĩnh vực có tính cạnh tranh cao để tránh bị đào thải."
+      ],
+      "answer": "Lợi dụng độ tuổi 70 như một thế mạnh và hãy \"làm chuyện để ý\"."
+    }
+  ],
+  "14_12. Vị Cơ Trưởng Cứu Mạng 155 Hành.md": [
+    {
+      "id": 1,
+      "question": "Tác giả cho rằng các mô hình tuyển dụng nhân viên xuất sắc truyền thống thường gặp vấn đề gì?",
+      "options": [
+        "Quá tốn kém, mất thời gian và thường chỉ tuyển được những người đã là ngôi sao chứ không phải tiềm năng.",
+        "Chỉ tập trung vào đam mê mà bỏ qua kỹ năng làm việc thực tế của ứng viên.",
+        "Phụ thuộc quá nhiều vào sở thích cá nhân thay vì các bài kiểm tra năng lực khách quan.",
+        "Tạo ra môi trường làm việc quá cạnh tranh và thiếu tính kết nối."
+      ],
+      "answer": "Quá tốn kém, mất thời gian và thường chỉ tuyển được những người đã là ngôi sao chứ không phải tiềm năng."
+    },
+    {
+      "id": 2,
+      "question": "Điều gì ở Cơ trưởng Sullenberger phản ánh đúng nhất quan điểm của tác giả về việc tìm kiếm \"ngôi sao\"?",
+      "options": [
+        "Ông có một bản sơ yếu lý lịch hoàn hảo và kỹ năng giao tiếp xuất sắc hơn những phi công khác.",
+        "Đam mê lái tàu lượn và nỗi ám ảnh về tiểu tiết từ khi còn trẻ dự đoán chính xác khả năng của ông.",
+        "Ông là một người thạo nhiều nghề, hiểu biết rộng trên nhiều lĩnh vực khác nhau.",
+        "Ông có khả năng tự kiềm chế tốt trước mọi áp lực căng thẳng từ bên ngoài."
+      ],
+      "answer": "Đam mê lái tàu lượn và nỗi ám ảnh về tiểu tiết từ khi còn trẻ dự đoán chính xác khả năng của ông."
+    },
+    {
+      "id": 3,
+      "question": "Theo tác giả, để biết một người có tiềm năng tỏa sáng ở lĩnh vực nào, câu hỏi quan trọng nhất cần đặt ra là gì?",
+      "options": [
+        "Bạn đã đạt được những bằng cấp chuyên môn nào?",
+        "Bạn làm gì trong lúc rảnh rỗi?",
+        "Bạn từng vượt qua khó khăn lớn nhất nào trong công việc?",
+        "Mức lương mong muốn của bạn trong 5 năm tới là bao nhiêu?"
+      ],
+      "answer": "Bạn làm gì trong lúc rảnh rỗi?"
+    },
+    {
+      "id": 4,
+      "question": "Theo bài viết, sự thành công bứt phá của một người thường bắt nguồn từ đâu?",
+      "options": [
+        "Khả năng khắc phục hoàn toàn mọi điểm yếu của bản thân.",
+        "Việc trở thành một cá nhân đa năng, giỏi giao tiếp và hiểu biết nhiều lĩnh vực.",
+        "Những sự ám ảnh bất thường và đam mê sâu sắc mà họ sở hữu.",
+        "Sự may mắn và những cơ hội vô tình xuất hiện trong công việc."
+      ],
+      "answer": "Những sự ám ảnh bất thường và đam mê sâu sắc mà họ sở hữu."
+    }
+  ],
+  "15_13. Ai Cũng Có Thể Học Cách Trồng Cây.md": [
+    {
+      "id": 1,
+      "question": "Trong câu chuyện tiếp cận khách hàng tên Colin và sau đó là Lily, tác giả phát hiện ra điều gì giúp mình kiên trì?",
+      "options": [
+        "Nhu cầu tài chính cấp bách của công ty mới thành lập.",
+        "Tác giả bắt đầu thấy thích thú với chính quá trình tiếp cận khách hàng và coi đó như một trò chơi.",
+        "Sự hỗ trợ và khích lệ liên tục từ người bạn tên Elaine.",
+        "Niềm tin chắc chắn rằng Colin cuối cùng sẽ trở thành khách hàng lớn."
+      ],
+      "answer": "Tác giả bắt đầu thấy thích thú với chính quá trình tiếp cận khách hàng và coi đó như một trò chơi."
+    },
+    {
+      "id": 2,
+      "question": "Theo tác giả, điều kiện quan trọng nhất để con người có thể làm được bất kỳ việc gì (như việc đứng bằng tay/trồng cây chuối) là gì?",
+      "options": [
+        "Có tài năng bẩm sinh vượt trội trong lĩnh vực đó.",
+        "Bạn muốn đạt được điều đó một cách mãnh liệt.",
+        "Bạn tin rằng mình có thể đạt được điều đó.",
+        "Bạn thích thú với quá trình cố gắng để đạt được điều đó."
+      ],
+      "answer": "Bạn thích thú với quá trình cố gắng để đạt được điều đó."
+    },
+    {
+      "id": 3,
+      "question": "Tác giả nhấn mạnh ý nghĩa của quy tắc \"10.000 giờ\" từ cuốn sách của Malcolm Gladwell nhằm mục đích gì?",
+      "options": [
+        "Để chứng minh rằng ai cũng cần 10.000 giờ làm việc chăm chỉ mới có thể được thăng chức.",
+        "Để nhấn mạnh rằng bạn chỉ có thể trải qua đủ 10.000 giờ nếu bạn có hứng thú với giai đoạn \"cố gắng\".",
+        "Để khuyên người đọc nên phân bổ 10.000 giờ cho nhiều công việc khác nhau để tìm ra đam mê.",
+        "Để cho thấy rằng nỗ lực luôn quan trọng hơn sự sáng tạo trong nghệ thuật."
+      ],
+      "answer": "Để nhấn mạnh rằng bạn chỉ có thể trải qua đủ 10.000 giờ nếu bạn có hứng thú với giai đoạn \"cố gắng\"."
+    },
+    {
+      "id": 4,
+      "question": "Tại sao đa số mọi người lại bỏ cuộc quá sớm trước khi đạt được sự xuất sắc?",
+      "options": [
+        "Vì họ không nhận được sự đền đáp xứng đáng về mặt tài chính ngay lập tức.",
+        "Vì hiện thực của việc \"cố gắng\" thường bao gồm sự lặp đi lặp lại và dễ gây nhàm chán.",
+        "Vì họ nhận ra rằng mục tiêu ban đầu đặt ra là hoàn toàn phi thực tế.",
+        "Vì họ bị áp lực từ những người giỏi hơn và cảm thấy kém cỏi."
+      ],
+      "answer": "Vì hiện thực của việc \"cố gắng\" thường bao gồm sự lặp đi lặp lại và dễ gây nhàm chán."
+    }
+  ],
+  "16_14. Công Thức Để Tìm Thấy Công Việc.md": [
+    {
+      "id": 1,
+      "question": "Quan điểm khác biệt của tác giả về chiến lược tìm kiếm việc làm hay tìm kiếm tình yêu là gì?",
+      "options": [
+        "Hãy chuẩn bị một hồ sơ hoàn hảo và mở rộng các mối quan hệ xã giao.",
+        "Hãy đầu tư vào các khóa đào tạo kỹ năng ngắn hạn để nâng cao giá trị bản thân.",
+        "Hãy từ bỏ việc cố gắng quá mức và dành thời gian làm những việc bạn thích với những người có chung sở thích.",
+        "Hãy liên tục gửi hồ sơ đến mọi cơ quan cho đến khi ai đó chú ý đến bạn."
+      ],
+      "answer": "Hãy từ bỏ việc cố gắng quá mức và dành thời gian làm những việc bạn thích với những người có chung sở thích."
+    },
+    {
+      "id": 2,
+      "question": "Công thức tìm thấy công việc của tác giả nhấn mạnh vào việc gì?",
+      "options": [
+        "Dành 90% thời gian rảnh để rèn luyện kỹ năng mềm và kỹ năng phỏng vấn.",
+        "Tham gia các hoạt động yêu thích và đảm nhận vị trí lãnh đạo trong một nhóm nếu có thể.",
+        "Nghiên cứu kỹ lưỡng nhu cầu thị trường trước khi nộp đơn xin việc.",
+        "Tạm thời làm những công việc bản thân căm ghét để trang trải chi phí trước khi tìm được việc như ý."
+      ],
+      "answer": "Tham gia các hoạt động yêu thích và đảm nhận vị trí lãnh đạo trong một nhóm nếu có thể."
+    },
+    {
+      "id": 3,
+      "question": "Theo tác giả, tại sao việc tham gia các hoạt động tự nguyện và làm những điều mình đam mê lại dễ giúp người ta tìm được việc?",
+      "options": [
+        "Vì các nhà tuyển dụng thường ẩn mình trong các hội nhóm từ thiện.",
+        "Vì công việc thường đến khi chúng kết nối với những người xung quanh và họ thấy được sự hăng hái, đam mê của ta.",
+        "Vì bạn sẽ được cấp chứng chỉ từ các hoạt động xã hội đó để đưa vào CV.",
+        "Vì điều đó chứng tỏ bạn là người có nguồn tài chính độc lập, tạo niềm tin cho nhà tuyển dụng."
+      ],
+      "answer": "Vì công việc thường đến khi chúng kết nối với những người xung quanh và họ thấy được sự hăng hái, đam mê của ta."
+    },
+    {
+      "id": 4,
+      "question": "Tác giả có thái độ như thế nào đối với việc làm một công việc mình ghét chỉ để duy trì cuộc sống trong khi tìm việc khác?",
+      "options": [
+        "Ủng hộ, coi đó là một bước lùi cần thiết để tiến xa hơn.",
+        "Khuyến khích, vì đó là cách duy nhất để thể hiện tính trách nhiệm với bản thân.",
+        "Phản đối gay gắt, cho rằng đó là sự lãng phí thời gian và tuổi trẻ, hãy dùng thời gian trải nghiệm thứ khiến mình hứng khởi.",
+        "Đồng tình, nhưng khuyên nên tìm kiếm sự giúp đỡ tâm lý để vượt qua giai đoạn này."
+      ],
+      "answer": "Phản đối gay gắt, cho rằng đó là sự lãng phí thời gian và tuổi trẻ, hãy dùng thời gian trải nghiệm thứ khiến mình hứng khởi."
+    }
+  ],
+  "17_15. Điều Gì Quan Trọng Đối Với Bạn.md": [
+    {
+      "id": 1,
+      "question": "Nỗi hối tiếc \"Tôi ước gì mình đã không làm việc cật lực đến thế\" theo góc nhìn của tác giả thực chất có ý nghĩa sâu xa là gì?",
+      "options": [
+        "Đã không dành đủ thời gian để nghỉ ngơi và đi du lịch.",
+        "Đã lãng phí năng lượng vào việc kiếm tiền thay vì nâng cao sức khỏe.",
+        "Đã làm quá nhiều những thứ không quan trọng và không có ý nghĩa đối với bản thân.",
+        "Đã hy sinh tuổi trẻ cho công ty mà không được đền đáp xứng đáng."
+      ],
+      "answer": "Đã làm quá nhiều những thứ không quan trọng và không có ý nghĩa đối với bản thân."
+    },
+    {
+      "id": 2,
+      "question": "Tác giả nhấn mạnh điều gì khi nhắc đến câu chuyện của cô lao công làm việc buổi tối?",
+      "options": [
+        "Công việc chân tay thường mang lại sự bình yên trong tâm hồn hơn công việc trí óc.",
+        "Tiền bạc là thước đo duy nhất để đánh giá sự tận tụy của người lao động.",
+        "Những công việc ít được trả lương thường mang lại ít ý nghĩa hơn.",
+        "Không có thước đo khách quan nào cho giá trị công việc; ý nghĩa nằm ở cảm nhận và sự tự hào của người thực hiện nó."
+      ],
+      "answer": "Không có thước đo khách quan nào cho giá trị công việc; ý nghĩa nằm ở cảm nhận và sự tự hào của người thực hiện nó."
+    },
+    {
+      "id": 3,
+      "question": "Theo tác giả, bước đầu tiên để chuyển hướng cuộc sống tập trung vào những điều quan trọng là gì?",
+      "options": [
+        "Lập tức từ bỏ công việc hiện tại nếu nó không mang lại niềm vui.",
+        "Đặt ra các câu hỏi sâu sắc về những điều khiến mình tự hào, những điều vô nghĩa và những điều khiến mình phiền muộn.",
+        "Đóng góp toàn bộ tài sản cho từ thiện để tìm lại giá trị cốt lõi của bản thân.",
+        "Thay đổi môi trường sống bằng cách chuyển đến một thành phố khác."
+      ],
+      "answer": "Đặt ra các câu hỏi sâu sắc về những điều khiến mình tự hào, những điều vô nghĩa và những điều khiến mình phiền muộn."
+    },
+    {
+      "id": 4,
+      "question": "Tại sao tác giả lại quyết định bật dậy và viết tiếp chương sách sau khi bị bao trùm bởi nỗi sợ hãi về cái chết?",
+      "options": [
+        "Vì ông sợ không kịp hoàn thành hợp đồng với nhà xuất bản.",
+        "Vì đối với ông, công việc viết lách là một việc làm mang tính ý nghĩa và quan trọng đối với cá nhân ông.",
+        "Vì ông muốn chứng minh cho độc giả thấy sự kiên cường của mình.",
+        "Vì đó là cách duy nhất để quên đi những ám ảnh về bệnh tật."
+      ],
+      "answer": "Vì đối với ông, công việc viết lách là một việc làm mang tính ý nghĩa và quan trọng đối với cá nhân ông."
+    }
+  ],
+  "18_16. Tôi Là Bậc Cha Mẹ Mà Tôi Buộc.md": [
+    {
+      "id": 1,
+      "question": "Rủi ro lớn nhất của việc đi theo những \"con đường mòn\" có sẵn trong cuộc sống hoặc công việc là gì?",
+      "options": [
+        "Dễ bị lạc lõng khi gặp phải những con người không cùng chí hướng.",
+        "Trở nên bất cẩn, lơ đãng với cảnh vật xung quanh và mắc phải \"tầm nhìn hẹp\" làm mất dấu mục tiêu thật sự.",
+        "Bị người khác chỉ trích vì thiếu sự sáng tạo và tính đột phá.",
+        "Công việc trở nên nhàm chán và mất đi tính thử thách."
+      ],
+      "answer": "Trở nên bất cẩn, lơ đãng với cảnh vật xung quanh và mắc phải \"tầm nhìn hẹp\" làm mất dấu mục tiêu thật sự."
+    },
+    {
+      "id": 2,
+      "question": "Câu chuyện ngụ ngôn về anh chàng Sammy bám lấy mái nhà chờ Chúa cứu giúp minh họa cho thông điệp gì?",
+      "options": [
+        "Lòng tin mù quáng vào tôn giáo sẽ không mang lại kết quả thiết thực.",
+        "Khi quá tập trung vào kế hoạch đã định sẵn, ta có thể bỏ lỡ những cơ hội thật sự đang hiện hữu ngay trước mắt.",
+        "Cần phải tự thân vận động trước khi trông chờ vào sự giúp đỡ của người khác.",
+        "Trong khủng hoảng, sự kiên nhẫn chờ đợi luôn là chiến lược an toàn nhất."
+      ],
+      "answer": "Khi quá tập trung vào kế hoạch đã định sẵn, ta có thể bỏ lỡ những cơ hội thật sự đang hiện hữu ngay trước mắt."
+    },
+    {
+      "id": 3,
+      "question": "Tác giả rút ra bài học cốt lõi nào về việc lập và thực thi kế hoạch thông qua kinh nghiệm quản lý công ty của ông?",
+      "options": [
+        "Bản kế hoạch là vô nghĩa, không nên lãng phí thời gian để lập kế hoạch ban đầu.",
+        "Cần phải bám sát bản kế hoạch dài 50 trang bằng mọi giá để duy trì định hướng.",
+        "Kế hoạch chỉ là công cụ ban đầu; ta cần sẵn sàng vứt bỏ kế hoạch cũ và linh hoạt điều chỉnh theo thực tế thay đổi.",
+        "Kế hoạch chỉ nên được thay đổi khi có sự đồng thuận của tất cả nhân viên trong công ty."
+      ],
+      "answer": "Kế hoạch chỉ là công cụ ban đầu; ta cần sẵn sàng vứt bỏ kế hoạch cũ và linh hoạt điều chỉnh theo thực tế thay đổi."
+    },
+    {
+      "id": 4,
+      "question": "Theo tác giả, bí quyết chung để quản lý đội ngũ hiệu quả hoặc làm cha mẹ tốt là gì?",
+      "options": [
+        "Lên kế hoạch chi tiết từ đầu và buộc đối phương phải tuân thủ nghiêm ngặt.",
+        "Tránh mọi sự can thiệp và để mọi thứ phát triển tự nhiên theo bản năng.",
+        "Luôn đặt ra các hình phạt cứng rắn để duy trì kỷ luật và định hướng.",
+        "Theo dõi sát sao và liên tục điều chỉnh cách hành xử dựa trên điểm mạnh, điểm yếu và thực tế của đối phương."
+      ],
+      "answer": "Theo dõi sát sao và liên tục điều chỉnh cách hành xử dựa trên điểm mạnh, điểm yếu và thực tế của đối phương."
+    }
+  ],
+  "19_17. Tôi Đã Hụt Hơn Chín Ngàn Lượt.md": [
+    {
+      "id": 1,
+      "question": "Theo bài viết, tại sao những người có \"tư duy cứng nhắc\" lại luôn né tránh sự thất bại bằng mọi giá?",
+      "options": [
+        "Vì họ không có kỹ năng giải quyết vấn đề dưới áp lực cao.",
+        "Vì thất bại làm tổn hại đến danh tiếng và ảnh hưởng đến thu nhập của họ.",
+        "Vì họ tin rằng tài năng là bẩm sinh, và thất bại chính là bằng chứng tố cáo giới hạn năng lực của họ.",
+        "Vì họ không nhận được sự ủng hộ từ gia đình và cấp trên khi phạm sai lầm."
+      ],
+      "answer": "Vì họ tin rằng tài năng là bẩm sinh, và thất bại chính là bằng chứng tố cáo giới hạn năng lực của họ."
+    },
+    {
+      "id": 2,
+      "question": "Lời khuyên của huấn luyện viên Calvin về việc tập tạ mang thông điệp ẩn dụ gì cho sự nghiệp của chúng ta?",
+      "options": [
+        "Tập luyện với mức tạ nhẹ giúp duy trì sự dẻo dai lâu dài trong công việc.",
+        "Bạn chỉ có thể tiến bộ và đột phá khi dám đẩy bản thân đến mức độ gặp phải sự thất bại.",
+        "Sự an toàn luôn nên được đặt lên hàng đầu để tránh những tổn thương không đáng có.",
+        "Đừng bao giờ làm việc vượt quá khả năng của mình để tránh bị quá tải."
+      ],
+      "answer": "Bạn chỉ có thể tiến bộ và đột phá khi dám đẩy bản thân đến mức độ gặp phải sự thất bại."
+    },
+    {
+      "id": 3,
+      "question": "Những người có \"tư duy phát triển\" cảm thấy bản thân thông minh nhất khi nào?",
+      "options": [
+        "Khi họ chiến thắng trong mọi cuộc cạnh tranh mà không gặp khó khăn gì.",
+        "Khi họ được cấp trên hoặc những người xung quanh tuyên dương vì sự hoàn hảo.",
+        "Khi họ đối diện với những điều mới mẻ và đang trong quá trình học hỏi, dù gặp nhiều trở ngại.",
+        "Khi họ giải quyết lại thành công một vấn đề quen thuộc một cách nhanh chóng."
+      ],
+      "answer": "Khi họ đối diện với những điều mới mẻ và đang trong quá trình học hỏi, dù gặp nhiều trở ngại."
+    },
+    {
+      "id": 4,
+      "question": "Tác giả khuyên bạn nên đặt ra mức mục tiêu như thế nào để tối đa hóa sự phát triển cá nhân?",
+      "options": [
+        "Những mục tiêu nhỏ gọn, có 100% cơ hội thành công để xây dựng sự tự tin.",
+        "Những mục tiêu phi thực tế với dưới 10% cơ hội thành công để rèn luyện tinh thần thép.",
+        "Những mục tiêu lớn mà bạn chỉ có khoảng 50 đến 70 phần trăm cơ hội thành công.",
+        "Không nên đặt mục tiêu cố định mà hãy để mọi thứ diễn ra một cách tùy hứng."
+      ],
+      "answer": "Những mục tiêu lớn mà bạn chỉ có khoảng 50 đến 70 phần trăm cơ hội thành công."
+    }
+  ],
+  "20_18. Khi Tương Lai Không Rõ Ràng.md": [
+    {
+      "id": 1,
+      "question": "Căn nguyên của tình trạng \"tê liệt\" mà Anne và những nhân viên của cô gặp phải là gì?",
+      "options": [
+        "Họ thiếu kỹ năng chuyên môn cần thiết để hoàn thành công việc mới.",
+        "Môi trường làm việc có quá nhiều mâu thuẫn cá nhân không thể giải quyết.",
+        "Tương lai quá mịt mờ khiến họ không biết phải nỗ lực ở hiện tại để làm gì.",
+        "Cấp trên liên tục thay đổi yêu cầu dự án khiến họ kiệt sức."
+      ],
+      "answer": "Tương lai quá mịt mờ khiến họ không biết phải nỗ lực ở hiện tại để làm gì."
+    },
+    {
+      "id": 2,
+      "question": "Theo lý thuyết của David McClelland được trích dẫn trong bài, con người sẽ được thúc đẩy bởi ba yếu tố cốt lõi nào?",
+      "options": [
+        "Tiền bạc, địa vị, và thời gian rảnh rỗi.",
+        "Thành tựu, hòa nhập, và quyền lực (tạo sức ảnh hưởng).",
+        "Sự thăng tiến, sự công nhận, và sự an toàn.",
+        "Sự độc lập, sự sáng tạo, và sự linh hoạt."
+      ],
+      "answer": "Thành tựu, hòa nhập, và quyền lực (tạo sức ảnh hưởng)."
+    },
+    {
+      "id": 3,
+      "question": "Khi đối mặt với sự bất định, thay vì lo lắng về tương lai, tác giả khuyên chúng ta nên tập trung vào điều gì ở hiện tại?",
+      "options": [
+        "Cố gắng tiết kiệm tối đa chi phí và tìm kiếm một công việc phụ để dự phòng.",
+        "Tạm dừng mọi dự án phức tạp và chỉ làm những việc có tính lặp đi lặp lại để giữ an toàn.",
+        "Tổ chức lại doanh nghiệp và tiến hành cắt giảm những nhân sự kém hiệu quả.",
+        "Tự tạo ra các thử thách có ý nghĩa, hợp tác với người khác và tìm cách tác động tích cực đến công việc."
+      ],
+      "answer": "Tự tạo ra các thử thách có ý nghĩa, hợp tác với người khác và tìm cách tác động tích cực đến công việc."
+    },
+    {
+      "id": 4,
+      "question": "Hình ảnh \"những ngôi nhà xây dở dang\" ở Utah được tác giả sử dụng để ví von với thái độ sống nào?",
+      "options": [
+        "Sống tiết kiệm và không quan tâm đến vẻ bề ngoài.",
+        "Ngừng nỗ lực và buông xuôi hiện tại chỉ vì lo sợ vào một tương lai tăm tối không thể đoán định.",
+        "Liên tục thay đổi kế hoạch giữa chừng khiến không việc gì được hoàn thành trọn vẹn.",
+        "Thích nghi với mọi hoàn cảnh khó khăn bằng sự sáng tạo và tinh thần lạc quan."
+      ],
+      "answer": "Ngừng nỗ lực và buông xuôi hiện tại chỉ vì lo sợ vào một tương lai tăm tối không thể đoán định."
+    }
+  ],
+  "21_19. Có Thể Vậy.md": [
+    {
+      "id": 1,
+      "question": "Phản ứng \"Có thể vậy\" của người nông dân trong câu chuyện Tái Ông Thất Mã cho thấy thái độ gì trước những biến cố cuộc sống?",
+      "options": [
+        "Sự chán nản và buông xuôi trước sự thay đổi liên tục của số phận.",
+        "Sự ngờ vực đối với lòng tốt và sự cảm thông của những người hàng xóm.",
+        "Sự điềm tĩnh, không vội phán xét một sự kiện là tốt hay xấu khi chưa biết kết quả lâu dài của nó.",
+        "Sự thiếu quyết đoán trong việc đưa ra cách giải quyết các khó khăn."
+      ],
+      "answer": "Sự điềm tĩnh, không vội phán xét một sự kiện là tốt hay xấu khi chưa biết kết quả lâu dài của nó."
+    },
+    {
+      "id": 2,
+      "question": "Nhận định nào dưới đây phản ánh đúng nhất quan điểm của Daniel Gilbert về cách chúng ta đối phó với những tin xấu, ví dụ như bị sa thải?",
+      "options": [
+        "Sự mơ hồ về tương lai còn tồi tệ hơn việc tin xấu đã thực sự xảy ra, vì khi sự việc đã định, ta sẽ bắt đầu tìm cách cải thiện.",
+        "Nỗi sợ mất việc giúp nhân viên làm việc chăm chỉ và gắn bó hơn với công ty.",
+        "Việc bị sa thải luôn đẩy con người vào trạng thái trầm cảm kéo dài không thể phục hồi.",
+        "Con người có khả năng tiên đoán chính xác cảm xúc của mình trước mọi biến cố trong tương lai."
+      ],
+      "answer": "Sự mơ hồ về tương lai còn tồi tệ hơn việc tin xấu đã thực sự xảy ra, vì khi sự việc đã định, ta sẽ bắt đầu tìm cách cải thiện."
+    },
+    {
+      "id": 3,
+      "question": "Theo bài viết, thay vì cố gắng kiểm soát mọi \"vận may rủi\" trong cuộc đời, chúng ta nên làm gì?",
+      "options": [
+        "Lập những kế hoạch thật chi tiết và không bao giờ thay đổi dù có bất cứ biến cố nào xảy ra.",
+        "Mặc kệ cho số phận an bài và không cần cố gắng tạo ra bất kỳ sự thay đổi nào.",
+        "Tập trung vào việc phát huy ưu điểm, chấp nhận khuyết điểm, khẳng định sự khác biệt và theo đuổi đam mê của bản thân.",
+        "Không ngừng tìm kiếm và lợi dụng lỗi lầm của người khác để tạo cơ hội cho chính mình."
+      ],
+      "answer": "Tập trung vào việc phát huy ưu điểm, chấp nhận khuyết điểm, khẳng định sự khác biệt và theo đuổi đam mê của bản thân."
+    },
+    {
+      "id": 4,
+      "question": "Tác giả cho rằng \"không bao giờ có thời điểm chính xác để đánh giá những thành công hay thất bại của bạn\", vì sao?",
+      "options": [
+        "Vì mỗi người có một tiêu chuẩn định nghĩa thành công hoàn toàn khác nhau.",
+        "Vì thành công hay thất bại đều có thể là chất xúc tác bất ngờ dẫn đến một hướng đi mới quan trọng trong tương lai.",
+        "Vì xã hội luôn thay đổi cách đánh giá về sự thành đạt theo thời gian.",
+        "Vì không ai dám chắc chắn về những báo cáo tài chính hay hiệu suất trong ngắn hạn."
+      ],
+      "answer": "Vì thành công hay thất bại đều có thể là chất xúc tác bất ngờ dẫn đến một hướng đi mới quan trọng trong tương lai."
+    }
+  ],
+  "22_20. Làm Gì Trong Năm Nay.md": [
+    {
+      "id": 1,
+      "question": "Hình ảnh \"bữa tiệc buffet\" được tác giả dùng để minh họa cho sai lầm phổ biến nào trong việc quản lý thời gian?",
+      "options": [
+        "Trì hoãn công việc khó nhằn và chỉ làm những việc dễ dàng, hấp dẫn nhất.",
+        "Cố gắng nếm thử (hoặc làm) tất cả mọi thứ cùng một lúc, dẫn đến kiệt sức và quá tải.",
+        "Liên tục thay đổi mục tiêu giữa chừng khiến không công việc nào được hoàn tất.",
+        "Đánh giá sai nguồn lực hiện có và nhận những dự án vượt quá khả năng bản thân."
+      ],
+      "answer": "Cố gắng nếm thử (hoặc làm) tất cả mọi thứ cùng một lúc, dẫn đến kiệt sức và quá tải."
+    },
+    {
+      "id": 2,
+      "question": "Theo tác giả, bí quyết thực sự để quản lý thời gian thành công trong một năm là gì?",
+      "options": [
+        "Tìm ra hệ thống giúp hoàn thành càng nhiều công việc càng tốt trong thời gian ngắn nhất.",
+        "Thuê thêm nhiều nhân viên hoặc người trợ giúp để phân bổ khối lượng công việc khổng lồ.",
+        "Có chiến lược chọn lọc, chỉ tập trung vào một số lượng giới hạn các lĩnh vực quan trọng (khoảng 5 việc) và dũng cảm từ chối những việc khác.",
+        "Lập kế hoạch chi tiết đến từng phút mỗi ngày để không một giây nào bị lãng phí."
+      ],
+      "answer": "Có chiến lược chọn lọc, chỉ tập trung vào một số lượng giới hạn các lĩnh vực quan trọng (khoảng 5 việc) và dũng cảm từ chối những việc khác."
+    },
+    {
+      "id": 3,
+      "question": "Khi xảy ra sự xung đột giữa hai công việc đều nằm trong \"5 tiêu chí trọng tâm\", tác giả gợi ý cách ra quyết định như thế nào?",
+      "options": [
+        "Giao một trong hai công việc đó cho người khác làm thay.",
+        "Ưu tiên công việc nào mang lại lợi ích tài chính lớn hơn trong ngắn hạn.",
+        "Chọn tiêu chí nào trong thời gian qua đang bị bạn dành ít thời gian hơn để tạo sự cân bằng.",
+        "Từ bỏ cả hai công việc đó và tìm kiếm một dự án hoàn toàn mới để thay thế."
+      ],
+      "answer": "Chọn tiêu chí nào trong thời gian qua đang bị bạn dành ít thời gian hơn để tạo sự cân bằng."
+    },
+    {
+      "id": 4,
+      "question": "Quy tắc \"5% còn lại\" trong phương pháp của tác giả có ý nghĩa gì?",
+      "options": [
+        "Dành 5% thời gian để lên kế hoạch và đánh giá lại các tiêu chí ưu tiên vào cuối năm.",
+        "Đó là khoảng thời gian linh hoạt dành cho những việc lặt vặt, duy trì cuộc sống mà không nằm trong trọng tâm chính.",
+        "Đó là mức chênh lệch sai số cho phép khi bạn không đạt được các mục tiêu đã đề ra.",
+        "Dành 5% thu nhập để tái đầu tư vào những sở thích cá nhân hoặc các khóa học ngắn hạn."
+      ],
+      "answer": "Đó là khoảng thời gian linh hoạt dành cho những việc lặt vặt, duy trì cuộc sống mà không nằm trong trọng tâm chính."
+    }
+  ],
+  "23_III. Làm Gì Trong Hôm Nay.md": [
+    {
+      "id": 1,
+      "question": "Sự mâu thuẫn lớn nhất mà tác giả đối mặt vào \"buổi sáng thứ Hai\" sau khi đã xác định rõ trọng tâm của năm là gì?",
+      "options": [
+        "Ông không thể thuyết phục các đồng sự tin vào tầm nhìn mới của mình.",
+        "Ông tiếp tục bị cuốn vào những thói quen cũ và làm các công việc không hướng tới mục tiêu mới định ra.",
+        "Ông nhận ra rằng mình đã chọn sai định hướng và phải bắt đầu lên kế hoạch lại từ đầu.",
+        "Ông bị mất năng lượng và không có cảm hứng làm bất cứ việc gì."
+      ],
+      "answer": "Ông tiếp tục bị cuốn vào những thói quen cũ và làm các công việc không hướng tới mục tiêu mới định ra."
+    },
+    {
+      "id": 2,
+      "question": "Vấn đề chung của hầu hết các hệ thống quản lý thời gian trên thị trường, theo nhận định của tác giả là gì?",
+      "options": [
+        "Quá tốn kém để mua phần mềm và cần thời gian đào tạo dài hạn.",
+        "Tập trung quá nhiều vào cảm xúc thay vì hiệu quả công việc.",
+        "Quá phức tạp hoặc chỉ tập trung làm sao để \"hoàn thành mọi thứ\" một cách nhanh nhất.",
+        "Không có khả năng đồng bộ hóa trên các thiết bị công nghệ hiện đại."
+      ],
+      "answer": "Quá phức tạp hoặc chỉ tập trung làm sao để \"hoàn thành mọi thứ\" một cách nhanh nhất."
+    },
+    {
+      "id": 3,
+      "question": "Thay vì chỉ cố gắng hoàn thành mọi thứ được giao, tác giả đề xuất một hệ thống mỗi ngày cần đáp ứng yêu cầu cốt lõi nào?",
+      "options": [
+        "Đo lường chính xác từng phút dành cho các công việc không tên.",
+        "Giữ bản thân tập trung vào các lĩnh vực ưu tiên cốt lõi và bỏ qua những thứ gây xao nhãng.",
+        "Ghi lại chi tiết mọi sai lầm để kiểm điểm vào cuối tháng.",
+        "Ưu tiên giải quyết triệt để những công việc ồn ào và khẩn cấp nhất trước."
+      ],
+      "answer": "Giữ bản thân tập trung vào các lĩnh vực ưu tiên cốt lõi và bỏ qua những thứ gây xao nhãng."
+    },
+    {
+      "id": 4,
+      "question": "Để có một ngày làm việc thành công tiến sát tới trọng tâm của năm, tác giả khuyên chúng ta phải làm gì?",
+      "options": [
+        "Lên kế hoạch chi tiết từ buổi sáng, chủ động đưa ra quyết định từ chối những việc không cần làm.",
+        "Không cần lên kế hoạch mà hãy giải quyết công việc theo dòng chảy tự nhiên.",
+        "Chờ đợi cấp trên giao phó công việc để đảm bảo tính chính xác và an toàn.",
+        "Tách biệt hoàn toàn công việc và đời sống cá nhân để không bị phân tâm."
+      ],
+      "answer": "Lên kế hoạch chi tiết từ buổi sáng, chủ động đưa ra quyết định từ chối những việc không cần làm."
+    }
+  ],
+  "24_21. Này Anh Bạn, Đã Xảy Ra Chuyện.md": [
+    {
+      "id": 1,
+      "question": "Nguyên nhân thực sự khiến tác giả liên tục bị ngã khi đi xe đạp qua tảng đá là gì?",
+      "options": [
+        "Chiếc xe đạp quá cũ và bánh xe không đủ ma sát để bám đường.",
+        "Tác giả dồn mắt nhìn chằm chằm vào tảng đá và vô thức bóp thắng, làm mất đà lao tới.",
+        "Tác giả đã nhắm mắt lại vì quá sợ hãi khi đến gần chướng ngại vật.",
+        "Tảng đá quá to và trơn trượt khiến bất kỳ ai đi qua cũng phải ngã."
+      ],
+      "answer": "Tác giả dồn mắt nhìn chằm chằm vào tảng đá và vô thức bóp thắng, làm mất đà lao tới."
+    },
+    {
+      "id": 2,
+      "question": "Giải pháp giúp tác giả vượt qua chướng ngại vật thành công mang lại bài học gì cho việc quản lý một ngày?",
+      "options": [
+        "Phải nhắm mắt làm liều và tin tưởng vào khả năng xoay xở của bản thân.",
+        "Khi đối mặt với khó khăn, cách tốt nhất là dừng lại và chọn một con đường khác dễ dàng hơn.",
+        "Cần phải nhìn ra phía trước, vạch ra đường đi thay vì chỉ tập trung đối phó với những rắc rối ngay sát trước mắt.",
+        "Hãy luôn có người đồng hành phía trước để dọn dẹp các chướng ngại vật giúp bạn."
+      ],
+      "answer": "Cần phải nhìn ra phía trước, vạch ra đường đi thay vì chỉ tập trung đối phó với những rắc rối ngay sát trước mắt."
+    },
+    {
+      "id": 3,
+      "question": "Triết lý \"sống trong hiện tại\" có thể trở thành trở ngại trong quản lý thời gian khi nào?",
+      "options": [
+        "Khi nó làm chúng ta quá thư giãn và không có động lực kiếm tiền.",
+        "Khi chúng ta chỉ phản ứng với những việc ngay trước mắt, ai nhờ gì làm nấy, mà quên đi việc định hướng tương lai.",
+        "Khi nó khiến ta hoài niệm quá nhiều về quá khứ và những thất bại đã qua.",
+        "Khi ta tập trung quá nhiều vào cảm xúc của người khác mà quên đi bản thân."
+      ],
+      "answer": "Khi chúng ta chỉ phản ứng với những việc ngay trước mắt, ai nhờ gì làm nấy, mà quên đi việc định hướng tương lai."
+    },
+    {
+      "id": 4,
+      "question": "Câu chuyện lèo lái chiếc xe đạp nhấn mạnh tầm quan trọng của việc gì trong cuộc sống hàng ngày?",
+      "options": [
+        "Sự linh hoạt thay đổi mục tiêu liên tục theo hoàn cảnh.",
+        "Đánh giá cẩn trọng và giảm tốc độ trước những rủi ro có thể xảy ra.",
+        "Việc lập kế hoạch trước và nhìn vượt khỏi những khó khăn tức thời để duy trì quán tính tiến lên.",
+        "Tranh thủ giải quyết mọi công việc vụn vặt ngay khi chúng vừa xuất hiện."
+      ],
+      "answer": "Việc lập kế hoạch trước và nhìn vượt khỏi những khó khăn tức thời để duy trì quán tính tiến lên."
+    }
+  ],
+  "25_22. Từng Chú Chim Một.md": [
+    {
+      "id": 1,
+      "question": "Hiện tượng gì thường xảy ra khi chúng ta đối mặt với quá nhiều công việc cần giải quyết cùng lúc?",
+      "options": [
+        "Chúng ta đột nhiên làm việc năng suất hơn nhờ hoóc-môn căng thẳng.",
+        "Chúng ta sẽ dễ dàng ủy thác công việc cho người khác một cách thông minh.",
+        "Chúng ta bị \"đông cứng\", loay hoay xoay vòng mà không thực sự hoàn thành được việc gì có ý nghĩa.",
+        "Chúng ta sẽ bỏ mặc toàn bộ để đi tìm một công việc mới."
+      ],
+      "answer": "Chúng ta bị \"đông cứng\", loay hoay xoay vòng mà không thực sự hoàn thành được việc gì có ý nghĩa."
+    },
+    {
+      "id": 2,
+      "question": "Lời khuyên \"Từng chú chim một\" từ quyển sách của Anne Lamott ngụ ý điều gì trong việc đối phó với sự quá tải?",
+      "options": [
+        "Hãy tập trung vào những việc dễ làm nhất trước để tạo cảm hứng.",
+        "Cần chia nhỏ khối lượng công việc khổng lồ thành từng phần nhỏ có thể quản lý và giải quyết lần lượt.",
+        "Phải học cách bỏ qua những tiểu tiết và chỉ quan tâm đến bức tranh tổng thể.",
+        "Hãy làm nhiều việc cùng một lúc để tiết kiệm thời gian."
+      ],
+      "answer": "Cần chia nhỏ khối lượng công việc khổng lồ thành từng phần nhỏ có thể quản lý và giải quyết lần lượt."
+    },
+    {
+      "id": 3,
+      "question": "Theo hệ thống của tác giả, một danh sách \"việc cần làm\" hiệu quả phải được tổ chức như thế nào?",
+      "options": [
+        "Ghi ngẫu nhiên mọi thứ nảy ra trong đầu để không bị quên.",
+        "Phân chia theo mức độ khẩn cấp: cần làm ngay, làm trong tuần, làm trong tháng.",
+        "Gom nhóm rõ ràng theo 5 tiêu điểm (trọng tâm của năm) và cộng thêm mục \"5% còn lại\".",
+        "Phân loại theo những công việc tạo ra doanh thu và những công việc không tạo ra doanh thu."
+      ],
+      "answer": "Gom nhóm rõ ràng theo 5 tiêu điểm (trọng tâm của năm) và cộng thêm mục \"5% còn lại\"."
+    },
+    {
+      "id": 4,
+      "question": "Việc sắp xếp danh sách công việc theo cấu trúc các \"tiêu điểm của năm\" mang lại lợi ích lớn nhất nào ngoài việc giúp bắt đầu dễ dàng hơn?",
+      "options": [
+        "Cung cấp bằng chứng cho cấp trên về cường độ làm việc của bạn.",
+        "Cho phép bạn đo lường mức độ tiêu thụ năng lượng của bản thân vào cuối ngày.",
+        "Giúp bạn dễ dàng nhận ra xu hướng sử dụng thời gian hiện tại và điều chỉnh nếu một tiêu điểm quan trọng đang bị lơ là.",
+        "Biến công việc khô khan thành những thử thách thú vị mang tính giải trí cao."
+      ],
+      "answer": "Giúp bạn dễ dàng nhận ra xu hướng sử dụng thời gian hiện tại và điều chỉnh nếu một tiêu điểm quan trọng đang bị lơ là."
+    }
+  ]
+}

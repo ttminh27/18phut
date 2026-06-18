@@ -1,0 +1,612 @@
+{
+  "00_LỜI GIỚI THIỆU.md": [
+    {
+      "id": 1,
+      "question": "Molly há hốc mồm kinh ngạc trong ngày đầu nhận việc vì lý do gì?",
+      "options": [
+        "Cô được giao quá nhiều dự án cùng lúc",
+        "Hộp thư của cô có đến 385 thư cần đọc chưa đến một phút sau khi nhận việc",
+        "Công ty yêu cầu cô làm việc cả ngày nghỉ",
+        "Mật khẩu máy tính của cô không hoạt động"
+      ],
+      "answer": "Hộp thư của cô có đến 385 thư cần đọc chưa đến một phút sau khi nhận việc",
+      "explanation": "Đoạn văn mô tả rõ ràng Molly há hốc mồm vì kinh ngạc khi chỉ vừa đăng nhập vào máy tính, hộp thư điện tử của cô đã ngập tràn 385 email cần đọc ngay trong phút đầu tiên nhận việc. Đây là nguyên nhân trực tiếp và duy nhất được nêu ra cho phản ứng của cô."
+    },
+    {
+      "id": 2,
+      "question": "Theo tác giả, thứ duy nhất không thể vãn hồi một khi đã mất đi là gì?",
+      "options": [
+        "Tiền bạc",
+        "Một người bạn",
+        "Công việc",
+        "Thời gian"
+      ],
+      "answer": "Thời gian",
+      "explanation": "Tác giả khẳng định rất rõ ràng: 'Thời gian là thứ duy nhất không thể vãn hồi một khi đã mất đi,' và sau đó đưa ra các ví dụ tương phản về tiền bạc, bạn bè hay công việc đều có thể lấy lại được. Do đó, thời gian chính là yếu tố độc nhất mà chúng ta không thể thu hồi."
+    },
+    {
+      "id": 3,
+      "question": "Người bạn Do Thái Hayyim Angel trích dẫn sách Talmud nói rằng đi trễ là phạm tội gì?",
+      "options": [
+        "Tội nói dối",
+        "Tội lừa đảo",
+        "Tội ăn cắp thời gian của người khác",
+        "Tội vô trách nhiệm"
+      ],
+      "answer": "Tội ăn cắp thời gian của người khác",
+      "explanation": "Hayyim Angel giải thích theo Talmud, việc trễ hẹn bị coi là 'tội ăn cắp,' cụ thể là 'ăn cắp số thời gian mà người ta phải bỏ ra để đợi họ.' Anh nhấn mạnh đây là hình thức ăn cắp tồi tệ nhất vì thời gian đã mất không thể trả lại được, làm nổi bật giá trị của thời gian."
+    },
+    {
+      "id": 4,
+      "question": "Tại sao Bill lại hoàn toàn không biết sếp Leticia đang nói về việc gì trong cuộc họp?",
+      "options": [
+        "Anh đang bận mải mê tranh luận với thư ký",
+        "Anh đang ngủ gật trong cuộc họp",
+        "Anh đang chăm chú đọc email trên chiếc BlackBerry",
+        "Anh đang suy nghĩ về bản kế hoạch cho khách hàng"
+      ],
+      "answer": "Anh đang chăm chú đọc email trên chiếc BlackBerry",
+      "explanation": "Đoạn văn kể rằng Bill đã mở BlackBerry và mải mê đọc email trong cuộc họp, khiến anh không chú ý đến nội dung thảo luận. Khi sếp Leticia hỏi ý kiến, Bill hoàn toàn không nắm được vấn đề đang được nói đến vì sự xao nhãng của mình."
+    },
+    {
+      "id": 5,
+      "question": "Vấn đề của Marie tại buổi họp lớp sau 25 năm là gì?",
+      "options": [
+        "Cô cảm thấy cuộc sống của mình vô cùng tồi tệ và tuyệt vọng",
+        "Cô chưa kết hôn và không có công việc ổn định",
+        "Cô có cuộc sống 'tốt' nhưng cảm thấy mình chưa thật sự hoàn thành một việc gì ý nghĩa",
+        "Cô đã đánh mất sự nghiệp của mình do bị xao nhãng"
+      ],
+      "answer": "Cô có cuộc sống 'tốt' nhưng cảm thấy mình chưa thật sự hoàn thành một việc gì ý nghĩa",
+      "explanation": "Marie tự nhận định cuộc sống của cô 'tốt' với gia đình và công việc ổn định, nhưng cô cảm thấy thiếu một điều gì đó lớn lao hơn. Cụ thể, cô chia sẻ 'Mình chưa thật sự hoàn thành một việc gì' dù có nhiều việc muốn làm, cho thấy sự thiếu hài lòng về những thành tựu cá nhân."
+    },
+    {
+      "id": 6,
+      "question": "Tác giả áp dụng Định luật 1 của Newton về chuyển động để minh họa cho điều gì ở con người?",
+      "options": [
+        "Con người luôn cần một ngoại lực để thay đổi quỹ đạo sự nghiệp của mình",
+        "Chúng ta sẽ tiếp tục đi theo một lối mòn trừ khi tự can thiệp vào cuộc sống của chính mình",
+        "Chúng ta sẽ đạt được thành công nếu liên tục nỗ lực tiến về phía trước không ngừng nghỉ",
+        "Sức mạnh của sự tập trung có thể phá vỡ mọi vật cản"
+      ],
+      "answer": "Chúng ta sẽ tiếp tục đi theo một lối mòn trừ khi tự can thiệp vào cuộc sống của chính mình",
+      "explanation": "Tác giả so sánh Định luật 1 của Newton, nói rằng một vật sẽ giữ nguyên trạng thái chuyển động trừ khi có ngoại lực tác động, với hành vi của con người. Điều này minh họa rằng chúng ta có xu hướng tiếp tục những thói quen hoặc con đường hiện tại nếu không chủ động 'can thiệp vào cuộc sống của chính mình' để thay đổi."
+    },
+    {
+      "id": 7,
+      "question": "Cuốn sách \"18 Phút\" cho rằng sai lầm của nhiều sách quản lý thời gian khác là gì?",
+      "options": [
+        "Cố gắng hướng dẫn người đọc cách hoàn thành tất cả mọi thứ",
+        "Yêu cầu người đọc làm việc nhiều giờ hơn mỗi ngày",
+        "Khuyên người đọc nên từ bỏ hoàn toàn công nghệ",
+        "Cho rằng thời gian là thứ không quan trọng bằng kết quả"
+      ],
+      "answer": "Cố gắng hướng dẫn người đọc cách hoàn thành tất cả mọi thứ",
+      "explanation": "Tác giả trực tiếp chỉ ra sai lầm của nhiều sách quản lý thời gian là 'cố gắng chỉ cho bạn cách đạt được tất cả mọi thứ.' Ông lập luận rằng đây là điều không thể và nguy hiểm, vì nó làm người đọc mất khả năng tập trung vào những điều thực sự quan trọng."
+    },
+    {
+      "id": 8,
+      "question": "Tác giả ví ứng dụng/nút bấm nào với chức năng của cuốn sách \"18 Phút\"?",
+      "options": [
+        "Nút THU HỒI LỆNH GỬI trong Gmail",
+        "Nút TÌM VỊ TRÍ CỦA TÔI trong Google Earth",
+        "Nút CHIA SẺ trên mạng xã hội",
+        "Nút TẠM DỪNG trên máy nghe nhạc"
+      ],
+      "answer": "Nút TÌM VỊ TRÍ CỦA TÔI trong Google Earth",
+      "explanation": "Tác giả so sánh cuốn sách '18 Phút' với nút 'TÌM VỊ TRÍ CỦA TÔI' trong Google Earth. Điều này giúp người đọc xác định rõ vị trí hiện tại của mình và hướng dẫn họ đến nơi họ muốn đến, giống như cách nút đó định vị và chỉ đường trên bản đồ."
+    },
+    {
+      "id": 9,
+      "question": "Cuốn sách \"18 Phút\" được chia làm mấy phần chính (không tính Lời giới thiệu và Phần kết)?",
+      "options": [
+        "2 phần",
+        "3 phần",
+        "4 phần",
+        "5 phần"
+      ],
+      "answer": "4 phần",
+      "explanation": "Tác giả giới thiệu cấu trúc sách rất rõ ràng với các tiêu đề Phần 1: Tạm Dừng, Phần 2: Làm Gì Trong Năm Nay?, Phần 3: Làm Gì Hôm Nay?, và Phần 4: Làm Gì Bây Giờ?. Có tổng cộng 4 phần chính được trình bày chi tiết về nội dung."
+    },
+    {
+      "id": 10,
+      "question": "Mục tiêu trọng tâm của phần 1 \"Tạm Dừng\" trong cuốn sách là gì?",
+      "options": [
+        "Lên kế hoạch chi tiết cho từng phút trong ngày",
+        "Dạy cách sử dụng các nút bấm điện tử để tối ưu thời gian",
+        "Xây dựng nền tảng tư tưởng, giúp người đọc nhìn thấy những cơ hội bị bỏ lỡ nếu không dừng lại",
+        "Thiết lập 5 khía cạnh quan trọng nhất trong một năm"
+      ],
+      "answer": "Xây dựng nền tảng tư tưởng, giúp người đọc nhìn thấy những cơ hội bị bỏ lỡ nếu không dừng lại",
+      "explanation": "Đoạn văn mô tả mục tiêu của Phần 1 'Tạm Dừng' là 'đặt nền tảng về tư tưởng' và chia sẻ 'những thói quen và quan niệm giúp bạn nhìn thấy những cơ hội mà bạn không thể nhìn thấy nếu làm khác đi.' Điều này nhấn mạnh tầm quan trọng của việc dừng lại để suy nghĩ và nhận diện cơ hội."
+    }
+  ],
+  "01_I. Tạm Dừng.md": [
+    {
+      "id": 1,
+      "question": "Vào năm 1998, mơ ước khi khởi nghiệp của tác giả là gì?",
+      "options": [
+        "Trở thành một diễn viên nổi tiếng ở New York",
+        "Xây dựng một công ty tư vấn quản lý toàn cầu trị giá hàng triệu đô-la",
+        "Mở một trường đào tạo giáo trưởng Do Thái giáo",
+        "Trở thành một chuyên gia tài chính hàng đầu tại Wall Street"
+      ],
+      "answer": "Xây dựng một công ty tư vấn quản lý toàn cầu trị giá hàng triệu đô-la",
+      "explanation": "Vào năm 1998, tác giả đã khởi nghiệp với mơ ước rõ ràng được ghi trong đoạn văn là \"gầy dựng một công ty tư vấn quản lý toàn cầu trị giá hàng triệu đô-la\". Điều này cho thấy mục tiêu ban đầu của ông là xây dựng một đế chế kinh doanh lớn mạnh, không chỉ đơn thuần là kiếm tiền hay giúp đỡ người khác một cách chung chung."
+    },
+    {
+      "id": 2,
+      "question": "Tài sản duy nhất của công ty tác giả trong 6 tháng đầu khởi nghiệp là gì?",
+      "options": [
+        "Một văn phòng sang trọng ở New York",
+        "Một đội ngũ 6 tư vấn viên",
+        "Một chiếc máy vi tính",
+        "Một quỹ đầu tư ảo"
+      ],
+      "answer": "Một chiếc máy vi tính",
+      "explanation": "Đoạn văn mô tả chi tiết về những ngày đầu khởi nghiệp khó khăn, trong đó tác giả khẳng định: \"tài sản duy nhất của công ty là một máy vi tính\". Thông tin này nhấn mạnh sự khởi đầu khiêm tốn của công ty, chỉ với một công cụ cơ bản nhất, trước khi đạt được những thành công vượt bậc sau này."
+    },
+    {
+      "id": 3,
+      "question": "Bước ngoặt đột phá nào giúp công ty của tác giả bắt đầu phát triển mạnh mẽ?",
+      "options": [
+        "Ký được hợp đồng lớn với một ngân hàng đầu tư có tiếng tăm",
+        "Được một quỹ đầu tư rót vốn hàng triệu đô-la",
+        "Phát hành một phần mềm quản lý thời gian",
+        "Sáp nhập với một công ty tư vấn lớn ở Paris"
+      ],
+      "answer": "Ký được hợp đồng lớn với một ngân hàng đầu tư có tiếng tăm",
+      "explanation": "Sự phát triển mạnh mẽ của công ty được đánh dấu bằng một sự kiện cụ thể: \"Sau đó, tôi ký được hợp đồng lớn với một ngân hàng đầu tư có tiếng tăm. Đó là cú đột phá lớn...\". Hợp đồng này chính là bước ngoặt quan trọng, tạo tiền đề để tác giả mở rộng quy mô đội ngũ và dự án, thúc đẩy sự nghiệp tiến lên."
+    },
+    {
+      "id": 4,
+      "question": "Tác giả đã dự định điều gì vào năm thứ ba kinh doanh khi lợi nhuận tăng theo cấp số nhân?",
+      "options": [
+        "Bán công ty cho một tập đoàn lớn",
+        "Chuyển công ty sang Hong Kong",
+        "Nghỉ hưu trong vòng một thập kỷ tới",
+        "Nộp đơn vào trường y"
+      ],
+      "answer": "Nghỉ hưu trong vòng một thập kỷ tới",
+      "explanation": "Khi công việc kinh doanh thuận lợi và lợi nhuận tăng cao, tác giả đã bắt đầu có suy nghĩ về tương lai hưu trí. Cụ thể, đoạn văn nêu rõ: \"Năm thứ ba, tôi bắt đầu mơ tưởng đến việc về hưu trong vòng một thập kỷ tới\", cho thấy ông đã có kế hoạch nghỉ ngơi dựa trên thành công tài chính đạt được."
+    },
+    {
+      "id": 5,
+      "question": "Mặc dù đạt được những thành công rực rỡ ban đầu, tác giả nhận ra mình chưa từng dự tính đến điều gì?",
+      "options": [
+        "Nguy cơ khủng hoảng tài chính toàn cầu",
+        "Hạnh phúc của chính bản thân mình",
+        "Sự phản bội của các đối tác kinh doanh",
+        "Việc mở rộng thị trường sang châu Á"
+      ],
+      "answer": "Hạnh phúc của chính bản thân mình",
+      "explanation": "Mặc dù đạt được thành công tài chính rực rỡ, tác giả đã có một nhận thức quan trọng: \"Tuy nhiên, giữa những thành công đó, tôi nhận ra có một thứ tôi chưa từng dự tính đến: hạnh phúc của tôi\". Điều này cho thấy ông đã bỏ qua yếu tố cảm xúc và sự hài lòng cá nhân trong quá trình theo đuổi mục tiêu ban đầu."
+    },
+    {
+      "id": 6,
+      "question": "Nguyên nhân nào khiến công việc kinh doanh của tác giả cuối cùng bị sụp đổ?",
+      "options": [
+        "Ông mâu thuẫn gay gắt với vợ là Eleanor",
+        "Sự ra đời của cô con gái Isabelle khiến ông không có thời gian làm việc",
+        "Cuộc cách mạng dotcom, nền công nghiệp dịch vụ tài chính suy thoái làm nhu cầu tư vấn giảm",
+        "Các nhân viên chủ chốt đồng loạt từ chức"
+      ],
+      "answer": "Cuộc cách mạng dotcom, nền công nghiệp dịch vụ tài chính suy thoái làm nhu cầu tư vấn giảm",
+      "explanation": "Đoạn văn chỉ rõ những nguyên nhân dẫn đến sự sụp đổ của công việc kinh doanh: \"Sau đó mọi thứ sụp đổ; cuộc cách mạng dotcom, nền công nghiệp dịch vụ tài chính, nhu cầu về tư vấn, và theo đó, là công việc kinh doanh của tôi\". Đây là các yếu tố thị trường và ngành nghề khách quan, không phải do lỗi cá nhân của tác giả."
+    },
+    {
+      "id": 7,
+      "question": "Tác giả cảm thấy thế nào khi công việc kinh doanh sụp đổ và rơi vào khủng hoảng?",
+      "options": [
+        "Vô cùng hoảng loạn và bế tắc không lối thoát",
+        "Tức giận và muốn kiện các khách hàng cũ",
+        "Cảm thấy một sự nhẹ nhõm yên ắng và kỳ lạ",
+        "Muốn từ bỏ hoàn toàn gia đình để trốn nợ"
+      ],
+      "answer": "Cảm thấy một sự nhẹ nhõm yên ắng và kỳ lạ",
+      "explanation": "Khi công việc kinh doanh sụp đổ, tác giả trải qua cảm giác mâu thuẫn được mô tả là \"rơi vào khủng hoảng, nhưng đồng thời lại cảm thấy một sự nhẹ nhõm yên ắng và kỳ lạ\". Cảm giác nhẹ nhõm bất ngờ này là mấu chốt, vì nó mở ra cơ hội để ông suy nghĩ lại và tìm kiếm một khởi đầu mới, thay vì chìm đắm trong tuyệt vọng."
+    },
+    {
+      "id": 8,
+      "question": "Trong khoảng thời gian \"sống chậm lại\", tác giả đã làm thử nghiệm gì để tìm kiếm hướng đi mới?",
+      "options": [
+        "Đăng ký học lớp diễn xuất, nộp đơn vào trường y và gây quỹ đầu tư ảo",
+        "Đi du lịch vòng quanh thế giới trong 1 năm",
+        "Trở thành một người nông dân trồng trọt ở ngoại ô",
+        "Viết cuốn sách tiểu thuyết đầu tay"
+      ],
+      "answer": "Đăng ký học lớp diễn xuất, nộp đơn vào trường y và gây quỹ đầu tư ảo",
+      "explanation": "Trong giai đoạn \"sống chậm lại\" để tìm kiếm hướng đi, tác giả đã thử nhiều hoạt động khác nhau. Đoạn văn liệt kê: \"tôi đăng ký học lớp diễn xuất, cân nhắc việc nộp đơn vào trường y, cuối cùng quyết định xin vào một trường giáo trưởng Do Thái giáo, bắt đầu gây quỹ đầu tư ảo\". Các hoạt động đa dạng này thể hiện sự chủ động trong việc khám phá bản thân và các tiềm năng mới."
+    },
+    {
+      "id": 9,
+      "question": "Khi nhấn nút \"TÌM VỊ TRÍ CỦA TÔI\" (ẩn dụ) để nhìn toàn cảnh thế giới của mình, tác giả đã nhận ra điều gì?",
+      "options": [
+        "Ông đã đi quá xa và không thể cứu vãn sự nghiệp",
+        "Mặc dù đi lệch đường ray, ông không bị đẩy quá xa và có con đường an toàn để quay lại",
+        "Ông phải bỏ lại hoàn toàn quá khứ để làm lại từ đầu ở một quốc gia khác",
+        "Mọi nỗ lực của ông trước đó đều là vô nghĩa và lãng phí thời gian"
+      ],
+      "answer": "Mặc dù đi lệch đường ray, ông không bị đẩy quá xa và có con đường an toàn để quay lại",
+      "explanation": "Khi tác giả nhấn nút \"TÌM VỊ TRÍ CỦA TÔI\" (một ẩn dụ cho việc tạm dừng và quan sát), ông đã nhận ra: \"mặc dù tôi đi lệch khỏi đường ray, tôi thật sự không bị đẩy đi quá xa, và có một con đường an toàn để quay trở lại\". Sự nhận thức này mang lại hy vọng và định hướng, cho thấy việc điều chỉnh hướng đi là hoàn toàn khả thi."
+    },
+    {
+      "id": 10,
+      "question": "Thông điệp cốt lõi của phần \"I. Tạm Dừng\" mà tác giả muốn truyền tải là gì?",
+      "options": [
+        "Bạn nên liên tục thay đổi nghề nghiệp mỗi 5 năm",
+        "Tạm dừng để có cái nhìn toàn cảnh giúp bạn đáp xuống đúng vị trí bạn muốn đến",
+        "Khởi nghiệp là con đường duy nhất dẫn đến tự do tài chính",
+        "Đừng bao giờ làm việc quá 8 tiếng một ngày"
+      ],
+      "answer": "Tạm dừng để có cái nhìn toàn cảnh giúp bạn đáp xuống đúng vị trí bạn muốn đến",
+      "explanation": "Thông điệp cốt lõi của chương \"Tạm Dừng\" được tác giả nhấn mạnh ở cuối đoạn văn. Ông khuyến khích người đọc \"phải dừng lại để bản thân bạn có thể bay lượn vòng quanh thế giới của mình, chuẩn bị để đáp xuống ngay vị trí mà bạn muốn đến\", nghĩa là tạm dừng để có cái nhìn tổng thể giúp đưa ra lựa chọn đúng đắn và đạt được mục tiêu mong muốn."
+    }
+  ],
+  "02_1. Chuyển Động Chậm Lại.md": [
+    {
+      "id": 1,
+      "question": "Tác giả sử dụng hình ảnh nào ở đầu chương để minh họa cho sức mạnh của \"đà di chuyển\"?",
+      "options": [
+        "Một chiếc xe buýt mất phanh trên đường dốc",
+        "Việc tập đạp xe đạp và không thể lập tức ngừng bàn đạp lại",
+        "Một đoàn tàu đang chạy ở tốc độ cao",
+        "Một hòn đá lăn từ trên đỉnh núi xuống"
+      ],
+      "answer": "Việc tập đạp xe đạp và không thể lập tức ngừng bàn đạp lại",
+      "explanation": "Tác giả mở đầu chương bằng câu chuyện về việc tập đạp xe đạp, nơi ông gặp khó khăn khi dừng lại ngay lập tức vì 'lực tiến tới quá mạnh'. Hình ảnh này minh họa trực tiếp và rõ ràng cho khái niệm 'đà di chuyển' và sức mạnh của nó."
+    },
+    {
+      "id": 2,
+      "question": "Tác giả đã cảm thấy thế nào sau 15 phút tranh luận chính trị với bạn bè?",
+      "options": [
+        "Vô cùng tự tin rằng mình hiểu rõ mọi khía cạnh của vấn đề",
+        "Tức giận vì bạn mình không chịu lắng nghe",
+        "Tự đặt mình vào vị trí đối lập và kịch liệt bênh vực ý kiến mà mình chưa hiểu rõ",
+        "Lập tức thừa nhận sai lầm và xin lỗi bạn"
+      ],
+      "answer": "Tự đặt mình vào vị trí đối lập và kịch liệt bênh vực ý kiến mà mình chưa hiểu rõ",
+      "explanation": "Sau 15 phút tranh luận, tác giả nhận ra mình bị cuốn vào thế đối lập và 'kịch liệt bênh vực những ý kiến mà bản thân tôi còn chưa hiểu rõ', dù ban đầu ông không chắc chắn về quan điểm của mình. Đây là biểu hiện rõ ràng của việc đà tranh luận đã đẩy ông đi quá xa."
+    },
+    {
+      "id": 3,
+      "question": "Nhiều người không thể dừng lại một cuộc hôn nhân sai lầm hoặc một dự án tồi tệ vì lý do gì?",
+      "options": [
+        "Họ không có đủ tiền để kết thúc",
+        "Họ đã đầu tư quá nhiều thời gian, năng lượng, tiền bạc và sợ xấu hổ",
+        "Họ bị luật pháp ràng buộc chặt chẽ",
+        "Họ luôn bị gia đình và bạn bè ngăn cản"
+      ],
+      "answer": "Họ đã đầu tư quá nhiều thời gian, năng lượng, tiền bạc và sợ xấu hổ",
+      "explanation": "Đoạn văn giải thích rằng mọi người khó dừng lại vì họ đã 'đầu tư quá nhiều thời gian, năng lượng, cảm xúc, và đôi khi cả tiền bạc' vào đó. Thêm vào đó, 'hành động rút lui khiến bạn thấy vô cùng xấu hổ', tổng hòa cả hai yếu tố này."
+    },
+    {
+      "id": 4,
+      "question": "Hai phương án mà tác giả đề xuất để ngưng vòng chuyển động (ngưng những sai lầm) lại là gì?",
+      "options": [
+        "Chạy trốn và Bắt đầu lại",
+        "Giảm tốc và Bắt đầu lại",
+        "Giảm tốc và Từ bỏ ngay lập tức",
+        "Biện minh và Tìm kiếm sự giúp đỡ"
+      ],
+      "answer": "Giảm tốc và Bắt đầu lại",
+      "explanation": "Trong phần cuối của chương, tác giả đã trình bày rõ ràng hai phương án chính để ngưng vòng chuyển động sai lầm của mình là 'Giảm tốc' và 'Bắt đầu lại'. Đây là hai chiến lược cụ thể được mô tả chi tiết."
+    },
+    {
+      "id": 5,
+      "question": "Theo tác giả, phương pháp \"Giảm tốc\" trong một cuộc thảo luận căng thẳng được thực hiện như thế nào?",
+      "options": [
+        "La lớn để lấn át đối phương",
+        "Đổi chủ đề thảo luận sang một vấn đề khác ngay lập tức",
+        "Giảm việc tranh luận, lắng nghe nhiều hơn và dùng các câu nói hòa hoãn",
+        "Rời khỏi phòng để tránh tiếp tục nói chuyện"
+      ],
+      "answer": "Giảm việc tranh luận, lắng nghe nhiều hơn và dùng các câu nói hòa hoãn",
+      "explanation": "Tác giả hướng dẫn rằng trong một cuộc thảo luận, nên 'giảm việc tranh luận về ý kiến của mình lại và lắng nghe những người khác nhiều hơn'. Đồng thời, cần sử dụng các câu nói hòa hoãn như 'Tôi cần suy nghĩ về nó nhiều hơn' để giảm đà đối đầu."
+    },
+    {
+      "id": 6,
+      "question": "Trò chơi tinh thần \"Bắt đầu lại\" được bạn của tác giả áp dụng như thế nào khi quyết định giữ hay bán một dự án?",
+      "options": [
+        "Chờ đợi thêm 6 tháng nữa xem có thay đổi gì không",
+        "Tìm một người khác để đổ lỗi cho thất bại của dự án",
+        "Tưởng tượng dự án thành công rực rỡ trong tương lai",
+        "Tự hỏi: 'Nếu khởi sự lại với cái giá của hôm nay, mình có mua dự án đó không?'"
+      ],
+      "answer": "Tự hỏi: 'Nếu khởi sự lại với cái giá của hôm nay, mình có mua dự án đó không?'",
+      "explanation": "Người bạn của tác giả đã đề xuất một câu hỏi cụ thể để áp dụng nguyên tắc 'Bắt đầu lại': 'Nếu tôi khởi sự lại với cái giá của hôm nay, thì tôi có mua dự án đó không?'. Câu hỏi này giúp đánh giá tình hình khách quan mà không bị ảnh hưởng bởi những đầu tư trong quá khứ."
+    },
+    {
+      "id": 7,
+      "question": "Đa số mọi người chia sẻ với tác giả rằng họ không dám thừa nhận sai lầm vì nguyên nhân sâu xa nào?",
+      "options": [
+        "Họ không muốn thể hiện sự yếu đuối của mình",
+        "Họ sợ bị sếp sa thải",
+        "Họ thiếu khả năng diễn đạt cảm xúc",
+        "Họ quá bảo thủ và không quan tâm ý kiến người khác"
+      ],
+      "answer": "Họ không muốn thể hiện sự yếu đuối của mình",
+      "explanation": "Tác giả khẳng định rằng nguyên nhân sâu xa khiến nhiều người không dám thừa nhận sai lầm là vì 'họ không muốn thể hiện sự yếu đuối của mình'. Điều này thể hiện một rào cản tâm lý lớn hơn cả sự xấu hổ về tài chính hay thời gian đã bỏ ra."
+    },
+    {
+      "id": 8,
+      "question": "Tiến sĩ Allan Rosenfield đã làm gì khi Lee trích dẫn một nghiên cứu trên mạng phản đối việc tiêm vắc-xin?",
+      "options": [
+        "Cười nhạo và mắng Lee vì đọc thông tin không đáng tin cậy",
+        "Trình bày lại số liệu hàng triệu ca sống sót nhờ vắc-xin để bác bỏ ý kiến của Lee",
+        "Yêu cầu Lee gửi nghiên cứu đó để ông đọc và cho ý kiến",
+        "Bỏ đi và từ chối nói chuyện tiếp với Lee"
+      ],
+      "answer": "Yêu cầu Lee gửi nghiên cứu đó để ông đọc và cho ý kiến",
+      "explanation": "Khi Lee trích dẫn nghiên cứu không rõ nguồn gốc, Tiến sĩ Allan Rosenfield không bác bỏ ngay mà yêu cầu 'Hãy gửi nó cho tôi. Tôi sẽ đọc và cho anh biết ý kiến của tôi'. Hành động này thể hiện sự cởi mở và sẵn sàng xem xét thông tin mới."
+    },
+    {
+      "id": 9,
+      "question": "Hành động của Tiến sĩ Allan Rosenfield là một ví dụ tuyệt vời cho kỹ thuật nào?",
+      "options": [
+        "Kỹ thuật Bắt đầu lại",
+        "Kỹ thuật Giảm tốc",
+        "Kỹ thuật Thao túng tâm lý",
+        "Kỹ thuật Gây xao nhãng"
+      ],
+      "answer": "Kỹ thuật Giảm tốc",
+      "explanation": "Hành động của Tiến sĩ Allan Rosenfield, bao gồm lắng nghe và yêu cầu thêm thông tin thay vì tranh luận gay gắt, là một minh chứng điển hình cho 'kỹ thuật Giảm tốc'. Nó cho thấy việc không vội vàng phản ứng mà từ từ đánh giá tình hình."
+    },
+    {
+      "id": 10,
+      "question": "Đâu là bước đầu tiên để giải phóng bản thân khỏi những niềm tin, thói quen giới hạn bạn?",
+      "options": [
+        "Nghỉ việc và tìm một môi trường mới",
+        "Tăng tốc để vượt qua các vấn đề khó khăn một cách nhanh chóng",
+        "Tham gia một khóa huấn luyện lãnh đạo",
+        "Giảm tốc quá trình vận động tiến về phía trước"
+      ],
+      "answer": "Giảm tốc quá trình vận động tiến về phía trước",
+      "explanation": "Câu cuối cùng của chương khẳng định rằng 'Giảm tốc quá trình vận động tiến về phía trước là bước đầu tiên để giải phóng bản thân khỏi những niềm tin, thói quen, cảm giác và những vấn đề có thể đang giới hạn bạn'. Điều này nhấn mạnh tầm quan trọng của việc làm chậm lại."
+    }
+  ],
+  "03_2. Cô Bé Khiến Người Cá Sấu Dừng Lại.md": [
+    {
+      "id": 1,
+      "question": "Tại sao cô bé Isabelle lại la lên \"DỪNG LẠI\" khi đang chơi trò người cá sấu với tác giả?",
+      "options": [
+        "Vì cô bé bị chuột rút",
+        "Vì cô bé bị xước chân",
+        "Vì cô bé uống phải nước",
+        "Vì cô bé sợ bóng tối"
+      ],
+      "answer": "Vì cô bé uống phải nước",
+      "explanation": "Cô bé Isabelle la lên \"DỪNG LẠI\" vì đã uống phải nước trong lúc chơi đùa, cần một khoảnh khắc tạm dừng để lấy lại hơi thở. Đây là điểm khởi đầu của bài học về tầm quan trọng của việc tạm dừng, được tác giả dùng làm ví dụ ban đầu để giới thiệu về sức mạnh của phút tạm dừng trong cuộc sống."
+    },
+    {
+      "id": 2,
+      "question": "Tính năng THU HỒI LỆNH GỬI (UNDO SEND) của Gmail cho phép người dùng dừng việc gửi thư trong khoảng thời gian bao lâu?",
+      "options": [
+        "2 giây",
+        "5 giây",
+        "10 giây",
+        "30 giây"
+      ],
+      "answer": "5 giây",
+      "explanation": "Theo đoạn văn, tính năng THU HỒI LỆNH GỬI (UNDO SEND) của Gmail cho phép người dùng dừng việc gửi thư trong vòng 5 giây. Thời gian 5 giây này được tác giả nhấn mạnh là \"quy tắc vàng\" và là đủ để đa số mọi người nhận ra sai lầm của mình trước khi quá muộn."
+    },
+    {
+      "id": 3,
+      "question": "Điều gì KHÔNG đúng khi so sánh việc giao tiếp trực tiếp (thời gian thực) với việc gửi email?",
+      "options": [
+        "Lời đã nói ra thì không thể lấy lại được",
+        "Bạn có thể nhấn nút 'Thu hồi' trong giao tiếp thời gian thực",
+        "Trong giao tiếp trực tiếp, chúng ta phải tránh phản ứng sai lầm ngay từ đầu",
+        "Giao tiếp qua email cho chúng ta một khoảng thời gian ngắn để sửa sai"
+      ],
+      "answer": "Bạn có thể nhấn nút 'Thu hồi' trong giao tiếp thời gian thực",
+      "explanation": "Đoạn văn khẳng định rõ ràng rằng trong giao tiếp thời gian thực, không tồn tại nút \"Thu hồi lệnh gửi\" như trong Gmail. Lời nói đã nói ra thì không thể lấy lại, trái ngược với email có thể được thu hồi trong 5 giây. Điều này nhấn mạnh tầm quan trọng của việc tạm dừng *trước* khi nói ra điều gì đó trong giao tiếp trực tiếp."
+    },
+    {
+      "id": 4,
+      "question": "Khi tác giả lỡ cuộc hẹn, khách hàng Luigi đã có phản ứng gì tại tiền sảnh tòa nhà?",
+      "options": [
+        "Im lặng bỏ đi và không bao giờ liên lạc lại",
+        "Gửi email phàn nàn cho giám đốc của tác giả",
+        "Ôm chầm lấy tác giả và thông cảm cho sự chậm trễ",
+        "Hét lớn vào mặt tác giả trước mặt mọi người"
+      ],
+      "answer": "Hét lớn vào mặt tác giả trước mặt mọi người",
+      "explanation": "Khi tác giả lỡ cuộc hẹn, khách hàng Luigi đã thể hiện sự tức giận bằng cách hét lớn vào mặt tác giả ngay tại tiền sảnh tòa nhà, trước mặt mọi người. Phản ứng này của Luigi đã kích hoạt cảm xúc mạnh mẽ trong tác giả, tạo tiền đề cho việc giải thích về phản ứng sinh hóa của não bộ khi đối mặt với kích thích đột ngột."
+    },
+    {
+      "id": 5,
+      "question": "Theo Tiến sĩ Joshua Gordon, bộ phận nào là \"trung tâm phản ứng cảm xúc\" trong não bộ?",
+      "options": [
+        "Vỏ não trước (Prefrontal cortex)",
+        "Tiểu não (Cerebellum)",
+        "Hạch hạnh nhân (Amygdala)",
+        "Hồi hải mã (Hippocampus)"
+      ],
+      "answer": "Hạch hạnh nhân (Amygdala)",
+      "explanation": "Tiến sĩ Joshua Gordon, một nhà nghiên cứu về hệ thần kinh, đã giải thích rằng hạch hạnh nhân (amygdala) chính là trung tâm phản ứng cảm xúc trong não bộ. Đây là phần não phản ứng nhanh chóng với các kích thích bên ngoài, tạo ra cảm xúc ban đầu."
+    },
+    {
+      "id": 6,
+      "question": "Tác giả ví \"vỏ não trước\" giống như nhân vật nào trong não bộ?",
+      "options": [
+        "Một con quái vật lưỡng cư màu xanh",
+        "Một vị quan tòa nghiêm khắc gõ búa",
+        "Một người tí hon mặc áo trắng khuyên can lý trí",
+        "Một người tí hon màu đỏ cầm chĩa đòi đánh nhau"
+      ],
+      "answer": "Một người tí hon mặc áo trắng khuyên can lý trí",
+      "explanation": "Tác giả đã sử dụng hình ảnh ẩn dụ để minh họa cho chức năng của vỏ não trước, ví nó như một người tí hon mặc áo trắng. Người tí hon này đại diện cho suy nghĩ lý trí, cố gắng can ngăn và đưa ra lựa chọn hành động khôn ngoan hơn thay vì phản ứng theo cảm xúc bản năng."
+    },
+    {
+      "id": 7,
+      "question": "Cuộc \"nội chiến\" trong não bộ khi chúng ta gặp xung đột là giữa hai phần nào?",
+      "options": [
+        "Hạch amygdala và vùng dưới đồi",
+        "Hồi hải mã và hạch amygdala",
+        "Vỏ não trước và tiểu não",
+        "Vỏ não trước và hạch amygdala"
+      ],
+      "answer": "Vỏ não trước và hạch amygdala",
+      "explanation": "Theo tác giả và Tiến sĩ Gordon, khi chúng ta đối mặt với xung đột hoặc tình huống kích thích cảm xúc, có một cuộc \"nội chiến thầm lặng\" diễn ra trong não bộ. Cuộc chiến này là giữa hạch amygdala, trung tâm cảm xúc, và vỏ não trước, phần đảm nhiệm tư duy lý trí và kiểm soát hành vi."
+    },
+    {
+      "id": 8,
+      "question": "Vỏ não trước cần khoảng thời gian bao lâu để đánh bại được phản ứng cảm tính của hạch amygdala?",
+      "options": [
+        "Vài phút",
+        "Khoảng 1 giờ",
+        "Chỉ một hoặc hai giây",
+        "Hoàn toàn không thể đánh bại được"
+      ],
+      "answer": "Chỉ một hoặc hai giây",
+      "explanation": "Khi tác giả hỏi Tiến sĩ Gordon về thời gian cần thiết để vỏ não trước áp chế hạch amygdala, câu trả lời là \"Chỉ một hoặc hai giây.\" Thời gian ngắn ngủi này đủ để chúng ta chuyển từ phản ứng cảm tính sang suy nghĩ lý trí, cho thấy hiệu quả của việc tạm dừng dù chỉ trong khoảnh khắc."
+    },
+    {
+      "id": 9,
+      "question": "Hành động nào giúp xoa dịu não bộ và tạo thời gian cho vỏ não trước làm việc?",
+      "options": [
+        "Hít thở sâu và tạm dừng hành động",
+        "Nắm chặt hai tay và nhắm mắt lại",
+        "Lên tiếng giải thích ngay lập tức để làm rõ vấn đề",
+        "Chuyển hướng nhìn đi chỗ khác liên tục"
+      ],
+      "answer": "Hít thở sâu và tạm dừng hành động",
+      "explanation": "Tiến sĩ Gordon đã chỉ ra rằng việc hít thở sâu và tạm dừng hành động là cách hiệu quả để xoa dịu não bộ. Hành động này không chỉ làm chậm nhịp thở mà còn tạo thêm thời gian quý báu cho vỏ não trước hoạt động, giúp nó áp chế phản ứng cảm tính từ hạch amygdala và đưa ra quyết định lý trí hơn."
+    },
+    {
+      "id": 10,
+      "question": "Tác giả đã xử lý tình huống bị Luigi la mắng như thế nào sau khi biết về bài học \"tạm dừng\"?",
+      "options": [
+        "Hét lại lớn hơn để bảo vệ danh dự bản thân",
+        "Bỏ chạy khỏi tiền sảnh vì quá xấu hổ",
+        "Hít một hơi thật sâu, dừng lại vài giây và tiến lại gần Luigi một cách điềm tĩnh",
+        "Gọi điện ngay cho cảnh sát vì bị xúc phạm"
+      ],
+      "answer": "Hít một hơi thật sâu, dừng lại vài giây và tiến lại gần Luigi một cách điềm tĩnh",
+      "explanation": "Sau khi tiếp thu bài học về \"tạm dừng\", khi bị Luigi la mắng, tác giả đã không phản ứng theo cảm xúc mà hít một hơi thật sâu và tạm dừng vài giây. Hành động này giúp vỏ não trước kiểm soát, cho phép tác giả tiến lại gần Luigi một cách điềm tĩnh, thể hiện sự hiểu biết và mong muốn giải quyết vấn đề một cách lý trí, thay vì đối đầu."
+    }
+  ],
+  "04_3. Ngày Andy Rời Sở Làm Sớm.md": [
+    {
+      "id": 1,
+      "question": "Andy Geller, người quản lý văn phòng, đã quyết định rời đi vào lúc 2 giờ chiều thứ sáu vì lý do gì?",
+      "options": [
+        "Anh phải ra sân bay đón đối tác",
+        "Anh phải về nhà để kịp chuẩn bị cho ngày Shabbat",
+        "Anh cảm thấy mệt mỏi và không thể hoàn thành công việc",
+        "Anh có một cuộc hẹn quan trọng với khách hàng mới"
+      ],
+      "answer": "Anh phải về nhà để kịp chuẩn bị cho ngày Shabbat",
+      "explanation": "Câu trả lời chính xác là Andy phải về nhà để kịp chuẩn bị cho ngày Shabbat. Đoạn văn nêu rõ rằng Andy nói anh ấy phải đi vì \"vài giờ nữa là đến ngày Shabbat và tôi phải về nhà,\" thể hiện sự ưu tiên rõ ràng cho việc nghỉ ngơi theo tôn giáo. Điều này nhấn mạnh tầm quan trọng của việc sắp xếp các khoảng nghỉ đã định trước, ngay cả khi công việc chưa hoàn thành, để duy trì năng lượng và sự tỉnh táo, đúng như chủ đề chính của chương."
+    },
+    {
+      "id": 2,
+      "question": "Shabbat của người Do Thái giáo bắt đầu và kết thúc vào thời điểm nào?",
+      "options": [
+        "Từ sáng thứ bảy đến tối chủ nhật",
+        "Từ hoàng hôn ngày thứ sáu đến tối thứ bảy",
+        "Từ 12 giờ đêm thứ sáu đến 12 giờ đêm thứ bảy",
+        "Cả ngày thứ sáu và ngày thứ bảy"
+      ],
+      "answer": "Từ hoàng hôn ngày thứ sáu đến tối thứ bảy",
+      "explanation": "Theo phần giải thích \"Ngoài lề một tí\" trong văn bản, Shabbat của người Do Thái giáo bắt đầu từ thời điểm mặt trời lặn vào ngày thứ sáu và kết thúc vào tối thứ bảy. Thông tin này được trình bày một cách rõ ràng và trực tiếp, cung cấp kiến thức nền tảng về một trong những hình thức nghỉ ngơi có mục đích được đề cập trong chương. Các lựa chọn khác về thời điểm bắt đầu hoặc kết thúc đều không chính xác theo mô tả của tác giả."
+    },
+    {
+      "id": 3,
+      "question": "Đâu là hoạt động MÀ NGƯỜI DO THÁI KHÔNG LÀM trong ngày Shabbat?",
+      "options": [
+        "Làm việc, sử dụng điện thoại, ti-vi",
+        "Cầu nguyện và tản bộ",
+        "Dành thời gian cho gia đình",
+        "Quan sát và tận hưởng thế giới"
+      ],
+      "answer": "Làm việc, sử dụng điện thoại, ti-vi",
+      "explanation": "Trong ngày Shabbat, người Do Thái giáo kiêng kỵ việc làm việc, du lịch, sử dụng máy tính, điện thoại hay ti-vi. Đoạn văn mô tả Shabbat là \"một ngày để nghỉ ngơi\" và liệt kê cụ thể những hoạt động bị hạn chế, đối lập với việc cầu nguyện, ăn uống, tản bộ và dành thời gian cho gia đình và bạn bè. Do đó, các hoạt động được liệt kê trong đáp án này chính xác là những gì họ không làm, khác với các lựa chọn gợi ý những hoạt động được phép thực hiện."
+    },
+    {
+      "id": 4,
+      "question": "Tác giả so sánh cường độ làm việc mỗi ngày của đa số chúng ta với hình ảnh gì?",
+      "options": [
+        "Một cuộc chạy nước rút 100m lặp đi lặp lại",
+        "Một cuộc đua xe đạp địa hình",
+        "Chạy hết tốc lực trong một cuộc đua ma-ra-tông đường dài mà không nghỉ ngơi",
+        "Việc leo lên một ngọn núi dốc đứng"
+      ],
+      "answer": "Chạy hết tốc lực trong một cuộc đua ma-ra-tông đường dài mà không nghỉ ngơi",
+      "explanation": "Tác giả so sánh cường độ làm việc của đa số chúng ta với việc \"chạy hết tốc lực trong 8, 10, 12 tiếng đồng hồ\" trong một cuộc đua ma-ra-tông đường dài mà không có thời gian nghỉ ngơi. Hình ảnh này nhấn mạnh sự kiệt sức và thiếu bền vững của lối sống làm việc không ngừng nghỉ. Việc không nghỉ ngơi là điểm mấu chốt, phân biệt hình ảnh này với các cuộc đua khác có thể có chiến lược nghỉ ngơi hoặc cường độ khác biệt."
+    },
+    {
+      "id": 5,
+      "question": "Cô bạn Amanda Kravat tập luyện để tham gia cuộc thi ma-ra-tông với lịch trình như thế nào?",
+      "options": [
+        "Chạy 7 ngày/tuần với cường độ tăng dần",
+        "Chỉ chạy vào cuối tuần, các ngày khác nghỉ ngơi",
+        "4 ngày chạy ngắn, 1 ngày chạy đường dài hết tốc lực và 2 ngày hoàn toàn không tập",
+        "Chạy bộ kết hợp bơi lội mỗi ngày xen kẽ"
+      ],
+      "answer": "4 ngày chạy ngắn, 1 ngày chạy đường dài hết tốc lực và 2 ngày hoàn toàn không tập",
+      "explanation": "Lịch trình luyện tập của Amanda Kravat được mô tả rất chi tiết là \"4 ngày trong tuần để tập chạy ngắn, một ngày tập chạy đường dài hết tốc lực, và hai ngày hoàn toàn không tập luyện gì cả\". Lịch trình này minh họa cho một kế hoạch cân bằng giữa nỗ lực và nghỉ ngơi, điều mà tác giả ủng hộ để duy trì hiệu suất lâu dài. Bất kỳ sự thay đổi nào trong số ngày tập luyện hoặc nghỉ ngơi đều sẽ không phản ánh đúng lời khuyên của Amanda."
+    },
+    {
+      "id": 6,
+      "question": "Tác giả thường tìm ra những ý tưởng hay ho nhất vào lúc nào?",
+      "options": [
+        "Khi đang căng thẳng họp với sếp",
+        "Khi đang ngồi đánh máy liên tục trước máy vi tính",
+        "Khi đang bận rộn lên kế hoạch dự án",
+        "Khi rời khỏi máy vi tính đi tản bộ hoặc tán gẫu với bạn bè"
+      ],
+      "answer": "Khi rời khỏi máy vi tính đi tản bộ hoặc tán gẫu với bạn bè",
+      "explanation": "Tác giả chia sẻ rằng những ý tưởng hay ho nhất của mình \"đều xuất hiện khi tôi rời khỏi máy vi tính và đi tản bộ, hoặc đơn giản chỉ là ngồi tán gẫu với bạn bè\". Điều này củng cố thông điệp của chương rằng việc tạm ngưng công việc và cho phép tâm trí được thư giãn, thoát ly khỏi môi trường làm việc trực tiếp, có thể thúc đẩy sự sáng tạo. Các hoạt động khác không liên quan đến việc rời xa công việc trực tiếp sẽ không mang lại lợi ích tương tự theo quan điểm của tác giả."
+    },
+    {
+      "id": 7,
+      "question": "Hillary Small đã cảm thấy thế nào trong thời gian đầu bị gãy chân và phải nằm nghỉ ngơi vài tuần?",
+      "options": [
+        "Thấy thoải mái và hạnh phúc ngay lập tức",
+        "Cảm thấy buồn bực vô cùng vì nghĩ rằng những nhu cầu của mình không được ưu tiên",
+        "Vui mừng vì cuối cùng cũng thoát khỏi công việc áp lực",
+        "Sợ hãi rằng mình sẽ bị đuổi việc"
+      ],
+      "answer": "Cảm thấy buồn bực vô cùng vì nghĩ rằng những nhu cầu của mình không được ưu tiên",
+      "explanation": "Trong thời gian đầu bị gãy chân và buộc phải nghỉ ngơi, Hillary Small \"cảm thấy buồn bực vô cùng. Không gì giúp tôi ngừng cảm thấy rằng mình đang sống một cuộc sống mà những nhu cầu của tôi đều không được ưu tiên”. Cảm giác này cho thấy sự khó khăn ban đầu khi đối mặt với việc chậm lại và phản ánh sự chống đối vô thức của chúng ta đối với thời gian nghỉ ngơi. Các lựa chọn khác như cảm thấy thoải mái hay hạnh phúc sẽ không phù hợp với những gì tác giả mô tả về trải nghiệm ban đầu của Hillary."
+    },
+    {
+      "id": 8,
+      "question": "Mặt tích cực cuối cùng của quãng thời gian bắt buộc phải nghỉ ngơi đối với Hillary là gì?",
+      "options": [
+        "Cô đã viết được một cuốn sách bán chạy",
+        "Cô tìm được một công việc khác lương cao hơn",
+        "Cô được thăng chức vì sự kiên nhẫn của mình",
+        "Cô tái tạo được nguồn năng lượng mới để tập trung vào những ưu tiên hàng đầu"
+      ],
+      "answer": "Cô tái tạo được nguồn năng lượng mới để tập trung vào những ưu tiên hàng đầu",
+      "explanation": "Dù khởi đầu khó khăn, quãng thời gian nghỉ ngơi bắt buộc đó đã giúp Hillary \"tái tạo nguồn năng lượng mới để tập trung vào những ưu tiên hàng đầu của mình”. Đây là một mặt tích cực quan trọng, chứng minh rằng dù việc nghỉ ngơi có thể không dễ dàng lúc ban đầu, nó cuối cùng lại mang lại lợi ích sâu sắc trong việc định hình lại trọng tâm và phục hồi sức lực. Các lợi ích khác như tăng thu nhập hay có thêm bạn bè không được nhắc đến là kết quả chính yếu từ việc nghỉ ngơi bắt buộc của cô ấy."
+    },
+    {
+      "id": 9,
+      "question": "Phương pháp \"Chạy-Đi\" (kết hợp chạy bộ và đi bộ) mang lại lợi ích gì theo những người áp dụng nó?",
+      "options": [
+        "Giúp chạy nhanh hơn, hiệu quả hơn và cảm thấy thú vị hơn",
+        "Giúp người chạy đốt cháy được nhiều calo gấp đôi",
+        "Giúp người chạy không bị đổ mồ hôi",
+        "Chỉ dành cho những người chạy nghiệp dư không có thể lực"
+      ],
+      "answer": "Giúp chạy nhanh hơn, hiệu quả hơn và cảm thấy thú vị hơn",
+      "explanation": "Theo những người áp dụng, phương pháp \"Chạy-Đi\" không chỉ giúp \"chạy nhanh hơn và hiệu quả hơn\" mà còn làm cho việc chạy \"thú vị hơn\". Việc giảm tốc độ chiến lược, dù chỉ trong vài phút, lại cải thiện tổng thể hiệu suất và trải nghiệm. Các lựa chọn chỉ tập trung vào một lợi ích hoặc mô tả lợi ích không có trong văn bản đều sẽ không đầy đủ hoặc sai lệch so với ý của tác giả."
+    },
+    {
+      "id": 10,
+      "question": "Theo tác giả, những khoảng lặng nghỉ ngơi thường xuyên mang lại tác dụng chính yếu nào?",
+      "options": [
+        "Giúp tiết kiệm chi phí cho doanh nghiệp",
+        "Tái tạo năng lượng, định hướng cuộc sống và tạo thời gian không gian nhắm trúng mục tiêu",
+        "Giúp ta có cớ để tránh né các nhiệm vụ khó khăn",
+        "Tạo cơ hội để chúng ta bỏ cuộc mà không bị chỉ trích"
+      ],
+      "answer": "Tái tạo năng lượng, định hướng cuộc sống và tạo thời gian không gian nhắm trúng mục tiêu",
+      "explanation": "Tác giả kết luận rằng những khoảng lặng nghỉ ngơi thường xuyên có ba tác dụng chính: \"tái tạo năng lượng cho cơ thể và tâm trí bạn, nhẹ nhàng hướng cuộc sống bạn đến những gì quan trọng nhất, và tạo ra thời gian cùng không gian để bạn có thể nhắm đến mục tiêu của mình chính xác hơn\". Điều này tóm tắt toàn bộ bài học của chương về giá trị chiến lược của việc tạm dừng. Các lựa chọn chỉ đề cập một phần hoặc không chính xác các tác dụng này sẽ không phản ánh đúng ý tác giả."
+    }
+  ]
+}

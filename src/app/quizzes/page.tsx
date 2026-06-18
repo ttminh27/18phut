@@ -1,0 +1,32 @@
+import { getAllChapters } from "@/lib/chapters";
+import Link from "next/link";
+import { Gamepad2 } from "lucide-react";
+
+export default function QuizzesPage() {
+  const chapters = getAllChapters();
+
+  return (
+    <div className="animate-in fade-in slide-in-from-bottom-4 duration-500">
+      <h1 className="text-3xl font-extrabold tracking-tight text-slate-900 dark:text-slate-100 mb-8">Mini Game Thử Thách</h1>
+      <div className="grid gap-3 grid-cols-1 md:grid-cols-2">
+        {chapters.map((chapter) => (
+          <Link
+            key={chapter.id}
+            href={`/quizzes/${chapter.id}`}
+            className="group flex items-center justify-between p-3.5 bg-white dark:bg-slate-800 rounded-xl shadow-sm border border-slate-100 dark:border-slate-800 hover:shadow-md hover:border-purple-200 dark:hover:border-purple-500/50 transition-all gap-3"
+          >
+            <div className="flex items-center justify-center w-10 h-10 rounded-lg bg-purple-50 dark:bg-purple-950/40 text-purple-600 dark:text-purple-400 group-hover:scale-105 transition-transform flex-shrink-0">
+              <Gamepad2 className="w-5 h-5" />
+            </div>
+            <h2 className="font-semibold text-slate-800 dark:text-slate-200 text-sm sm:text-base truncate flex-1 group-hover:text-purple-700 dark:group-hover:text-purple-300">
+              {chapter.title}
+            </h2>
+            <span className="text-xs font-semibold text-purple-600 dark:text-purple-300 bg-purple-50/80 dark:bg-purple-950/60 px-2.5 py-1 rounded-full flex-shrink-0">
+              10 quiz
+            </span>
+          </Link>
+        ))}
+      </div>
+    </div>
+  );
+}

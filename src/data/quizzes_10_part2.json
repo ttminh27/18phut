@@ -1,0 +1,612 @@
+{
+  "05_4. Lạnh Cóng Giữa Mùa Xuân.md": [
+    {
+      "id": 1,
+      "question": "Thông điệp cốt lõi của chương \"Lạnh Cóng Giữa Mùa Xuân\" là gì?",
+      "options": [
+        "Cần phải chuẩn bị kỹ lưỡng trước khi trượt tuyết vào mùa xuân",
+        "Sự nguy hiểm của xu hướng tự chứng thực và tầm quan trọng của việc nhìn nhận thực tế",
+        "Cách các công ty lớn như Kodak và Britannica thất bại do thiếu sáng tạo",
+        "Tại sao nhân viên thường rời bỏ công ty khi không được đánh giá đúng"
+      ],
+      "answer": "Sự nguy hiểm của xu hướng tự chứng thực và tầm quan trọng của việc nhìn nhận thực tế",
+      "explanation": "Chương này dùng câu chuyện tác giả bị lạnh cóng để minh họa cho tác hại của việc bám víu vào kỳ vọng cũ. Đáp án này tóm gọn chính xác việc chúng ta cần vượt qua xu hướng tự chứng thực để nhìn nhận đúng đắn sự thay đổi của thực tế. Các phương án khác không bao quát được toàn diện triết lý của bài học."
+    },
+    {
+      "id": 2,
+      "question": "Tại sao tác giả lại bị hoại tử do tê cóng vào mùa xuân chứ không phải mùa đông?",
+      "options": [
+        "Vì thời tiết mùa xuân thay đổi quá đột ngột khiến tác giả không kịp thích nghi",
+        "Vì tác giả mặc sai loại áo phao chuyên dụng cho mùa xuân",
+        "Vì đôi ủng trượt tuyết của tác giả quá chật, cản trở lưu thông máu",
+        "Vì tác giả dựa vào kinh nghiệm cũ cho rằng mùa xuân sẽ ấm và không dùng miếng giữ ấm chân"
+      ],
+      "answer": "Vì tác giả dựa vào kinh nghiệm cũ cho rằng mùa xuân sẽ ấm và không dùng miếng giữ ấm chân",
+      "explanation": "Tác giả chia sẻ rằng do nghĩ mùa xuân thì thời tiết phải ấm lên, ông đã chủ quan không mang đồ giữ ấm và dẫn đến hậu quả bị hoại tử. Đáp án này trực tiếp giải thích sự nhầm lẫn tai hại giữa kỳ vọng về thời tiết và thực tế khách quan. Những lý do khác không phản ánh đúng chi tiết câu chuyện."
+    },
+    {
+      "id": 3,
+      "question": "Thuật ngữ tâm lý học nào được tác giả sử dụng để giải thích hiện tượng nhầm lẫn giữa kỳ vọng và thực tế?",
+      "options": [
+        "Hiệu ứng Dunning-Kruger (Dunning-Kruger effect)",
+        "Xu hướng tự chứng thực (Confirmation bias)",
+        "Hiệu ứng hào quang (Halo effect)",
+        "Sự bất hòa nhận thức (Cognitive dissonance)"
+      ],
+      "answer": "Xu hướng tự chứng thực (Confirmation bias)",
+      "explanation": "Tác giả chỉ rõ hiện tượng tìm kiếm thông tin để xác nhận niềm tin của mình và phớt lờ thực tế là 'xu hướng tự chứng thực'. Đáp án này là thuật ngữ tâm lý học duy nhất được đề cập rõ ràng để lý giải sai lầm của con người. Các lựa chọn khác không phải là trọng tâm kiến thức của chương."
+    },
+    {
+      "id": 4,
+      "question": "Tác giả đã gặp vấn đề gì với công ty tư vấn cũ sau khi tốt nghiệp thạc sĩ (MBA)?",
+      "options": [
+        "Công ty từ chối tăng lương cho tác giả dù đã có bằng cấp cao hơn",
+        "Công ty vẫn nhìn nhận và sử dụng tác giả theo cách cũ, bỏ qua các kỹ năng mới",
+        "Công ty ghen tị với kiến thức mới của tác giả nên giao ít việc hơn",
+        "Công ty yêu cầu tác giả phải đào tạo lại toàn bộ nhân sự khác"
+      ],
+      "answer": "Công ty vẫn nhìn nhận và sử dụng tác giả theo cách cũ, bỏ qua các kỹ năng mới",
+      "explanation": "Mặc dù tác giả đã có bằng MBA và kỹ năng mới, công ty cũ vẫn duy trì định kiến và giao việc theo cách cũ. Đáp án này minh chứng cho việc các tổ chức thường bị mắc kẹt trong 'xu hướng tự chứng thực' và phớt lờ sự tiến bộ của nhân viên. Các đáp án khác không phản ánh đúng sự thật câu chuyện."
+    },
+    {
+      "id": 5,
+      "question": "Theo tác giả, khó khăn lớn nhất khi làm tư vấn thay đổi một ai đó là gì?",
+      "options": [
+        "Thuyết phục người đó chấp nhận thay đổi thói quen của họ",
+        "Tìm ra phương pháp đào tạo phù hợp với tính cách của họ",
+        "Làm thế nào để những người xung quanh thay đổi cách nhìn nhận đã đóng khung về người đó",
+        "Cung cấp đủ ngân sách và thời gian để sự thay đổi diễn ra"
+      ],
+      "answer": "Làm thế nào để những người xung quanh thay đổi cách nhìn nhận đã đóng khung về người đó",
+      "explanation": "Tác giả nhấn mạnh việc bản thân người đó thay đổi thì dễ, nhưng việc xóa bỏ định kiến của những người xung quanh về họ lại vô cùng gian nan. Đáp án này là kết luận cốt lõi về trở ngại lớn nhất trong công việc tư vấn thay đổi. Các ý kiến khác không nói đúng về rào cản nhận thức của mọi người."
+    },
+    {
+      "id": 6,
+      "question": "Bài học rút ra từ sự thất bại của Bách khoa toàn thư Britannica và Kodak là gì?",
+      "options": [
+        "Các thương hiệu lâu đời luôn bị đào thải bởi các công ty trẻ tuổi",
+        "Việc quá tự tin vào lịch sử thành công khiến họ mù quáng trước sự thay đổi của thế giới",
+        "Họ đã đầu tư quá nhiều vào sản xuất phần cứng thay vì phần mềm",
+        "Giá cả sản phẩm của họ quá cao so với nhu cầu của người tiêu dùng"
+      ],
+      "answer": "Việc quá tự tin vào lịch sử thành công khiến họ mù quáng trước sự thay đổi của thế giới",
+      "explanation": "Britannica và Kodak bị tụt hậu vì họ ngủ quên trên chiến thắng và tin rằng thành công cũ sẽ mãi được duy trì trước sự thay đổi của thời đại. Đáp án này cho thấy cái giá đắt của việc không chịu cập nhật góc nhìn thực tế và rũ bỏ các kỳ vọng đã lỗi thời. Các đáp án còn lại không đúng với bài học từ hai doanh nghiệp này."
+    },
+    {
+      "id": 7,
+      "question": "Theo tác giả, để không rơi vào cái bẫy của sự kỳ vọng, chúng ta nên làm gì?",
+      "options": [
+        "Tìm kiếm nhiều bằng chứng hơn để bảo vệ quan điểm ban đầu của mình",
+        "Chỉ tập trung vào những thay đổi tích cực và phớt lờ những rủi ro",
+        "Luôn chuẩn bị sẵn nhiều kế hoạch dự phòng cho mọi tình huống",
+        "Thay vì muốn chứng tỏ mình đúng, hãy cố gắng tìm cách xác nhận mình sai"
+      ],
+      "answer": "Thay vì muốn chứng tỏ mình đúng, hãy cố gắng tìm cách xác nhận mình sai",
+      "explanation": "Tác giả khuyên rằng để tránh bẫy kỳ vọng, việc tự chất vấn bản thân và tìm kiếm bằng chứng chứng minh mình sai sẽ mở ra nhận thức mới. Đáp án này đề cao sự khiêm tốn và tinh thần phản biện thực tại thay vì cố chấp bảo vệ quan điểm cũ. Các lựa chọn khác không diễn tả đúng tư duy mà tác giả đề xuất."
+    },
+    {
+      "id": 8,
+      "question": "Tác giả khuyên nên làm gì trong lần đánh giá nhân viên tiếp theo?",
+      "options": [
+        "Tập trung phân tích sâu những lỗi sai để nhân viên rút kinh nghiệm",
+        "Yêu cầu nhân viên tự lập bảng đánh giá bản thân trước khi họp",
+        "Tìm kiếm những việc đúng đắn và mới mẻ mà họ đã làm nhưng chưa được chú ý",
+        "Dựa trên số liệu của những năm trước để đưa ra nhận xét khách quan"
+      ],
+      "answer": "Tìm kiếm những việc đúng đắn và mới mẻ mà họ đã làm nhưng chưa được chú ý",
+      "explanation": "Khi đánh giá, việc tìm kiếm sự thay đổi tích cực bị bỏ quên giúp nhà quản lý vượt qua định kiến ban đầu về năng lực nhân viên. Đáp án này hướng đến sự công nhận quá trình phát triển của nhân sự thay vì dán nhãn họ dựa trên sai lầm cũ. Các phương án khác đi ngược lại với tinh thần khách quan này."
+    },
+    {
+      "id": 9,
+      "question": "Câu hỏi nào được tác giả cho là \"rất thích hợp\" để tự đặt ra cho bản thân nhằm tránh sự mù quáng?",
+      "options": [
+        "Tôi có đang làm việc hiệu quả nhất có thể không?",
+        "Tôi không muốn thấy điều gì?",
+        "Những người xung quanh đang đánh giá tôi như thế nào?",
+        "Mục tiêu dài hạn của tôi trong 5 năm tới là gì?"
+      ],
+      "answer": "Tôi không muốn thấy điều gì?",
+      "explanation": "Câu hỏi 'Tôi không muốn thấy điều gì?' buộc chúng ta đối mặt với những sự thật khó chịu mà bản năng thường muốn lờ đi để duy trì ảo giác an toàn. Đáp án này chỉ ra phương pháp hiệu quả nhất để lột trần xu hướng tự chứng thực. Các lựa chọn khác không tạo ra sự tự phản tỉnh sâu sắc như vậy."
+    },
+    {
+      "id": 10,
+      "question": "Hình ảnh \"đưa tay ra ngoài cửa sổ và cảm nhận nhiệt độ\" ở cuối chương mang ý nghĩa ẩn dụ gì?",
+      "options": [
+        "Khuyến khích việc vận động thể chất trước khi bắt đầu công việc",
+        "Hãy tự mình kiểm chứng thực tế thay vì hoàn toàn tin tưởng vào những giả định sẵn có",
+        "Cần phải học cách hòa hợp với thiên nhiên và môi trường xung quanh",
+        "Luôn phải cảnh giác với những thay đổi thời tiết bất thường"
+      ],
+      "answer": "Hãy tự mình kiểm chứng thực tế thay vì hoàn toàn tin tưởng vào những giả định sẵn có",
+      "explanation": "Hành động đưa tay ra ngoài cửa sổ nhắc nhở chúng ta phải trực tiếp trải nghiệm và xác nhận lại thực tế bất chấp kinh nghiệm hoặc thói quen cũ. Đáp án này tóm gọn thông điệp về việc không bao giờ ngừng kiểm chứng những giả định của bản thân. Các diễn giải khác không đúng với ý đồ ẩn dụ của tác giả."
+    }
+  ],
+  "06_5. Đa Tính Cách Không Phải Là Một.md": [
+    {
+      "id": 1,
+      "question": "Câu chuyện mở đầu về hiện tượng tự sát tại France Telecom được dùng để minh họa cho vấn đề gì?",
+      "options": [
+        "Sự khắc nghiệt của môi trường làm việc trong ngành viễn thông",
+        "Hậu quả bi thảm khi con người đánh đồng toàn bộ giá trị bản thân với công việc",
+        "Trách nhiệm pháp lý của ban lãnh đạo trước áp lực của nhân viên",
+        "Sự thiếu thốn các dịch vụ hỗ trợ tâm lý tại nơi làm việc"
+      ],
+      "answer": "Hậu quả bi thảm khi con người đánh đồng toàn bộ giá trị bản thân với công việc",
+      "explanation": "Mở đầu chương, tác giả nhắc đến những vụ tự sát tại France Telecom để cho thấy mức độ nghiêm trọng tột cùng khi nhân viên mất đi hy vọng và thấy giá trị của mình bị hủy hoại cùng với công việc. Đáp án này chính xác nhất với thông điệp về sự nguy hiểm của việc đồng nhất danh tính với nghề nghiệp. Các lựa chọn khác không phải là bài học chính mà câu chuyện muốn truyền tải."
+    },
+    {
+      "id": 2,
+      "question": "Theo Tiến sĩ Paul Rosenfield, điều gì xảy ra khi chúng ta gắn liền bản thân với công việc?",
+      "options": [
+        "Giới hạn cảm nhận về bản thân và dễ suy sụp khi công việc bị đe dọa",
+        "Tăng cường khả năng thăng tiến và thấu hiểu môi trường doanh nghiệp",
+        "Xây dựng được lòng trung thành tuyệt đối với công ty",
+        "Giúp chúng ta tách biệt được cảm xúc cá nhân khỏi quyết định công việc"
+      ],
+      "answer": "Giới hạn cảm nhận về bản thân và dễ suy sụp khi công việc bị đe dọa",
+      "explanation": "Tiến sĩ Rosenfield chỉ ra rằng việc thu hẹp bản dạng cá nhân vào duy nhất một công việc sẽ khiến người đó mất điểm tựa và tuyệt vọng nếu công việc gặp trục trặc. Đáp án này thể hiện rõ lập luận y khoa tâm lý về tổn thương tinh thần khi công việc bị ảnh hưởng. Các đáp án khác đưa ra những hệ quả không có cơ sở khoa học được đề cập trong sách."
+    },
+    {
+      "id": 3,
+      "question": "Giải pháp cốt lõi mà tác giả đưa ra để giải quyết \"chứng rối loạn\" ám ảnh công việc là gì?",
+      "options": [
+        "Yêu cầu công ty giảm bớt giờ làm và tăng lương",
+        "Đa dạng hóa bản thân bằng cách đảm nhận nhiều vai trò khác nhau trong cuộc sống",
+        "Liên tục học hỏi thêm các kỹ năng mới để không bao giờ bị sa thải",
+        "Bỏ việc để dành toàn bộ thời gian cho gia đình và sở thích cá nhân"
+      ],
+      "answer": "Đa dạng hóa bản thân bằng cách đảm nhận nhiều vai trò khác nhau trong cuộc sống",
+      "explanation": "Để không sụp đổ khi thất bại trong công việc, tác giả khuyên chúng ta nên xây dựng và trân trọng nhiều vai trò khác nhau (như làm cha mẹ, nghệ sĩ, bạn bè). Đáp án này đưa ra phương pháp đa dạng hóa rủi ro tâm lý một cách thiết thực. Các phương án khác không phải là lời khuyên trọng tâm của tác giả."
+    },
+    {
+      "id": 4,
+      "question": "Tác giả so sánh việc đa dạng hóa vai trò của bản thân với hoạt động nào?",
+      "options": [
+        "Việc lựa chọn trang phục đa dạng mỗi ngày",
+        "Việc học nhiều ngoại ngữ cùng lúc",
+        "Việc đầu tư tiền bạc vào nhiều danh mục khác nhau",
+        "Việc thay đổi nhiều công ty để tìm môi trường tốt nhất"
+      ],
+      "answer": "Việc đầu tư tiền bạc vào nhiều danh mục khác nhau",
+      "explanation": "Tác giả mượn hình ảnh phân bổ vốn đầu tư tài chính để diễn giải việc 'không bỏ tất cả trứng vào một giỏ' trong việc xác định giá trị bản thân. Đáp án này là phép so sánh ẩn dụ duy nhất xuất hiện trong văn bản. Các hoạt động khác không được dùng làm phép ẩn dụ trong chương này."
+    },
+    {
+      "id": 5,
+      "question": "Quan điểm của tác giả về mối liên hệ giữa các vai trò khác nhau (như làm cha mẹ, nghệ sĩ, nhân viên) là gì?",
+      "options": [
+        "Càng đảm nhận nhiều vai trò, chúng ta càng dễ bị phân tâm và giảm hiệu suất",
+        "Cần phải tách biệt hoàn toàn các vai trò này để tránh xung đột lợi ích",
+        "Những vai trò này không liên quan gì đến nhau và chỉ có ý nghĩa về mặt tinh thần",
+        "Đảm nhiệm nhiều vai trò giúp chúng ta thực hiện từng vai trò tốt hơn nhờ sự cộng hưởng kỹ năng"
+      ],
+      "answer": "Đảm nhiệm nhiều vai trò giúp chúng ta thực hiện từng vai trò tốt hơn nhờ sự cộng hưởng kỹ năng",
+      "explanation": "Tác giả tin rằng kỹ năng từ việc làm cha mẹ hay chơi thể thao sẽ bổ trợ và nâng cao khả năng quản lý, làm việc tại công sở. Đáp án này khẳng định sự cộng hưởng tích cực thay vì sự xung đột giữa các vai trò. Các đáp án khác cho rằng các vai trò làm giảm hiệu suất hoặc không liên quan là sai lệch với nội dung sách."
+    },
+    {
+      "id": 6,
+      "question": "Điều gì được xem là một trong những trở ngại lớn nhất ngăn cản mọi người làm việc ít lại?",
+      "options": [
+        "Áp lực từ cấp trên",
+        "Nỗi sợ bị đánh giá là lười biếng",
+        "Vấn đề tiền bạc và nhu cầu nuôi sống bản thân",
+        "Sự thiếu hiểu biết về cách quản lý thời gian"
+      ],
+      "answer": "Vấn đề tiền bạc và nhu cầu nuôi sống bản thân",
+      "explanation": "Tiền bạc là áp lực thiết yếu buộc nhiều người phải lao đầu vào công việc để duy trì cuộc sống gia đình, khiến họ khó có thể chủ động giảm khối lượng công việc. Đáp án này chỉ đúng thực tế cản trở lớn nhất mà tác giả công nhận. Các lựa chọn khác là những lý do chủ quan không được nhấn mạnh như một rào cản chính."
+    },
+    {
+      "id": 7,
+      "question": "Trong phương pháp điều trị cho bệnh nhân tâm thần mà Tiến sĩ Rosenfield nhắc đến, bước quan trọng là gì?",
+      "options": [
+        "Kê đơn thuốc an thần liều cao để bệnh nhân quên đi áp lực",
+        "Thuyết phục bệnh nhân chấp nhận rằng họ chỉ có thể sống ở bệnh viện",
+        "Giúp bệnh nhân nhận ra họ còn có những vai trò khác ngoài việc là một \"người bệnh\"",
+        "Cách ly bệnh nhân khỏi những người khỏe mạnh để tránh mặc cảm"
+      ],
+      "answer": "Giúp bệnh nhân nhận ra họ còn có những vai trò khác ngoài việc là một \"người bệnh\"",
+      "explanation": "Cách điều trị hiệu quả là khơi gợi các vai trò sống khác của bệnh nhân (nghệ sĩ, sinh viên...) để họ không tự giam mình trong danh tính người bệnh. Đáp án này minh chứng cho tính ứng dụng của việc đa dạng hóa nhân dạng để phục hồi tinh thần. Các phương pháp khác không thuộc về kỹ thuật tâm lý được Tiến sĩ Rosenfield chia sẻ."
+    },
+    {
+      "id": 8,
+      "question": "Tác giả khuyên nên làm gì nếu bạn vẫn tin rằng không có gì quan trọng hơn công việc?",
+      "options": [
+        "Tìm cách điều chỉnh phong cách sống để không tự giết chết bản thân, như ngưng kiểm tra email lúc ăn cơm",
+        "Tiếp tục làm việc cường độ cao vì đó là chìa khóa duy nhất dẫn đến thành công",
+        "Tìm một bác sĩ tâm lý để được kê đơn thuốc giảm căng thẳng",
+        "Chuyển sang làm việc tự do (freelance) để có thể làm việc bất cứ lúc nào"
+      ],
+      "answer": "Tìm cách điều chỉnh phong cách sống để không tự giết chết bản thân, như ngưng kiểm tra email lúc ăn cơm",
+      "explanation": "Ngay cả khi coi công việc là tối thượng, tác giả vẫn khuyên phải rạch ròi thời gian cá nhân (không email lúc ăn) để bảo vệ sức khỏe thể chất và tinh thần. Đáp án này đưa ra sự thỏa hiệp thực tế cho những người cuồng việc. Các ý kiến khác mang tính cực đoan và không phản ánh thái độ xây dựng của tác giả."
+    },
+    {
+      "id": 9,
+      "question": "Người bạn bị mất việc của tác giả đã làm gì khiến ông ngạc nhiên?",
+      "options": [
+        "Cô ấy khởi kiện công ty cũ vì sa thải sai luật",
+        "Cô ấy ngay lập tức nhận một công việc mới với mức lương thấp hơn",
+        "Cô ấy quyết định hoãn xin việc, tận hưởng vai trò làm mẹ, rồi sau đó mới đi làm lại",
+        "Cô ấy mở một công ty tư vấn để cạnh tranh với tác giả"
+      ],
+      "answer": "Cô ấy quyết định hoãn xin việc, tận hưởng vai trò làm mẹ, rồi sau đó mới đi làm lại",
+      "explanation": "Thay vì vội vã tìm việc mới, cô bạn đã dùng khoảng thời gian thất nghiệp để hoàn thành trọn vẹn vai trò làm mẹ, rồi sau đó mới cân bằng lại cả hai. Đáp án này minh họa cho sự linh hoạt trong việc ưu tiên các vai trò sống vào những thời điểm khác nhau. Các đáp án khác mô tả sai câu chuyện trải nghiệm của cô bạn."
+    },
+    {
+      "id": 10,
+      "question": "Câu chốt \"Đừng tách bạch, hãy hợp nhất\" mang hàm ý gì đối với cách tổ chức cuộc sống?",
+      "options": [
+        "Phải làm nhiều việc cùng một lúc (multitasking) để tiết kiệm thời gian",
+        "Phải sáp nhập công ty của bạn với công ty khác để lớn mạnh hơn",
+        "Gộp chung tài chính cá nhân và tài chính công ty làm một",
+        "Kết hợp hài hòa mọi khía cạnh, vai trò của bản thân thành một tổng thể trọn vẹn"
+      ],
+      "answer": "Kết hợp hài hòa mọi khía cạnh, vai trò của bản thân thành một tổng thể trọn vẹn",
+      "explanation": "Thay vì coi công việc và cuộc sống cá nhân là hai thái cực đối lập, chúng ta cần hợp nhất chúng lại để nuôi dưỡng một con người toàn diện và phong phú. Đáp án này là triết lý đúc kết của chương về một cuộc sống cân bằng bền vững. Các cách giải thích khác đi chệch khỏi tư duy hợp nhất toàn diện mà tác giả gửi gắm."
+    }
+  ],
+  "07_6. Tại Sao Chúng Ta Thích Susan Boyle.md": [
+    {
+      "id": 1,
+      "question": "Lý do chính khiến màn trình diễn của Susan Boyle gây chấn động toàn cầu, theo cách lý giải của tác giả, là gì?",
+      "options": [
+        "Vì cô là người phụ nữ lớn tuổi nhất từng tham gia chương trình",
+        "Vì cô ấy đánh thức khát vọng sâu kín trong mỗi chúng ta về việc tỏa sáng từ sự bình thường",
+        "Vì bài hát cô chọn là một bài hát cực kỳ khó mà không ai hát được",
+        "Vì cô có những động tác vũ đạo xuất thần trên sân khấu"
+      ],
+      "answer": "Vì cô ấy đánh thức khát vọng sâu kín trong mỗi chúng ta về việc tỏa sáng từ sự bình thường",
+      "explanation": "Màn trình diễn của Susan Boyle chạm đến khát vọng chung của nhân loại: tin rằng bên dưới lớp vỏ bọc bình thường của mình là một tài năng phi thường đang chờ cơ hội tỏa sáng. Đáp án này nắm bắt đúng thông điệp tâm lý sâu sắc mà tác giả phân tích. Các phương án khác chỉ là những hiện tượng bề nổi của truyền thông."
+    },
+    {
+      "id": 2,
+      "question": "Trước khi Susan Boyle cất giọng hát, khán giả và giám khảo đã có thái độ như thế nào?",
+      "options": [
+        "Cười mỉa mai, hợm hĩnh và mong đợi cô thất bại vì vẻ ngoài tẻ nhạt của cô",
+        "Vô cùng háo hức và cổ vũ nhiệt tình vì biết cô là một tài năng ẩn dật",
+        "Hoàn toàn phớt lờ và không tập trung vào sân khấu",
+        "Cảm thấy thương hại và muốn quyên góp tiền cho cô"
+      ],
+      "answer": "Cười mỉa mai, hợm hĩnh và mong đợi cô thất bại vì vẻ ngoài tẻ nhạt của cô",
+      "explanation": "Do vẻ ngoài xuề xòa và cách trả lời vụng về, đám đông đã có sẵn định kiến và chuẩn bị tinh thần chế giễu cô. Đáp án này mô tả chính xác thái độ tàn nhẫn của khán giả để làm nổi bật sự lột xác sau đó của Susan. Các đáp án khác trái ngược với sự thật diễn ra trong chương trình."
+    },
+    {
+      "id": 3,
+      "question": "Tác giả nói \"chúng ta không thể mua được sự biến đổi đó\", ám chỉ điều gì về thành công của Susan Boyle?",
+      "options": [
+        "Thành công của cô là do ban tổ chức dàn xếp chứ không phải do thực lực",
+        "Khác với những lời hứa hẹn của quảng cáo, tài năng của Susan đến từ sự khổ luyện từ năm 12 tuổi",
+        "Giọng hát của cô là bẩm sinh nên không cần phải tốn tiền đi học",
+        "Mọi người đều có thể nổi tiếng nếu có đủ tiền thuê người quản lý tốt"
+      ],
+      "answer": "Khác với những lời hứa hẹn của quảng cáo, tài năng của Susan đến từ sự khổ luyện từ năm 12 tuổi",
+      "explanation": "Thành công của Susan không đến từ các phép màu thương mại hay mua sắm mỹ phẩm, mà là kết quả của việc tập hát kiên trì từ năm 12 tuổi. Đáp án này vạch trần ảo tưởng của truyền thông quảng cáo và đề cao sự khổ luyện. Các lý do khác không phản ánh đúng ý nghĩa câu nói của tác giả."
+    },
+    {
+      "id": 4,
+      "question": "Theo một người bạn của tác giả, \"Được đánh giá bằng tài năng của mình là một...\" gì?",
+      "options": [
+        "Trách nhiệm",
+        "Thử thách",
+        "Ân huệ",
+        "Bi kịch"
+      ],
+      "answer": "Ân huệ",
+      "explanation": "Được người khác ghi nhận và đánh giá bằng chính tài năng thực sự của bản thân được xem là một 'ân huệ' to lớn trong cuộc sống. Đáp án này là một trích dẫn trực tiếp từ bức thư của bạn tác giả nhằm nhấn mạnh giá trị của sự cống hiến chân thực. Các từ khác không đúng với nguyên tác."
+    },
+    {
+      "id": 5,
+      "question": "Để tài năng được đánh giá, người ta cần có phẩm chất gì quan trọng nhất theo tác giả?",
+      "options": [
+        "Sự hoàn hảo ngay từ lần thử đầu tiên",
+        "Rất nhiều tiền để tự truyền thông cho bản thân",
+        "Ngoại hình bắt mắt để thu hút sự chú ý",
+        "Sự can đảm để bước lên sân khấu chân thực và sẵn sàng đối mặt với sự mỉa mai"
+      ],
+      "answer": "Sự can đảm để bước lên sân khấu chân thực và sẵn sàng đối mặt với sự mỉa mai",
+      "explanation": "Cần vô vàn sự dũng cảm để phơi bày năng lực thực sự của mình trước đám đông đang trực chờ phán xét và cười nhạo mình. Đáp án này tôn vinh lòng can đảm đối diện với rủi ro thất bại để có cơ hội tỏa sáng. Các phẩm chất khác tuy tốt nhưng không phải là yếu tố tiên quyết được tác giả nhắc đến ở đây."
+    },
+    {
+      "id": 6,
+      "question": "Nhân vật Fred O'Neil đóng vai trò gì trong sự nghiệp của Susan Boyle?",
+      "options": [
+        "Là người quản lý tài chính giúp cô ký các hợp đồng quảng cáo",
+        "Là giám khảo đã bỏ phiếu ủng hộ cô tại chương trình",
+        "Là người huấn luyện âm nhạc lâu năm và khích lệ cô dự thi",
+        "Là chuyên gia trang điểm đã giúp cô lột xác về ngoại hình"
+      ],
+      "answer": "Là người huấn luyện âm nhạc lâu năm và khích lệ cô dự thi",
+      "explanation": "Fred O'Neil không chỉ là huấn luyện viên thanh nhạc mà còn là người thấu hiểu và động viên Susan bước ra khỏi vùng an toàn để dự thi. Đáp án này ghi nhận vai trò quan trọng của người thầy đồng hành hỗ trợ cô. Các đáp án khác mô tả sai vai trò của Fred."
+    },
+    {
+      "id": 7,
+      "question": "Nỗi lo ngại của Fred O'Neil sau khi Susan Boyle đột ngột nổi tiếng là gì?",
+      "options": [
+        "Cô ấy sẽ không trả đủ tiền công huấn luyện cho anh",
+        "Cô ấy có thể tự mãn và bỏ rơi những người bạn cũ",
+        "Cô ấy sẽ bị bủa vây bởi sự chú ý đến mức đánh mất \"con người thật\" và không còn thời gian để hát",
+        "Giọng hát của cô ấy sẽ bị hỏng do phải biểu diễn quá nhiều"
+      ],
+      "answer": "Cô ấy sẽ bị bủa vây bởi sự chú ý đến mức đánh mất \"con người thật\" và không còn thời gian để hát",
+      "explanation": "Anh lo sợ ánh hào quang, sự kỳ vọng của giới truyền thông sẽ đánh cắp bản ngã giản dị và thời gian dành cho đam mê ca hát của Susan. Đáp án này thể hiện cái nhìn tinh tế của người thầy muốn bảo vệ giá trị cốt lõi của học trò trước sóng gió danh vọng. Các lo ngại khác mang tính thực dụng và không đúng với tâm tư của Fred."
+    },
+    {
+      "id": 8,
+      "question": "Động lực lớn nhất khiến Susan Boyle quyết định tham gia chương trình Britain's Got Talent là gì?",
+      "options": [
+        "Để tìm kiếm một công việc có thu nhập ổn định",
+        "Để chứng minh cho ban giám khảo thấy họ đã sai",
+        "Để thực hiện mong mỏi của người mẹ quá cố và làm bà hãnh diện",
+        "Để có cơ hội phát hành một album nhạc cổ điển"
+      ],
+      "answer": "Để thực hiện mong mỏi của người mẹ quá cố và làm bà hãnh diện",
+      "explanation": "Dù mẹ đã mất, cô vẫn muốn thực hiện ước nguyện cùng xem chương trình và mong muốn đem lại sự tự hào cho người mẹ quá cố. Đáp án này chỉ ra nguồn động lực tinh thần to lớn và đầy tình người của Susan. Các lý do liên quan đến danh vọng hay tiền bạc là hoàn toàn sai lệch."
+    },
+    {
+      "id": 9,
+      "question": "Tác giả nhấn mạnh tầm quan trọng của việc có một \"người ủng hộ\" (như cha mẹ hoặc bạn bè). Đặc điểm quan trọng của người ủng hộ này là gì?",
+      "options": [
+        "Luôn nói những lời tâng bốc để bạn vui lòng trong mọi hoàn cảnh",
+        "Đủ tin cậy để những lời phê bình của họ giúp bạn hoàn hảo hơn chứ không mang ác ý hạ thấp bạn",
+        "Phải là người nổi tiếng để có thể dùng danh tiếng của họ nâng đỡ bạn",
+        "Sẵn sàng tài trợ toàn bộ chi phí để bạn theo đuổi đam mê"
+      ],
+      "answer": "Đủ tin cậy để những lời phê bình của họ giúp bạn hoàn hảo hơn chứ không mang ác ý hạ thấp bạn",
+      "explanation": "Người ủng hộ chân chính là người dám đưa ra nhận xét thẳng thắn để rèn giũa bạn trở nên tốt hơn, dựa trên tình yêu thương và sự thấu hiểu. Đáp án này định nghĩa đúng giá trị của những lời phê bình mang tính xây dựng. Các lựa chọn khác mô tả những người ủng hộ độc hại hoặc thiếu sự tinh tế cần thiết."
+    },
+    {
+      "id": 10,
+      "question": "Bài học chung nhất mà tác giả muốn gửi gắm qua chương \"Tại Sao Chúng Ta Thích Susan Boyle\" là gì?",
+      "options": [
+        "Sự nổi tiếng chỉ mang lại rắc rối và làm mất đi sự bình yên",
+        "Đừng bao giờ đánh giá người khác qua vẻ bề ngoài",
+        "Đừng an phận với những gì thấp hơn bản chất và tiềm năng thật sự của con người bạn",
+        "Luôn phải tham gia các cuộc thi tài năng nếu muốn được chú ý"
+      ],
+      "answer": "Đừng an phận với những gì thấp hơn bản chất và tiềm năng thật sự của con người bạn",
+      "explanation": "Câu kết của chương sách là lời kêu gọi mỗi người đừng tự hạ thấp giá trị bản thân, mà hãy dũng cảm phô diễn tài năng để sống đúng với bản chất của mình. Đáp án này bao hàm toàn bộ thông điệp sống trọn vẹn và cống hiến của tác giả. Các kết luận khác quá hạn hẹp hoặc không phải là triết lý trung tâm."
+    }
+  ],
+  "08_7. Bạn Không Cần Phải Thích Anh Ta.md": [
+    {
+      "id": 1,
+      "question": "Khi lần đầu gặp khách hàng Hunter, tác giả đã có phản ứng bản năng như thế nào?",
+      "options": [
+        "Cảm thấy vô cùng ngưỡng mộ phong cách làm việc của Hunter",
+        "Lập tức không có thiện cảm và muốn tránh làm việc với anh ta",
+        "Cảm thấy sợ hãi và xin lỗi vì đã làm phiền Hunter",
+        "Cười đáp lại và cố gắng nịnh bợ để lấy lòng Hunter"
+      ],
+      "answer": "Lập tức không có thiện cảm và muốn tránh làm việc với anh ta",
+      "explanation": "Do bị Hunter đánh giá thấp, cái tôi của tác giả bị tổn thương khiến ông nảy sinh ác cảm và định bỏ lỡ cơ hội kinh doanh. Đáp án này thể hiện phản ứng tâm lý tự vệ rất bản năng của con người. Các lựa chọn khác phản ánh sai thực tế cảm xúc ban đầu của tác giả."
+    },
+    {
+      "id": 2,
+      "question": "Lời khuyên của người chú ở Luân Đôn đã giúp tác giả nhận ra điều gì?",
+      "options": [
+        "Trong kinh doanh, bạn phải giả vờ thích mọi khách hàng để có hợp đồng",
+        "Bạn không cần phải thích một người để có thể làm việc và hợp tác với họ",
+        "Nên rút lui ngay lập tức nếu đối tác có thái độ không tôn trọng",
+        "Phải đối đầu gay gắt với Hunter để giành lại sự tôn trọng"
+      ],
+      "answer": "Bạn không cần phải thích một người để có thể làm việc và hợp tác với họ",
+      "explanation": "Người chú chỉ ra rằng kinh doanh đòi hỏi tính chuyên nghiệp, và tình cảm cá nhân (yêu/ghét) không được cản trở việc hoàn thành mục tiêu công việc chung. Đáp án này tóm gọn thông điệp 'tách bạch cảm xúc khỏi công việc'. Các ý kiến khác không mô tả đúng lời khuyên mang tính lý trí này."
+    },
+    {
+      "id": 3,
+      "question": "Chuỗi phản ứng thông thường (tự phát) được tác giả mô tả theo trình tự nào?",
+      "options": [
+        "Sự việc ––> Kết quả ––> Phản ứng",
+        "Phản ứng ––> Kết quả ––> Sự việc",
+        "Sự việc ––> Phản ứng ––> Kết quả",
+        "Kết quả ––> Phản ứng ––> Sự việc"
+      ],
+      "answer": "Sự việc ––> Phản ứng ––> Kết quả",
+      "explanation": "Chuỗi tự phát bắt đầu từ việc một sự kiện xảy ra, chúng ta phản ứng cảm tính với nó, và từ đó sinh ra một kết quả ngoài ý muốn. Đáp án này mô tả chính xác mô hình hành vi bản năng của chúng ta theo sách. Các trình tự khác bị đảo lộn và không đúng lý thuyết của tác giả."
+    },
+    {
+      "id": 4,
+      "question": "Khuyết điểm lớn nhất của việc hành động theo chuỗi \"Sự việc ––> Phản ứng ––> Kết quả\" là gì?",
+      "options": [
+        "Đòi hỏi quá nhiều thời gian suy nghĩ trước khi hành động",
+        "Kết quả thường bị thiệt hại một cách không cố ý do phản ứng cảm tính",
+        "Quá trình này không thể áp dụng trong các mối quan hệ cá nhân",
+        "Nó làm cho đối phương cảm thấy bạn là người tính toán"
+      ],
+      "answer": "Kết quả thường bị thiệt hại một cách không cố ý do phản ứng cảm tính",
+      "explanation": "Vì phản ứng theo cảm xúc nhất thời, chúng ta mất quyền kiểm soát tình hình và thường phải gánh chịu những hậu quả tiêu cực làm hỏng việc lớn. Đáp án này phân tích đúng tác hại của việc nhượng bộ trước cái tôi cá nhân. Các nhược điểm khác không phải là gốc rễ của sự thất bại trong mô hình cũ."
+    },
+    {
+      "id": 5,
+      "question": "Tác giả đề xuất chuỗi phản ứng thay thế nào để đạt được hiệu quả tốt hơn?",
+      "options": [
+        "Cảm xúc ––> Hành động ––> Hậu quả",
+        "Sự việc ––> Kết quả ––> Phản ứng",
+        "Kế hoạch ––> Sự việc ––> Đánh giá",
+        "Lắng nghe ––> Chấp nhận ––> Phản kháng"
+      ],
+      "answer": "Sự việc ––> Kết quả ––> Phản ứng",
+      "explanation": "Tác giả đảo ngược mô hình: bắt đầu từ sự việc, sau đó xác định ngay kết quả mong muốn, rồi mới chọn phản ứng phù hợp để đạt được kết quả đó. Đáp án này chuyển từ tư duy đối phó thụ động sang tư duy kiến tạo chủ động. Các chuỗi khác không có trong lý thuyết được đề cập."
+    },
+    {
+      "id": 6,
+      "question": "Bí quyết để chuyển từ chuỗi phản ứng cũ sang chuỗi phản ứng mới là hành động gì?",
+      "options": [
+        "Tranh luận ngay lập tức để giành thế thượng phong",
+        "Bỏ đi khỏi hiện trường để làm dịu cảm xúc",
+        "Tạm dừng một nhịp, tự hỏi bản thân muốn kết quả gì trước khi phản ứng",
+        "Ghi chép lại mọi lời nói của đối phương làm bằng chứng"
+      ],
+      "answer": "Tạm dừng một nhịp, tự hỏi bản thân muốn kết quả gì trước khi phản ứng",
+      "explanation": "Khoảng dừng ngắn ngủi sẽ tạo không gian cho lý trí can thiệp, dập tắt ngọn lửa cảm xúc và nhắc nhở chúng ta về bức tranh toàn cảnh. Đáp án này nhấn mạnh kỹ năng cốt lõi để kiểm soát hành vi phản xạ. Các hành động khác không phải là bí quyết giúp thiết lập lại chuỗi phản ứng."
+    },
+    {
+      "id": 7,
+      "question": "Tác giả áp dụng nguyên tắc mới như thế nào khi vợ anh ấy (Eleanor) gặp rắc rối và tìm đến anh than phiền?",
+      "options": [
+        "Anh lập tức đưa ra hàng loạt giải pháp thiết thực để giải quyết vấn đề",
+        "Anh từ chối nghe vì không muốn bị lôi kéo vào cảm xúc tiêu cực",
+        "Anh tự hỏi cô ấy muốn anh làm gì và nhận ra đôi khi cô ấy chỉ cần anh lắng nghe",
+        "Anh khuyên cô ấy nên gặp bác sĩ tâm lý để có cách giải quyết tốt hơn"
+      ],
+      "answer": "Anh tự hỏi cô ấy muốn anh làm gì và nhận ra đôi khi cô ấy chỉ cần anh lắng nghe",
+      "explanation": "Dù bản năng mách bảo phải đưa ra giải pháp (phản ứng), tác giả nhận ra mục tiêu chính là duy trì tình cảm bền vững (kết quả), nên ông chọn cách lắng nghe theo nhu cầu của vợ. Đáp án này là một ví dụ tuyệt vời về việc áp dụng lý thuyết vào quan hệ tình cảm. Các phương án khác mô tả sai cách ứng xử của tác giả với vợ."
+    },
+    {
+      "id": 8,
+      "question": "Trong câu chuyện, khi bị ai đó lớn tiếng, đâu là \"phản ứng\" đúng đắn nếu \"kết quả\" bạn mong muốn là giữ gìn mối quan hệ?",
+      "options": [
+        "Lớn tiếng mắng lại để bảo vệ danh dự bản thân",
+        "Bỏ đi không nói một lời nào để thể hiện sự khinh bỉ",
+        "Dùng giọng bình thường, thông cảm và hỏi thăm vấn đề họ đang vướng mắc",
+        "Dọa sẽ cắt đứt mối quan hệ nếu họ không dừng lại"
+      ],
+      "answer": "Dùng giọng bình thường, thông cảm và hỏi thăm vấn đề họ đang vướng mắc",
+      "explanation": "Vì mục tiêu (kết quả) là giữ hòa khí, việc dùng sự điềm tĩnh và thông cảm sẽ dập tắt mâu thuẫn thay vì đổ thêm dầu vào lửa bằng sự tức giận. Đáp án này chứng minh rằng phản ứng của ta phải phục vụ cho kết quả chứ không phục vụ cho cái tôi cá nhân. Các hành xử khác sẽ đi ngược lại với kết quả mong muốn."
+    },
+    {
+      "id": 9,
+      "question": "Thái độ cuối cùng của tác giả đối với Hunter sau nhiều năm làm việc chung là gì?",
+      "options": [
+        "Tác giả vẫn cực kỳ ghét Hunter và luôn tìm cách trả đũa",
+        "Tác giả phát hiện ra Hunter đang âm mưu phá hoại công ty",
+        "Tác giả cảm thấy cuối cùng mình cũng có thể \"thích\" được anh chàng này",
+        "Tác giả đã sa thải Hunter khỏi dự án vì không thể chịu đựng thêm"
+      ],
+      "answer": "Tác giả cảm thấy cuối cùng mình cũng có thể \"thích\" được anh chàng này",
+      "explanation": "Sự tập trung vào công việc và mục tiêu chung đã xóa bỏ định kiến ban đầu, giúp cả hai xây dựng được sự tôn trọng và thậm chí là thiện cảm. Đáp án này cho thấy cái kết có hậu khi chúng ta chịu gác lại ác cảm cá nhân để làm việc. Các thái độ khác mang tính thù dai hoặc bịa đặt sai sự thật."
+    },
+    {
+      "id": 10,
+      "question": "Mục đích chính của việc \"tạm dừng để khởi động lại\" được nhắc đến ở cuối chương là gì?",
+      "options": [
+        "Để có thời gian soạn thảo các hợp đồng tư vấn một cách kỹ lưỡng",
+        "Nhằm đưa lý trí vượt lên cảm xúc, tập trung vào kết quả mong muốn và khơi nguồn tiềm năng bản thân",
+        "Để đợi đối thủ bộc lộ sơ hở và lợi dụng điểm yếu của họ",
+        "Nhằm thu thập thêm thông tin từ người khác trước khi quyết định"
+      ],
+      "answer": "Nhằm đưa lý trí vượt lên cảm xúc, tập trung vào kết quả mong muốn và khơi nguồn tiềm năng bản thân",
+      "explanation": "Tạm dừng chính là khoảng lặng để đứt gãy sự chi phối của định kiến, giúp mở rộng tầm nhìn để hành động dựa trên lý trí và định hướng tương lai. Đáp án này bao hàm đầy đủ ý nghĩa triết học của hành động 'tạm dừng'. Các mục đích khác là những diễn giải sai lệch và nông cạn."
+    }
+  ],
+  "09_II. Làm Gì Trong Năm Nay.md": [
+    {
+      "id": 1,
+      "question": "Trong quá trình tìm kiếm hướng đi mới, tác giả KHÔNG trải nghiệm qua vai trò nào sau đây?",
+      "options": [
+        "Bác sĩ",
+        "Đầu bếp chuyên nghiệp",
+        "Diễn viên",
+        "Quản lý đầu tư"
+      ],
+      "answer": "Đầu bếp chuyên nghiệp",
+      "explanation": "Trong hành trình tìm kiếm lại bản thân, tác giả đã thử nghiệm diễn xuất, học nghề y, nghiên cứu tôn giáo (giáo trưởng) và quản lý đầu tư, tuyệt nhiên không có nghề đầu bếp. Đáp án này chính xác loại trừ công việc không có trong trải nghiệm của tác giả. Các phương án khác đều được nhắc đến trong đoạn mở đầu."
+    },
+    {
+      "id": 2,
+      "question": "Sau khi thử nghiệm nhiều vai trò khác nhau, tác giả nhận ra mình thật sự khao khát điều gì trong công việc?",
+      "options": [
+        "Một công việc mang tính chất văn phòng nhàn hạ, ít rủi ro",
+        "Thích vui chơi, sáng tạo, giúp đỡ mọi người, có chiều sâu và kiếm nhiều tiền",
+        "Trở thành người nổi tiếng xuất hiện trên truyền hình mỗi ngày",
+        "Một công việc không cần phải giao tiếp với bất kỳ ai"
+      ],
+      "answer": "Thích vui chơi, sáng tạo, giúp đỡ mọi người, có chiều sâu và kiếm nhiều tiền",
+      "explanation": "Bằng cách chắt lọc những điểm thu hút từ các trải nghiệm khác nhau, tác giả đã vẽ ra chân dung công việc mơ ước với các yếu tố cốt lõi về tinh thần và vật chất. Đáp án này tóm gọn đầy đủ những nhu cầu sâu thẳm mà tác giả tìm thấy. Các lựa chọn khác mô tả sự lệch lạc không phù hợp với triết lý của tác giả."
+    },
+    {
+      "id": 3,
+      "question": "Dù yêu thích việc tư vấn, tác giả lại vô cùng chán ghét điều gì trong công việc cũ của mình?",
+      "options": [
+        "Phải đi công tác quá nhiều bằng máy bay",
+        "Việc quản lý và điều hành công ty tư vấn, tạo ra các phương pháp tiêu chuẩn hóa",
+        "Khách hàng luôn từ chối trả tiền đúng hạn",
+        "Việc phải viết lách và phát biểu trước đám đông"
+      ],
+      "answer": "Việc quản lý và điều hành công ty tư vấn, tạo ra các phương pháp tiêu chuẩn hóa",
+      "explanation": "Tác giả nhận ra mình thích chiều sâu chuyên môn của việc giải quyết vấn đề trực tiếp, nhưng lại kiệt sức với gánh nặng vận hành, tiêu chuẩn hóa hệ thống của việc làm sếp. Đáp án này phân biệt rõ ràng giữa kỹ năng chuyên môn và kỹ năng quản lý. Các lý do khác là những ngụy biện không đúng thực tế trong sách."
+    },
+    {
+      "id": 4,
+      "question": "Giải pháp của tác giả để giải quyết mâu thuẫn giữa việc yêu thích tư vấn và ghét quản lý công ty là gì?",
+      "options": [
+        "Tuyển thêm hàng loạt quản lý cấp trung để làm thay công việc của mình",
+        "Đóng cửa công ty tư vấn và chuyển hẳn sang làm diễn viên",
+        "Tự mình tư vấn theo cách kết hợp điểm mạnh, sự sáng tạo và đam mê, bỏ qua việc quản lý quy mô lớn",
+        "Bán công ty cho đối thủ cạnh tranh với giá cao và nghỉ hưu sớm"
+      ],
+      "answer": "Tự mình tư vấn theo cách kết hợp điểm mạnh, sự sáng tạo và đam mê, bỏ qua việc quản lý quy mô lớn",
+      "explanation": "Tác giả quyết định giữ lại công việc tư vấn chuyên môn thuần túy nhưng tự làm theo cách cá nhân để tận hưởng sự tự do sáng tạo, thay vì phải gánh vác việc điều hành công ty. Đáp án này là bước ngoặt giúp tác giả kết hợp mọi yếu tố yêu thích vào một công việc. Các cách giải quyết khác đưa ra những lựa chọn tiêu cực hoặc trốn tránh."
+    },
+    {
+      "id": 5,
+      "question": "Khi bắt đầu tự tập tư vấn theo cách mới, tác giả đã trải qua quá trình như thế nào?",
+      "options": [
+        "Cực kỳ dễ dàng và thành công ngay lập tức ngoài sức mong đợi",
+        "Phạm sai lầm, thất bại liên tục, hoài nghi bản thân và có lúc đóng băng",
+        "Được mọi khách hàng cũ chào đón và ủng hộ tuyệt đối",
+        "Không gặp bất kỳ rào cản nào vì đã có quá nhiều kinh nghiệm"
+      ],
+      "answer": "Phạm sai lầm, thất bại liên tục, hoài nghi bản thân và có lúc đóng băng",
+      "explanation": "Con đường khởi tạo sự nghiệp mới theo ý mình không hề bằng phẳng; nó đầy rẫy sự thất bại, hoài nghi và những phút giây bế tắc. Đáp án này chân thực phơi bày những rào cản tất yếu trong quá trình khởi nghiệp thực tế. Các đáp án khác tô hồng sai lệch về quá trình khởi nghiệp thực tế."
+    },
+    {
+      "id": 6,
+      "question": "Theo tác giả, vấn đề khiến chúng ta cố gắng làm việc miệt mài nhưng không đạt được mục tiêu thật sự là do đâu?",
+      "options": [
+        "Do chúng ta thiếu nỗ lực và quá lười biếng",
+        "Do môi trường làm việc không cung cấp đủ công cụ",
+        "Do thiếu định hướng và trọng tâm trong những việc đang làm",
+        "Do bị đồng nghiệp cản trở và kìm hãm sự phát triển"
+      ],
+      "answer": "Do thiếu định hướng và trọng tâm trong những việc đang làm",
+      "explanation": "Làm việc chăm chỉ mà thiếu kim chỉ nam sẽ chỉ là sự tiêu phí năng lượng vào những việc không có giá trị cốt lõi. Đáp án này chỉ ra nguyên nhân gốc rễ của sự bận rộn vô nghĩa. Các lý do khác chỉ là những yếu tố ngoại cảnh không đóng vai trò quyết định."
+    },
+    {
+      "id": 7,
+      "question": "Tác giả nhấn mạnh điều gì là bước đầu tiên để \"làm chủ cuộc đời bạn\"?",
+      "options": [
+        "Cắt giảm tối đa mọi chi tiêu không cần thiết",
+        "Xác định mục đích cuộc đời mình",
+        "Tìm một người cố vấn (mentor) có nhiều tiền",
+        "Tham gia thật nhiều khóa học kỹ năng mềm"
+      ],
+      "answer": "Xác định mục đích cuộc đời mình",
+      "explanation": "Bạn không thể có kế hoạch đúng nếu không biết đích đến của mình là gì; định vị mục đích sống là điều kiện tiên quyết. Đáp án này khẳng định sự ưu tiên của việc tìm ra sứ mệnh bản thân trước khi hành động. Các ý kiến khác mô tả những việc làm thứ yếu mang tính bề mặt."
+    },
+    {
+      "id": 8,
+      "question": "Bốn yếu tố tạo nên nền tảng cho sự thành công và hạnh phúc, giúp bạn xác định trọng tâm là gì?",
+      "options": [
+        "Sức khỏe, tài chính, mối quan hệ, tri thức",
+        "Thời gian, không gian, năng lực, cơ hội",
+        "Ưu điểm, khuyết điểm, sự khác biệt, niềm đam mê",
+        "Sự thông minh, ngoại hình, gia thế, sự may mắn"
+      ],
+      "answer": "Ưu điểm, khuyết điểm, sự khác biệt, niềm đam mê",
+      "explanation": "Theo tác giả, sự kết hợp của việc biết mình giỏi gì, dở gì, đặc biệt ở đâu và yêu thích điều gì sẽ tạo nên một định vị độc bản và vững chắc. Đáp án này liệt kê chính xác bốn cột trụ của nền tảng phát triển cá nhân theo sách. Các bộ tiêu chí khác là sự lắp ghép thiếu cơ sở."
+    },
+    {
+      "id": 9,
+      "question": "Thời gian của bạn được sử dụng hợp lý nhất khi nào?",
+      "options": [
+        "Khi bạn dành 100% thời gian chỉ để kiếm tiền",
+        "Khi bạn làm việc liên tục không ngừng nghỉ suốt 24 giờ",
+        "Tại điểm giao nhau của 4 yếu tố: ưu điểm, khuyết điểm, sự khác biệt và đam mê",
+        "Khi bạn hoàn thành danh sách công việc do người khác giao phó"
+      ],
+      "answer": "Tại điểm giao nhau của 4 yếu tố: ưu điểm, khuyết điểm, sự khác biệt và đam mê",
+      "explanation": "Giao điểm của ưu điểm, khuyết điểm, sự khác biệt và đam mê chính là \"điểm ngọt\" (sweet spot) nơi năng lượng cá nhân phát huy tác dụng tối đa. Đáp án này đúc kết triết lý cốt lõi về việc tối ưu hóa thời gian sống. Các phương án khác đưa ra những cách dùng thời gian mất cân bằng và sai lầm."
+    },
+    {
+      "id": 10,
+      "question": "Mục đích cuối cùng của Phần II (Làm Gì Trong Năm Nay) là giúp người đọc làm gì?",
+      "options": [
+        "Dạy cách viết CV xin việc chuyên nghiệp",
+        "Xác định được trọng tâm hàng năm để làm cơ sở lên kế hoạch hàng ngày",
+        "Học cách đầu tư tài chính sinh lời nhanh chóng",
+        "Hướng dẫn cách thành lập một công ty tư vấn toàn cầu"
+      ],
+      "answer": "Xác định được trọng tâm hàng năm để làm cơ sở lên kế hoạch hàng ngày",
+      "explanation": "Mục tiêu tối thượng của phần này là giúp người đọc chọn ra được một định hướng lớn trong năm, từ đó tạo nền tảng vững chắc để sắp xếp các công việc nhỏ lẻ hàng ngày. Đáp án này đóng vai trò như lời mở đầu hướng dẫn mục đích thực tế của cuốn sách. Các đáp án khác mô tả những kỹ năng vụn vặt không phải là chủ đích của tác giả."
+    }
+  ]
+}

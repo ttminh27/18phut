@@ -1,0 +1,600 @@
+{
+  "26_23. Đến Nhầm Tầng.md": [
+    {
+      "id": 1,
+      "question": "Tác giả nhấn mạnh điều gì là quan trọng nhất trong một thế giới mà thông tin chuyển động quá nhanh?",
+      "options": [
+        "Cố gắng tăng tốc để nắm bắt mọi thông tin",
+        "Từ chối những thông tin không cần thiết để giữ sự tập trung",
+        "Sử dụng công nghệ để quản lý thông tin tốt hơn",
+        "Cố gắng làm hài lòng mọi người xung quanh"
+      ],
+      "answer": "Từ chối những thông tin không cần thiết để giữ sự tập trung"
+    },
+    {
+      "id": 2,
+      "question": "Theo tác giả, tại sao việc cố gắng tiếp thu mọi thông tin lại là một \"rủi ro\"?",
+      "options": [
+        "Vì nó khiến chúng ta kiệt sức và mất đi sự tập trung vào điều thực sự quan trọng",
+        "Vì thông tin hiện nay phần lớn là sai lệch và không đáng tin cậy",
+        "Vì nó làm giảm khả năng giao tiếp trực tiếp của chúng ta",
+        "Vì nó khiến chúng ta tốn quá nhiều tiền vào các thiết bị công nghệ"
+      ],
+      "answer": "Vì nó khiến chúng ta kiệt sức và mất đi sự tập trung vào điều thực sự quan trọng"
+    },
+    {
+      "id": 3,
+      "question": "Danh sách thứ hai mà tác giả khuyên chúng ta nên lập, bên cạnh danh sách \"những việc cần làm\", là gì?",
+      "options": [
+        "Danh sách những người cần liên lạc",
+        "Danh sách những mục tiêu dài hạn",
+        "Danh sách những cuốn sách cần đọc",
+        "Danh sách những việc cần bỏ qua"
+      ],
+      "answer": "Danh sách những việc cần bỏ qua"
+    },
+    {
+      "id": 4,
+      "question": "Hành động của vị CEO trong thang máy thể hiện nguyên tắc cốt lõi nào?",
+      "options": [
+        "Kỹ năng giao tiếp xuất sắc với mọi người xung quanh",
+        "Sự tập trung cao độ vào mục tiêu hiện tại và chủ động bỏ qua các yếu tố gây xao nhãng",
+        "Khả năng giải quyết nhiều công việc cùng lúc (multitasking)",
+        "Sự thờ ơ với những đồng nghiệp và đối thủ cạnh tranh"
+      ],
+      "answer": "Sự tập trung cao độ vào mục tiêu hiện tại và chủ động bỏ qua các yếu tố gây xao nhãng"
+    }
+  ],
+  "27_24. Ngày Mai Là Khi Nào.md": [
+    {
+      "id": 1,
+      "question": "Vấn đề chính của những \"danh sách việc cần làm\" thông thường là gì?",
+      "options": [
+        "Chúng quá ngắn và không bao quát hết công việc",
+        "Chúng thường được dùng như một công cụ đạt thành quả thay vì công cụ tập hợp",
+        "Chúng tốn quá nhiều thời gian để lập ra mỗi ngày",
+        "Chúng chỉ tập trung vào những việc không quan trọng"
+      ],
+      "answer": "Chúng thường được dùng như một công cụ đạt thành quả thay vì công cụ tập hợp"
+    },
+    {
+      "id": 2,
+      "question": "Bài học quan trọng nhất từ câu chuyện mua giày của Eleanor là gì?",
+      "options": [
+        "Trẻ em thường kiên nhẫn hơn người lớn trong việc chờ đợi",
+        "Xác định thời gian và địa điểm cụ thể là yếu tố quyết định để một việc được thực hiện",
+        "Mua sắm là một cách tốt để giải tỏa căng thẳng",
+        "Chúng ta nên luôn ưu tiên các hoạt động gia đình"
+      ],
+      "answer": "Xác định thời gian và địa điểm cụ thể là yếu tố quyết định để một việc được thực hiện"
+    },
+    {
+      "id": 3,
+      "question": "Tại sao thời gian biểu hàng ngày lại là công cụ tốt hơn danh sách việc cần làm để đạt thành quả?",
+      "options": [
+        "Vì thời gian biểu dễ chia sẻ với người khác hơn",
+        "Vì thời gian biểu không yêu cầu sự phân loại ưu tiên",
+        "Vì thời gian biểu cho phép chúng ta làm nhiều việc cùng lúc",
+        "Vì thời gian biểu có giới hạn, buộc chúng ta phải đối mặt với thực tế về lượng thời gian có hạn"
+      ],
+      "answer": "Vì thời gian biểu có giới hạn, buộc chúng ta phải đối mặt với thực tế về lượng thời gian có hạn"
+    },
+    {
+      "id": 4,
+      "question": "Tác giả khuyên nên làm gì với những việc thuộc danh mục 5% còn lại (những việc vụn vặt, hỗ trợ người khác)?",
+      "options": [
+        "Loại bỏ chúng hoàn toàn khỏi danh sách",
+        "Tranh thủ làm chúng vào bất cứ lúc nào có khoảng trống trong ngày",
+        "Dành hẳn một khoảng thời gian cụ thể (thường vào buổi chiều) trong thời gian biểu cho chúng",
+        "Chuyển giao chúng cho người khác làm thay"
+      ],
+      "answer": "Dành hẳn một khoảng thời gian cụ thể (thường vào buổi chiều) trong thời gian biểu cho chúng"
+    }
+  ],
+  "28_25. Quy Luật 3 Ngày.md": [
+    {
+      "id": 1,
+      "question": "Quy luật 3 ngày được thiết kế để giải quyết vấn đề gì?",
+      "options": [
+        "Những nhiệm vụ khẩn cấp phát sinh bất ngờ",
+        "Những mục tiêu dài hạn cần nhiều thời gian để hoàn thành",
+        "Những việc cứ nằm mãi trong danh sách cần làm và gây áp lực tâm lý",
+        "Sự phân tâm từ mạng xã hội và email"
+      ],
+      "answer": "Những việc cứ nằm mãi trong danh sách cần làm và gây áp lực tâm lý"
+    },
+    {
+      "id": 2,
+      "question": "Tác giả gợi ý phương án nào cho một việc đã nằm trong danh sách quá 3 ngày?",
+      "options": [
+        "Cố gắng thức khuya để hoàn thành nó bằng mọi giá",
+        "Chia nhỏ nó thành nhiều phần và làm trong 3 ngày tiếp theo",
+        "Chuyển giao nó cho một đồng nghiệp",
+        "Thực hiện ngay, lên lịch cụ thể, bỏ qua, hoặc đưa vào danh sách \"Một ngày nào đó\""
+      ],
+      "answer": "Thực hiện ngay, lên lịch cụ thể, bỏ qua, hoặc đưa vào danh sách \"Một ngày nào đó\""
+    },
+    {
+      "id": 3,
+      "question": "Việc đưa một nhiệm vụ vào danh sách \"Một ngày nào đó/Có thể thực hiện\" mang lại lợi ích tâm lý gì?",
+      "options": [
+        "Tạo động lực để thực hiện nó vào ngày hôm sau",
+        "Giúp tâm trí thoải mái vì không phải dứt khoát xóa bỏ nhưng cũng không để nó ám ảnh hàng ngày",
+        "Biến nó thành nhiệm vụ ưu tiên cao nhất",
+        "Giúp ghi nhớ nó để giao cho người khác"
+      ],
+      "answer": "Giúp tâm trí thoải mái vì không phải dứt khoát xóa bỏ nhưng cũng không để nó ám ảnh hàng ngày"
+    },
+    {
+      "id": 4,
+      "question": "Mục đích của \"danh sách chờ\" mà tác giả nhắc đến là gì?",
+      "options": [
+        "Theo dõi những việc mình kỳ vọng hoặc đang chờ phản hồi từ người khác mà không làm lộn xộn danh sách công việc hàng ngày",
+        "Chứa những công việc quá khó cần chờ hướng dẫn",
+        "Tập hợp những dự án tương lai chưa có kinh phí",
+        "Ghi lại những người đang chờ mình giúp đỡ"
+      ],
+      "answer": "Theo dõi những việc mình kỳ vọng hoặc đang chờ phản hồi từ người khác mà không làm lộn xộn danh sách công việc hàng ngày"
+    }
+  ],
+  "29_26. Bạn Là Ai.md": [
+    {
+      "id": 1,
+      "question": "Nguyên nhân sâu xa khiến chúng ta đôi khi hành xử cáu kỉnh và phớt lờ người khác, theo tác giả, là gì?",
+      "options": [
+        "Sự thiếu đồng cảm tự nhiên",
+        "Tình trạng quá tải vì có quá nhiều việc phải làm nhưng không đủ thời gian",
+        "Môi trường làm việc độc hại",
+        "Do tính cách bẩm sinh của mỗi người"
+      ],
+      "answer": "Tình trạng quá tải vì có quá nhiều việc phải làm nhưng không đủ thời gian"
+    },
+    {
+      "id": 2,
+      "question": "Tác giả sử dụng phương pháp nào để duy trì sự tập trung và nhắc nhở bản thân về \"con người mình muốn trở thành\"?",
+      "options": [
+        "Viết nhật ký vào mỗi cuối ngày",
+        "Đọc những cuốn sách truyền cảm hứng vào mỗi sáng",
+        "Cài báo thức phát tín hiệu mỗi giờ để dừng lại và tự vấn bản thân trong một phút",
+        "Tham gia các khóa học quản lý cảm xúc định kỳ"
+      ],
+      "answer": "Cài báo thức phát tín hiệu mỗi giờ để dừng lại và tự vấn bản thân trong một phút"
+    },
+    {
+      "id": 3,
+      "question": "Trong khoảng dừng một phút mỗi giờ, tác giả không chỉ đánh giá hiệu quả công việc mà còn đánh giá điều gì?",
+      "options": [
+        "Số lượng email đã trả lời",
+        "Mức độ mệt mỏi của cơ thể",
+        "Phản ứng của đồng nghiệp xung quanh",
+        "Cách cư xử và việc mình có đang là \"con người mình muốn trở thành\" hay không"
+      ],
+      "answer": "Cách cư xử và việc mình có đang là \"con người mình muốn trở thành\" hay không"
+    },
+    {
+      "id": 4,
+      "question": "Làm thế nào để thay đổi một \"tình tiết\" hành xử không tốt (như việc nổi nóng) đã vô tình định hình hình ảnh của chúng ta?",
+      "options": [
+        "Cố gắng giải thích và bào chữa cho hành động đó",
+        "Tạo ra một tình tiết mới bằng hành động vững vàng, được cân nhắc và nhất quán để thể hiện con người thật",
+        "Lờ nó đi và hy vọng mọi người sẽ quên",
+        "Phản ứng bằng một hành động quá khích mang tính tích cực"
+      ],
+      "answer": "Tạo ra một tình tiết mới bằng hành động vững vàng, được cân nhắc và nhất quán để thể hiện con người thật"
+    }
+  ],
+  "30_27. Bạn Sẽ Ngạc Nhiên Về Những Gì.md": [
+    {
+      "id": 1,
+      "question": "Tại sao nhân viên xuất sắc Julie lại có nguy cơ bị đuổi việc?",
+      "options": [
+        "Cô ấy không đạt đủ chỉ tiêu doanh số",
+        "Cô ấy liên tục đi làm trễ",
+        "Cô ấy không có đủ kỹ năng chuyên môn",
+        "Cô ấy quá cố gắng, khó làm việc cùng và không dành thời gian suy ngẫm để nhận ra vấn đề của mình"
+      ],
+      "answer": "Cô ấy quá cố gắng, khó làm việc cùng và không dành thời gian suy ngẫm để nhận ra vấn đề của mình"
+    },
+    {
+      "id": 2,
+      "question": "Nếu một công ty chỉ có thể dạy một điều duy nhất cho nhân viên, tác giả khuyên đó nên là gì?",
+      "options": [
+        "Kỹ năng giao tiếp xuất sắc",
+        "Cách học hỏi từ những thành công và thất bại thông qua việc suy ngẫm",
+        "Kỹ năng sử dụng phần mềm mới nhất",
+        "Cách làm việc đa nhiệm hiệu quả"
+      ],
+      "answer": "Cách học hỏi từ những thành công và thất bại thông qua việc suy ngẫm"
+    },
+    {
+      "id": 3,
+      "question": "Thói quen cuối ngày mà tác giả đề xuất mất bao nhiêu thời gian và mang lại lợi ích gì?",
+      "options": [
+        "Khoảng 30 phút, để lập kế hoạch chi tiết cho tuần sau",
+        "Khoảng 1 giờ, để hoàn thành nốt các công việc còn dang dở",
+        "Khoảng 15 phút, để dọn dẹp không gian làm việc",
+        "Khoảng 5 phút, để suy ngẫm về những gì đã học được và những mối quan hệ cần chăm sóc"
+      ],
+      "answer": "Khoảng 5 phút, để suy ngẫm về những gì đã học được và những mối quan hệ cần chăm sóc"
+    },
+    {
+      "id": 4,
+      "question": "Tại sao việc tự hỏi \"Tôi đã gặp gỡ những ai và cần cập nhật thông tin cho ai?\" lại quan trọng vào cuối ngày?",
+      "options": [
+        "Để tìm cơ hội bán hàng mới",
+        "Để đảm bảo không bỏ sót việc tính tiền khách hàng",
+        "Để giữ gìn và phát triển các mối quan hệ bằng những tương tác nhỏ nhưng ý nghĩa",
+        "Để báo cáo với cấp trên về những người đã gặp"
+      ],
+      "answer": "Để giữ gìn và phát triển các mối quan hệ bằng những tương tác nhỏ nhưng ý nghĩa"
+    }
+  ],
+  "31_28. 18 Phút Để Quản Lý Một Ngày Của.md": [
+    {
+      "id": 1,
+      "question": "Bí quyết cốt lõi để Jack LaLanne duy trì sức khỏe và thành công cho đến năm 96 tuổi là gì?",
+      "options": [
+        "Chế độ ăn kiêng nghiêm ngặt",
+        "Khả năng biểu diễn phi thường",
+        "Thói quen được thực hiện kiên trì từ ngày này qua ngày khác",
+        "Sự may mắn về mặt di truyền"
+      ],
+      "answer": "Thói quen được thực hiện kiên trì từ ngày này qua ngày khác"
+    },
+    {
+      "id": 2,
+      "question": "Quy trình 18 phút một ngày mà tác giả giới thiệu bao gồm những bước nào?",
+      "options": [
+        "10 phút tập thể dục, 5 phút thiền, 3 phút đọc sách",
+        "5 phút lên kế hoạch buổi sáng, 1 phút mỗi giờ tái tập trung, 5 phút suy ngẫm buổi chiều",
+        "18 phút lập danh sách việc cần làm vào buổi sáng",
+        "9 phút họp nhóm đầu giờ, 9 phút đánh giá cuối giờ"
+      ],
+      "answer": "5 phút lên kế hoạch buổi sáng, 1 phút mỗi giờ tái tập trung, 5 phút suy ngẫm buổi chiều"
+    },
+    {
+      "id": 3,
+      "question": "Mục đích chính của việc dành 5 phút vào buổi sáng trước khi mở máy vi tính là gì?",
+      "options": [
+        "Lập danh sách ưu tiên và đưa những việc quan trọng vào thời gian biểu để đảm bảo một ngày thành công",
+        "Kiểm tra tin tức và mạng xã hội để cập nhật thông tin",
+        "Trả lời các email khẩn cấp từ ngày hôm trước",
+        "Thư giãn đầu óc trước khi bắt đầu công việc"
+      ],
+      "answer": "Lập danh sách ưu tiên và đưa những việc quan trọng vào thời gian biểu để đảm bảo một ngày thành công"
+    },
+    {
+      "id": 4,
+      "question": "Sức mạnh thực sự của một thói quen (như quy trình 18 phút) nằm ở yếu tố nào?",
+      "options": [
+        "Tính phức tạp và đòi hỏi sự sáng tạo liên tục",
+        "Khả năng giúp ta làm được nhiều việc cùng lúc",
+        "Tính có thể dự đoán được kết quả khi ta thực hiện cùng một việc lặp đi lặp lại một cách kiên định",
+        "Khả năng thích ứng tức thời với mọi thay đổi"
+      ],
+      "answer": "Tính có thể dự đoán được kết quả khi ta thực hiện cùng một việc lặp đi lặp lại một cách kiên định"
+    }
+  ],
+  "32_IV. Làm Gì Trong Thời Điểm Này.md": [
+    {
+      "id": 1,
+      "question": "Theo tác giả, phần khó khăn nhất của việc quản lý thời gian thường nằm ở giai đoạn nào?",
+      "options": [
+        "Thiết lập các mục tiêu dài hạn",
+        "Lên danh sách những việc cần làm",
+        "Sự thực thi và theo sát kế hoạch trước những cám dỗ và phân tâm hàng ngày",
+        "Tìm kiếm công cụ lên lịch phù hợp"
+      ],
+      "answer": "Sự thực thi và theo sát kế hoạch trước những cám dỗ và phân tâm hàng ngày"
+    },
+    {
+      "id": 2,
+      "question": "Sự phân tâm mạnh nhất và dễ khiến chúng ta trì hoãn nhất thường xuất hiện vào lúc nào?",
+      "options": [
+        "Khi chúng ta sắp hoàn thành công việc",
+        "Vào buổi trưa sau khi ăn",
+        "Khi chúng ta đang họp nhóm",
+        "Ngay tại thời điểm bắt đầu một công việc đòi hỏi sự nỗ lực"
+      ],
+      "answer": "Ngay tại thời điểm bắt đầu một công việc đòi hỏi sự nỗ lực"
+    },
+    {
+      "id": 3,
+      "question": "Tại sao nhiều cuốn sách quản lý thời gian lại bị cho là \"bắt đầu quá muộn\"?",
+      "options": [
+        "Vì chúng không hướng dẫn cách sử dụng phần mềm lập lịch",
+        "Vì chúng ra mắt khi người đọc đã già",
+        "Vì chúng yêu cầu người đọc phải thay đổi toàn bộ thói quen ngay lập tức",
+        "Vì chúng tập trung vào cách hoàn thành công việc mà chưa giúp người đọc xác định đúng việc nào đáng để dành thời gian"
+      ],
+      "answer": "Vì chúng tập trung vào cách hoàn thành công việc mà chưa giúp người đọc xác định đúng việc nào đáng để dành thời gian"
+    },
+    {
+      "id": 4,
+      "question": "Tác giả giải quyết việc hay trì hoãn việc viết lách của mình bằng cách nào?",
+      "options": [
+        "Thuê người viết hộ các bản thảo ban đầu",
+        "Viết vào sáng sớm (5, 6 giờ sáng) khi chưa có sự xao nhãng và công việc khẩn cấp xen vào",
+        "Viết vào các khoảng thời gian trống giữa các cuộc họp",
+        "Đợi đến cuối tuần để viết liên tục trong hai ngày"
+      ],
+      "answer": "Viết vào sáng sớm (5, 6 giờ sáng) khi chưa có sự xao nhãng và công việc khẩn cấp xen vào"
+    }
+  ],
+  "33_29. Di Chuyển Cái Bàn.md": [
+    {
+      "id": 1,
+      "question": "Bài học từ việc \"di chuyển chiếc bàn\" là gì?",
+      "options": [
+        "Nên thường xuyên thiết kế lại nội thất để tạo cảm hứng",
+        "Sự thay đổi môi trường xung quanh có tác động lớn đến hành vi và thói quen hơn là sức mạnh ý chí",
+        "Bữa ăn ngoài trời luôn ngon hơn trong nhà",
+        "Làm việc chân tay giúp giải tỏa căng thẳng"
+      ],
+      "answer": "Sự thay đổi môi trường xung quanh có tác động lớn đến hành vi và thói quen hơn là sức mạnh ý chí"
+    },
+    {
+      "id": 2,
+      "question": "Mục tiêu cốt lõi khi thiết kế môi trường để thay đổi hành vi là gì?",
+      "options": [
+        "Tạo ra các hình phạt khắt khe nếu không tuân thủ",
+        "Làm cho việc thực hiện điều bạn muốn trở nên dễ dàng nhất và khó mà bỏ qua",
+        "Dùng phần thưởng tài chính để khuyến khích hành vi",
+        "Tăng cường kỷ luật và kiểm soát liên tục"
+      ],
+      "answer": "Làm cho việc thực hiện điều bạn muốn trở nên dễ dàng nhất và khó mà bỏ qua"
+    },
+    {
+      "id": 3,
+      "question": "Trong ví dụ về bảng chấm công, lý do thực sự khiến 50% nhân viên không điền bảng là gì?",
+      "options": [
+        "Họ muốn chống đối lại ban lãnh đạo công ty",
+        "Họ cảm thấy mức lương hiện tại không xứng đáng",
+        "Hệ thống điền bảng phức tạp và mất thêm chút thời gian một cách không cần thiết",
+        "Họ không biết cách sử dụng máy tính"
+      ],
+      "answer": "Hệ thống điền bảng phức tạp và mất thêm chút thời gian một cách không cần thiết"
+    },
+    {
+      "id": 4,
+      "question": "Làm thế nào để giải quyết vấn đề nhân viên lễ tân không thân thiện do ngồi sau tấm kính?",
+      "options": [
+        "Gửi cô ấy đi học khóa kỹ năng giao tiếp",
+        "Phạt tiền mỗi lần cô ấy cau mày",
+        "Thường xuyên nhắc nhở cô ấy phải mỉm cười",
+        "Dỡ bỏ tấm kính ngăn cách"
+      ],
+      "answer": "Dỡ bỏ tấm kính ngăn cách"
+    }
+  ],
+  "34_30. Đừng Bao Giờ Từ Bỏ Việc Ăn Kiêng.md": [
+    {
+      "id": 1,
+      "question": "Câu chuyện đạp xe trong mưa dạy chúng ta điều gì về động lực?",
+      "options": [
+        "Động lực phải được duy trì mạnh mẽ trong suốt quá trình thực hiện công việc",
+        "Trắng trợn ép buộc bản thân là cách duy nhất",
+        "Động lực đến từ sự khích lệ của người khác",
+        "Chỉ cần đủ động lực trong vài khoảnh khắc đầu tiên để vượt qua sức ì, sau đó đà và thói quen sẽ duy trì hành động"
+      ],
+      "answer": "Chỉ cần đủ động lực trong vài khoảnh khắc đầu tiên để vượt qua sức ì, sau đó đà và thói quen sẽ duy trì hành động"
+    },
+    {
+      "id": 2,
+      "question": "Tác giả khuyên bạn NÊN làm gì khi bắt đầu nghi ngờ quyết tâm của mình trong một khoảnh khắc cám dỗ (ví dụ: đang cầm thực đơn tráng miệng)?",
+      "options": [
+        "Phân tích kỹ lưỡng các ưu nhược điểm ngay lúc đó",
+        "Linh hoạt thay đổi mục tiêu cho phù hợp với hoàn cảnh",
+        "Dựa vào ý chí để kiên định vượt qua, không đưa ra quyết định thay đổi ngay lúc yếu đuối nhất",
+        "Tự thưởng cho bản thân một lần ngoại lệ"
+      ],
+      "answer": "Dựa vào ý chí để kiên định vượt qua, không đưa ra quyết định thay đổi ngay lúc yếu đuối nhất"
+    },
+    {
+      "id": 3,
+      "question": "Khi nào là thời điểm thích hợp nhất để tự vấn bản thân và đánh giá lại các cam kết của mình?",
+      "options": [
+        "Ngay khi cảm thấy chán nản hoặc mệt mỏi",
+        "Vào buổi tối muộn khi không còn ai làm phiền",
+        "Ngay trước khi bắt đầu làm việc",
+        "Vào một thời điểm cụ thể đã được lên lịch trước, khi bạn đang ở trạng thái tư duy minh mẫn và ít cần ý chí nhất"
+      ],
+      "answer": "Vào một thời điểm cụ thể đã được lên lịch trước, khi bạn đang ở trạng thái tư duy minh mẫn và ít cần ý chí nhất"
+    },
+    {
+      "id": 4,
+      "question": "Việc liên tục tự hỏi \"Tôi có đang làm đúng không?\" trong lúc đang thực hiện dự án sẽ dẫn đến hậu quả gì?",
+      "options": [
+        "Dự án sẽ hoàn hảo vì được kiểm tra liên tục",
+        "Tăng cường khả năng sáng tạo của nhóm",
+        "Gây phân tâm, làm giảm nỗ lực và tăng nguy cơ thất bại của dự án",
+        "Giúp tiết kiệm chi phí và thời gian"
+      ],
+      "answer": "Gây phân tâm, làm giảm nỗ lực và tăng nguy cơ thất bại của dự án"
+    }
+  ],
+  "35_31. Giải Pháp Nintendo Wii.md": [
+    {
+      "id": 1,
+      "question": "Theo bài viết, yếu tố nào hiệu quả hơn rất nhiều so với \"sự nỗ lực\" trong việc duy trì việc thực hiện một công việc?",
+      "options": [
+        "Sự giám sát chặt chẽ",
+        "Tiền thưởng cao",
+        "Nỗi sợ bị sa thải",
+        "Niềm vui và sự thú vị"
+      ],
+      "answer": "Niềm vui và sự thú vị"
+    },
+    {
+      "id": 2,
+      "question": "Bài học từ cách Marc Manza giải quyết vấn đề bằng chiếc máy Nintendo Wii là gì?",
+      "options": [
+        "Tiền là động lực mạnh mẽ nhất cho lập trình viên",
+        "Các trò chơi điện tử làm giảm năng suất làm việc",
+        "Làm việc ngoài giờ là điều bắt buộc trong ngành công nghệ",
+        "Biến một vấn đề nhàm chán thành một cuộc tranh tài vui vẻ sẽ tạo ra động lực giải quyết vấn đề hiệu quả"
+      ],
+      "answer": "Biến một vấn đề nhàm chán thành một cuộc tranh tài vui vẻ sẽ tạo ra động lực giải quyết vấn đề hiệu quả"
+    },
+    {
+      "id": 3,
+      "question": "Tác giả cho rằng \"Tiền không mang lại niềm vui\" trong công việc vì lý do nào?",
+      "options": [
+        "Vì số tiền thưởng thường không bao giờ là đủ",
+        "Vì tiền tạo ra sự cạnh tranh không lành mạnh",
+        "Vì các công ty thường không trả tiền thưởng đúng hạn",
+        "Vì được trả công chuyển hóa nhiệm vụ thành trách nhiệm công việc thay vì một hoạt động vui vẻ, đầy cảm hứng"
+      ],
+      "answer": "Vì được trả công chuyển hóa nhiệm vụ thành trách nhiệm công việc thay vì một hoạt động vui vẻ, đầy cảm hứng"
+    },
+    {
+      "id": 4,
+      "question": "Làm thế nào để tạo ra \"niềm vui\" cho những công việc bình thường, theo gợi ý của tác giả?",
+      "options": [
+        "Loại bỏ những công việc bình thường đó đi",
+        "Vừa làm vừa nghe nhạc hoặc xem phim",
+        "Thay đổi người làm liên tục",
+        "Biến chúng thành các dự án nhỏ có tính thi đua hoặc thêm vào đó một góc nhìn sáng tạo, hài hước"
+      ],
+      "answer": "Biến chúng thành các dự án nhỏ có tính thi đua hoặc thêm vào đó một góc nhìn sáng tạo, hài hước"
+    }
+  ],
+  "36_31. Cú Đấm Kết Hợp.md": [
+    {
+      "id": 1,
+      "question": "Theo tác giả, tại sao chúng ta vẫn làm những việc mà chúng ta biết là có hại (như dùng điện thoại khi lái xe)?",
+      "options": [
+        "Vì chúng ta tự tin vào kỹ năng của mình",
+        "Vì áp lực công việc quá lớn",
+        "Vì công nghệ được thiết kế để gây nghiện",
+        "Vì chúng ta thiếu trí tưởng tượng để hình dung ra hậu quả tồi tệ có thể xảy ra với chính mình"
+      ],
+      "answer": "Vì chúng ta thiếu trí tưởng tượng để hình dung ra hậu quả tồi tệ có thể xảy ra với chính mình"
+    },
+    {
+      "id": 2,
+      "question": "Trong \"cú đấm kết hợp\" để thay đổi hành vi, \"sự sợ hãi\" đóng vai trò gì?",
+      "options": [
+        "Là yếu tố duy trì sự thay đổi trong dài hạn",
+        "Là phần thưởng cuối cùng cho sự cố gắng",
+        "Là lý do để chúng ta trì hoãn hành động",
+        "Là chất xúc tác tạo ra cú hích ban đầu đánh bật tính ì"
+      ],
+      "answer": "Là chất xúc tác tạo ra cú hích ban đầu đánh bật tính ì"
+    },
+    {
+      "id": 3,
+      "question": "Tại sao nỗi sợ lại không phải là động lực bền vững?",
+      "options": [
+        "Vì nó dễ dàng bị lãng quên",
+        "Vì chúng ta nhanh chóng nhận ra nỗi sợ đó là giả",
+        "Vì xã hội không khuyến khích việc sử dụng nỗi sợ",
+        "Vì nó làm chúng ta kiệt sức, căng thẳng và sụp đổ theo thời gian"
+      ],
+      "answer": "Vì nó làm chúng ta kiệt sức, căng thẳng và sụp đổ theo thời gian"
+    },
+    {
+      "id": 4,
+      "question": "Bước thứ hai trong \"cú đấm kết hợp\" cần thiết để duy trì sự thay đổi hành vi lâu dài là gì?",
+      "options": [
+        "Lặp lại nỗi sợ với mức độ cao hơn",
+        "Đưa ra một hình phạt khắt khe nếu tái phạm",
+        "Xin lời khuyên từ các chuyên gia tâm lý",
+        "Trải nghiệm phần thưởng và chú ý đến những tác động tích cực trong hiện tại từ sự thay đổi"
+      ],
+      "answer": "Trải nghiệm phần thưởng và chú ý đến những tác động tích cực trong hiện tại từ sự thay đổi"
+    }
+  ],
+  "37_32. Tôi Là Kiểu Người….md": [
+    {
+      "id": 1,
+      "question": "Tại sao 5 người xa lạ sẵn sàng giúp ông cụ dưới mưa trong khi người tài xế được trả lương lại ngồi chờ?",
+      "options": [
+        "Vì người tài xế bị cấm rời khỏi xe",
+        "Vì người tài xế không có chiếc ô nào",
+        "Vì những người đi đường rảnh rỗi hơn",
+        "Vì tiền lương thay đổi bản chất câu hỏi từ \"Tôi có phải là người giúp đỡ người khác?\" thành \"Tôi có được trả công để làm việc này không?\""
+      ],
+      "answer": "Vì tiền lương thay đổi bản chất câu hỏi từ \"Tôi có phải là người giúp đỡ người khác?\" thành \"Tôi có được trả công để làm việc này không?\""
+    },
+    {
+      "id": 2,
+      "question": "Câu hỏi vô thức định hình các lựa chọn và hành động của chúng ta là gì?",
+      "options": [
+        "Việc này có mang lại nhiều tiền không?",
+        "Người khác sẽ nghĩ gì về tôi?",
+        "Công việc này có tốn nhiều thời gian không?",
+        "Tôi có phải là loại người...? (Câu chuyện cá nhân)"
+      ],
+      "answer": "Tôi có phải là loại người...? (Câu chuyện cá nhân)"
+    },
+    {
+      "id": 3,
+      "question": "Để thúc đẩy động lực bên trong của một người (như nhân viên của bạn), bạn nên làm gì?",
+      "options": [
+        "Thưởng cho họ những khoản tiền lớn",
+        "Tạo ra môi trường cạnh tranh khốc liệt",
+        "Giao cho họ những công việc dễ dàng nhất",
+        "Thấu hiểu và ủng hộ câu chuyện tích cực mà họ tự kể về bản thân mình"
+      ],
+      "answer": "Thấu hiểu và ủng hộ câu chuyện tích cực mà họ tự kể về bản thân mình"
+    },
+    {
+      "id": 4,
+      "question": "Theo bài học từ chương này, nguồn động lực vô cùng lớn đến từ đâu?",
+      "options": [
+        "Sự sợ hãi bị đánh giá",
+        "Phần thưởng vật chất ngay lập tức",
+        "Những lời hứa hẹn về sự thăng tiến",
+        "Sự gắn kết hành động với câu chuyện và hình ảnh tích cực mà bạn muốn xây dựng về chính mình"
+      ],
+      "answer": "Sự gắn kết hành động với câu chuyện và hình ảnh tích cực mà bạn muốn xây dựng về chính mình"
+    }
+  ],
+  "38_33. Ong bắp cày đốt sưng tâm trí tôi.md": [
+    {
+      "id": 1,
+      "question": "Tác giả dùng câu chuyện bị ong bắp cày đốt để minh họa cho xu hướng tâm lý nào?",
+      "options": [
+        "Khả năng chịu đựng nỗi đau vật lý của con người",
+        "Sự nguy hiểm của việc hoạt động ngoài trời",
+        "Tầm quan trọng của việc chuẩn bị bộ sơ cứu",
+        "Cách tâm trí tự động kiểm soát, khuếch đại nỗi sợ và dựng lên một kịch bản tương lai tồi tệ"
+      ],
+      "answer": "Cách tâm trí tự động kiểm soát, khuếch đại nỗi sợ và dựng lên một kịch bản tương lai tồi tệ"
+    },
+    {
+      "id": 2,
+      "question": "Trong câu chuyện về Charles, sai lầm lớn nhất của anh ta khiến anh ta mất việc là gì?",
+      "options": [
+        "Anh ta kém năng lực chuyên môn",
+        "Anh ta từ chối tham gia các cuộc họp quan trọng",
+        "Anh ta chống đối lệnh của CEO một cách vô lý",
+        "Anh ta tin vào kịch bản tiêu cực do tâm trí vẽ ra và hành xử theo cách khiến kịch bản đó trở thành sự thật"
+      ],
+      "answer": "Anh ta tin vào kịch bản tiêu cực do tâm trí vẽ ra và hành xử theo cách khiến kịch bản đó trở thành sự thật"
+    },
+    {
+      "id": 3,
+      "question": "Khi tâm trí mắc kẹt trong nỗi sợ hoặc suy nghĩ tiêu cực, giải pháp tốt nhất mà tác giả đưa ra là gì?",
+      "options": [
+        "Cố gắng suy nghĩ logic để dập tắt nỗi sợ",
+        "Tâm sự nỗi sợ đó với thật nhiều người để tìm sự đồng cảm",
+        "Cô lập bản thân cho đến khi nỗi sợ biến mất",
+        "Chấp nhận rằng tâm trí đang đánh lừa bạn và \"hành động như thể\" điều tích cực mới là sự thật"
+      ],
+      "answer": "Chấp nhận rằng tâm trí đang đánh lừa bạn và \"hành động như thể\" điều tích cực mới là sự thật"
+    },
+    {
+      "id": 4,
+      "question": "Bằng cách làm gì mà tác giả vượt qua cơn hoảng loạn khi bị ong đốt trên đường đến hiệu thuốc?",
+      "options": [
+        "Uống ngay thuốc giảm đau mang theo",
+        "Khóc và than vãn về sự xui xẻo",
+        "Liên tục kiểm tra các triệu chứng trên cơ thể",
+        "Cố tình làm phân tâm bản thân và hành động như thể những vết chích không có gì nguy hiểm"
+      ],
+      "answer": "Cố tình làm phân tâm bản thân và hành động như thể những vết chích không có gì nguy hiểm"
+    }
+  ]
+}

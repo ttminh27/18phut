@@ -1,0 +1,612 @@
+{
+  "25_22. Từng Chú Chim Một.md": [
+    {
+      "id": 1,
+      "question": "Theo tác giả, điều gì thường xảy ra nhất khi chúng ta có quá nhiều việc phải làm?",
+      "options": [
+        "Chúng ta trở nên hiệu quả hơn và hoàn thành nhiều việc hơn.",
+        "Chúng ta trở nên đông cứng hoặc di chuyển điên cuồng mà không đạt được gì.",
+        "Chúng ta dễ dàng tìm ra công việc quan trọng nhất để bắt đầu.",
+        "Chúng ta luôn biết cách sắp xếp thời gian hợp lý hơn."
+      ],
+      "answer": "Chúng ta trở nên đông cứng hoặc di chuyển điên cuồng mà không đạt được gì.",
+      "explanation": "Tác giả miêu tả rằng khi đối mặt với quá nhiều việc, chúng ta thường 'trông có vẻ bận rộn' nhưng thực tế lại 'hoàn thành rất ít'. Sự đông cứng hoặc bận rộn giả tạo này là biểu hiện rõ nhất của sự quá tải. Các đáp án khác trái ngược hoàn toàn với tình trạng được nêu trong bài."
+    },
+    {
+      "id": 2,
+      "question": "Mục đích của tác giả khi nhắc đến nghiên cứu về các mẫu mứt của Tiến sĩ Sheena Iyengar là gì?",
+      "options": [
+        "Để chứng minh rằng con người thích ăn mứt hơn là các loại thực phẩm khác.",
+        "Để cho thấy chất lượng sản phẩm quan trọng hơn số lượng sản phẩm.",
+        "Để minh họa rằng việc có quá nhiều lựa chọn khiến chúng ta khó đưa ra quyết định hoặc bắt đầu hành động.",
+        "Để hướng dẫn cách trình bày sản phẩm hiệu quả trong kinh doanh bán lẻ."
+      ],
+      "answer": "Để minh họa rằng việc có quá nhiều lựa chọn khiến chúng ta khó đưa ra quyết định hoặc bắt đầu hành động.",
+      "explanation": "Bài học cốt lõi chỉ ra rằng giống như việc đứng trước quá nhiều loại mứt, khối lượng công việc khổng lồ làm chúng ta bị 'đông cứng' và không thể lựa chọn điểm bắt đầu. Việc chia nhỏ sự lựa chọn sẽ giúp hành động dễ dàng hơn."
+    },
+    {
+      "id": 3,
+      "question": "Lời khuyên \"Từng chú chim một\" mà người cha dành cho cậu bé mang ý nghĩa cốt lõi nào?",
+      "options": [
+        "Phải nghiên cứu kỹ từng chi tiết nhỏ trước khi làm việc lớn.",
+        "Hãy chia nhỏ một khối lượng công việc khổng lồ thành từng phần nhỏ dễ quản lý để bắt đầu.",
+        "Đừng bao giờ để dồn việc đến hạn chót mới bắt đầu làm.",
+        "Cần phải có niềm đam mê với những gì mình đang làm thì mới thành công."
+      ],
+      "answer": "Hãy chia nhỏ một khối lượng công việc khổng lồ thành từng phần nhỏ dễ quản lý để bắt đầu.",
+      "explanation": "Hình ảnh người cha khuyên cậu bé làm 'từng chú chim một' thay vì nhìn vào núi công việc khổng lồ là một ẩn dụ cho việc chia nhỏ công việc để dễ xử lý. Các phương án khác như dồn việc hay cần đam mê không phản ánh đúng ý nghĩa của lời khuyên trong tình huống này."
+    },
+    {
+      "id": 4,
+      "question": "Tác giả so sánh việc giải quyết sự quá tải công việc với việc thanh toán khoản nợ thẻ tín dụng để nhấn mạnh điều gì?",
+      "options": [
+        "Cả hai đều cần được giải quyết một cách từ từ, đều đặn từng chút một thay vì cố gắng làm xong tất cả cùng lúc.",
+        "Nếu không cẩn thận, công việc sẽ tích tụ lại kèm theo \"lãi suất\" mệt mỏi.",
+        "Món nợ tài chính luôn áp lực hơn là khối lượng công việc hàng ngày.",
+        "Cần phải vay mượn thời gian của tương lai để giải quyết công việc hiện tại."
+      ],
+      "answer": "Cả hai đều cần được giải quyết một cách từ từ, đều đặn từng chút một thay vì cố gắng làm xong tất cả cùng lúc.",
+      "explanation": "Tác giả nhấn mạnh rằng món nợ khổng lồ hay khối lượng công việc lớn chỉ có thể giải quyết bằng cách làm dần dần 'tuần qua tuần' một cách kỷ luật. Đây là cách tiếp cận hiệu quả nhất thay vì cố gắng giải quyết mọi thứ trong một lần."
+    },
+    {
+      "id": 5,
+      "question": "Theo tác giả, một danh sách công việc cần làm hữu ích thì phải như thế nào?",
+      "options": [
+        "Phải bao gồm tất cả mọi việc dù là nhỏ nhất để không quên.",
+        "Phải được chia sẻ với đồng nghiệp để cùng giám sát.",
+        "Phải thật đơn giản và dựa trên 5 tiêu điểm chính của năm.",
+        "Phải liên tục được thay đổi mỗi ngày theo cảm hứng."
+      ],
+      "answer": "Phải thật đơn giản và dựa trên 5 tiêu điểm chính của năm.",
+      "explanation": "Tác giả khẳng định danh sách công việc 'phải thật đơn giản' và được xây dựng dựa trên các tiêu điểm trong năm để không biến việc lập danh sách thành một gánh nặng mới. Những phương án khác như liệt kê mọi việc nhỏ nhặt sẽ làm tăng thêm sự quá tải."
+    },
+    {
+      "id": 6,
+      "question": "Tại sao tác giả lại gọi danh sách việc cần làm là \"bản kế hoạch về việc sử dụng thời gian\"?",
+      "options": [
+        "Vì nó ghi rõ từng phút giây bạn phải làm gì trong ngày.",
+        "Vì nếu muốn tập trung vào một tiêu điểm, bạn bắt buộc phải lên kế hoạch phân bổ thời gian thực tế cho nó.",
+        "Vì danh sách này giúp bạn tính toán chính xác số giờ làm việc mỗi tuần.",
+        "Vì nó giúp bạn loại bỏ hoàn toàn những công việc vô ích tốn thời gian."
+      ],
+      "answer": "Vì nếu muốn tập trung vào một tiêu điểm, bạn bắt buộc phải lên kế hoạch phân bổ thời gian thực tế cho nó.",
+      "explanation": "Theo tác giả, chỉ nói muốn tập trung vào mục tiêu mà không dành thời gian thực hiện là vô nghĩa. Do đó, danh sách việc cần làm phân bổ theo các tiêu điểm chính là bản thiết kế chi tiết cho cách bạn sử dụng quỹ thời gian của mình."
+    },
+    {
+      "id": 7,
+      "question": "Khi phân loại công việc theo 5 tiêu điểm, điều gì sẽ xảy ra nếu tác giả nhận thấy một hạng mục luôn trống rỗng?",
+      "options": [
+        "Tác giả sẽ cảm thấy vui vì đã hoàn thành xong mọi việc trong hạng mục đó.",
+        "Đó là dấu hiệu cho thấy sự mất cân bằng và cần chủ động thêm hoạt động vào hạng mục đó.",
+        "Tác giả sẽ quyết định loại bỏ hạng mục đó khỏi danh sách tiêu điểm của năm.",
+        "Tác giả sẽ lập tức sa thải nhân viên phụ trách mảng công việc đó."
+      ],
+      "answer": "Đó là dấu hiệu cho thấy sự mất cân bằng và cần chủ động thêm hoạt động vào hạng mục đó.",
+      "explanation": "Tác giả lấy ví dụ nếu việc tìm khách hàng mới 'trống trơn', đó là một 'xu hướng' lơ là và ông cần chủ động thêm hoạt động để phát triển mảng đó. Đây là cách danh sách giúp phát hiện và điều chỉnh sự mất cân bằng trong các ưu tiên."
+    },
+    {
+      "id": 8,
+      "question": "Hạng mục \"5% còn lại\" trong danh sách của tác giả thường chứa những loại công việc nào?",
+      "options": [
+        "Những công việc quan trọng nhất quyết định sự sống còn của công ty.",
+        "Những dự án lớn cần nhiều sự sáng tạo và thời gian suy nghĩ.",
+        "Những công việc hành chính, giấy tờ hoặc những việc lặt vặt.",
+        "Những công việc mang lại lợi nhuận cao nhất nhưng tốn ít thời gian nhất."
+      ],
+      "answer": "Những công việc hành chính, giấy tờ hoặc những việc lặt vặt.",
+      "explanation": "Trong ví dụ về danh sách cá nhân, tác giả liệt kê thay nhớt xe, mua máy in, thanh toán hóa đơn vào nhóm '5% còn lại'. Đây là những việc lặt vặt mang tính hành chính, không nằm trong các tiêu điểm chiến lược nhưng vẫn cần giải quyết."
+    },
+    {
+      "id": 9,
+      "question": "Việc sắp xếp công việc vào các tiêu điểm cụ thể đã giúp Fiorella nhận ra điều gì?",
+      "options": [
+        "Rằng cô ấy có thể tự mình làm hết mọi việc mà không cần nhân viên.",
+        "Rằng có rất nhiều việc không hề giúp cô đạt được mục tiêu trọng tâm và cần bị loại bỏ.",
+        "Rằng cô ấy cần làm việc thêm vào cuối tuần để bắt kịp tiến độ.",
+        "Rằng các tiêu điểm của cô ấy đã chọn đều hoàn toàn sai lầm."
+      ],
+      "answer": "Rằng có rất nhiều việc không hề giúp cô đạt được mục tiêu trọng tâm và cần bị loại bỏ.",
+      "explanation": "Nhờ việc phân loại, Fiorella phát hiện cô đang tốn thời gian 'lo lắng cho những thứ không hề giúp cô đạt được mục đích' và chúng cần bị loại bỏ. Điều này giúp cô giảm tải ngay lập tức các công việc vô bổ và không cần thiết."
+    },
+    {
+      "id": 10,
+      "question": "Hình ảnh \"màn sương của sự quá tải\" được xua tan khi nào?",
+      "options": [
+        "Khi chúng ta hoàn thành xong mọi công việc trong danh sách.",
+        "Khi chúng ta có một hệ thống sắp xếp công việc rõ ràng, giúp định hướng bước đi đầu tiên.",
+        "Khi chúng ta quyết định đi nghỉ mát và tạm quên công việc.",
+        "Khi có người khác gánh vác bớt khối lượng công việc giúp chúng ta."
+      ],
+      "answer": "Khi chúng ta có một hệ thống sắp xếp công việc rõ ràng, giúp định hướng bước đi đầu tiên.",
+      "explanation": "Cảm giác quá tải bị xua tan không phải vì công việc đã hết, mà vì Fiorella có một hệ thống giúp nhìn thấy rõ ràng 'những việc cần thực hiện'. Việc giới hạn và sắp xếp lựa chọn giúp cô thoát khỏi trạng thái 'đông cứng' để có bước đi đầu tiên."
+    }
+  ],
+  "26_23. Đến Nhầm Tầng.md": [
+    {
+      "id": 1,
+      "question": "Trải nghiệm bước nhầm tầng thang máy của tác giả là hậu quả trực tiếp của việc gì?",
+      "options": [
+        "Tác giả không biết đường đi trong tòa nhà.",
+        "Thang máy của tòa nhà bị hỏng và dừng sai tầng.",
+        "Tác giả quá mải mê gõ email trên điện thoại nên mất đi sự chú ý vào thực tại.",
+        "Vị CEO đã cố tình ấn nhầm tầng để thử thách tác giả."
+      ],
+      "answer": "Tác giả quá mải mê gõ email trên điện thoại nên mất đi sự chú ý vào thực tại.",
+      "explanation": "Tác giả thừa nhận ông đã dán mắt vào màn hình điện thoại để gõ email khiến ông mất tập trung và bước ra nhầm tầng. Sự cố này minh chứng trực tiếp cho hậu quả của việc để công nghệ và thông tin làm phân tâm khỏi thực tại."
+    },
+    {
+      "id": 2,
+      "question": "Theo tác giả, khi thông tin lao đến với tốc độ chóng mặt, phản ứng tự nhiên nhưng sai lầm của chúng ta là gì?",
+      "options": [
+        "Cố gắng tăng tốc, thức khuya và kết nối liên tục để nắm bắt tất cả mọi thứ.",
+        "Từ chối sử dụng bất kỳ thiết bị công nghệ nào.",
+        "Ngay lập tức chuyển sang sống ở một môi trường tách biệt.",
+        "Giao toàn bộ việc đọc thông tin cho trợ lý hoặc máy móc."
+      ],
+      "answer": "Cố gắng tăng tốc, thức khuya và kết nối liên tục để nắm bắt tất cả mọi thứ.",
+      "explanation": "Tác giả chỉ ra rằng chúng ta thường cố gắng chạy đua bằng cách 'thức đến 3 giờ sáng để trả lời toàn bộ email' hoặc kết nối liên tục để theo kịp nhịp độ. Đây là một sai lầm vì càng cố nắm bắt mọi thứ, chúng ta càng dễ kiệt sức."
+    },
+    {
+      "id": 3,
+      "question": "Tại sao việc nói \"không\" với một số email, bài báo hay cuộc gọi lại trở nên vô cùng khó khăn đối với nhiều người?",
+      "options": [
+        "Vì họ sợ sẽ bị sa thải ngay lập tức nếu bỏ lỡ tin nhắn.",
+        "Vì họ lo sợ rằng một mẩu thông tin bị bỏ qua có thể chính là chìa khóa dẫn đến thành công.",
+        "Vì họ có quá nhiều thời gian rảnh rỗi và không biết làm gì khác.",
+        "Vì việc đọc email là một sở thích không thể từ bỏ."
+      ],
+      "answer": "Vì họ lo sợ rằng một mẩu thông tin bị bỏ qua có thể chính là chìa khóa dẫn đến thành công.",
+      "explanation": "Con người thường mang tâm lý sợ bỏ lỡ, lo rằng 'mẩu thông tin kia sẽ trở thành chìa khóa thành công' nên không dám nói không. Tác giả nhấn mạnh rằng để thành công, ta phải dũng cảm chấp nhận rủi ro bỏ qua một vài thông tin thay vì ôm đồm."
+    },
+    {
+      "id": 4,
+      "question": "Tác giả dẫn chứng nghiên cứu về tai nạn xe hơi nhằm mục đích gì?",
+      "options": [
+        "Để khuyến cáo mọi người không nên lái xe khi trời mưa.",
+        "Để chứng minh sự phân tâm nhỏ trong một thế giới luôn biến động có thể dẫn đến hậu quả lớn.",
+        "Để lên án các hãng sản xuất xe hơi đã làm ra những chiếc xe không an toàn.",
+        "Để giải thích lý do tại sao tác giả luôn đi làm bằng xe buýt."
+      ],
+      "answer": "Để chứng minh sự phân tâm nhỏ trong một thế giới luôn biến động có thể dẫn đến hậu quả lớn.",
+      "explanation": "Nghiên cứu cho thấy chỉ cần phân tâm 3 giây trong lúc làm những việc nhỏ (như kiểm tra điện thoại) là đủ để gây ra tai nạn. Tác giả dùng nó như một minh chứng về sự nguy hiểm của việc mất tập trung trong một thế giới di chuyển nhanh."
+    },
+    {
+      "id": 5,
+      "question": "Bên cạnh danh sách \"những việc cần làm\", tác giả khuyên chúng ta nên lập thêm danh sách nào?",
+      "options": [
+        "Danh sách những món đồ cần mua sắm.",
+        "Danh sách những người cần kết bạn trên mạng xã hội.",
+        "Danh sách những việc cần bỏ qua (không làm).",
+        "Danh sách những thất bại trong quá khứ."
+      ],
+      "answer": "Danh sách những việc cần bỏ qua (không làm).",
+      "explanation": "Tác giả khẳng định rằng trong bối cảnh có quá nhiều thứ gây phân tâm, việc lập một danh sách 'những việc cần bỏ qua' để kiên quyết nói không lại vô cùng quan trọng. Nó giúp định hình sự tập trung sắc bén hơn mỗi ngày."
+    },
+    {
+      "id": 6,
+      "question": "Những câu hỏi nào sau đây KHÔNG phải là tiêu chí để đưa một việc vào \"danh sách những việc cần bỏ qua\"?",
+      "options": [
+        "Điều gì bạn sẵn sàng không thực hiện?",
+        "Điều gì không làm bạn hạnh phúc?",
+        "Điều gì sẽ giúp bạn kiếm được nhiều tiền nhất ngay lập tức?",
+        "Điều gì đang cản trở bạn?"
+      ],
+      "answer": "Điều gì sẽ giúp bạn kiếm được nhiều tiền nhất ngay lập tức?",
+      "explanation": "Tác giả đưa ra các tiêu chí cốt lõi: việc gì không làm bạn hạnh phúc, không quan trọng, hoặc cản trở bạn thì cần bỏ qua. Việc 'kiếm được nhiều tiền ngay lập tức' hoàn toàn không phải là một tiêu chí để loại bỏ công việc."
+    },
+    {
+      "id": 7,
+      "question": "Theo tác giả, người tiếp tục thành công trong tương lai là người có đặc điểm gì?",
+      "options": [
+        "Biết rõ mình nên làm gì, không nên làm gì và luôn tự vấn về mức độ tập trung.",
+        "Có khả năng làm nhiều việc cùng một lúc (multitasking) tốt nhất.",
+        "Luôn sở hữu những thiết bị công nghệ mới nhất và đắt tiền nhất.",
+        "Sẵn sàng làm thêm giờ vào cuối tuần để trả lời hết tin nhắn."
+      ],
+      "answer": "Biết rõ mình nên làm gì, không nên làm gì và luôn tự vấn về mức độ tập trung.",
+      "explanation": "Tác giả nhấn mạnh người thành công là người biết rõ 'cần làm gì' lẫn 'cần bỏ qua gì' và liên tục tự hỏi xem một việc mới sẽ làm họ tập trung hơn hay phân tâm đi. Sự tỉnh táo trong lựa chọn ưu tiên mới là chìa khóa thật sự."
+    },
+    {
+      "id": 8,
+      "question": "Hai danh sách \"cần làm\" và \"bỏ qua\" nên được sử dụng như thế nào cho hiệu quả?",
+      "options": [
+        "Lập một lần vào đầu năm rồi cất vào ngăn kéo để bảo quản.",
+        "Xem xét chúng vào mỗi buổi sáng như một kim chỉ nam để lên kế hoạch trong ngày.",
+        "Chỉ sử dụng chúng khi nào cảm thấy thật sự rảnh rỗi.",
+        "Treo lên tường để mọi người cùng xem và đánh giá."
+      ],
+      "answer": "Xem xét chúng vào mỗi buổi sáng như một kim chỉ nam để lên kế hoạch trong ngày.",
+      "explanation": "Tác giả khuyên không nên cất các danh sách này vào hộc tủ mà hãy biến chúng thành kim chỉ nam hàng ngày. Việc xem xét chúng mỗi sáng cùng với lịch làm việc sẽ giúp định hình và bảo vệ sự tập trung trong suốt cả ngày."
+    },
+    {
+      "id": 9,
+      "question": "Trước khi bước vào cuộc họp quan trọng, vị CEO trong câu chuyện đã đưa ra hai quyết định dứt khoát nào?",
+      "options": [
+        "Không phát biểu gì trong cuộc họp và chỉ ghi chép liên tục.",
+        "Tập trung hoàn toàn vào cuộc họp và không đụng đến điện thoại.",
+        "Yêu cầu mọi người tắt hết điện thoại và đuổi những ai dùng điện thoại ra ngoài.",
+        "Kiểm tra điện thoại 5 phút một lần để không bỏ lỡ tin tức khẩn cấp."
+      ],
+      "answer": "Tập trung hoàn toàn vào cuộc họp và không đụng đến điện thoại.",
+      "explanation": "Vị CEO nhận thức được tầm quan trọng của cuộc họp và quyết định cất điện thoại để dành trọn vẹn sự chú ý cho sự kiện. Hành động này hoàn toàn trái ngược với các CEO khác vẫn đang mải mê bấm điện thoại do sợ lỡ thông tin."
+    },
+    {
+      "id": 10,
+      "question": "Tác giả rút ra bài học cốt lõi nào từ hành động của vị CEO trước thềm cuộc họp?",
+      "options": [
+        "Sự thành công đôi khi phụ thuộc vào vẻ bề ngoài tự tin.",
+        "Không nên mang điện thoại đi làm nếu muốn đạt danh hiệu Doanh nghiệp giỏi.",
+        "Biết chọn lựa việc gì nên bỏ qua cũng quan trọng không kém việc biết mình cần tập trung vào điều gì.",
+        "Giám khảo luôn có thiện cảm với những ứng viên đến sớm nhất."
+      ],
+      "answer": "Biết chọn lựa việc gì nên bỏ qua cũng quan trọng không kém việc biết mình cần tập trung vào điều gì.",
+      "explanation": "Hành động bỏ điện thoại sang một bên chứng tỏ vị CEO biết rõ mình cần phớt lờ điều gì để dành sự ưu tiên tối đa cho việc quan trọng nhất. Tác giả xem đây là minh chứng cho việc kỹ năng 'bỏ qua' cũng quan trọng như kỹ năng 'tập trung'."
+    }
+  ],
+  "27_24. Ngày Mai Là Khi Nào.md": [
+    {
+      "id": 1,
+      "question": "Câu chuyện cô bé Eleanor đi mua giày thể hiện bí quyết quan trọng nào để hoàn thành công việc?",
+      "options": [
+        "Phải luôn đi cùng người khác để được nhắc nhở.",
+        "Cần xác định cụ thể thời gian và địa điểm thực hiện để biến dự định thành hành động thật sự.",
+        "Phải liên tục nhắc nhở và phàn nàn cho đến khi đạt được mục đích.",
+        "Cần chọn thời điểm có tâm trạng tốt nhất để làm việc."
+      ],
+      "answer": "Cần xác định cụ thể thời gian và địa điểm thực hiện để biến dự định thành hành động thật sự.",
+      "explanation": "Sự kiên trì của Eleanor khi hỏi 'Ngày mai là khi nào?' và 'Lúc mấy giờ?' đã biến một lời hứa chung chung thành một hành động chắc chắn diễn ra. Việc xác định cụ thể thời gian và địa điểm là bí quyết mấu chốt để chuyển từ dự định sang thực thi."
+    },
+    {
+      "id": 2,
+      "question": "Tại sao tác giả lại gọi danh sách việc cần làm thông thường là \"bảng danh sách tội lỗi\"?",
+      "options": [
+        "Vì nó chứa những việc làm sai trái hoặc vi phạm pháp luật.",
+        "Vì người khác luôn dùng danh sách đó để chỉ trích và phán xét chúng ta.",
+        "Vì nó là tập hợp những việc chúng ta dự định làm nhưng chưa thực sự làm, khiến ta cảm thấy áp lực.",
+        "Vì nó ghi lại những lỗi lầm chúng ta đã mắc phải trong quá khứ."
+      ],
+      "answer": "Vì nó là tập hợp những việc chúng ta dự định làm nhưng chưa thực sự làm, khiến ta cảm thấy áp lực.",
+      "explanation": "Một danh sách dài chứa đầy những kỳ vọng và không thể hoàn thành trong ngày sẽ chỉ tạo ra cảm giác tội lỗi và chán chường. Nó giống như một lời nhắc nhở liên tục về những việc chưa làm được thay vì là một công cụ hỗ trợ công việc hiệu quả."
+    },
+    {
+      "id": 3,
+      "question": "Kết quả của nghiên cứu về nhóm phụ nữ tự kiểm tra ngực cho thấy điều gì?",
+      "options": [
+        "Việc kiểm tra sức khỏe chỉ hiệu quả nếu có bác sĩ giám sát.",
+        "100% những người xác định trước thời gian và địa điểm cụ thể đã hoàn thành việc tự kiểm tra.",
+        "Đa số phụ nữ thường quên những việc liên quan đến y tế.",
+        "Những người được yêu cầu \"làm vào lúc nào đó trong 30 ngày\" lại có tỷ lệ hoàn thành cao nhất."
+      ],
+      "answer": "100% những người xác định trước thời gian và địa điểm cụ thể đã hoàn thành việc tự kiểm tra.",
+      "explanation": "Nhóm có ấn định rõ thời gian và địa điểm đạt tỷ lệ thực hiện tuyệt đối 100%, so với chỉ 53% ở nhóm chỉ được yêu cầu làm trong vòng 30 ngày. Điều này chứng minh sức mạnh của sự cam kết cụ thể về mặt không gian và thời gian trong việc hành động."
+    },
+    {
+      "id": 4,
+      "question": "Tác giả phân biệt vai trò của \"danh sách việc cần làm\" và \"thời gian biểu\" như thế nào?",
+      "options": [
+        "Cả hai đều có vai trò giống nhau và có thể dùng thay thế cho nhau.",
+        "Danh sách việc cần làm dùng để ghi ý tưởng, thời gian biểu dùng để họp.",
+        "Danh sách việc cần làm là công cụ đánh giá nhân viên, thời gian biểu là công cụ báo cáo.",
+        "Danh sách việc cần làm là công cụ tập hợp, còn thời gian biểu là công cụ thực thi để đạt thành quả."
+      ],
+      "answer": "Danh sách việc cần làm là công cụ tập hợp, còn thời gian biểu là công cụ thực thi để đạt thành quả.",
+      "explanation": "Theo tác giả, danh sách giúp gom nhóm và ưu tiên những gì thuộc về mục tiêu của năm. Trong khi đó, thời gian biểu với quỹ thời gian hữu hạn trong ngày mới thực sự là công cụ ép chúng ta đưa công việc vào thực tiễn và đạt được thành quả."
+    },
+    {
+      "id": 5,
+      "question": "Theo tác giả, dấu hiệu nào cho thấy chúng ta đang cố nhồi nhét quá nhiều công việc?",
+      "options": [
+        "Khi chúng ta cố gắng đưa toàn bộ danh sách việc cần làm vào trong thời gian biểu có giới hạn của một ngày.",
+        "Khi chúng ta cảm thấy buồn ngủ vào giữa trưa.",
+        "Khi đồng nghiệp từ chối giúp đỡ chúng ta.",
+        "Khi máy tính của chúng ta báo lỗi hết bộ nhớ."
+      ],
+      "answer": "Khi chúng ta cố gắng đưa toàn bộ danh sách việc cần làm vào trong thời gian biểu có giới hạn của một ngày.",
+      "explanation": "Thời gian trong ngày là có hạn, việc cố đẩy mọi thứ từ một danh sách vô tận vào đó là điều phi thực tế. Sự ảo tưởng cố nhồi nhét này chính là nguyên nhân dẫn đến sự quá tải và thất vọng vào cuối mỗi ngày."
+    },
+    {
+      "id": 6,
+      "question": "Tác giả khuyên nên sắp xếp những công việc khó và quan trọng nhất vào thời điểm nào trong ngày?",
+      "options": [
+        "Vào buổi tối, khi mọi người đã về hết.",
+        "Vào buổi chiều, sau khi đã giải quyết xong mọi yêu cầu của người khác.",
+        "Vào đầu ngày, tốt nhất là trước cả khi kiểm tra email.",
+        "Tùy thuộc vào hứng thú bất chợt trong ngày."
+      ],
+      "answer": "Vào đầu ngày, tốt nhất là trước cả khi kiểm tra email.",
+      "explanation": "Đầu ngày là lúc tư duy và năng lượng ở mức cao nhất, do đó việc khó nhất cần được ưu tiên xử lý trước khi bị những công việc lặt vặt (như email) làm phân tâm. Điều này giúp mang lại cảm giác thỏa mãn và kiểm soát tốt thời gian."
+    },
+    {
+      "id": 7,
+      "question": "Tại sao tác giả khuyên nên dành ra một khoảng thời gian vào buổi chiều cho những công việc 5% còn lại và hỗ trợ người khác?",
+      "options": [
+        "Vì lúc đó khả năng tư duy sáng tạo của chúng ta là cao nhất.",
+        "Để giúp chúng ta thoải mái tập trung vào các ưu tiên buổi sáng mà không lo sợ lơ là các việc lặt vặt.",
+        "Vì sếp thường giao thêm việc vào buổi chiều.",
+        "Vì mạng internet thường hoạt động nhanh hơn vào buổi chiều."
+      ],
+      "answer": "Để giúp chúng ta thoải mái tập trung vào các ưu tiên buổi sáng mà không lo sợ lơ là các việc lặt vặt.",
+      "explanation": "Nếu bạn đã quy định sẵn một khung giờ cụ thể (buổi chiều) cho các việc nhỏ nhặt, bạn sẽ không bị chúng quấy nhiễu tâm trí khi đang làm việc lớn vào buổi sáng. Đây là cách giải phóng áp lực tâm lý vô cùng hiệu quả."
+    },
+    {
+      "id": 8,
+      "question": "Việc luôn còn lại những việc không thể hoàn thành trong danh sách cuối ngày nên được nhìn nhận như thế nào?",
+      "options": [
+        "Là một thất bại thảm hại cần phải tự trách bản thân.",
+        "Là dấu hiệu cho thấy bạn cần phải thức đêm để làm cho xong.",
+        "Là một thực tế hiển nhiên có thể đoán trước để lên kế hoạch chủ động và không bị thất vọng.",
+        "Là lý do chính đáng để ngày hôm sau bạn xin nghỉ phép."
+      ],
+      "answer": "Là một thực tế hiển nhiên có thể đoán trước để lên kế hoạch chủ động và không bị thất vọng.",
+      "explanation": "Việc không thể làm hết danh sách trong ngày là điều tất yếu, nên thay vì buồn bực, ta phải chấp nhận nó từ sớm. Sự nhận thức này giúp ta chủ động chọn việc cần ưu tiên và thoải mái để lại những việc kém quan trọng."
+    },
+    {
+      "id": 9,
+      "question": "Điểm khác biệt lớn nhất giữa việc \"chủ động bỏ lại công việc\" và \"bị công việc bỏ lại\" là gì?",
+      "options": [
+        "Bạn quyết định trước những việc thật sự quan trọng cần làm và sẵn sàng chấp nhận những việc kém quan trọng hơn bị bỏ lại.",
+        "Bạn nhờ đồng nghiệp làm giúp những việc mình không thích.",
+        "Bạn nói dối sếp rằng mình đã hoàn thành hết mọi việc.",
+        "Không có sự khác biệt, cả hai đều khiến bạn trông thiếu chuyên nghiệp."
+      ],
+      "answer": "Bạn quyết định trước những việc thật sự quan trọng cần làm và sẵn sàng chấp nhận những việc kém quan trọng hơn bị bỏ lại.",
+      "explanation": "Chủ động bỏ lại nghĩa là bạn có quyền kiểm soát, biết rõ mình chọn bỏ thứ gì để tập trung vào thứ quan trọng hơn. Ngược lại, nếu làm việc theo cảm tính, bạn sẽ bị công việc bỏ lại và rơi vào thế bị động, dang dở."
+    },
+    {
+      "id": 10,
+      "question": "Thông điệp cốt lõi của chương \"Ngày Mai Là Khi Nào\" là gì?",
+      "options": [
+        "Nếu muốn thành công, hãy luôn mang theo một cuốn sổ tay bên mình.",
+        "Đừng bao giờ hứa hẹn với trẻ con nếu bạn không thể thực hiện.",
+        "Nếu thật sự muốn hoàn thành một việc, hãy quyết định thời gian và địa điểm rõ ràng để thực hiện nó.",
+        "Luôn ưu tiên giúp đỡ người khác trước khi làm việc của mình."
+      ],
+      "answer": "Nếu thật sự muốn hoàn thành một việc, hãy quyết định thời gian và địa điểm rõ ràng để thực hiện nó.",
+      "explanation": "Tác giả đúc kết lại rằng sức mạnh của việc thực thi nằm ở hai yếu tố 'khi nào' và 'ở đâu'. Một dự định sẽ mãi chỉ là dự định sáo rỗng nếu nó không được gắn liền với một thời điểm và không gian cụ thể để thực hiện."
+    }
+  ],
+  "28_25. Quy Luật 3 Ngày.md": [
+    {
+      "id": 1,
+      "question": "\"Quy luật 3 ngày\" được tác giả đề ra nhằm giải quyết vấn đề gì?",
+      "options": [
+        "Xử lý những công việc luôn nằm ì trong danh sách từ ngày này qua ngày khác và gây áp lực tâm lý.",
+        "Rèn luyện thói quen dậy sớm liên tục trong 3 ngày.",
+        "Quy định thời gian tối đa để trả lời một email của khách hàng.",
+        "Thời gian tối đa để chuẩn bị cho một cuộc họp chiến lược."
+      ],
+      "answer": "Xử lý những công việc luôn nằm ì trong danh sách từ ngày này qua ngày khác và gây áp lực tâm lý.",
+      "explanation": "Quy luật này được thiết kế đặc biệt để xử lý dứt điểm những công việc cứ dai dẳng tồn tại trong danh sách mà không bao giờ được thực hiện. Nó giúp giải phóng tâm lý khỏi 'cảm giác tội lỗi' do một danh sách công việc kéo dài vô tận gây ra."
+    },
+    {
+      "id": 2,
+      "question": "Theo quy luật 3 ngày, điều gì sẽ KHÔNG xảy ra với một công việc đã nằm trong danh sách quá 3 ngày?",
+      "options": [
+        "Nó sẽ được thực hiện ngay lập tức.",
+        "Nó sẽ được lên lịch để làm vào một thời điểm cụ thể.",
+        "Nó sẽ bị loại bỏ hoàn toàn khỏi danh sách.",
+        "Nó sẽ tiếp tục nằm lại trong danh sách làm việc hàng ngày để ám ảnh bạn thêm một tuần nữa."
+      ],
+      "answer": "Nó sẽ tiếp tục nằm lại trong danh sách làm việc hàng ngày để ám ảnh bạn thêm một tuần nữa.",
+      "explanation": "Quy tắc cốt lõi của hệ thống này là sau 3 ngày, công việc bắt buộc phải được xử lý theo 1 trong 4 cách (Làm ngay, lên lịch, bỏ qua, đưa vào danh sách chờ). Việc để nó tiếp tục nằm lại ám ảnh bạn là trái ngược hoàn toàn với tinh thần của quy luật."
+    },
+    {
+      "id": 3,
+      "question": "Tác giả nhận ra điều bất ngờ gì về những việc bị trì hoãn nhiều ngày khi quyết định \"Thực hiện ngay lập tức\"?",
+      "options": [
+        "Chúng thường là những lỗi sai nghiêm trọng cần nhờ sếp giải quyết.",
+        "Chúng thực chất thường chỉ tốn vài phút ngắn ngủi để hoàn thành.",
+        "Chúng luôn đòi hỏi sự hợp tác của toàn bộ phòng ban.",
+        "Chúng luôn tiêu tốn toàn bộ ngân sách của công ty."
+      ],
+      "answer": "Chúng thực chất thường chỉ tốn vài phút ngắn ngủi để hoàn thành.",
+      "explanation": "Tác giả thừa nhận rằng nhiều công việc nằm ì trong danh sách thực ra lại vô cùng đơn giản như gọi điện thoại 30 giây hay viết email 2 phút. Việc làm ngay lập tức sẽ giải quyết chúng nhanh gọn thay vì để sự nặng nề tâm lý kéo dài."
+    },
+    {
+      "id": 4,
+      "question": "Nếu một việc quan trọng bị đẩy sang lựa chọn \"Lên lịch cho nó\", điều kiện bắt buộc là gì?",
+      "options": [
+        "Phải thực hiện nó trong vòng 24 giờ tới.",
+        "Phải cam kết thực hiện nó vào một thời gian và một ngày xác định, dù là 6 tháng sau.",
+        "Chỉ lên lịch nếu có người khác đồng ý làm chung.",
+        "Phải báo cáo việc lên lịch này cho toàn bộ công ty."
+      ],
+      "answer": "Phải cam kết thực hiện nó vào một thời gian và một ngày xác định, dù là 6 tháng sau.",
+      "explanation": "Nếu chọn phương án 'Lên lịch', bạn không thể chỉ lên kế hoạch chung chung mà phải ấn định một thời gian và ngày cụ thể trên lịch. Sự cam kết này là yếu tố kiên quyết đảm bảo công việc sẽ được thực hiện dù có ở tương lai xa."
+    },
+    {
+      "id": 5,
+      "question": "Khi tác giả quyết định \"Bỏ qua một bên\" một công việc, điều đó có nghĩa là gì?",
+      "options": [
+        "Tác giả giấu danh sách đó đi để sếp không nhìn thấy.",
+        "Tác giả giao việc đó cho một nhân viên cấp dưới làm thay mà không hướng dẫn.",
+        "Tác giả thẳng thắn thừa nhận việc đó không đủ mức ưu tiên và gạch nó khỏi danh sách.",
+        "Tác giả sẽ làm việc đó vào buổi tối chủ nhật."
+      ],
+      "answer": "Tác giả thẳng thắn thừa nhận việc đó không đủ mức ưu tiên và gạch nó khỏi danh sách.",
+      "explanation": "Lựa chọn 'Bỏ qua' là sự thẳng thắn thừa nhận rằng bạn không hề có ý định dành thời gian cho công việc này vì nó không đủ mức ưu tiên. Hành động gạch bỏ nó giúp loại bỏ kỳ vọng hão huyền và giải phóng năng lượng cho các việc khác."
+    },
+    {
+      "id": 6,
+      "question": "Tác giả sử dụng danh sách \"Một ngày nào đó/Có thể thực hiện\" cho mục đích gì?",
+      "options": [
+        "Để ghi lại những ước mơ thời thơ ấu không liên quan đến công việc.",
+        "Để lưu trữ những việc không muốn làm ngay nhưng chưa đủ can đảm để xóa bỏ hoàn toàn.",
+        "Để lưu trữ danh sách khách hàng tiềm năng chuẩn bị liên hệ.",
+        "Để ghi chú những lỗi lầm của đồng nghiệp chờ ngày trả đũa."
+      ],
+      "answer": "Để lưu trữ những việc không muốn làm ngay nhưng chưa đủ can đảm để xóa bỏ hoàn toàn.",
+      "explanation": "Đây là một 'vùng đệm' tâm lý dành cho những ý tưởng hoặc công việc chưa cấp bách nhưng tác giả cũng không muốn vứt bỏ hoàn toàn. Việc đưa nó vào danh sách này giúp dọn dẹp danh sách làm việc chính mà không làm mất đi các ý tưởng tiềm năng."
+    },
+    {
+      "id": 7,
+      "question": "Theo tác giả, bạn nên làm gì với danh sách \"Một ngày nào đó/Có thể thực hiện\"?",
+      "options": [
+        "Xem lại nó mỗi sáng để tìm việc làm thay thế cho kế hoạch chính.",
+        "Xem xét lại nó hàng tháng, xóa dần những gì không còn liên quan.",
+        "Bắt buộc phải hoàn thành ít nhất một việc trong danh sách đó mỗi tuần.",
+        "Gửi danh sách đó cho bạn bè để họ làm giúp mình."
+      ],
+      "answer": "Xem xét lại nó hàng tháng, xóa dần những gì không còn liên quan.",
+      "explanation": "Danh sách này không phải là nơi lưu trữ rác vĩnh viễn mà cần được rà soát lại định kỳ hàng tháng. Qua thời gian, bạn sẽ có cái nhìn khách quan hơn để mạnh dạn xóa dần những công việc không còn mang lại giá trị hay liên quan nữa."
+    },
+    {
+      "id": 8,
+      "question": "Chức năng chính của \"danh sách chờ\" trong hệ thống của tác giả là gì?",
+      "options": [
+        "Theo dõi những việc đang mong đợi phản hồi từ người khác mà không làm lẫn lộn với công việc bản thân phải làm.",
+        "Chờ đợi đến khi có ngân sách mới bắt đầu làm việc.",
+        "Liệt kê những khách hàng đang xếp hàng chờ mua sản phẩm của công ty.",
+        "Lưu lại những bộ phim muốn xem khi có thời gian rảnh rỗi."
+      ],
+      "answer": "Theo dõi những việc đang mong đợi phản hồi từ người khác mà không làm lẫn lộn với công việc bản thân phải làm.",
+      "explanation": "Danh sách chờ sinh ra nhằm cô lập các công việc phụ thuộc vào sự phản hồi của người khác, giúp bạn không cần phải tự ghi nhớ mỗi ngày. Điều này giữ cho hệ thống công việc của bản thân không bị lẫn lộn và gây nhiễu."
+    },
+    {
+      "id": 9,
+      "question": "Để tránh việc phải nhớ xem mình đang chờ phản hồi từ ai, tác giả đã dùng mẹo nhỏ nào đối với danh sách chờ?",
+      "options": [
+        "Dán giấy ghi chú khắp màn hình máy tính.",
+        "Cài đặt ngày giờ trong hệ thống máy tính để tự động nhắc nhở từng mục.",
+        "Thuê một trợ lý chuyên nhắc nhở những việc này mỗi sáng.",
+        "Gọi điện thoại cho đối tác liên tục mỗi giờ cho đến khi họ trả lời."
+      ],
+      "answer": "Cài đặt ngày giờ trong hệ thống máy tính để tự động nhắc nhở từng mục.",
+      "explanation": "Thay vì sử dụng trí nhớ hoặc sổ tay, tác giả sử dụng các phần mềm nhắc nhở tự động theo lịch hẹn trên máy tính. Cách tiếp cận 'đặt lịch rồi quên đi' này là bí quyết để não bộ không bị quá tải bởi việc ghi nhớ các tiểu tiết."
+    },
+    {
+      "id": 10,
+      "question": "Tác giả khẳng định quy luật 3 ngày mang lại lợi ích lớn nhất là gì?",
+      "options": [
+        "Đảm bảo bạn được thăng chức trong thời gian ngắn nhất.",
+        "Giúp bạn kiếm thêm thu nhập từ những khoảng thời gian rảnh rỗi.",
+        "Loại bỏ cảm giác tội lỗi về một danh sách công việc kéo dài vô tận và giải phóng tâm trí.",
+        "Giúp bạn học được kỹ năng ghi nhớ siêu phàm."
+      ],
+      "answer": "Loại bỏ cảm giác tội lỗi về một danh sách công việc kéo dài vô tận và giải phóng tâm trí.",
+      "explanation": "Mục tiêu lớn nhất của quy luật 3 ngày là tạo ra một cơ chế quyết định dứt khoát đối với mọi công việc. Nhờ đó, bạn được giải phóng tâm lý, không còn cảm thấy dằn vặt hay vô dụng bởi những đầu mục cũ kỹ không được hoàn thành."
+    }
+  ],
+  "29_26. Bạn Là Ai.md": [
+    {
+      "id": 1,
+      "question": "Khi nói về hành động ném điện thoại của Dov hay sự cộc cằn của Lisanne, tại sao họ lại giải thích rằng \"Đó không phải là tôi\"?",
+      "options": [
+        "Vì họ đang cố gắng đổ lỗi cho nhân viên cấp dưới.",
+        "Vì bản chất họ là những người điềm đạm, tử tế và họ không muốn trở thành phiên bản cáu gắt đó.",
+        "Vì họ đang mắc hội chứng mất trí nhớ tạm thời.",
+        "Vì lúc đó có một người khác đang sử dụng điện thoại và tài khoản của họ."
+      ],
+      "answer": "Vì bản chất họ là những người điềm đạm, tử tế và họ không muốn trở thành phiên bản cáu gắt đó.",
+      "explanation": "Những hành động nóng giận đột ngột đó đi ngược lại với con người thật và tiêu chuẩn đạo đức thường ngày của họ. Phản ứng 'đó không phải là tôi' thể hiện sự hối hận và nhận thức rằng sự quá tải đã biến họ thành một phiên bản xấu xí tạm thời."
+    },
+    {
+      "id": 2,
+      "question": "Theo tác giả, nguyên nhân gốc rễ dẫn đến việc chúng ta dễ dàng mất bình tĩnh, cáu bẳn và hành xử tệ hại là gì?",
+      "options": [
+        "Do bản tính bẩm sinh của con người là luôn nóng giận.",
+        "Do sự quá tải khi có quá nhiều việc phải làm nhưng lại không đủ thời gian.",
+        "Do sự ảnh hưởng tiêu cực từ các chương trình truyền hình thực tế.",
+        "Do chế độ ăn uống thiếu hụt dinh dưỡng trầm trọng."
+      ],
+      "answer": "Do sự quá tải khi có quá nhiều việc phải làm nhưng lại không đủ thời gian.",
+      "explanation": "Tác giả khẳng định tình trạng quá tải (khi ôm đồm quá nhiều việc vượt khả năng thời gian) chính là nguyên nhân gốc rễ sinh ra sự cáu bẳn. Sự bất lực trong việc thực hiện kỳ vọng tạo ra căng thẳng, khiến chúng ta dễ dàng đánh mất tự chủ."
+    },
+    {
+      "id": 3,
+      "question": "Tác giả phân tích trạng thái \"quá tải\" thường gây ra hai vấn đề tâm lý nào?",
+      "options": [
+        "Thích kiểm soát người khác và luôn muốn ở một mình.",
+        "Bỏ sót công việc gây thất vọng cho người khác và cảm giác bất mãn, yếu kém về chính bản thân mình.",
+        "Mất ngủ triền miên và ăn uống vô độ.",
+        "Quá tự tin vào bản thân và coi thường ý kiến của mọi người xung quanh."
+      ],
+      "answer": "Bỏ sót công việc gây thất vọng cho người khác và cảm giác bất mãn, yếu kém về chính bản thân mình.",
+      "explanation": "Trạng thái quá tải đẩy con người vào vòng luẩn quẩn: làm việc thiếu hiệu quả làm thất vọng người khác, từ đó sinh ra sự chán ghét và cảm giác yếu kém về chính mình. Hai trạng thái này cùng lúc vắt kiệt và tàn phá tinh thần."
+    },
+    {
+      "id": 4,
+      "question": "Khi tác giả nổi nóng với bọn trẻ vì chúng tranh giành bữa sáng, thực chất ông đang tức giận điều gì?",
+      "options": [
+        "Ông tức giận vì bọn trẻ luôn cố tình chống đối ông mỗi ngày.",
+        "Ông tức giận vì những món ăn ông nấu bị chê bai không ngon.",
+        "Ông tức giận vì cảm giác quá tải của bản thân khi cố gắng làm quá nhiều việc cùng lúc để chuẩn bị bữa sáng.",
+        "Ông tức giận vì vợ ông không ra giúp đỡ."
+      ],
+      "answer": "Ông tức giận vì cảm giác quá tải của bản thân khi cố gắng làm quá nhiều việc cùng lúc để chuẩn bị bữa sáng.",
+      "explanation": "Tác giả nhận ra bản thân nổi giận không phải vì lỗi của bọn trẻ, mà do ông đã quá sức và căng thẳng khi cố gắng nấu một bữa sáng hoàn hảo. Cảm giác bất lực và 'quá tải' của chính ông mới là ngòi nổ thực sự cho cơn giận."
+    },
+    {
+      "id": 5,
+      "question": "Giải pháp cốt lõi mà tác giả đưa ra để giúp chúng ta giữ được tinh thần kỷ luật và không đánh mất chính mình là gì?",
+      "options": [
+        "Chuyển sang một công việc khác ít áp lực hơn.",
+        "Đi học một khóa thiền định kéo dài 3 tháng.",
+        "Cài đặt tín hiệu (tiếng bíp) mỗi giờ để có một khoảng dừng tĩnh tâm.",
+        "Trừng phạt bản thân bằng cách nhịn ăn mỗi khi nổi cáu."
+      ],
+      "answer": "Cài đặt tín hiệu (tiếng bíp) mỗi giờ để có một khoảng dừng tĩnh tâm.",
+      "explanation": "Để đối phó với sự mất kiểm soát, tác giả áp dụng kỷ luật bằng cách dùng đồng hồ báo một 'tiếng bíp' mỗi giờ. Đây là cơ chế ngắt mạch bắt buộc để não bộ được tĩnh tâm, kiểm điểm lại hành vi và duy trì định hướng trong ngày."
+    },
+    {
+      "id": 6,
+      "question": "Khi nghe tiếng \"bíp\" vang lên mỗi giờ, tác giả thường dành một phút để làm gì?",
+      "options": [
+        "Trả lời thật nhanh một email quan trọng nhất trong ngày.",
+        "Hít thở sâu, đánh giá năng suất giờ qua và tự hỏi xem mình có đang là con người mà mình muốn trở thành hay không.",
+        "Lướt mạng xã hội để giải tỏa căng thẳng thần kinh.",
+        "Gọi điện thoại cho gia đình để hỏi thăm tình hình ở nhà."
+      ],
+      "answer": "Hít thở sâu, đánh giá năng suất giờ qua và tự hỏi xem mình có đang là con người mà mình muốn trở thành hay không.",
+      "explanation": "Phút dừng lại này là lúc để hít thở sâu, thoát khỏi guồng quay công việc và tự phản tỉnh sắc bén. Câu hỏi 'mình có đang là con người mình muốn trở thành' giúp kéo tâm trí trở lại với sự tự tôn và mục tiêu cốt lõi."
+    },
+    {
+      "id": 7,
+      "question": "Khoảng dừng một phút do tiếng \"bíp\" tạo ra đóng vai trò quan trọng như thế nào?",
+      "options": [
+        "Nó tạo ra một \"sự gián đoạn\" cần thiết để ngăn chặn và đảo ngược những phản ứng tồi tệ đang dần tích tụ.",
+        "Nó giúp bạn tranh thủ chợp mắt để phục hồi năng lượng thể chất.",
+        "Nó là cái cớ hoàn hảo để kết thúc sớm mọi cuộc họp tẻ nhạt.",
+        "Nó giúp tăng cường thính giác và sự nhạy bén của não bộ."
+      ],
+      "answer": "Nó tạo ra một \"sự gián đoạn\" cần thiết để ngăn chặn và đảo ngược những phản ứng tồi tệ đang dần tích tụ.",
+      "explanation": "Tác giả nhấn mạnh tầm quan trọng của 'sự gián đoạn' nhằm cắt đứt đà trượt dốc của những phản ứng tồi tệ hay căng thẳng đang tích tụ. Nếu không có điểm ngắt này, cảm xúc tiêu cực sẽ leo thang thành những hành động đáng tiếc."
+    },
+    {
+      "id": 8,
+      "question": "Tại sao tác giả cho rằng tiếng chuông nhắc nhở định kỳ lại tốt hơn việc đợi đến khi có chuyện mới hối hận?",
+      "options": [
+        "Vì tiếng chuông có âm thanh dễ chịu hơn lời la mắng.",
+        "Vì sự mất kiểm soát thường tích tụ dần, nhắc nhở định kỳ giúp ta ổn định trước khi bùng nổ.",
+        "Vì đồng hồ nhắc nhở là một biểu tượng của sự chuyên nghiệp trong công việc.",
+        "Vì người khác sẽ đánh giá cao sự đúng giờ của bạn."
+      ],
+      "answer": "Vì sự mất kiểm soát thường tích tụ dần, nhắc nhở định kỳ giúp ta ổn định trước khi bùng nổ.",
+      "explanation": "Căng thẳng không bùng phát đột ngột mà luôn dồn nén dần theo thời gian thành giọt nước tràn ly. Việc kiểm điểm bản thân định kỳ hàng giờ giúp ổn định tâm lý và dập tắt căng thẳng từ sớm thay vì phải đi khắc phục hậu quả."
+    },
+    {
+      "id": 9,
+      "question": "Bên cạnh việc kiềm chế cơn nóng giận, tiếng \"bíp\" còn giúp giải quyết tình trạng nào sau đây?",
+      "options": [
+        "Giải quyết dứt điểm các khoản nợ ngân hàng chưa thanh toán.",
+        "Giúp tìm ra ngay lập tức ý tưởng kinh doanh đột phá.",
+        "Phá vỡ nguyên nhân mất ổn định, như thói quen lang thang trên mạng do không biết bắt đầu từ đâu.",
+        "Thuyết phục khách hàng khó tính ký kết hợp đồng ngay lập tức."
+      ],
+      "answer": "Phá vỡ nguyên nhân mất ổn định, như thói quen lang thang trên mạng do không biết bắt đầu từ đâu.",
+      "explanation": "Khoảng nghỉ định kỳ này không chỉ kiềm chế cảm xúc mà còn giúp kéo tâm trí trở lại thực tại khi chúng ta đang bị chìm đắm trong các hành vi vô thức. Nó phá vỡ vòng lặp vô định, giúp ta biết mình cần bắt đầu từ đâu để làm việc hiệu quả."
+    },
+    {
+      "id": 10,
+      "question": "Tác giả khuyên chúng ta làm gì để thay đổi định kiến xấu do một hành động quá khích gây ra?",
+      "options": [
+        "Phủ nhận hoàn toàn hành động đó và nói rằng ai đó đã làm chứ không phải mình.",
+        "Thực hiện ngay một hành động quá khích khác để chứng minh sức mạnh.",
+        "Tạo ra một chuỗi hành động nhất quán, vững vàng và được cân nhắc thận trọng để khẳng định con người thật của mình.",
+        "Im lặng chịu đựng và tránh né gặp mặt mọi người trong một thời gian dài."
+      ],
+      "answer": "Tạo ra một chuỗi hành động nhất quán, vững vàng và được cân nhắc thận trọng để khẳng định con người thật của mình.",
+      "explanation": "Một hành động bốc đồng có thể dễ dàng gắn định kiến xấu cho bạn, và cách duy nhất để xóa bỏ nó là xây dựng lại hình ảnh thông qua một chuỗi hành động điềm đạm, nhất quán. Bạn phải chứng minh bản chất thực sự của mình thông qua sự kiên định theo thời gian."
+    }
+  ]
+}

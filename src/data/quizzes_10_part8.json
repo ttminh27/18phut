@@ -1,0 +1,612 @@
+{
+  "35_31. Giải Pháp Nintendo Wii.md": [
+    {
+      "id": 1,
+      "question": "Theo Richard, lý do anh ấy tham gia thi đấu ba môn phối hợp là gì?",
+      "options": [
+        "Để giành chiến thắng",
+        "Để rèn luyện sức khỏe",
+        "Vì nó vui",
+        "Để chứng tỏ bản thân"
+      ],
+      "answer": "Vì nó vui",
+      "explanation": "Tác giả nhấn mạnh rằng con người thường làm những việc mà họ cảm thấy thoải mái và tránh những việc đau đớn. Việc Richard tham gia cuộc thi dù không phải để chiến thắng hay chứng tỏ bản thân mà chỉ đơn giản là \"vì nó vui\" minh chứng cho quan điểm rằng niềm vui là động lực mạnh mẽ nhất."
+    },
+    {
+      "id": 2,
+      "question": "Theo nghiên cứu trong Annals of Behavioral Medicine, điều gì xảy ra khi con người tập luyện càng vất vả?",
+      "options": [
+        "Họ càng ít cảm thấy vui thích và ít tập luyện đều đặn hơn",
+        "Họ càng đạt được kết quả nhanh chóng hơn",
+        "Cơ thể họ càng khỏe mạnh hơn",
+        "Họ càng muốn tham gia nhiều cuộc thi hơn"
+      ],
+      "answer": "Họ càng ít cảm thấy vui thích và ít tập luyện đều đặn hơn",
+      "explanation": "Dựa trên nghiên cứu được trích dẫn trong bài, con người càng tập luyện vất vả thì cảm giác vui thích càng giảm dần. Điều này sẽ trực tiếp dẫn đến việc họ ít tập luyện đều đặn hơn trong tương lai, chứ không phải là đạt kết quả nhanh hay khỏe mạnh hơn."
+    },
+    {
+      "id": 3,
+      "question": "Tác giả cho rằng \"kẻ thù của niềm vui\" là gì?",
+      "options": [
+        "Sự lười biếng",
+        "Nỗ lực",
+        "Tiền bạc",
+        "Thất bại"
+      ],
+      "answer": "Nỗ lực",
+      "explanation": "Tác giả lập luận rằng chúng ta thường quên mất nguyên lý cơ bản là con người thích sự thoải mái khi cố gắng hoàn thành công việc. Hóa ra, \"nỗ lực\" chính là kẻ thù của niềm vui, trong khi niềm vui lại mang đến hiệu quả gấp nhiều lần nỗ lực."
+    },
+    {
+      "id": 4,
+      "question": "Marc Manza đã dùng phần thưởng gì để khuyến khích nhân viên giải quyết vấn đề phần mềm mâu thuẫn?",
+      "options": [
+        "1.000 đô-la tiền mặt",
+        "Một chuyến dã ngoại",
+        "Một cái máy Nintendo Wii",
+        "Một chiếc xe hơi"
+      ],
+      "answer": "Một cái máy Nintendo Wii",
+      "explanation": "Khi đối mặt với sự cố phần mềm phức tạp kéo dài hai năm, Marc Manza đã mua một chiếc máy Nintendo Wii và đặt giữa văn phòng làm phần thưởng cho người giải quyết được vấn đề. Giải pháp này rẻ và hiệu quả hơn rất nhiều so với những phần thưởng bằng tiền mặt hay chuyến dã ngoại."
+    },
+    {
+      "id": 5,
+      "question": "Điều kiện mà Marc Manza đưa ra cho người nhận thưởng là gì?",
+      "options": [
+        "Phải giải quyết vấn đề trong giờ làm việc",
+        "Phải giải quyết vấn đề bằng thời gian cá nhân",
+        "Phải hợp tác với toàn bộ nhóm",
+        "Phải thuyết phục được đối tác Sun Microsystems"
+      ],
+      "answer": "Phải giải quyết vấn đề bằng thời gian cá nhân",
+      "explanation": "Bên cạnh giải thưởng là chiếc máy chơi game, Marc đặt ra một điều kiện cụ thể là người chiến thắng phải tìm ra cách giải quyết vấn đề bằng thời gian cá nhân. Điều này khiến cho quá trình tìm giải pháp giống như một thử thách thú vị thay vì công việc bắt buộc trong giờ làm."
+    },
+    {
+      "id": 6,
+      "question": "Chi phí mà công ty của Marc phải bỏ ra để có được giải pháp thông qua máy Nintendo Wii là bao nhiêu?",
+      "options": [
+        "1.000 đô-la",
+        "Hàng chục ngàn đô-la",
+        "Hai trăm năm mươi đô-la",
+        "Năm trăm đô-la"
+      ],
+      "answer": "Hai trăm năm mươi đô-la",
+      "explanation": "Thay vì lãng phí hàng chục ngàn đô-la mà vẫn không giải quyết được vấn đề trong hai năm, chiếc máy Nintendo Wii đã giúp tìm ra giải pháp chỉ trong hai tuần. Chi phí công ty thực tế phải bỏ ra cho giải pháp sáng tạo này chỉ vỏn vẹn hai trăm năm mươi đô-la."
+    },
+    {
+      "id": 7,
+      "question": "Tác giả đề cập đến hai quy tắc để tạo ra các cuộc tranh tài vui vẻ nhằm giải quyết vấn đề. Quy tắc thứ nhất là gì?",
+      "options": [
+        "Tập trung vào những vấn đề và cơ hội thật sự",
+        "Tập trung vào việc thay đổi hệ thống công ty",
+        "Tạo ra phần thưởng bằng tiền mặt lớn",
+        "Tổ chức các chuyến dã ngoại cho nhân viên"
+      ],
+      "answer": "Tập trung vào những vấn đề và cơ hội thật sự",
+      "explanation": "Tác giả nhấn mạnh rằng để công việc trở nên thú vị thì cần tập trung vào các vấn đề và cơ hội thật sự trong công việc, thay vì các hoạt động ngoài lề. Một chuyến dã ngoại có thể vui nhưng không mang lại hiệu quả trực tiếp như việc giải quyết một thách thức cụ thể cùng nhau."
+    },
+    {
+      "id": 8,
+      "question": "Tại sao Marc thất bại khi treo giải thưởng 1.000 đô-la để giải quyết vấn đề?",
+      "options": [
+        "Vì số tiền đó quá ít so với công sức bỏ ra",
+        "Vì tiền không mang lại niềm vui như một món quà hiện vật",
+        "Vì nhân viên không có thời gian",
+        "Vì vấn đề quá phức tạp không ai giải được"
+      ],
+      "answer": "Vì tiền không mang lại niềm vui như một món quà hiện vật",
+      "explanation": "Mặc dù 1.000 đô-la có thể mua được 4 chiếc máy Nintendo, nhưng nó lại bị xem như việc được trả công để làm việc, do đó không tạo ra sự hứng thú. Tác giả khẳng định rằng niềm vui không phải là tiền bạc, và người ta thích cảm giác tự hào khi cầm trên tay một món quà hiện vật như huy chương."
+    },
+    {
+      "id": 9,
+      "question": "Tác giả đã làm gì để công việc bồi bàn trở nên thú vị hơn thời đại học?",
+      "options": [
+        "Phục vụ mỗi bàn với một ngữ giọng khác nhau",
+        "Kể chuyện cười cho khách hàng",
+        "Chạy thi với các bồi bàn khác",
+        "Trò chuyện và kết bạn với tất cả khách hàng"
+      ],
+      "answer": "Phục vụ mỗi bàn với một ngữ giọng khác nhau",
+      "explanation": "Để vượt qua sự nhàm chán của việc nhận gọi món, tác giả tự thử thách bản thân bằng cách sử dụng các ngữ giọng khác nhau cho từng bàn ăn. Đây là ví dụ về cách tự tạo ra niềm vui trong những công việc bình thường bằng cách thêm vào đó một trò chơi ngớ ngẩn nhưng thú vị."
+    },
+    {
+      "id": 10,
+      "question": "Tác giả kết luận gì về mối quan hệ giữa niềm vui và động lực?",
+      "options": [
+        "Niềm vui và động lực không liên quan đến nhau",
+        "Niềm vui làm giảm đi sự cần thiết của việc tạo ra động lực cho bản thân bởi niềm vui chính là động lực",
+        "Động lực quan trọng hơn niềm vui rất nhiều",
+        "Niềm vui chỉ là kết quả của việc có động lực"
+      ],
+      "answer": "Niềm vui làm giảm đi sự cần thiết của việc tạo ra động lực cho bản thân bởi niềm vui chính là động lực",
+      "explanation": "Ở cuối chương, tác giả đúc kết bài học cốt lõi rằng khi công việc đã mang lại niềm vui, bạn không cần phải cố gắng gượng ép bản thân nữa. Niềm vui sẽ tự nhiên tạo ra động lực, từ đó giúp tăng hiệu quả công việc mà không cần những nỗ lực mệt mỏi."
+    }
+  ],
+  "36_31. Cú Đấm Kết Hợp.md": [
+    {
+      "id": 1,
+      "question": "Tác giả đã gặp phải sự cố gì khi lùi xe trong khi đang nói chuyện điện thoại?",
+      "options": [
+        "Tông vào một chiếc xe hơi đang chạy qua",
+        "Tông vào một bức tường",
+        "Tông vào hai chiếc xe máy đang đậu",
+        "Chạy chệch khỏi lề đường"
+      ],
+      "answer": "Tông vào hai chiếc xe máy đang đậu",
+      "explanation": "Theo nghiên cứu, người nhắn tin khi lái xe có nguy cơ gặp tai nạn cao gấp 23 lần vì cứ mỗi 6 giây, họ lại rời mắt khỏi đường trong 4,6 giây. Những giây phút xao nhãng tưởng chừng vô hại đó chính là nguyên nhân trực tiếp dẫn đến tai nạn."
+    },
+    {
+      "id": 2,
+      "question": "Theo nghiên cứu được nhắc đến, người nhắn tin khi đang lái xe có nguy cơ gặp tai nạn cao gấp bao nhiêu lần?",
+      "options": [
+        "10 lần",
+        "15 lần",
+        "23 lần",
+        "30 lần"
+      ],
+      "answer": "23 lần",
+      "explanation": "Tác giả chỉ ra rằng mặc dù chúng ta biết rõ hậu quả, nhưng chúng ta thiếu trí tưởng tượng để hình dung nó thực sự xảy ra với mình. Do chưa từng trải qua tai nạn, chúng ta lầm tưởng rằng mình có thể tránh được điều tồi tệ đó."
+    },
+    {
+      "id": 3,
+      "question": "Lý do chính khiến con người vẫn làm những việc mà họ biết là có ảnh hưởng tiêu cực (như vừa lái xe vừa nghe điện thoại) là gì?",
+      "options": [
+        "Do họ có quá nhiều việc phải làm",
+        "Do họ thiếu trí tưởng tượng về hậu quả có thể xảy ra",
+        "Do họ thích cảm giác mạo hiểm",
+        "Do họ quá tự tin vào khả năng của bản thân"
+      ],
+      "answer": "Do họ thiếu trí tưởng tượng về hậu quả có thể xảy ra",
+      "explanation": "Tác giả so sánh việc thay đổi hành vi như một \"cú đấm kết hợp\", trong đó cú đấm mở đầu phải là nỗi sợ hãi. Nỗi sợ có tác dụng như một chất xúc tác mạnh mẽ giúp đánh bật tính ì và tạo động lực để chúng ta dừng ngay hành động tiêu cực."
+    },
+    {
+      "id": 4,
+      "question": "Tác giả gọi phương pháp thay đổi hành vi gồm hai bước là gì?",
+      "options": [
+        "Chiếc gậy và củ cà rốt",
+        "Cú Đấm Kết Hợp",
+        "Đẩy và kéo",
+        "Bước tiến kép"
+      ],
+      "answer": "Cú Đấm Kết Hợp",
+      "explanation": "Việc xem đoạn video về vụ tai nạn tang thương đã cho tác giả trải nghiệm cảm giác tội lỗi và đau đớn như thể chính ông là người gây ra. Nỗi sợ hãi mãnh liệt và trực quan này đã lập tức buộc ông phải ngừng việc sử dụng điện thoại khi lái xe."
+    },
+    {
+      "id": 5,
+      "question": "Trong phương pháp của tác giả, bước đầu tiên để thay đổi hành vi là gì?",
+      "options": [
+        "Tự thưởng cho bản thân",
+        "Trải nghiệm nỗi sợ",
+        "Lập kế hoạch chi tiết",
+        "Tìm kiếm sự giúp đỡ từ người khác"
+      ],
+      "answer": "Trải nghiệm nỗi sợ",
+      "explanation": "Nỗi sợ hãi hiệu quả ở chỗ nó buộc tâm trí ta phải cảm nhận những hậu quả tiêu cực của tương lai ngay trong giây phút hiện tại. Điều này đánh vào tâm lý muốn tránh xa sự đau khổ, khiến chúng ta sẵn sàng thay đổi hành vi lập tức để xoa dịu cảm giác sợ hãi đó."
+    },
+    {
+      "id": 6,
+      "question": "Nỗi sợ hữu ích như thế nào trong việc thay đổi hành vi ban đầu?",
+      "options": [
+        "Nó giúp ta quên đi những thói quen cũ",
+        "Nó là cú đẩy ban đầu đánh bật tính ì, tạo ra sự thay đổi nhất thời",
+        "Nó tạo ra sự vui vẻ khi ta vượt qua được",
+        "Nó duy trì động lực cho ta trong nhiều năm"
+      ],
+      "answer": "Nó là cú đẩy ban đầu đánh bật tính ì, tạo ra sự thay đổi nhất thời",
+      "explanation": "Mặc dù mạnh mẽ, nỗi sợ hãi lại không mang tính bền vững vì nó gây căng thẳng và mệt mỏi cho tâm trí theo thời gian. Nếu chỉ dựa vào sự sợ hãi, con người sẽ dần kiệt sức và dễ dàng quay lại những thói quen xấu ban đầu."
+    },
+    {
+      "id": 7,
+      "question": "Tại sao nỗi sợ không thể giúp duy trì sự thay đổi hành vi trong dài hạn?",
+      "options": [
+        "Vì nó khiến chúng ta cảm thấy nhàm chán",
+        "Vì nó làm ta kiệt sức, căng thẳng và sụp đổ theo thời gian",
+        "Vì chúng ta sẽ quen với cảm giác sợ hãi đó",
+        "Vì nỗi sợ thường không có thật"
+      ],
+      "answer": "Vì nó làm ta kiệt sức, căng thẳng và sụp đổ theo thời gian",
+      "explanation": "Tác giả nhấn mạnh rằng sau cú hích của nỗi sợ, chúng ta cần một phần thưởng - tức là một hiện tại tích cực hơn - để duy trì động lực. Cảm giác tận hưởng và lợi ích thực sự có được từ hành vi mới chính là chất dinh dưỡng nuôi dưỡng sự thay đổi dài hạn."
+    },
+    {
+      "id": 8,
+      "question": "Để duy trì sự thay đổi lâu dài, trải nghiệm về sự sợ hãi cần được tiếp nối bằng điều gì?",
+      "options": [
+        "Một nỗi sợ lớn hơn",
+        "Lời khuyên từ chuyên gia",
+        "Lời hứa hẹn về một hiện tại tốt đẹp hơn (phần thưởng)",
+        "Sự kiểm tra nghiêm ngặt từ gia đình"
+      ],
+      "answer": "Lời hứa hẹn về một hiện tại tốt đẹp hơn (phần thưởng)",
+      "explanation": "Sau khi dùng đoạn phim làm nỗi sợ khởi động, tác giả đã chuyển sự tập trung sang tận hưởng chuyến đi một cách trọn vẹn. Trải nghiệm thư giãn, bình yên và sự gắn kết với gia đình chính là phần thưởng quý giá giúp ông duy trì việc không sử dụng điện thoại khi lái xe."
+    },
+    {
+      "id": 9,
+      "question": "Sau khi dùng nỗi sợ để bắt đầu việc không dùng điện thoại khi lái xe, tác giả đã dùng \"phần thưởng\" gì để duy trì thói quen đó?",
+      "options": [
+        "Mua một chiếc xe mới an toàn hơn",
+        "Tận hưởng quá trình lái xe thư giãn và trò chuyện với gia đình",
+        "Ăn một bữa ngon sau mỗi chuyến đi an toàn",
+        "Kể thành tích của mình cho bạn bè nghe"
+      ],
+      "answer": "Tận hưởng quá trình lái xe thư giãn và trò chuyện với gia đình",
+      "explanation": "Phương pháp \"cú đấm kết hợp\" được áp dụng vào giảm cân: đầu tiên hình dung bản thân trở nên thừa cân và bệnh tật để ngừng ăn kem ngay lập tức. Sau đó, tập trung vào cảm giác cơ thể khỏe mạnh và nhẹ nhàng hơn trong những ngày tiếp theo để củng cố thói quen ăn uống lành mạnh."
+    },
+    {
+      "id": 10,
+      "question": "Tác giả khuyên bạn nên làm gì khi cố gắng ngưng tranh cãi trong những lúc không quan trọng?",
+      "options": [
+        "Tưởng tượng rằng mọi người sẽ không muốn tranh luận với bạn nữa để sợ hãi, sau đó tận hưởng sự hài lòng của những người xung quanh",
+        "Bỏ đi ngay lập tức và không nói gì thêm",
+        "Tìm những lý lẽ sắc bén hơn để thắng ngay lúc đó",
+        "Ghi âm lại cuộc tranh cãi để nghe lại sau"
+      ],
+      "answer": "Tưởng tượng rằng mọi người sẽ không muốn tranh luận với bạn nữa để sợ hãi, sau đó tận hưởng sự hài lòng của những người xung quanh",
+      "explanation": "Việc dừng tranh cãi để tỏ ra mình đúng không chỉ giúp tránh được sự xa lánh của người khác (nỗi sợ) mà còn đem lại một hiện tại dễ chịu hơn. Phần thưởng ở đây là một mối quan hệ hòa hợp, sự hài lòng của đối phương và tâm trạng thoải mái của chính bạn."
+    }
+  ],
+  "37_32. Tôi Là Kiểu Người….md": [
+    {
+      "id": 1,
+      "question": "Tại sao người tài xế ban đầu lại ngồi trong xe thay vì ra ngoài giúp đỡ ông cụ đi lại khó khăn dưới trời mưa?",
+      "options": [
+        "Vì anh ta là một người tồi tệ và không thích giúp đỡ",
+        "Vì quy định công ty cấm anh ta rời khỏi xe",
+        "Vì việc giúp đỡ ông cụ là công việc anh ta được trả lương để làm, khiến câu hỏi về động lực bên trong bị thay đổi",
+        "Vì anh ta đang bận gọi điện thoại"
+      ],
+      "answer": "Vì việc giúp đỡ ông cụ là công việc anh ta được trả lương để làm, khiến câu hỏi về động lực bên trong bị thay đổi",
+      "explanation": "Ban đầu, tác giả suy đoán rằng vì phải chứng kiến những cảnh tượng như vậy hàng ngày nên người tài xế trở nên vô cảm. Cảnh tượng này không đủ sức tạo ra động lực đặc biệt khiến anh ta phải bước ra khỏi xe để hỗ trợ."
+    },
+    {
+      "id": 2,
+      "question": "Trong thử nghiệm của Dan Ariely và James Heyman, nhóm nào đã kéo được nhiều vòng tròn nhất?",
+      "options": [
+        "Nhóm được trả 5 đô-la",
+        "Nhóm được trả 50 xu",
+        "Nhóm được yêu cầu làm không công",
+        "Cả ba nhóm có kết quả bằng nhau"
+      ],
+      "answer": "Nhóm được yêu cầu làm không công",
+      "explanation": "Thông qua các nghiên cứu, tác giả nhận ra rằng khi công việc được trả công, nó thay đổi câu hỏi trong đầu người thực hiện từ \"Tôi có phải là người tốt không?\" thành \"Tôi có được trả công đủ cho việc này không?\". Việc biến hành động thành giao dịch tài chính đã vô tình dập tắt động lực bên trong."
+    },
+    {
+      "id": 3,
+      "question": "Khi AARP đề nghị các luật sư giảm giá xuống còn 30 đô-la một giờ để giúp đỡ những người đã nghỉ hưu nghèo khó, phản ứng của các luật sư là gì?",
+      "options": [
+        "Đồng ý ngay lập tức",
+        "Yêu cầu tăng lên 50 đô-la một giờ",
+        "Từ chối thực hiện",
+        "Đồng ý nhưng chỉ làm trong thời gian ngắn"
+      ],
+      "answer": "Từ chối thực hiện",
+      "explanation": "Kết quả thí nghiệm cho thấy những người làm việc không công lại kéo được nhiều vòng tròn nhất (168 vòng) so với nhóm được trả tiền. Điều này chứng minh rằng động lực nội tại từ việc tự nguyện giúp đỡ mạnh mẽ hơn nhiều so với động lực tiền bạc."
+    },
+    {
+      "id": 4,
+      "question": "Tại sao các luật sư lại đồng ý giúp đỡ khi AARP đề nghị họ làm việc miễn phí?",
+      "options": [
+        "Vì họ muốn xây dựng danh tiếng cho công ty",
+        "Vì câu hỏi vô thức của họ chuyển thành \"Tôi có phải là loại người giúp đỡ những người đang cần được giúp đỡ không?\"",
+        "Vì họ có quá nhiều thời gian rảnh rỗi",
+        "Vì luật pháp bắt buộc họ phải làm việc tình nguyện"
+      ],
+      "answer": "Vì câu hỏi vô thức của họ chuyển thành \"Tôi có phải là loại người giúp đỡ những người đang cần được giúp đỡ không?\"",
+      "explanation": "Khi được đề nghị trả 30 đô-la, các luật sư cảm thấy mức giá đó xúc phạm giá trị chuyên môn của họ. Tuy nhiên, khi được nhờ làm miễn phí, hành động đó lại thỏa mãn câu chuyện về bản thân họ như những người tốt bụng sẵn sàng giúp đỡ cộng đồng."
+    },
+    {
+      "id": 5,
+      "question": "Theo tác giả, con người thường có xu hướng nghĩ về bản thân họ như thế nào?",
+      "options": [
+        "Những cỗ máy làm việc",
+        "Những người luôn cần được trả công",
+        "Những câu chuyện",
+        "Những người hoàn hảo"
+      ],
+      "answer": "Những câu chuyện",
+      "explanation": "Tác giả giải thích rằng khi có yếu tố tiền bạc can thiệp, chúng ta sẽ ngừng tự hỏi \"Tôi có phải người tốt không?\" và chuyển sang tính toán \"Tôi có được trả công xứng đáng để làm việc này không?\". Điều này làm mất đi nguồn cảm hứng và động lực nội tại."
+    },
+    {
+      "id": 6,
+      "question": "Làm thế nào để thổi lên ngọn lửa động lực bên trong một người khác theo ý tác giả?",
+      "options": [
+        "Bằng cách trả thêm cho họ thật nhiều tiền",
+        "Bằng cách thấu hiểu và ủng hộ câu chuyện của người đó",
+        "Bằng cách đe dọa họ bằng những hình phạt",
+        "Bằng cách phớt lờ những gì họ làm"
+      ],
+      "answer": "Bằng cách thấu hiểu và ủng hộ câu chuyện của người đó",
+      "explanation": "Mặc dù tiền bạc là cần thiết để sống, nhưng để thực sự yêu thích công việc, ta cần tìm ra lý do sâu xa và cảm giác thỏa mãn cá nhân. Việc nhận thức được giá trị và ý nghĩa thực sự của công việc sẽ giúp duy trì niềm đam mê lâu dài."
+    },
+    {
+      "id": 7,
+      "question": "Theo tác giả, điều kiện cần thiết về tiền bạc trong công việc là gì để giữ được động lực?",
+      "options": [
+        "Không bao giờ làm việc vì tiền",
+        "Cần được trả công bằng số tiền hợp lý để không cảm thấy bị trả thiếu",
+        "Yêu cầu mức lương cao nhất có thể trong mọi tình huống",
+        "Từ chối nhận lương để luôn giữ được động lực tình nguyện"
+      ],
+      "answer": "Cần được trả công bằng số tiền hợp lý để không cảm thấy bị trả thiếu",
+      "explanation": "Tác giả nhấn mạnh rằng mỗi người đều xây dựng một câu chuyện riêng về bản thân mình. Bằng cách công nhận hành động của họ như một minh chứng cho những phẩm chất tốt đẹp, bạn sẽ củng cố sự tự hào và khuyến khích họ tiếp tục hành động tích cực đó."
+    },
+    {
+      "id": 8,
+      "question": "Để tự tạo động lực cho chính mình, tác giả khuyên chúng ta nên đặt câu hỏi gì?",
+      "options": [
+        "Làm sao để kiếm được nhiều tiền nhất từ việc này?",
+        "Người khác sẽ nghĩ gì về tôi khi làm việc này?",
+        "Tôi sẽ hoàn chỉnh câu \"Tôi là loại người…\" như thế nào?",
+        "Khi nào thì tôi có thể nghỉ ngơi?"
+      ],
+      "answer": "Tôi sẽ hoàn chỉnh câu \"Tôi là loại người…\" như thế nào?",
+      "explanation": "Thay vì nhắc nhở về bổn phận hay dùng tiền thưởng, người chủ nên công nhận sự tử tế của người tài xế. Lời khen này sẽ củng cố hình ảnh cá nhân tích cực của anh ta, khiến anh ta tự hào là \"kiểu người\" sẵn sàng giúp đỡ người khác."
+    },
+    {
+      "id": 9,
+      "question": "Phản ứng của các tài xế khác khi tác giả mỉm cười và vẫy tay cảm ơn họ sau vụ kẹt xe là gì?",
+      "options": [
+        "Họ bực tức vì phải chờ đợi quá lâu",
+        "Họ bóp còi inh ỏi",
+        "Họ lờ tác giả đi",
+        "Họ đều đáp lại bằng nụ cười"
+      ],
+      "answer": "Họ đều đáp lại bằng nụ cười",
+      "explanation": "Tác giả thừa nhận rằng việc kể lại hành động tốt đẹp của mình giúp củng cố định dạng bản thân mà ông mong muốn. Câu chuyện \"Tôi là loại người tốt bụng\" không chỉ mang lại niềm vui mà còn thúc đẩy ông tiếp tục lặp lại hành vi đó trong tương lai."
+    },
+    {
+      "id": 10,
+      "question": "Thông điệp cốt lõi của chương này là gì?",
+      "options": [
+        "Hãy luôn làm việc miễn phí để cảm thấy hạnh phúc",
+        "Một câu chuyện hay về bản thân sẽ tạo ra nguồn động lực vô cùng lớn",
+        "Tiền bạc luôn làm giảm hiệu suất công việc",
+        "Không bao giờ nên nhờ người khác giúp đỡ trong cơn mưa"
+      ],
+      "answer": "Một câu chuyện hay về bản thân sẽ tạo ra nguồn động lực vô cùng lớn",
+      "explanation": "Tác giả kết luận rằng việc kể cho bản thân một câu chuyện tích cực và ý nghĩa sẽ định hình tính cách và hành động của bạn. Khi bạn tin rằng mình là một \"kiểu người\" đặc biệt, niềm tin đó sẽ trở thành nguồn động lực nội tại mạnh mẽ nhất dẫn dắt mọi quyết định."
+    }
+  ],
+  "38_33. Ong bắp cày đốt sưng tâm trí tôi.md": [
+    {
+      "id": 1,
+      "question": "Sự cố gì đã xảy ra với tác giả khi đi xe đạp ở Thung lũng Panthertown?",
+      "options": [
+        "Bị ngã xe do đường trơn trượt",
+        "Bị lạc đường trong rừng",
+        "Bị một đàn ong bắp cày chích khi chạm vào thùng thư",
+        "Bị xe hơi đụng phải ở bãi đậu xe"
+      ],
+      "answer": "Bị một đàn ong bắp cày chích khi chạm vào thùng thư",
+      "explanation": "Ở phần mở đầu chương, tác giả chia sẻ câu chuyện cá nhân khi đi xe đạp tại Thung lũng Panthertown. Ông đã chạm vào một cái thùng thư và vô tình bị một đàn ong bắp cày tấn công, gây ra hàng loạt vết chích đau đớn."
+    },
+    {
+      "id": 2,
+      "question": "Tác giả đã có phản ứng tâm lý gì ngay sau khi bị ong chích rất nhiều?",
+      "options": [
+        "Rất bình tĩnh và phớt lờ các vết chích",
+        "Sợ hãi rằng mình sẽ bị sốc mẫn cảm và ngưng thở",
+        "Tức giận và muốn đốt bỏ cái thùng thư",
+        "Vui vẻ vì đây là một trải nghiệm đáng nhớ"
+      ],
+      "answer": "Sợ hãi rằng mình sẽ bị sốc mẫn cảm và ngưng thở",
+      "explanation": "Dù không có biểu hiện nguy kịch tức thời, nhưng tâm trí tác giả lại tạo ra một viễn cảnh tồi tệ nhất. Ông bị ám ảnh bởi nỗi sợ sẽ rơi vào trạng thái sốc mẫn cảm (sốc phản vệ) dẫn đến ngưng thở và mất mạng."
+    },
+    {
+      "id": 3,
+      "question": "Vấn đề của nhân vật Charles (nhà lãnh đạo cấp cao) trong câu chuyện là gì?",
+      "options": [
+        "Anh ấy không có đủ năng lực để làm việc",
+        "Anh ấy tưởng tượng ra rằng mọi người đang âm mưu hất anh ấy ra khỏi công ty",
+        "Anh ấy muốn tranh giành vị trí CEO",
+        "Anh ấy thường xuyên đi làm muộn"
+      ],
+      "answer": "Anh ấy tưởng tượng ra rằng mọi người đang âm mưu hất anh ấy ra khỏi công ty",
+      "explanation": "Charles tự dựng lên một kịch bản tiêu cực trong đầu sau khi bị loại khỏi một cuộc họp nhỏ. Thay vì suy nghĩ logic, anh tự cho rằng mọi người đang hợp sức để âm mưu hất cẳng anh ra khỏi tổ chức."
+    },
+    {
+      "id": 4,
+      "question": "Hành động của Charles sau khi không được mời dự họp đã dẫn đến kết quả thực tế nào?",
+      "options": [
+        "Vị CEO quyết định sẽ thăng chức cho anh ấy",
+        "Mọi người hiểu lầm và xin lỗi anh ấy",
+        "Vị CEO rời buổi họp với suy nghĩ rằng không còn cách nào khác ngoài việc sa thải anh",
+        "Anh ấy tự nhận ra mình đã sai và thay đổi thái độ"
+      ],
+      "answer": "Vị CEO rời buổi họp với suy nghĩ rằng không còn cách nào khác ngoài việc sa thải anh",
+      "explanation": "Bằng việc phản ứng thái quá, phàn nàn và đòi họp riêng để bảo vệ quyền lực, Charles đã chứng minh nỗi sợ hãi của mình là đúng. Vị CEO cảm thấy mệt mỏi với thái độ này nên quyết định giải pháp duy nhất là phải sa thải anh."
+    },
+    {
+      "id": 5,
+      "question": "Theo tác giả, chúng ta nên làm gì khi tâm trí dựng nên những nỗi sợ vô căn cứ (như nghĩ người khác đang giận mình)?",
+      "options": [
+        "Tranh cãi để chứng minh mình đúng",
+        "Thu mình lại và không giao tiếp với ai",
+        "Giả vờ và hành động \"như thể\" những điều tích cực đang xảy ra",
+        "Chờ đợi xem kết quả tồi tệ nhất có đến không"
+      ],
+      "answer": "Giả vờ và hành động \"như thể\" những điều tích cực đang xảy ra",
+      "explanation": "Lấy cảm hứng từ Einstein, tác giả lập luận rằng khi tâm trí đang đánh lừa ta, việc cố suy nghĩ logic hơn sẽ không hiệu quả. Thay vào đó, ta nên chủ động \"hành động như thể\" mọi chuyện đều ổn để tạo ra một thực tại tích cực hơn."
+    },
+    {
+      "id": 6,
+      "question": "Nếu Charles áp dụng phương pháp \"hành động như thể\", anh ấy nên làm gì khi không được mời dự họp?",
+      "options": [
+        "Gửi email phàn nàn cho toàn bộ công ty",
+        "Đề nghị được tham gia vì muốn hỗ trợ mọi người, hành động như một thành viên có giá trị",
+        "Nộp đơn xin nghỉ việc ngay lập tức",
+        "Tự tổ chức một cuộc họp khác và không mời CEO"
+      ],
+      "answer": "Đề nghị được tham gia vì muốn hỗ trợ mọi người, hành động như một thành viên có giá trị",
+      "explanation": "Nếu Charles hành động như thể anh là một thành viên quan trọng muốn cống hiến cho nhóm thay vì một người bị bỏ rơi, kết quả đã hoàn toàn khác. Việc giả vờ tích cực sẽ giúp anh thể hiện thiện chí và giữ được ấn tượng tốt với sếp."
+    },
+    {
+      "id": 7,
+      "question": "Nếu một khách hàng không phản hồi và nói rằng họ quá bận, bạn nên \"hành động như thể\" điều gì?",
+      "options": [
+        "Họ đang nói dối và không muốn hợp tác",
+        "Họ thực sự quá bận rộn, và bạn nên tiếp tục liên lạc",
+        "Bạn đã làm điều gì đó sai và nên xin lỗi",
+        "Họ đã ký hợp đồng với công ty đối thủ"
+      ],
+      "answer": "Họ thực sự quá bận rộn, và bạn nên tiếp tục liên lạc",
+      "explanation": "Tác giả khuyên không nên tự suy diễn rằng khách hàng đang trốn tránh hay từ chối khéo. Bằng cách tin tưởng vào lý do \"họ đang bận\" và tiếp tục kiên nhẫn liên lạc, bạn mở ra cơ hội hợp tác thay vì tự đóng sập cánh cửa kinh doanh của mình."
+    },
+    {
+      "id": 8,
+      "question": "Tác giả đã áp dụng phương pháp nào để làm dịu nỗi sợ hãi khi bị ong chích trên đường đến hiệu thuốc?",
+      "options": [
+        "Cố gắng khống chế cảm giác sợ hãi bằng mọi giá",
+        "Đánh Eleanor để quên đi nỗi đau",
+        "Làm mình phân tâm bằng cách nói chuyện về bữa tối và hành động như thể vết chích không nguy hiểm",
+        "Lên mạng tìm hiểu các triệu chứng của sốc phản vệ"
+      ],
+      "answer": "Làm mình phân tâm bằng cách nói chuyện về bữa tối và hành động như thể vết chích không nguy hiểm",
+      "explanation": "Khi nhận ra việc cố gắng kiểm soát cơn hoảng loạn chỉ làm cơ thể phản ứng tệ hơn, tác giả đã chọn cách phớt lờ tâm trí mình. Bằng việc hành động như thể mọi chuyện vẫn bình thường, ông đã đánh lừa cơ thể để giảm căng thẳng và hồi phục."
+    },
+    {
+      "id": 9,
+      "question": "Tác giả cho rằng tâm trí con người đôi khi làm gì với chúng ta?",
+      "options": [
+        "Luôn dẫn dắt chúng ta đến những quyết định hoàn hảo",
+        "Đánh lừa chúng ta bằng cách tạo ra nỗi sợ và những hình ảnh không có thật",
+        "Không có tác dụng gì trong những tình huống nguy hiểm",
+        "Chỉ hoạt động hiệu quả khi chúng ta ngủ"
+      ],
+      "answer": "Đánh lừa chúng ta bằng cách tạo ra nỗi sợ và những hình ảnh không có thật",
+      "explanation": "Bài học cốt lõi là tâm trí thường tự tạo ra các kịch bản tồi tệ dựa trên sự suy diễn vô căn cứ. Tệ hơn, cách chúng ta phản ứng với những suy diễn này lại thường thúc đẩy người khác hành xử đúng như những gì ta lo sợ."
+    },
+    {
+      "id": 10,
+      "question": "Tác giả khuyên bạn nên chọn điều gì khi đối mặt với những suy nghĩ tiêu cực từ tâm trí?",
+      "options": [
+        "Chọn thế giới tưởng tượng nào ủng hộ và có lợi cho bạn",
+        "Nhờ người khác suy nghĩ hộ mình",
+        "Luôn luôn chuẩn bị cho trường hợp xấu nhất",
+        "Bỏ cuộc để khỏi phải suy nghĩ"
+      ],
+      "answer": "Chọn thế giới tưởng tượng nào ủng hộ và có lợi cho bạn",
+      "explanation": "Dù ở trong viễn cảnh nào thì thực chất chúng ta vẫn đang sống với những suy đoán của tâm trí. Tác giả nhấn mạnh rằng, thay vì chọn tin vào một kịch bản tồi tệ chống lại bản thân, hãy tự chủ động chọn một kịch bản tích cực hỗ trợ sự phát triển của mình."
+    }
+  ],
+  "39_34. Mối Quan Hệ Hợp Tác Mất Thời.md": [
+    {
+      "id": 1,
+      "question": "Nhân vật Nate phàn nàn về điều gì khi chuyển sang làm việc cho một công ty tư vấn lớn?",
+      "options": [
+        "Lương quá thấp",
+        "Lãng phí thời gian khủng khiếp vào các cuộc họp và công việc ngoài lề",
+        "Sếp của anh ấy quá khắt khe",
+        "Không có ai nói chuyện cùng"
+      ],
+      "answer": "Lãng phí thời gian khủng khiếp vào các cuộc họp và công việc ngoài lề",
+      "explanation": "Khi rời khỏi môi trường làm việc độc lập để vào một công ty lớn, Nate bị choáng ngợp bởi lượng công việc không tên. Anh than phiền rằng mình phải dành quá nhiều thời gian vô ích cho các cuộc họp và chỉ làm được việc chính khi ở lại công ty rất muộn."
+    },
+    {
+      "id": 2,
+      "question": "Trong một cuộc khảo sát 400 nhà lãnh đạo hàng đầu, điều gì KHÔNG được liệt kê là một trong 3 việc gây lãng phí thời gian nhiều nhất?",
+      "options": [
+        "Các cuộc họp không cần thiết",
+        "Những email không quan trọng",
+        "Đào tạo nhân sự mới",
+        "Các slide PowerPoint dài lê thê"
+      ],
+      "answer": "Đào tạo nhân sự mới",
+      "explanation": "Theo kết quả khảo sát của tác giả, 3 yếu tố gây lãng phí thời gian lớn nhất là các cuộc họp không cần thiết, những email không quan trọng và các slide PowerPoint dài lê thê. Đào tạo nhân sự mới không được nhắc đến trong danh sách này."
+    },
+    {
+      "id": 3,
+      "question": "Tác giả đề xuất một bài kiểm tra gồm bao nhiêu câu hỏi để quyết định xem có nên nhận lời giúp đỡ một việc hay không?",
+      "options": [
+        "2 câu hỏi",
+        "3 câu hỏi",
+        "4 câu hỏi",
+        "5 câu hỏi"
+      ],
+      "answer": "3 câu hỏi",
+      "explanation": "Để đối phó với những lời nhờ vả làm mất thời gian, tác giả giới thiệu một bài kiểm tra gồm 3 câu hỏi cốt lõi. Chỉ khi vượt qua cả ba câu hỏi này, bạn mới nên đồng ý tiêu tốn thời gian vào yêu cầu đó."
+    },
+    {
+      "id": 4,
+      "question": "Câu hỏi đầu tiên trong bài kiểm tra của tác giả là gì?",
+      "options": [
+        "Việc này có mang lại tiền không?",
+        "Tôi có phải là người thích hợp không?",
+        "Tôi có thời gian rảnh không?",
+        "Sếp có yêu cầu việc này không?"
+      ],
+      "answer": "Tôi có phải là người thích hợp không?",
+      "explanation": "Câu hỏi đầu tiên giúp bạn xác định xem công việc này có thực sự phù hợp với chuyên môn, chức năng và vai trò của bạn hay không. Nếu không, tốt nhất bạn nên chuyển giao công việc đó cho người có chuyên môn hơn."
+    },
+    {
+      "id": 5,
+      "question": "Câu hỏi thứ hai trong bài kiểm tra của tác giả là gì?",
+      "options": [
+        "Đây có phải là thời điểm thích hợp không?",
+        "Việc này có khó không?",
+        "Ai sẽ là người chịu trách nhiệm chính?",
+        "Khách hàng có quan trọng không?"
+      ],
+      "answer": "Đây có phải là thời điểm thích hợp không?",
+      "explanation": "Sau khi xác định mình là người phù hợp, câu hỏi thứ hai nhằm xem xét liệu bạn có nên làm việc đó ngay lập tức hay không. Bạn cần đảm bảo việc giải quyết yêu cầu đó không làm ảnh hưởng đến những nhiệm vụ ưu tiên khác đang làm."
+    },
+    {
+      "id": 6,
+      "question": "Câu hỏi thứ ba trong bài kiểm tra của tác giả là gì?",
+      "options": [
+        "Tôi có được thăng chức nếu làm việc này không?",
+        "Người nhờ tôi có đáng tin cậy không?",
+        "Tôi có đầy đủ thông tin chưa?",
+        "Tôi có thể chuyển việc này cho ai?"
+      ],
+      "answer": "Tôi có đầy đủ thông tin chưa?",
+      "explanation": "Câu hỏi cuối cùng giúp bạn tránh lãng phí thời gian khi bắt tay vào một công việc mơ hồ. Nếu chưa có đầy đủ thông tin và dữ liệu cần thiết từ người yêu cầu, bạn nên từ chối hoặc chờ đợi cho đến khi thu thập đủ."
+    },
+    {
+      "id": 7,
+      "question": "Bạn nên làm gì nếu yêu cầu của người khác bị trả lời \"không\" cho bất kỳ câu hỏi nào trong bài kiểm tra trên?",
+      "options": [
+        "Vẫn thực hiện nó nhưng làm cho xong chuyện",
+        "Từ chối hoặc chuyển nó cho người khác, lên lịch lại hoặc đợi thêm thông tin",
+        "Nhận lời ngay lập tức để thể hiện sự nhiệt tình",
+        "Phàn nàn với bộ phận nhân sự"
+      ],
+      "answer": "Từ chối hoặc chuyển nó cho người khác, lên lịch lại hoặc đợi thêm thông tin",
+      "explanation": "Tác giả nhấn mạnh nguyên tắc cứng rắn: chỉ cần một câu trả lời \"không\", bạn không nên thực hiện yêu cầu đó ngay. Thay vào đó, hãy từ chối, ủy quyền, dời lịch hoặc yêu cầu cung cấp thêm thông tin để bảo vệ quỹ thời gian của mình."
+    },
+    {
+      "id": 8,
+      "question": "Trớ trêu lớn nhất của việc cố gắng đáp ứng mọi yêu cầu để trở thành người \"có ích\" là gì?",
+      "options": [
+        "Bạn sẽ được thăng chức quá nhanh",
+        "Để công việc khiến ta quá tải chính là thứ khiến ta trở nên vô dụng",
+        "Bạn sẽ kiếm được ít tiền hơn",
+        "Người khác sẽ ghen tị với bạn"
+      ],
+      "answer": "Để công việc khiến ta quá tải chính là thứ khiến ta trở nên vô dụng",
+      "explanation": "Rất nhiều người ôm đồm công việc vì muốn làm người tử tế và có ích cho tổ chức. Nhưng trớ trêu thay, sự quá tải vì làm những việc không tên lại rút cạn sức lực, khiến họ không thể làm tốt những nhiệm vụ quan trọng thực sự, từ đó trở nên vô dụng."
+    },
+    {
+      "id": 9,
+      "question": "Tác giả khuyên bạn nên làm gì với những email mà bạn không phải là người nhận chính?",
+      "options": [
+        "Trả lời tất cả (REPLY ALL) để tỏ ra có trách nhiệm",
+        "Lưu trữ chúng để đọc vào cuối tuần",
+        "Yêu cầu người gửi bỏ bạn ra khỏi danh sách trước khi bị kẹt trong đống email phản hồi",
+        "Chuyển tiếp cho toàn bộ công ty"
+      ],
+      "answer": "Yêu cầu người gửi bỏ bạn ra khỏi danh sách trước khi bị kẹt trong đống email phản hồi",
+      "explanation": "Để tránh bị làm phiền bởi những thông báo email dây chuyền không cần thiết (REPLY ALL), tác giả khuyên nên giải quyết vấn đề từ gốc. Việc chủ động xin ra khỏi danh sách nhận email sẽ tiết kiệm cho bạn rất nhiều thời gian lọc tin nhắn rác."
+    },
+    {
+      "id": 10,
+      "question": "Tình trạng của Nate thay đổi như thế nào sau vài tuần áp dụng ba câu hỏi của tác giả?",
+      "options": [
+        "Anh ấy đã bị đuổi việc",
+        "Anh ấy phải ngủ lại ở công ty",
+        "Anh ấy vẫn phải làm việc đến tối mịt",
+        "Anh ấy đã có thể ra về lúc 6 giờ chiều"
+      ],
+      "answer": "Anh ấy đã có thể ra về lúc 6 giờ chiều",
+      "explanation": "Bằng cách áp dụng triệt để bộ 3 câu hỏi để biết khi nào nên từ chối, Nate đã loại bỏ được những yêu cầu lãng phí thời gian. Kết quả là thay vì làm đến tối mịt, anh đã quản lý công việc hiệu quả và ra về lúc 6 giờ chiều."
+    }
+  ]
+}

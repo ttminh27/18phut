@@ -1,0 +1,612 @@
+{
+  "30_27. Bạn Sẽ Ngạc Nhiên Về Những Gì.md": [
+    {
+      "id": 1,
+      "question": "Vấn đề cốt lõi của nhân viên xuất sắc Julie trong câu chuyện là gì?",
+      "options": [
+        "Cô ấy thiếu năng lực chuyên môn và không nỗ lực trong công việc.",
+        "Cô ấy không nghĩ rằng bản thân mình có vấn đề trong cách làm việc với người khác.",
+        "Cô ấy liên tục bị đồng nghiệp phàn nàn và cấp trên trù dập.",
+        "Cô ấy muốn chiếm đoạt vị trí của người quản lý trực tiếp."
+      ],
+      "answer": "Cô ấy không nghĩ rằng bản thân mình có vấn đề trong cách làm việc với người khác.",
+      "explanation": "Tác giả kể về Julie, một nhân viên giỏi nhưng luôn đổ lỗi cho sếp và đồng nghiệp. Vấn đề thực sự là cô ấy không nhận thức được khuyết điểm trong giao tiếp của chính mình, dẫn đến việc liên tục gặp rắc rối ở nhiều nơi làm việc."
+    },
+    {
+      "id": 2,
+      "question": "Tại sao Julie không nhận ra vấn đề của mình?",
+      "options": [
+        "Vì những người xung quanh luôn giấu giếm phản hồi tiêu cực với cô.",
+        "Vì cô ấy làm việc quá sức và không dừng lại đủ lâu để suy ngẫm.",
+        "Vì cô ấy cho rằng mình luôn luôn đúng và người khác sai.",
+        "Vì công ty chưa bao giờ có một buổi đánh giá hiệu suất nhân viên."
+      ],
+      "answer": "Vì cô ấy làm việc quá sức và không dừng lại đủ lâu để suy ngẫm.",
+      "explanation": "Julie làm việc liên tục 15 giờ mỗi ngày, khiến cô luôn trong trạng thái vội vã. Do không có những khoảng dừng để nhìn nhận lại bản thân, cô đã bỏ lỡ cơ hội nhận ra những sai sót trong cách cư xử của mình."
+    },
+    {
+      "id": 3,
+      "question": "Tác giả cho rằng kỹ năng duy nhất quan trọng nhất mà một công ty nên dạy cho nhân viên là gì?",
+      "options": [
+        "Kỹ năng giao tiếp và thuyết phục khách hàng.",
+        "Cách học hỏi từ hành động trong quá khứ để lặp lại điều tốt và thay đổi điều xấu.",
+        "Kỹ năng lập kế hoạch chiến lược dài hạn.",
+        "Cách khắc phục hoàn toàn mọi điểm yếu của bản thân."
+      ],
+      "answer": "Cách học hỏi từ hành động trong quá khứ để lặp lại điều tốt và thay đổi điều xấu.",
+      "explanation": "Tác giả nhấn mạnh kỹ năng quan trọng nhất không phải là kiến thức chuyên môn, mà là khả năng tự đánh giá và rút kinh nghiệm. Việc học từ quá khứ giúp nhân viên phát huy điểm mạnh và sửa chữa điểm yếu hiệu quả hơn."
+    },
+    {
+      "id": 4,
+      "question": "Theo tác giả, học hỏi từ quá khứ đòi hỏi điều gì thay vì tốn nhiều thời gian?",
+      "options": [
+        "Sự tự tin, tâm trí cởi mở và không biện hộ.",
+        "Năng lực tư duy logic phi thường và chỉ số IQ cao.",
+        "Một bộ phận chuyên gia đánh giá và phân tích dữ liệu độc lập.",
+        "Hàng tuần tổ chức các buổi hội thảo đánh giá chuyên sâu."
+      ],
+      "answer": "Sự tự tin, tâm trí cởi mở và không biện hộ.",
+      "explanation": "Tác giả cho rằng việc tự suy ngẫm không cần tốn quá nhiều thời gian mà cần thái độ đúng đắn. Một tâm trí cởi mở và dũng cảm đối diện với sự thật sẽ giúp bạn học hỏi nhanh chóng hơn là viện cớ."
+    },
+    {
+      "id": 5,
+      "question": "Tác giả khuyên bạn nên dành khoảng thời gian bao lâu vào cuối ngày để suy ngẫm?",
+      "options": [
+        "Ít nhất 30 phút.",
+        "Khoảng 5 phút.",
+        "Từ 1 đến 2 giờ.",
+        "Một khoảng thời gian không cố định, tùy vào mức độ công việc."
+      ],
+      "answer": "Khoảng 5 phút.",
+      "explanation": "Chỉ với khoảng 5 phút mỗi cuối ngày, bạn có đủ thời gian để đánh giá lại các hoạt động đã diễn ra. Khoảng thời gian ngắn này giúp duy trì thói quen mà không gây áp lực thời gian."
+    },
+    {
+      "id": 6,
+      "question": "Nhóm câu hỏi nào KHÔNG nằm trong ba nhóm câu hỏi tác giả khuyên bạn tự hỏi vào cuối ngày?",
+      "options": [
+        "Ngày hôm nay đã trôi qua thế nào? Tôi đã đạt được thành công/thử thách nào?",
+        "Tôi đã học được gì hôm nay về bản thân và người khác?",
+        "Những đối thủ cạnh tranh của tôi đã làm gì tốt hơn tôi hôm nay?",
+        "Tôi đã gặp gỡ những ai và có cần cập nhật thông tin/cảm ơn ai không?"
+      ],
+      "answer": "Những đối thủ cạnh tranh của tôi đã làm gì tốt hơn tôi hôm nay?",
+      "explanation": "Ba nhóm câu hỏi tập trung vào tiến độ công việc cá nhân, bài học rút ra và các mối quan hệ. Việc soi mói đối thủ không nằm trong mục tiêu tự suy ngẫm để phát triển bản thân của phương pháp này."
+    },
+    {
+      "id": 7,
+      "question": "Tác dụng chính của nhóm câu hỏi cuối cùng (\"Tôi đã gặp gỡ những ai?\") là gì?",
+      "options": [
+        "Theo dõi lỗi lầm của đồng nghiệp để báo cáo.",
+        "Giữ gìn và phát triển các mối quan hệ thiết yếu trong thế giới phụ thuộc lẫn nhau.",
+        "Thu thập thông tin tình báo về đối thủ trong ngành.",
+        "Mở rộng danh sách khách hàng tiềm năng để tăng doanh số."
+      ],
+      "answer": "Giữ gìn và phát triển các mối quan hệ thiết yếu trong thế giới phụ thuộc lẫn nhau.",
+      "explanation": "Tác giả chỉ ra rằng thành công không chỉ dựa vào năng lực mà còn phụ thuộc vào mạng lưới quan hệ. Câu hỏi này nhắc nhở chúng ta duy trì liên lạc và thể hiện sự trân trọng đối với những người đã hỗ trợ mình."
+    },
+    {
+      "id": 8,
+      "question": "Phản ứng của Julie sau khi áp dụng phương pháp chậm lại và nhìn nhận là gì?",
+      "options": [
+        "Cô ấy từ chức vì cảm thấy áp lực từ sự thay đổi.",
+        "Cô ấy bắt đầu thay đổi chậm rãi và gọi điện cảm ơn tác giả trước khi đi uống cùng nhóm.",
+        "Cô ấy trở nên thụ động và phớt lờ mọi công việc.",
+        "Cô ấy viết một bản báo cáo dài 10 trang để biện minh cho hành vi trong quá khứ."
+      ],
+      "answer": "Cô ấy bắt đầu thay đổi chậm rãi và gọi điện cảm ơn tác giả trước khi đi uống cùng nhóm.",
+      "explanation": "Khi bắt đầu thực hành việc dừng lại để suy ngẫm, Julie đã dần nhận ra vấn đề và thay đổi tích cực. Hành động gọi điện cảm ơn cho thấy cô đã biết trân trọng các mối quan hệ hơn trước."
+    },
+    {
+      "id": 9,
+      "question": "Sai lầm phổ biến nhất của con người khi càng lớn tuổi, theo quan sát của tác giả, là gì?",
+      "options": [
+        "Đánh mất khả năng ghi nhớ các chi tiết nhỏ.",
+        "Trở nên quá thận trọng và không dám chấp nhận rủi ro.",
+        "Thường phạm lại cùng một sai lầm và ít lặp lại những việc làm đúng đắn.",
+        "Dành quá nhiều thời gian để chỉ trích giới trẻ."
+      ],
+      "answer": "Thường phạm lại cùng một sai lầm và ít lặp lại những việc làm đúng đắn.",
+      "explanation": "Tác giả nhận thấy nhiều người có xu hướng lặp lại những thói quen xấu do thiếu sự tự nhận thức. Việc không suy ngẫm khiến họ tiếp tục mắc sai lầm cũ thay vì phát huy những thành công đã có."
+    },
+    {
+      "id": 10,
+      "question": "Thông điệp trọng tâm của chương này là gì?",
+      "options": [
+        "Những khoảnh khắc suy ngẫm ngắn ngủi cuối ngày là bí quyết để ngày mai tốt hơn ngày hôm nay.",
+        "Đừng bao giờ làm việc quá chăm chỉ nếu không được trả lương xứng đáng.",
+        "Muốn thành công, phải loại bỏ hoàn toàn cái tôi cá nhân.",
+        "Sự xuất sắc cá nhân quan trọng hơn khả năng làm việc nhóm."
+      ],
+      "answer": "Những khoảnh khắc suy ngẫm ngắn ngủi cuối ngày là bí quyết để ngày mai tốt hơn ngày hôm nay.",
+      "explanation": "Toàn bộ chương nhấn mạnh tầm quan trọng của việc dành ra những phút tĩnh lặng để đánh giá bản thân. Quá trình này giúp chúng ta nhận ra điểm cần cải thiện, từ đó nâng cao hiệu suất cho ngày hôm sau."
+    }
+  ],
+  "31_28. 18 Phút Để Quản Lý Một Ngày Của.md": [
+    {
+      "id": 1,
+      "question": "Tác giả sử dụng câu hỏi nào để mở đầu khi giảng dạy về cách quản lý thời gian?",
+      "options": [
+        "\"Bao nhiêu người trong số các bạn muốn kiếm thêm tiền?\"",
+        "\"Bao nhiêu người trong số các bạn có quá nhiều thời gian và không đủ việc để làm?\"",
+        "\"Ai cảm thấy mình đang lãng phí cuộc đời vào công việc?\"",
+        "\"Các bạn có biết cách lập kế hoạch dài hạn không?\""
+      ],
+      "answer": "\"Bao nhiêu người trong số các bạn có quá nhiều thời gian và không đủ việc để làm?\"",
+      "explanation": "Tác giả dùng câu hỏi này để thu hút sự chú ý vì trong môi trường làm việc hiện đại, hầu như không ai rảnh rỗi. Đây là cách khéo léo để dẫn dắt vào vấn đề chung mà mọi người đều gặp phải: quá tải công việc."
+    },
+    {
+      "id": 2,
+      "question": "Bí quyết thành công cốt lõi của chuyên gia thể hình Jack LaLanne, theo nhận định của tác giả, là gì?",
+      "options": [
+        "Sáng chế ra nhiều loại máy tập thể dục hiện đại.",
+        "Khả năng tự còng tay và bơi kéo tàu.",
+        "Chương trình truyền hình phát sóng kỷ lục 34 năm.",
+        "Việc xây dựng một thói quen cố định và kiên trì hàng ngày."
+      ],
+      "answer": "Việc xây dựng một thói quen cố định và kiên trì hàng ngày.",
+      "explanation": "Dù Jack LaLanne nổi tiếng với nhiều kỳ tích, điều cốt lõi tạo nên thành công của ông chính là kỷ luật duy trì thói quen tập luyện và ăn uống nghiêm ngặt mỗi ngày. Tác giả nhấn mạnh sức mạnh của thói quen hơn là những thành tựu nhất thời."
+    },
+    {
+      "id": 3,
+      "question": "Quá trình 18 phút một ngày được tác giả phân chia thành mấy bước cơ bản?",
+      "options": [
+        "2 bước.",
+        "3 bước.",
+        "4 bước.",
+        "5 bước."
+      ],
+      "answer": "3 bước.",
+      "explanation": "Phương pháp quản lý thời gian 18 phút được cấu trúc thành ba bước thực hành đơn giản. Bao gồm: 5 phút buổi sáng, 1 phút mỗi giờ trong giờ làm việc (tổng cộng 8 phút), và 5 phút cuối ngày."
+    },
+    {
+      "id": 4,
+      "question": "Bước 1 của quy trình 18 phút đòi hỏi bạn dành ra 5 phút vào buổi sáng để làm gì?",
+      "options": [
+        "Đọc báo và cập nhật tin tức thế giới.",
+        "Lập kế hoạch và quyết định điều gì sẽ khiến ngày hôm đó thành công rực rỡ trước khi mở máy vi tính.",
+        "Dọn dẹp bàn làm việc và trả lời tất cả email tồn đọng từ hôm trước.",
+        "Họp chớp nhoáng với toàn bộ nhân viên trong bộ phận."
+      ],
+      "answer": "Lập kế hoạch và quyết định điều gì sẽ khiến ngày hôm đó thành công rực rỡ trước khi mở máy vi tính.",
+      "explanation": "Buổi sáng là thời điểm quan trọng để định hướng ngày mới. Bằng cách xác định trước những mục tiêu cốt lõi, bạn sẽ tránh bị cuốn vào vòng xoáy email và những việc lặt vặt không tên."
+    },
+    {
+      "id": 5,
+      "question": "Mục đích của Bước 2 (Một phút mỗi giờ) là gì?",
+      "options": [
+        "Tái tập trung bằng cách tự hỏi xem bạn có vừa trải qua một giờ hiệu quả hay không.",
+        "Rời khỏi bàn làm việc để tập thể dục nhẹ nhàng trong một phút.",
+        "Gọi điện thoại cho gia đình để giảm bớt căng thẳng.",
+        "Kiểm tra nhanh hòm thư email để không bỏ lỡ tin nhắn khẩn cấp."
+      ],
+      "answer": "Tái tập trung bằng cách tự hỏi xem bạn có vừa trải qua một giờ hiệu quả hay không.",
+      "explanation": "Việc dừng lại một phút mỗi giờ giúp bạn đánh giá ngay lập tức mức độ tập trung của bản thân. Nếu nhận ra mình đang xao nhãng, bạn có thể kịp thời điều chỉnh lại ưu tiên trước khi lãng phí thêm thời gian."
+    },
+    {
+      "id": 6,
+      "question": "Trong Bước 3 (5 phút cuối ngày), tác giả KHUYÊN bạn nên làm hành động gì?",
+      "options": [
+        "Lập sẵn kế hoạch chi tiết cho tuần tiếp theo.",
+        "Tắt máy vi tính, suy ngẫm về ngày đã qua và liên lạc với những người cần thiết.",
+        "Tính toán lại chi phí và doanh thu của cá nhân trong ngày.",
+        "Viết một bài blog ngắn về những thành tựu vừa đạt được."
+      ],
+      "answer": "Tắt máy vi tính, suy ngẫm về ngày đã qua và liên lạc với những người cần thiết.",
+      "explanation": "Bước cuối cùng tập trung vào việc tổng kết và duy trì quan hệ. Đánh giá lại những gì đã làm được và gửi đi những lời cảm ơn ngắn gọn sẽ giúp bạn kết thúc ngày làm việc một cách trọn vẹn."
+    },
+    {
+      "id": 7,
+      "question": "Sức mạnh thực sự của một thói quen nằm ở đâu?",
+      "options": [
+        "Ở tính linh hoạt, có thể thay đổi bất cứ lúc nào.",
+        "Ở khả năng mang lại lợi ích tài chính ngay lập tức.",
+        "Ở tính có thể dự đoán được của nó khi bạn thực hiện một việc lặp đi lặp lại.",
+        "Ở sự phức tạp đòi hỏi nhiều trí lực để duy trì."
+      ],
+      "answer": "Ở tính có thể dự đoán được của nó khi bạn thực hiện một việc lặp đi lặp lại.",
+      "explanation": "Thói quen có sức mạnh vì nó giúp hành động trở thành tự động và dễ dàng duy trì. Tính chất lặp lại nhất quán này tạo ra kết quả lâu dài mà không cần quá nhiều nỗ lực ý chí mỗi ngày."
+    },
+    {
+      "id": 8,
+      "question": "Theo tác giả, quản lý một ngày bằng 18 phút nhằm mục đích cuối cùng là gì?",
+      "options": [
+        "Giúp bạn trở thành người nổi tiếng như Jack LaLanne.",
+        "Cho phép bạn rời văn phòng với cảm giác hiệu quả và thành công.",
+        "Trừng phạt những nhân viên không biết tối ưu hóa thời gian.",
+        "Thay thế hoàn toàn mọi hệ thống quản trị dự án phức tạp."
+      ],
+      "answer": "Cho phép bạn rời văn phòng với cảm giác hiệu quả và thành công.",
+      "explanation": "Mục tiêu cốt lõi không phải là biến bạn thành cỗ máy làm việc, mà là mang lại cảm giác hài lòng về những gì đã hoàn thành. Khi biết mình đã tập trung vào đúng việc, bạn có thể an tâm nghỉ ngơi."
+    },
+    {
+      "id": 9,
+      "question": "Theo tác giả, khi nghe tín hiệu bíp mỗi giờ, điều đầu tiên bạn nên làm là gì?",
+      "options": [
+        "Uống một ngụm nước lớn.",
+        "Nhắm mắt lại và ngủ gục trong 30 giây.",
+        "Hít thở sâu và đánh giá lại một giờ vừa qua.",
+        "Đọc to mục tiêu của cả năm."
+      ],
+      "answer": "Hít thở sâu và đánh giá lại một giờ vừa qua.",
+      "explanation": "Tín hiệu bíp đóng vai trò như một lời nhắc nhở nhẹ nhàng để tạm dừng công việc hiện tại. Hít thở sâu giúp thanh lọc tâm trí, tạo không gian để nhìn nhận lại sự hiệu quả của bản thân."
+    },
+    {
+      "id": 10,
+      "question": "Kỹ năng nào được tác giả đánh giá là \"có lẽ quan trọng nhất chúng ta có thể học\" ở cuối chương?",
+      "options": [
+        "Kỹ năng giao tiếp trước đám đông.",
+        "Kỹ năng đọc nhanh và ghi nhớ.",
+        "Kỹ năng đàm phán thương lượng.",
+        "Kỹ năng làm chủ sự phân tâm."
+      ],
+      "answer": "Kỹ năng làm chủ sự phân tâm.",
+      "explanation": "Trong thời đại tràn ngập thông tin, sự phân tâm là kẻ thù lớn nhất của năng suất. Tác giả khẳng định rằng khả năng điều hướng lại sự chú ý vào đúng mục tiêu chính là chìa khóa để làm việc hiệu quả."
+    }
+  ],
+  "32_IV. Làm Gì Trong Thời Điểm Này.md": [
+    {
+      "id": 1,
+      "question": "Hành động \"TÌM VỊ TRÍ CỦA TÔI\" được tác giả ẩn dụ cho quá trình gì?",
+      "options": [
+        "Mua một căn nhà mới bằng công cụ bản đồ vệ tinh.",
+        "Định vị lại cuộc sống để tận dụng tối đa ưu điểm, khuyết điểm và đam mê của bản thân.",
+        "Sử dụng GPS để tìm đường đến công sở mỗi ngày.",
+        "Trốn chạy khỏi những trách nhiệm nặng nề của hiện tại."
+      ],
+      "answer": "Định vị lại cuộc sống để tận dụng tối đa ưu điểm, khuyết điểm và đam mê của bản thân.",
+      "explanation": "Giống như việc tìm kiếm vị trí trên bản đồ trước khi chỉ đường, chúng ta cần hiểu rõ bản thân trước khi hành động. Việc này giúp xác định đúng những lĩnh vực thế mạnh để tập trung phát triển và đạt hiệu quả cao nhất."
+    },
+    {
+      "id": 2,
+      "question": "Theo tác giả, tại sao đa phần những quyển sách về quản lý thời gian \"bắt đầu quá muộn\"?",
+      "options": [
+        "Vì chúng được viết khi người đọc đã già.",
+        "Vì chúng không dạy cách sử dụng công nghệ mới.",
+        "Vì chúng bỏ qua việc lựa chọn chiến lược về nơi nên và không nên dành thời gian, dẫn đến hoàn thành sai việc.",
+        "Vì chúng chỉ tập trung vào việc quản lý rủi ro tài chính."
+      ],
+      "answer": "Vì chúng bỏ qua việc lựa chọn chiến lược về nơi nên và không nên dành thời gian, dẫn đến hoàn thành sai việc.",
+      "explanation": "Nhiều sách quản lý thời gian chỉ dạy cách làm việc nhanh hơn mà không xét đến tính đúng đắn của công việc đó. Làm việc năng suất nhưng sai mục tiêu chiến lược thì chỉ dẫn đến sự lãng phí thời gian một cách nhanh chóng hơn."
+    },
+    {
+      "id": 3,
+      "question": "Đa số những quyển sách về quản lý thời gian \"kết thúc quá sớm\" vì lý do gì?",
+      "options": [
+        "Chúng không đề cập đến cách thực hiện và theo sát mỗi ngày trong thực tế.",
+        "Chúng quá ngắn và thiếu các ví dụ minh họa sống động.",
+        "Chúng không được cập nhật theo những xu hướng quản trị mới nhất.",
+        "Chúng bỏ qua bước lập kế hoạch dài hạn."
+      ],
+      "answer": "Chúng không đề cập đến cách thực hiện và theo sát mỗi ngày trong thực tế.",
+      "explanation": "Các chiến lược vĩ mô thường dễ vạch ra nhưng rất khó để áp dụng vào từng phút giây trong ngày. Tác giả phê bình việc thiếu sót các công cụ thực tế giúp người đọc vượt qua sự trì hoãn và phân tâm hàng ngày."
+    },
+    {
+      "id": 4,
+      "question": "Tác giả đã giải quyết việc hay bị phân tâm và trì hoãn công việc viết lách của mình bằng cách nào?",
+      "options": [
+        "Thuê một người quản lý thời gian chuyên nghiệp để nhắc nhở.",
+        "Bắt đầu viết vào sáng sớm (5, 6 giờ sáng) khi chưa có nhiều việc làm xao nhãng.",
+        "Từ bỏ công việc viết lách để tập trung hoàn toàn vào diễn thuyết.",
+        "Chỉ viết khi đi du lịch nước ngoài."
+      ],
+      "answer": "Bắt đầu viết vào sáng sớm (5, 6 giờ sáng) khi chưa có nhiều việc làm xao nhãng.",
+      "explanation": "Tác giả nhận ra bản thân dễ bị cuốn vào các công việc lặt vặt như dọn dẹp hay email. Để khắc phục, ông chọn làm việc quan trọng nhất vào thời điểm tinh mơ, khi các yếu tố gây nhiễu chưa xuất hiện."
+    },
+    {
+      "id": 5,
+      "question": "Tác giả miêu tả quá trình nào là \"cây cầu duy nhất giữa ý tưởng và hiện thực\"?",
+      "options": [
+        "Việc lên ý tưởng sáng tạo đột phá.",
+        "Việc thu hút vốn đầu tư từ các đối tác.",
+        "Việc thực hiện và theo sát kế hoạch một cách kiên quyết và tế nhị.",
+        "Việc thuê đúng người thực hiện ý tưởng cho mình."
+      ],
+      "answer": "Việc thực hiện và theo sát kế hoạch một cách kiên quyết và tế nhị.",
+      "explanation": "Ý tưởng tốt đến mấy cũng vô nghĩa nếu không được triển khai thực tế. Quá trình hành động bền bỉ chính là cầu nối chuyển hóa những suy nghĩ trên giấy thành kết quả cụ thể."
+    },
+    {
+      "id": 6,
+      "question": "Khi chúng ta né tránh một nhiệm vụ mang tính thử thách, chúng ta thường làm gì?",
+      "options": [
+        "Trực tiếp nói với sếp rằng chúng ta từ chối làm.",
+        "Lấp đầy thời gian bằng những việc như dọn nhà, trả lời email, lướt web để trì hoãn.",
+        "Nghỉ việc và chuyển sang một ngành nghề hoàn toàn mới.",
+        "Phân công lại nhiệm vụ đó cho đồng nghiệp cấp dưới."
+      ],
+      "answer": "Lấp đầy thời gian bằng những việc như dọn nhà, trả lời email, lướt web để trì hoãn.",
+      "explanation": "Tâm lý con người thường trốn tránh sự khó chịu bằng cách tạo ra cảm giác bận rộn giả tạo. Chúng ta chọn làm những việc dễ dàng, ít nỗ lực để biện minh cho việc trì hoãn công việc chính yếu."
+    },
+    {
+      "id": 7,
+      "question": "Tại sao công việc mang tính thử thách, dù ta có hứng thú, vẫn khiến ta dễ trì hoãn?",
+      "options": [
+        "Vì ta biết mình sẽ thất bại thảm hại.",
+        "Vì nó đòi hỏi suy nghĩ nhiều, đầu tư công sức khiến ta nản chí ở bước khởi đầu.",
+        "Vì đồng nghiệp không muốn ta thành công với dự án đó.",
+        "Vì công việc đó không mang lại lợi ích tài chính ngay lập tức."
+      ],
+      "answer": "Vì nó đòi hỏi suy nghĩ nhiều, đầu tư công sức khiến ta nản chí ở bước khởi đầu.",
+      "explanation": "Bản chất của những công việc lớn là cần năng lượng tư duy cao, tạo ra sự ngần ngại ban đầu. Vượt qua được 'sức ì' ở bước xuất phát này chính là rào cản lớn nhất của sự trì hoãn."
+    },
+    {
+      "id": 8,
+      "question": "Phần này của quyển sách (\"Làm gì trong thời điểm này\") được chia thành 3 khía cạnh cốt lõi nào?",
+      "options": [
+        "Làm chủ quá khứ, Làm chủ hiện tại, Làm chủ tương lai.",
+        "Làm chủ các bước khởi đầu, Làm chủ những ranh giới, Làm chủ bản thân.",
+        "Làm chủ công nghệ, Làm chủ cảm xúc, Làm chủ các mối quan hệ.",
+        "Làm chủ tài chính, Làm chủ thời gian, Làm chủ không gian."
+      ],
+      "answer": "Làm chủ các bước khởi đầu, Làm chủ những ranh giới, Làm chủ bản thân.",
+      "explanation": "Để quản lý tốt thời gian trong thời điểm hiện tại, tác giả đưa ra cấu trúc gồm ba phần chính. Chúng tập trung vào việc vượt qua sự trì hoãn, thiết lập giới hạn với môi trường và kiểm soát những cám dỗ cá nhân."
+    },
+    {
+      "id": 9,
+      "question": "Việc dọn dẹp nhà cửa, lướt web hay trả lời email trở nên tiêu cực (phân tâm) khi nào?",
+      "options": [
+        "Khi chúng ta thực hiện chúng vào ban đêm.",
+        "Khi chúng ta không sắp xếp chúng vào thời gian biểu cố định.",
+        "Khi chúng được dùng làm cái cớ để né tránh nhiệm vụ quan trọng mà ta cần thực hiện.",
+        "Khi chúng ta làm những việc đó một cách cẩu thả, không hiệu quả."
+      ],
+      "answer": "Khi chúng được dùng làm cái cớ để né tránh nhiệm vụ quan trọng mà ta cần thực hiện.",
+      "explanation": "Những công việc này bản chất không xấu nếu được thực hiện đúng lúc. Tuy nhiên, chúng trở thành yếu tố phân tâm độc hại khi ta dùng chúng như công cụ để chạy trốn khỏi áp lực của công việc chính."
+    },
+    {
+      "id": 10,
+      "question": "Theo tác giả, để hoàn thành bất kỳ điều gì, chúng ta cần điều gì trước tiên để thay đổi trạng thái đứng yên?",
+      "options": [
+        "Một khoản ngân sách khổng lồ.",
+        "Một đội ngũ chuyên gia hỗ trợ hùng hậu.",
+        "Sự chấp thuận từ tất cả mọi người xung quanh.",
+        "Lực đẩy để tạo nên chuyển động đầu tiên (bước khởi đầu)."
+      ],
+      "answer": "Lực đẩy để tạo nên chuyển động đầu tiên (bước khởi đầu).",
+      "explanation": "Dựa trên định luật vật lý, một vật sẽ đứng yên cho đến khi có lực tác động. Trong công việc cũng vậy, bước bắt đầu luôn đòi hỏi một lực đẩy mạnh mẽ nhất để phá vỡ thói quen trì hoãn."
+    }
+  ],
+  "33_29. Di Chuyển Cái Bàn.md": [
+    {
+      "id": 1,
+      "question": "Chiếc bàn ngoài trời của gia đình tác giả ban đầu không được sử dụng vì lý do gì?",
+      "options": [
+        "Nó quá nhỏ để gia đình ngồi ăn cùng nhau.",
+        "Nó được làm bằng vật liệu kém chất lượng và nhanh hỏng.",
+        "Ý tưởng ăn ngoài trời rất hấp dẫn nhưng lại đòi hỏi quá nhiều nỗ lực di chuyển do khoảng cách xa.",
+        "Hàng xóm thường xuyên phàn nàn vì sự ồn ào khi họ ăn ngoài trời."
+      ],
+      "answer": "Ý tưởng ăn ngoài trời rất hấp dẫn nhưng lại đòi hỏi quá nhiều nỗ lực di chuyển do khoảng cách xa.",
+      "explanation": "Mặc dù cả gia đình đều thích ăn ngoài trời, nhưng việc phải mang thức ăn đi một quãng đường xa qua lại khiến họ bỏ cuộc. Khó khăn nhỏ trong khâu chuẩn bị đã cản trở hành vi mong muốn."
+    },
+    {
+      "id": 2,
+      "question": "Giải pháp \"Di chuyển cái bàn\" mang ý nghĩa ẩn dụ cho việc gì?",
+      "options": [
+        "Không ngừng thay đổi nội thất để làm mới không gian sống.",
+        "Từ bỏ những mục tiêu không thực tế.",
+        "Thay đổi môi trường xung quanh để việc thực hiện hành vi mong muốn trở nên tự nhiên và dễ dàng hơn.",
+        "Sử dụng sức mạnh thể chất để rèn luyện ý chí kiên cường."
+      ],
+      "answer": "Thay đổi môi trường xung quanh để việc thực hiện hành vi mong muốn trở nên tự nhiên và dễ dàng hơn.",
+      "explanation": "Thay vì cố gắng ép buộc bản thân siêng năng hơn, tác giả đề xuất việc sắp xếp lại môi trường sao cho sự tiện lợi dẫn dắt hành động. Việc thay đổi bối cảnh luôn dễ dàng và hiệu quả hơn là thay đổi con người."
+    },
+    {
+      "id": 3,
+      "question": "Bí quyết khiến chú sư tử ở công viên Disney luôn ngồi trên đỉnh đồi cho du khách chụp ảnh là gì?",
+      "options": [
+        "Con sư tử bị xích chặt vào tảng đá đó.",
+        "Tảng đá được điều chỉnh nhiệt độ (ấm khi lạnh, mát khi nóng) biến nó thành nơi sư tử muốn đến.",
+        "Người gác rừng luôn ném thức ăn lên đó mỗi giờ.",
+        "Con sư tử đã được huấn luyện khắt khe bằng hình phạt."
+      ],
+      "answer": "Tảng đá được điều chỉnh nhiệt độ (ấm khi lạnh, mát khi nóng) biến nó thành nơi sư tử muốn đến.",
+      "explanation": "Những nhà quản lý không dùng roi vọt để ép con vật ngồi đúng chỗ, mà tạo ra môi trường hấp dẫn khiến nó tự nguyện đến đó. Đây là ví dụ hoàn hảo về cách môi trường chi phối hành vi một cách tự nhiên."
+    },
+    {
+      "id": 4,
+      "question": "Theo nghiên cứu của Tạp chí Sức khỏe Cộng đồng Hoa Kỳ, yếu tố nào ảnh hưởng lớn nhất đến việc thanh thiếu niên uống rượu vô độ?",
+      "options": [
+        "Thiếu sự giáo dục từ gia đình và nhà trường.",
+        "Sự quyến rũ của các quảng cáo trên truyền hình.",
+        "Môi trường sống nằm gần khu vực bán rượu bia (có thể đi bộ được).",
+        "Áp lực đồng trang lứa tại trường học."
+      ],
+      "answer": "Môi trường sống nằm gần khu vực bán rượu bia (có thể đi bộ được).",
+      "explanation": "Sự sẵn có và dễ tiếp cận của rượu bia tác động trực tiếp đến mức độ tiêu thụ. Khi rào cản tiếp cận giảm đi, cám dỗ từ môi trường dễ dàng vượt qua khả năng tự kiểm soát của thanh thiếu niên."
+    },
+    {
+      "id": 5,
+      "question": "Nghiên cứu của Brian Wansink về việc ăn uống vô thức (Mindless Eating) chỉ ra điều gì?",
+      "options": [
+        "Con người ăn chủ yếu vì cơn đói thể chất.",
+        "Các chi tiết nhỏ trong môi trường (như kích cỡ bát, đĩa, vị trí thức ăn) quyết định lượng thức ăn chúng ta tiêu thụ.",
+        "Tính di truyền đóng vai trò lớn nhất trong tình trạng béo phì.",
+        "Chế độ ăn kiêng nghiêm ngặt là cách duy nhất để kiểm soát thói quen ăn uống."
+      ],
+      "answer": "Các chi tiết nhỏ trong môi trường (như kích cỡ bát, đĩa, vị trí thức ăn) quyết định lượng thức ăn chúng ta tiêu thụ.",
+      "explanation": "Nghiên cứu cho thấy chúng ta thường không ăn theo cơn đói mà ăn theo tín hiệu từ môi trường xung quanh. Kích thước bát đĩa càng lớn, xu hướng chúng ta nạp vào càng nhiều mà không hề nhận ra."
+    },
+    {
+      "id": 6,
+      "question": "Để giúp nhân viên lễ tân thân thiện hơn, khách hàng của tác giả đã làm gì?",
+      "options": [
+        "Đuổi việc cô ấy và thuê người mới.",
+        "Cử cô ấy đi học các khóa huấn luyện kỹ năng mềm đắt tiền.",
+        "Tăng lương gấp đôi để tạo động lực cho cô ấy.",
+        "Dỡ bỏ tấm kính ngăn cách giữa cô ấy và khách hàng."
+      ],
+      "answer": "Dỡ bỏ tấm kính ngăn cách giữa cô ấy và khách hàng.",
+      "explanation": "Tấm kính tạo ra khoảng cách vật lý và tâm lý, khiến nhân viên cư xử lạnh nhạt hơn. Bằng cách gỡ bỏ rào cản này, sự tương tác trở nên gần gũi, từ đó cải thiện tự nhiên thái độ phục vụ mà không cần nhắc nhở."
+    },
+    {
+      "id": 7,
+      "question": "Hiệu trưởng trường học ở Boston đã cải thiện sự gắn kết của sinh viên bằng cách nào?",
+      "options": [
+        "Sắp xếp lại ghế trong phòng học theo hình bán nguyệt để sinh viên đối diện nhau.",
+        "Bắt buộc sinh viên phải nói chuyện ít nhất 5 phút mỗi buổi học.",
+        "Tổ chức tiệc tùng vào cuối mỗi tuần cho sinh viên.",
+        "Đưa ra các bài kiểm tra nhóm tính điểm cao."
+      ],
+      "answer": "Sắp xếp lại ghế trong phòng học theo hình bán nguyệt để sinh viên đối diện nhau.",
+      "explanation": "Cách bố trí bàn ghế truyền thống khiến người học chỉ nhìn vào lưng nhau, gây cản trở giao tiếp. Việc thay đổi sơ đồ lớp học thành hình bán nguyệt đã thúc đẩy sự tương tác và gắn kết một cách chủ động."
+    },
+    {
+      "id": 8,
+      "question": "Tại sao 50% nhân viên trong một công ty không chịu điền bảng chấm công trực tuyến?",
+      "options": [
+        "Vì họ không muốn công ty biết được mức lương thật sự của họ.",
+        "Vì họ muốn nổi loạn chống lại ban lãnh đạo.",
+        "Vì hệ thống yêu cầu họ phải xem một chương trình hướng dẫn rườm rà gây mất thì giờ dù chỉ 10 giây.",
+        "Vì hệ thống mạng của công ty thường xuyên bị lỗi không thể truy cập."
+      ],
+      "answer": "Vì hệ thống yêu cầu họ phải xem một chương trình hướng dẫn rườm rà gây mất thì giờ dù chỉ 10 giây.",
+      "explanation": "Rào cản không nằm ở công việc điền bảng chấm công, mà ở quá trình tiếp cận hệ thống quá phức tạp. Chỉ vài giây phiền toái trong trải nghiệm người dùng cũng đủ để triệt tiêu động lực thực hiện."
+    },
+    {
+      "id": 9,
+      "question": "Thay vì đấu tranh với bản thân để thay đổi hành vi trong một môi trường không thích hợp, bạn nên làm gì?",
+      "options": [
+        "Nhờ sự trợ giúp của các bác sĩ tâm lý.",
+        "Tập các bài thiền định sâu để tăng cường ý chí.",
+        "Viết nhật ký kiểm điểm bản thân mỗi ngày.",
+        "Chỉ cần thay đổi môi trường xung quanh."
+      ],
+      "answer": "Chỉ cần thay đổi môi trường xung quanh.",
+      "explanation": "Ý chí con người thường có giới hạn và dễ bị bào mòn bởi hoàn cảnh. Việc thay đổi môi trường để loại bỏ cám dỗ hoặc giảm bớt rào cản sẽ mang lại kết quả lâu dài và ít tốn sức hơn."
+    },
+    {
+      "id": 10,
+      "question": "Các nhà tiếp thị thường gửi catalog sản phẩm dựa trên nguyên lý gì?",
+      "options": [
+        "Bán hàng với giá rẻ nhất thị trường.",
+        "Gửi catalog vào đúng thời điểm khách hàng có ý định mua để môi trường hỗ trợ ngay lập tức hành vi mua sắm.",
+        "Tặng kèm quà tặng miễn phí đắt tiền trong mỗi quyển catalog.",
+        "Đe dọa khách hàng nếu họ không mua sản phẩm."
+      ],
+      "answer": "Gửi catalog vào đúng thời điểm khách hàng có ý định mua để môi trường hỗ trợ ngay lập tức hành vi mua sắm.",
+      "explanation": "Nhà tiếp thị hiểu rằng động lực mua sắm chỉ tồn tại trong thời gian ngắn. Bằng cách cung cấp catalog đúng lúc, họ tạo ra môi trường thuận lợi nhất biến ý định thành hành động mua hàng ngay lập tức."
+    }
+  ],
+  "34_30. Đừng Bao Giờ Từ Bỏ Việc Ăn Kiêng.md": [
+    {
+      "id": 1,
+      "question": "Tác giả nhận ra điều gì về động lực sau khi quyết định đạp xe dưới trời mưa?",
+      "options": [
+        "Rằng ông có tinh thần kỷ luật thép bẩm sinh.",
+        "Rằng chúng ta cần ít động lực hơn chúng ta nghĩ, chỉ cần đủ động lực để bắt đầu.",
+        "Rằng mưa làm tăng khả năng tập trung tinh thần.",
+        "Rằng sự châm chọc của bạn bè là nguồn động lực lớn nhất."
+      ],
+      "answer": "Rằng chúng ta cần ít động lực hơn chúng ta nghĩ, chỉ cần đủ động lực để bắt đầu.",
+      "explanation": "Trải nghiệm đạp xe dưới mưa cho tác giả thấy sự do dự lớn nhất chỉ nằm ở khoảnh khắc quyết định ra khỏi nhà. Khi đã hòa mình vào cơn mưa, ông không còn cần đến ý chí để tiếp tục đạp xe nữa."
+    },
+    {
+      "id": 2,
+      "question": "Theo tác giả, phần nào của công việc cần đến sức mạnh ý chí và kỷ luật nhiều nhất?",
+      "options": [
+        "Việc duy trì công việc ở những giai đoạn giữa chừng.",
+        "Bước bắt đầu một công việc.",
+        "Việc đối mặt với kết quả cuối cùng.",
+        "Việc báo cáo tiến độ với cấp trên."
+      ],
+      "answer": "Bước bắt đầu một công việc.",
+      "explanation": "Bất cứ công việc khó khăn nào cũng khiến ta e ngại trước khi bắt tay vào làm. Lực cản tâm lý lớn nhất luôn nằm ở việc phá vỡ trạng thái đứng yên để tạo ra bước chuyển động đầu tiên."
+    },
+    {
+      "id": 3,
+      "question": "Lời khuyên \"Đừng bao giờ từ bỏ việc ăn kiêng khi đang đọc thực đơn tráng miệng\" mang ý nghĩa gì?",
+      "options": [
+        "Tráng miệng chứa nhiều calo nên tuyệt đối phải tránh xa.",
+        "Không nên đưa ra quyết định từ bỏ mục tiêu vào đúng khoảnh khắc bị cám dỗ và yếu lòng nhất.",
+        "Ăn kiêng là một quá trình không cần bất kỳ sự nỗ lực nào.",
+        "Hãy chỉ từ bỏ ăn kiêng khi bạn cảm thấy no bụng."
+      ],
+      "answer": "Không nên đưa ra quyết định từ bỏ mục tiêu vào đúng khoảnh khắc bị cám dỗ và yếu lòng nhất.",
+      "explanation": "Khi đối mặt với cám dỗ mạnh mẽ, ý chí của chúng ta rất dễ bị đánh gục. Lời khuyên này nhắc nhở rằng mọi quyết định quan trọng phải được đưa ra vào lúc tỉnh táo, thay vì để sự thèm muốn nhất thời kiểm soát."
+    },
+    {
+      "id": 4,
+      "question": "Tác giả ví việc bắt đầu một công việc khó khăn giống như hành động gì?",
+      "options": [
+        "Nhảy ùm vào một hồ bơi lạnh lẽo.",
+        "Leo lên đỉnh núi Everest.",
+        "Vượt qua một bài thi toán học hóc búa.",
+        "Tranh luận với một người không biết lắng nghe."
+      ],
+      "answer": "Nhảy ùm vào một hồ bơi lạnh lẽo.",
+      "explanation": "Hình ảnh nhảy vào hồ bơi minh họa chân thực cho sự rụt rè trước những nhiệm vụ khó. Giống như cảm giác lạnh giá chỉ tồn tại lúc mới xuống nước, áp lực công việc cũng sẽ tan biến ngay khi bạn thật sự bắt đầu."
+    },
+    {
+      "id": 5,
+      "question": "Nếu liên tục tự vấn bản thân về một dự án đang làm, hậu quả xấu nhất là gì?",
+      "options": [
+        "Bạn sẽ hoàn thành công việc nhanh hơn dự kiến.",
+        "Nỗ lực của bạn sẽ giảm đi và phá hủy sự thành công của dự án.",
+        "Đồng nghiệp sẽ vô cùng ngưỡng mộ sự cẩn trọng của bạn.",
+        "Bạn sẽ ngay lập tức được thăng chức vì biết lo xa."
+      ],
+      "answer": "Nỗ lực của bạn sẽ giảm đi và phá hủy sự thành công của dự án.",
+      "explanation": "Việc hoài nghi thường xuyên sẽ hút cạn năng lượng và sự tự tin của bạn. Khi không còn niềm tin vững chắc vào dự án, bạn sẽ làm việc nửa vời, dẫn đến khả năng thất bại tăng cao."
+    },
+    {
+      "id": 6,
+      "question": "Giải pháp tác giả đề xuất để xử lý cảm giác bất an, tự vấn bản thân là gì?",
+      "options": [
+        "Cố gắng đè nén chúng sâu vào trong tiềm thức.",
+        "Hỏi ý kiến của tất cả mọi người xung quanh để tìm sự đồng thuận.",
+        "Lên lịch cụ thể cho một thời điểm tự vấn, khi bạn ở trong trạng thái tư duy phù hợp nhất.",
+        "Uống rượu để quên đi những suy nghĩ tiêu cực."
+      ],
+      "answer": "Lên lịch cụ thể cho một thời điểm tự vấn, khi bạn ở trong trạng thái tư duy phù hợp nhất.",
+      "explanation": "Thay vì phớt lờ hay để sự hoài nghi quấy rầy liên tục, bạn nên quy định trước thời gian để đánh giá lại mục tiêu. Cách này giúp bạn duy trì sự tập trung tối đa trong lúc làm việc mà vẫn đảm bảo tính khách quan khi ra quyết định."
+    },
+    {
+      "id": 7,
+      "question": "Đặc điểm chung của trạng thái tư duy phù hợp nhất để đưa ra quyết định thay đổi là gì?",
+      "options": [
+        "Là khi bạn đang chịu áp lực nặng nề và kiệt sức nhất.",
+        "Là khi bạn cần ít ý chí nhất để giữ lập trường (ví dụ như lúc sau bữa sáng lành mạnh).",
+        "Là ngay tại khoảnh khắc bạn bị cám dỗ dữ dội nhất.",
+        "Là lúc bạn đang buồn ngủ và không tỉnh táo."
+      ],
+      "answer": "Là khi bạn cần ít ý chí nhất để giữ lập trường (ví dụ như lúc sau bữa sáng lành mạnh).",
+      "explanation": "Một quyết định sáng suốt không nên được đưa ra khi tâm lý mệt mỏi hay đang đối diện cám dỗ. Bạn cần lựa chọn lúc tinh thần vững vàng và sảng khoái nhất để định hướng lại bản thân mà không bị thiên kiến."
+    },
+    {
+      "id": 8,
+      "question": "Khi tác giả ngần ngại lúc dắt xe đạp đứng dưới mái hiên, điều gì đã xảy ra chưa đến 5 phút sau khi đạp xe?",
+      "options": [
+        "Xe đạp của ông bị thủng lốp.",
+        "Cơn mưa không còn khiến ông bận tâm nữa và ông bắt đầu cảm thấy dễ chịu, hăng hái.",
+        "Ông quyết định quay về nhà vì bị ốm.",
+        "Người bạn Chris đã ngăn cản ông lại."
+      ],
+      "answer": "Cơn mưa không còn khiến ông bận tâm nữa và ông bắt đầu cảm thấy dễ chịu, hăng hái.",
+      "explanation": "Khi đã hành động, cơ thể và tâm trí nhanh chóng thích nghi với môi trường mới. Vượt qua sự ngần ngại ban đầu đã giúp tác giả tìm thấy niềm vui trong trải nghiệm đạp xe dưới mưa."
+    },
+    {
+      "id": 9,
+      "question": "Theo tác giả, sau khi bạn đã vượt qua vài giây phút cần động lực ban đầu, yếu tố nào sẽ nắm quyền kiểm soát?",
+      "options": [
+        "Sự sợ hãi và lo lắng bị thất bại.",
+        "Những lời khen ngợi từ người xung quanh.",
+        "Sự chỉ đạo trực tiếp từ cấp trên.",
+        "Đà đi tới, thói quen hoặc sự tập trung vô thức."
+      ],
+      "answer": "Đà đi tới, thói quen hoặc sự tập trung vô thức.",
+      "explanation": "Sau khi có lực đẩy ban đầu, quán tính công việc sẽ đưa bạn tiến về phía trước. Lúc này, bạn không cần cố gắng ép buộc bản thân nữa vì mọi hành động đã rơi vào trạng thái dòng chảy tự nhiên."
+    },
+    {
+      "id": 10,
+      "question": "Bài học mà người hàng xóm rút ra khi thấy tác giả đi xe đạp dưới mưa sai ở điểm nào?",
+      "options": [
+        "Nghĩ rằng tác giả là người yêu thể thao thái quá.",
+        "Nhầm tưởng rằng tác giả cần có nguồn động lực và kỷ luật liên tục trong suốt quá trình đi dưới mưa.",
+        "Cho rằng xe đạp của tác giả rất đắt tiền.",
+        "Tưởng tác giả ra ngoài đi mua đồ ăn sáng."
+      ],
+      "answer": "Nhầm tưởng rằng tác giả cần có nguồn động lực và kỷ luật liên tục trong suốt quá trình đi dưới mưa.",
+      "explanation": "Người hàng xóm đánh giá cao nỗ lực của tác giả vì nghĩ ông phải gồng mình liên tục. Tuy nhiên, sự thật là tính kỷ luật chỉ cần thiết trong vài phút do dự ngắn ngủi trước khi rời khỏi nhà."
+    }
+  ]
+}

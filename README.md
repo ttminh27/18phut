@@ -1,36 +1,92 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 18 Phút - Peter Bregman (Web App & Mini Game)
 
-## Getting Started
+Chào mừng bạn đến với dự án **18 Phút** – Ứng dụng đọc sách kết hợp Mini Game trắc nghiệm tương tác dựa trên cuốn sách nổi tiếng **"18 Minutes: Find Your Focus, Master Distraction, and Get the Right Things Done"** của tác giả Peter Bregman.
 
-First, run the development server:
+Dự án này được thiết kế nhằm giúp người đọc không chỉ tiếp thu kiến thức một cách thụ động mà còn có thể ôn tập, ghi nhớ sâu sắc các bài học thực tế qua các thử thách trắc nghiệm thú vị.
+
+---
+
+## 🚀 Tính Năng Nổi Bật
+
+- 📖 **Đọc Sách Tiện Lợi**: Mục lục trực quan, nội dung các chương sách được số hóa từ các tệp Markdown (`src/content/chapters`) và hiển thị định dạng mượt mà với React Markdown.
+- 🎮 **Mini Game Thử Thách**: Mỗi chương đi kèm với một bộ 10 câu hỏi trắc nghiệm tương tác giúp kiểm tra và khắc sâu kiến thức.
+- 🌓 **Chế Độ Giao Diện (Dark/Light Mode)**: Hỗ trợ chuyển đổi giao diện sáng/tối linh hoạt giúp bảo vệ mắt khi đọc sách vào ban đêm.
+- 📱 **Thiết Kế Responsive**: Tương thích hoàn hảo trên các thiết bị di động (Mobile), máy tính bảng (Tablet) và máy tính để bàn (Desktop).
+- ⚡ **Tốc Độ Vượt Trội**: Trải nghiệm tải trang cực nhanh nhờ sức mạnh tối ưu hóa của Next.js App Router.
+
+---
+
+## 🛠️ Công Nghệ Sử Dụng
+
+- **Core**: [Next.js (App Router)](https://nextjs.org/) + React 19 + TypeScript
+- **Styling**: [Tailwind CSS v4](https://tailwindcss.com/)
+- **Icons**: [Lucide React](https://lucide.dev/)
+- **Markdown Parsing**: [React Markdown](https://github.com/remarkjs/react-markdown) + `@tailwindcss/typography`
+- **Build/Lint**: ESLint + PostCSS
+
+---
+
+## 📁 Cấu Trúc Thư Mục Chính
+
+```text
+├── public/                 # Các tài nguyên tĩnh (hình ảnh, favicon, v.v.)
+├── src/
+│   ├── app/                # Next.js App Router (pages & layouts)
+│   │   ├── chapters/       # Trang mục lục và giao diện đọc chương sách
+│   │   ├── quizzes/        # Giao diện quản lý và chơi mini game trắc nghiệm
+│   │   ├── globals.css     # Định nghĩa styles chung & Tailwind imports
+│   │   └── layout.tsx      # Bố cục giao diện chung (Header, Footer, Navbar)
+│   ├── components/         # Các thành phần giao diện dùng chung (như ThemeToggle)
+│   ├── content/
+│   │   └── chapters/       # Tệp Markdown (.md) chứa nội dung chi tiết các chương
+│   ├── data/               # Dữ liệu câu hỏi trắc nghiệm JSON và mã nguồn Python hỗ trợ
+│   └── lib/                # Thư viện tiện ích, trình đọc & xử lý file
+├── .gitignore              # Định nghĩa các tệp/thư mục không đưa lên git
+├── package.json            # Thông tin dependencies và scripts của dự án
+└── tsconfig.json           # Cấu hình dự án TypeScript
+```
+
+---
+
+## 💻 Hướng Dẫn Cài Đặt & Chạy Dự Án
+
+### Yêu cầu hệ thống
+- Đã cài đặt **Node.js** (Khuyến nghị phiên bản LTS mới nhất)
+- Đã cài đặt trình quản lý gói `npm`, `yarn`, `pnpm` hoặc `bun`
+
+### 1. Khởi động môi trường và cài đặt dependencies
+
+Di chuyển vào thư mục dự án và cài đặt các thư viện cần thiết:
+
+```bash
+npm install
+```
+
+### 2. Chạy dự án ở chế độ phát triển (Development Mode)
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Sau khi chạy lệnh trên, ứng dụng sẽ hoạt động tại địa chỉ: [http://localhost:3000](http://localhost:3000).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+### 3. Biên dịch ứng dụng cho production (Build & Start)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Biên dịch dự án thành sản phẩm tối ưu:
 
-## Learn More
+```bash
+npm run build
+```
 
-To learn more about Next.js, take a look at the following resources:
+Khởi chạy server production:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+```bash
+npm run start
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
+## 📝 Bản Quyền & Thiết Kế
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- Nội dung sách thuộc bản quyền của tác giả **Peter Bregman**.
+- Giao diện và phát triển ứng dụng bởi **Thiên Cơ**.

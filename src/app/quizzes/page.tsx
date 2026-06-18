@@ -13,10 +13,10 @@ export default function QuizzesPage() {
           <Link
             key={chapter.id}
             href={`/quizzes/${chapter.id}`}
-            className="group flex items-center justify-between p-2.5 sm:p-3.5 bg-white dark:bg-slate-800 rounded-xl shadow-sm border border-slate-100 dark:border-slate-800 hover:shadow-md hover:border-purple-200 dark:hover:border-purple-500/50 transition-all gap-2 sm:gap-3"
+            className="group flex items-center justify-between py-2 px-2.5 sm:p-3.5 bg-white dark:bg-slate-800 rounded-xl shadow-sm border border-slate-100 dark:border-slate-800 hover:shadow-md hover:border-purple-200 dark:hover:border-purple-500/50 transition-all gap-1.5 sm:gap-3"
           >
-            <div className="flex items-center justify-center w-8 h-8 sm:w-10 sm:h-10 rounded-lg bg-transparent text-purple-600 dark:text-purple-400 group-hover:scale-105 transition-transform flex-shrink-0">
-              <Gamepad2 className="w-5 h-5" />
+            <div className="flex items-center justify-center w-6 h-6 sm:w-10 sm:h-10 rounded-lg bg-transparent text-purple-600 dark:text-purple-400 group-hover:scale-105 transition-transform flex-shrink-0">
+              <Gamepad2 className="w-4 h-4 sm:w-5 sm:h-5" />
             </div>
             <h2 className="font-semibold text-slate-800 dark:text-slate-200 text-sm sm:text-base truncate flex-1 group-hover:text-purple-700 dark:group-hover:text-purple-300">
               {chapter.title}

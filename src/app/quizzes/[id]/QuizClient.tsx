@@ -84,8 +84,8 @@ export default function QuizClient({ quizzes, chapterTitle, chapterId }: { quizz
 
   return (
     <div className="max-w-3xl mx-auto px-2 sm:px-0">
-      <div className="mb-4 sm:mb-6">
-        <div className="flex items-center justify-between gap-3 text-xs sm:text-sm font-medium text-slate-500 dark:text-slate-400 bg-white dark:bg-slate-800 px-4 py-2.5 sm:px-5 sm:py-3 rounded-xl sm:rounded-2xl shadow-sm border border-slate-100 dark:border-slate-700 transition-colors w-full">
+      <div className="mb-3 sm:mb-6">
+        <div className="flex items-center justify-between gap-2 text-xs sm:text-sm font-medium text-slate-500 dark:text-slate-400 bg-white dark:bg-slate-800 px-3 py-2 sm:px-5 sm:py-3 rounded-xl sm:rounded-2xl shadow-sm border border-slate-100 dark:border-slate-700 transition-colors w-full">
           <span className="flex-shrink-0">
             <span className="hidden sm:inline">Câu hỏi </span>{currentIndex + 1} / {quizzes.length}
           </span>
@@ -104,13 +104,13 @@ export default function QuizClient({ quizzes, chapterTitle, chapterId }: { quizz
         </div>
       </div>
 
-      <div className="bg-white dark:bg-slate-800 p-5 sm:p-10 rounded-2xl sm:rounded-3xl shadow-lg border border-slate-100 dark:border-slate-700 transition-colors relative overflow-hidden">
+      <div className="bg-white dark:bg-slate-800 p-3.5 sm:p-10 rounded-2xl sm:rounded-3xl shadow-lg border border-slate-100 dark:border-slate-700 transition-colors relative overflow-hidden">
         <div className="absolute top-0 left-0 w-full h-1.5 bg-gradient-to-r from-indigo-500 to-purple-500"></div>
-        <h3 className="text-lg sm:text-2xl font-bold text-slate-800 dark:text-slate-100 mb-6 sm:mb-8 leading-relaxed">
+        <h3 className="text-base sm:text-2xl font-bold text-slate-800 dark:text-slate-100 mb-4 sm:mb-6 leading-relaxed">
           {currentQuiz.question}
         </h3>
 
-        <div className="grid gap-3 sm:gap-4">
+        <div className="grid gap-2 sm:gap-3">
           {currentQuiz.options.map((option, idx) => {
             let itemClass = "border-slate-200 dark:border-slate-700 hover:border-indigo-300 dark:hover:border-indigo-500/50 hover:bg-indigo-50 dark:hover:bg-indigo-950/30 text-slate-700 dark:text-slate-300";
             let Icon = null;
@@ -132,21 +132,21 @@ export default function QuizClient({ quizzes, chapterTitle, chapterId }: { quizz
                 key={idx}
                 onClick={() => handleSelect(option)}
                 disabled={selectedAnswer !== null}
-                className={`relative flex items-center justify-between w-full p-4 sm:p-5 rounded-xl sm:rounded-2xl border-2 text-left font-medium transition-all duration-200 text-sm sm:text-base gap-3 ${itemClass}`}
+                className={`relative flex items-center justify-between w-full py-2 px-3 sm:py-3.5 sm:px-5 rounded-xl sm:rounded-2xl border-2 text-left font-medium transition-all duration-200 text-xs sm:text-base gap-2 sm:gap-3 ${itemClass}`}
               >
                 <span className="leading-snug">{option}</span>
-                {Icon && <Icon className="w-5 h-5 sm:w-6 sm:h-6 flex-shrink-0" />}
+                {Icon && <Icon className="w-4 h-4 sm:w-5 sm:h-5 flex-shrink-0" />}
               </button>
             );
           })}
         </div>
 
         {selectedAnswer && (
-          <div className="mt-6 sm:mt-8 animate-in fade-in slide-in-from-bottom-2">
+          <div className="mt-4 sm:mt-6 animate-in fade-in slide-in-from-bottom-2">
             {currentQuiz.explanation && (
-              <div className={`mb-5 sm:mb-6 p-4 sm:p-6 rounded-xl sm:rounded-2xl border text-sm sm:text-base ${isCorrect ? 'bg-green-50 dark:bg-green-950/20 border-green-200 dark:border-green-900 text-green-900 dark:text-green-200' : 'bg-amber-50 dark:bg-amber-950/20 border-amber-200 dark:border-amber-900/60 text-amber-900 dark:text-amber-200'}`}>
-                <h4 className="font-bold mb-2 sm:mb-3 flex items-center text-base sm:text-lg">
-                  {isCorrect ? <CheckCircle2 className="w-5 h-5 sm:w-6 sm:h-6 mr-2 text-green-600" /> : <XCircle className="w-5 h-5 sm:w-6 sm:h-6 mr-2 text-amber-600" />}
+              <div className={`mb-4 sm:mb-5 p-3 sm:p-5 rounded-xl sm:rounded-2xl border text-xs sm:text-sm ${isCorrect ? 'bg-green-50 dark:bg-green-950/20 border-green-200 dark:border-green-900 text-green-900 dark:text-green-200' : 'bg-amber-50 dark:bg-amber-950/20 border-amber-200 dark:border-amber-900/60 text-amber-900 dark:text-amber-200'}`}>
+                <h4 className="font-bold mb-1.5 sm:mb-2 flex items-center text-sm sm:text-base">
+                  {isCorrect ? <CheckCircle2 className="w-4 h-4 sm:w-5 sm:h-5 mr-1.5 text-green-600" /> : <XCircle className="w-4 h-4 sm:w-5 sm:h-5 mr-1.5 text-amber-600" />}
                   Giải thích đáp án
                 </h4>
                 <p className="leading-relaxed opacity-95">{currentQuiz.explanation}</p>

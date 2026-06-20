@@ -14,7 +14,9 @@ import {
   Info,
   BookOpenText,
   BrainCircuit,
-  GraduationCap
+  GraduationCap,
+  ZoomIn,
+  ZoomOut
 } from "lucide-react";
 
 interface Step {
@@ -139,10 +141,23 @@ const steps: Step[] = [
 
 export default function SQ3RPage() {
   const [selectedStep, setSelectedStep] = useState<number>(0);
+  const [fontSize, setFontSize] = useState(16); // Default base font size
   
   // Self-assessment widget state
   const [scores, setScores] = useState<number[]>([0, 0, 0, 0, 0]);
   const [showResult, setShowResult] = useState<boolean>(false);
+
+  const handleZoomIn = () => setFontSize(s => Math.min(s + 2, 24));
+  const handleZoomOut = () => setFontSize(s => Math.max(s - 2, 12));
+
+  // Scaled font sizes
+  const sizeTitle = `${fontSize * 2.25}px`;
+  const sizeHeading = `${fontSize * 1.5}px`;
+  const sizeSubHeading = `${fontSize * 1.25}px`;
+  const sizeSubtitle = `${fontSize * 1.125}px`;
+  const sizeBody = `${fontSize}px`;
+  const sizeSmall = `${fontSize * 0.875}px`;
+  const sizeTiny = `${fontSize * 0.75}px`;
 
   const assessmentQuestions = [
     "Tôi thường đọc lướt qua tiêu đề, đề mục phụ và tóm tắt trước khi đọc chi tiết chương sách.",
@@ -178,32 +193,53 @@ export default function SQ3RPage() {
 
   return (
     <div className="space-y-12 animate-in fade-in duration-500 pb-16">
+      {/* Floating Zoom Controls */}
+      <div className="fixed bottom-8 right-6 md:right-8 z-50 flex items-center bg-white/90 dark:bg-slate-800/95 backdrop-blur-md p-1.5 rounded-full shadow-lg border border-slate-200/80 dark:border-slate-700/80 hover:shadow-xl transition-all duration-300 hover:scale-105 active:scale-95">
+        <button 
+          onClick={handleZoomOut} 
+          className="p-2 text-slate-500 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-700 hover:text-indigo-600 dark:hover:text-indigo-400 rounded-full transition-all disabled:opacity-30 disabled:pointer-events-none"
+          disabled={fontSize <= 12}
+          title="Thu nhỏ chữ"
+        >
+          <ZoomOut className="w-4.5 h-4.5" />
+        </button>
+        <span className="text-xs font-semibold text-slate-600 dark:text-slate-300 px-2 select-none min-w-[40px] text-center">{fontSize}px</span>
+        <button 
+          onClick={handleZoomIn} 
+          className="p-2 text-slate-500 dark:text-slate-400 hover:bg-slate-100 dark:hover:bg-slate-700 hover:text-indigo-600 dark:hover:text-indigo-400 rounded-full transition-all disabled:opacity-30 disabled:pointer-events-none"
+          disabled={fontSize >= 24}
+          title="Phóng to chữ"
+        >
+          <ZoomIn className="w-4.5 h-4.5" />
+        </button>
+      </div>
+
       {/* Hero Header Banner */}
       <div className="relative rounded-3xl overflow-hidden bg-gradient-to-br from-indigo-500 via-purple-600 to-pink-500 p-8 text-white shadow-xl dark:shadow-indigo-950/20">
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top_right,_var(--tw-gradient-stops))] from-white/10 via-transparent to-transparent pointer-events-none" />
         <div className="relative z-10 max-w-2xl">
-          <div className="inline-flex items-center space-x-2 bg-white/20 backdrop-blur-md px-3 py-1 rounded-full text-xs font-semibold tracking-wide uppercase mb-4 border border-white/10">
-            <Sparkles className="w-3.5 h-3.5" />
-            <span>Phương pháp học tập thông minh</span>
+          <div className="inline-flex items-center space-x-2 bg-white/20 backdrop-blur-md px-3 py-1 rounded-full uppercase mb-4 border border-white/10" style={{ padding: "0.25rem 0.75rem" }}>
+            <Sparkles className="w-3.5 h-3.5 mr-1" />
+            <span className="tracking-wider" style={{ fontSize: sizeTiny, fontWeight: "600" }}>Phương pháp học tập thông minh</span>
           </div>
-          <h1 className="text-3xl md:text-4xl font-extrabold tracking-tight mb-4">
+          <h1 className="font-extrabold tracking-tight mb-4" style={{ fontSize: sizeTitle, lineHeight: "1.15" }}>
             Phương Pháp Đọc SQ3R
           </h1>
-          <p className="text-lg text-indigo-50/90 leading-relaxed mb-6 font-medium">
+          <p className="leading-relaxed mb-6" style={{ fontSize: sizeSubtitle, opacity: 0.9 }}>
             Phát triển bởi giáo sư tâm lý học <strong className="text-white">Francis P. Robinson</strong> trong cuốn sách cổ điển <strong className="text-white">Effective Study (1946)</strong>. Đây là quy trình đọc 5 bước có hệ thống được khoa học chứng minh giúp tối ưu hóa sự tập trung và khả năng ghi nhớ thông tin dài hạn.
           </p>
-          <div className="flex flex-wrap gap-4 text-sm text-indigo-100/80">
+          <div className="flex flex-wrap gap-4">
             <div className="flex items-center space-x-1.5 bg-black/10 backdrop-blur-sm px-3 py-1.5 rounded-lg">
-              <BookOpenText className="w-4 h-4" />
-              <span>Đọc hiểu sâu</span>
+              <BookOpenText className="w-4 h-4 text-white" />
+              <span style={{ fontSize: sizeSmall }}>Đọc hiểu sâu</span>
             </div>
             <div className="flex items-center space-x-1.5 bg-black/10 backdrop-blur-sm px-3 py-1.5 rounded-lg">
-              <BrainCircuit className="w-4 h-4" />
-              <span>Ghi nhớ 80%</span>
+              <BrainCircuit className="w-4 h-4 text-white" />
+              <span style={{ fontSize: sizeSmall }}>Ghi nhớ 80%</span>
             </div>
             <div className="flex items-center space-x-1.5 bg-black/10 backdrop-blur-sm px-3 py-1.5 rounded-lg">
-              <GraduationCap className="w-4 h-4" />
-              <span>Chủ động học tập</span>
+              <GraduationCap className="w-4 h-4 text-white" />
+              <span style={{ fontSize: sizeSmall }}>Chủ động học tập</span>
             </div>
           </div>
         </div>
@@ -213,7 +249,7 @@ export default function SQ3RPage() {
       <section className="grid md:grid-cols-12 gap-6 items-start">
         {/* Step Selector List */}
         <div className="md:col-span-4 space-y-2.5">
-          <h2 className="text-sm font-bold uppercase tracking-wider text-slate-400 dark:text-slate-500 pl-2">
+          <h2 className="font-bold uppercase tracking-wider text-slate-400 dark:text-slate-500 pl-2" style={{ fontSize: sizeTiny }}>
             5 Bước Thực Hiện
           </h2>
           <div className="space-y-2">
@@ -238,10 +274,22 @@ export default function SQ3RPage() {
                     {step.key}
                   </div>
                   <div className="flex-1 min-w-0">
-                    <div className={`font-bold ${isSelected ? "text-white" : "text-slate-800 dark:text-slate-200"}`}>
+                    <div 
+                      className="font-bold"
+                      style={{ 
+                        color: isSelected ? "white" : "inherit", 
+                        fontSize: sizeBody 
+                      }}
+                    >
                       {step.name}
                     </div>
-                    <div className={`text-xs ${isSelected ? "text-indigo-200" : "text-slate-500 dark:text-slate-400"} truncate`}>
+                    <div 
+                      style={{ 
+                        color: isSelected ? "#c7d2fe" : "inherit", 
+                        fontSize: sizeTiny 
+                      }} 
+                      className="text-slate-500 dark:text-slate-400 truncate"
+                    >
                       {step.engName}
                     </div>
                   </div>
@@ -262,35 +310,35 @@ export default function SQ3RPage() {
               </div>
               <div>
                 <div className="flex items-center space-x-2">
-                  <span className="text-xs font-bold uppercase tracking-widest text-indigo-600 dark:text-indigo-400">
+                  <span className="font-bold uppercase tracking-widest text-indigo-600 dark:text-indigo-400" style={{ fontSize: sizeTiny }}>
                     Bước {selectedStep + 1}
                   </span>
                   <span className="text-slate-300 dark:text-slate-700">•</span>
-                  <span className="text-xs font-semibold text-slate-500 dark:text-slate-400">
+                  <span className="font-semibold text-slate-500 dark:text-slate-400" style={{ fontSize: sizeTiny }}>
                     {activeStep.engName}
                   </span>
                 </div>
-                <h3 className="text-2xl font-extrabold text-slate-800 dark:text-slate-100">
+                <h3 className="font-extrabold text-slate-800 dark:text-slate-100" style={{ fontSize: sizeHeading }}>
                   {activeStep.name} ({activeStep.key === "R1" ? "Read" : activeStep.key === "R2" ? "Recite" : activeStep.key === "R3" ? "Review" : activeStep.name})
                 </h3>
               </div>
             </div>
 
             {/* Description */}
-            <p className="text-slate-600 dark:text-slate-300 text-[16px] leading-relaxed">
+            <p className="text-slate-600 dark:text-slate-300 leading-relaxed" style={{ fontSize: sizeBody }}>
               {activeStep.description}
             </p>
 
             {/* Action Checkpoints */}
             <div className="space-y-3">
-              <h4 className="font-bold text-slate-800 dark:text-slate-200 flex items-center space-x-1.5 text-sm">
-                <CheckCircle2 className="w-4 h-4 text-emerald-500" />
+              <h4 className="font-bold text-slate-800 dark:text-slate-200 flex items-center space-x-1.5" style={{ fontSize: sizeBody }}>
+                <CheckCircle2 className="w-4 h-4 text-emerald-500 flex-shrink-0" />
                 <span>Các hành động cụ thể:</span>
               </h4>
               <ul className="grid gap-2.5 pl-1">
                 {activeStep.details.map((detail, idx) => (
-                  <li key={idx} className="flex items-start text-sm text-slate-600 dark:text-slate-300">
-                    <span className="inline-flex items-center justify-center w-5 h-5 rounded-full bg-slate-100 dark:bg-slate-700 text-xs font-semibold text-slate-500 mr-2.5 mt-0.5 flex-shrink-0">
+                  <li key={idx} className="flex items-start text-slate-600 dark:text-slate-300" style={{ fontSize: sizeSmall }}>
+                    <span className="inline-flex items-center justify-center w-5 h-5 rounded-full bg-slate-100 dark:bg-slate-700 font-semibold text-slate-500 mr-2.5 mt-0.5 flex-shrink-0" style={{ fontSize: sizeTiny }}>
                       {idx + 1}
                     </span>
                     <span>{detail}</span>
@@ -301,12 +349,12 @@ export default function SQ3RPage() {
 
             {/* Self-questions */}
             <div className="bg-slate-50 dark:bg-slate-900/40 p-4.5 rounded-2xl border border-slate-100 dark:border-slate-800/80 space-y-2">
-              <h4 className="font-bold text-slate-800 dark:text-slate-200 text-xs uppercase tracking-wider">
+              <h4 className="font-bold text-slate-800 dark:text-slate-200 uppercase tracking-wider animate-pulse" style={{ fontSize: sizeTiny }}>
                 Câu hỏi tự đặt ra trong đầu:
               </h4>
               <div className="grid gap-2">
                 {activeStep.questions.map((q, idx) => (
-                  <div key={idx} className="flex items-start text-xs text-indigo-950 dark:text-indigo-300 font-medium">
+                  <div key={idx} className="flex items-start text-indigo-950 dark:text-indigo-300 font-medium" style={{ fontSize: sizeSmall }}>
                     <span className="text-indigo-500 mr-2 font-bold">?</span>
                     <span>{q}</span>
                   </div>
@@ -316,11 +364,11 @@ export default function SQ3RPage() {
 
             {/* Application on 18 Minutes Book */}
             <div className="bg-indigo-50/50 dark:bg-indigo-950/20 p-4.5 rounded-2xl border border-indigo-100/50 dark:border-indigo-950/30 space-y-2">
-              <h4 className="font-bold text-indigo-700 dark:text-indigo-400 text-xs uppercase tracking-wider flex items-center">
-                <Info className="w-3.5 h-3.5 mr-1.5" />
+              <h4 className="font-bold text-indigo-700 dark:text-indigo-400 uppercase tracking-wider flex items-center" style={{ fontSize: sizeTiny }}>
+                <Info className="w-3.5 h-3.5 mr-1.5 flex-shrink-0" />
                 Ví dụ áp dụng với sách "18 Phút":
               </h4>
-              <p className="text-slate-600 dark:text-slate-300 text-sm leading-relaxed">
+              <p className="text-slate-600 dark:text-slate-300 leading-relaxed" style={{ fontSize: sizeSmall }}>
                 {activeStep.example18Min}
               </p>
             </div>
@@ -331,17 +379,19 @@ export default function SQ3RPage() {
             <button
               onClick={() => setSelectedStep(s => Math.max(s - 1, 0))}
               disabled={selectedStep === 0}
-              className="px-4 py-2 text-sm font-semibold text-slate-500 dark:text-slate-400 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors disabled:opacity-30 disabled:pointer-events-none"
+              className="px-4 py-2 font-semibold text-slate-500 dark:text-slate-400 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors disabled:opacity-30 disabled:pointer-events-none"
+              style={{ fontSize: sizeSmall }}
             >
               Bước trước
             </button>
-            <span className="text-xs font-bold text-slate-400 dark:text-slate-600">
+            <span className="font-bold text-slate-400 dark:text-slate-600" style={{ fontSize: sizeTiny }}>
               {selectedStep + 1} / 5
             </span>
             <button
               onClick={() => setSelectedStep(s => Math.min(s + 1, steps.length - 1))}
               disabled={selectedStep === steps.length - 1}
-              className="inline-flex items-center space-x-1 px-4 py-2 rounded-xl text-sm font-semibold text-indigo-600 dark:text-indigo-400 hover:bg-indigo-50 dark:hover:bg-slate-700 transition-colors disabled:opacity-30 disabled:pointer-events-none"
+              className="inline-flex items-center space-x-1 px-4 py-2 rounded-xl font-semibold text-indigo-600 dark:text-indigo-400 hover:bg-indigo-50 dark:hover:bg-slate-700 transition-colors disabled:opacity-30 disabled:pointer-events-none"
+              style={{ fontSize: sizeSmall }}
             >
               <span>Bước tiếp theo</span>
               <ArrowRight className="w-4 h-4" />
@@ -353,10 +403,10 @@ export default function SQ3RPage() {
       {/* SQ3R Diagnostic Assessment Widget */}
       <section className="bg-white dark:bg-slate-800 rounded-3xl p-6 sm:p-8 border border-slate-200/60 dark:border-slate-800 shadow-sm space-y-6">
         <div className="space-y-2">
-          <h2 className="text-2xl font-extrabold text-slate-900 dark:text-slate-100 flex items-center space-x-2">
+          <h2 className="font-extrabold text-slate-900 dark:text-slate-100 flex items-center space-x-2" style={{ fontSize: sizeHeading }}>
             <span>Tự Đánh Giá Kỹ Năng Đọc Sách</span>
           </h2>
-          <p className="text-sm text-slate-500 dark:text-slate-400 leading-relaxed">
+          <p className="text-slate-500 dark:text-slate-400 leading-relaxed" style={{ fontSize: sizeSmall }}>
             Trả lời 5 câu hỏi nhanh dưới đây để chẩn đoán thói quen đọc sách của bạn và cách tối ưu hóa sự ghi nhớ bằng phương pháp SQ3R.
           </p>
         </div>
@@ -364,7 +414,7 @@ export default function SQ3RPage() {
         <div className="space-y-4 pt-2">
           {assessmentQuestions.map((q, idx) => (
             <div key={idx} className="flex flex-col sm:flex-row sm:items-center justify-between p-4 bg-slate-50 dark:bg-slate-900/30 rounded-2xl border border-slate-100 dark:border-slate-800/80 gap-3">
-              <span className="text-sm font-medium text-slate-700 dark:text-slate-300 max-w-xl">
+              <span className="font-medium text-slate-700 dark:text-slate-300 max-w-xl" style={{ fontSize: sizeBody }}>
                 <span className="inline-block text-indigo-500 font-bold mr-1.5">{idx + 1}.</span> {q}
               </span>
               <div className="flex items-center space-x-1.5 flex-shrink-0">
@@ -372,11 +422,12 @@ export default function SQ3RPage() {
                   <button
                     key={val}
                     onClick={() => handleScoreChange(idx, val)}
-                    className={`w-9 h-9 rounded-lg font-semibold text-xs transition-all ${
+                    className={`w-9 h-9 rounded-lg font-semibold transition-all ${
                       scores[idx] === val
                         ? "bg-indigo-600 text-white ring-2 ring-indigo-500/20"
                         : "bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 text-slate-500 dark:text-slate-400 hover:border-slate-300 dark:hover:border-slate-600"
                     }`}
+                    style={{ fontSize: sizeTiny }}
                     title={val === 1 ? "Hiếm khi" : val === 5 ? "Luôn luôn" : `${val}/5`}
                   >
                     {val}
@@ -393,21 +444,22 @@ export default function SQ3RPage() {
               onClick={() => setShowResult(true)}
               disabled={scores.some(s => s === 0)}
               className="px-8 py-3.5 bg-indigo-600 hover:bg-indigo-700 text-white rounded-2xl font-bold shadow-md shadow-indigo-200 dark:shadow-none hover:scale-[1.01] active:scale-[0.99] transition-all disabled:opacity-40 disabled:pointer-events-none"
+              style={{ fontSize: sizeBody }}
             >
               Phân tích kết quả đọc sách
             </button>
           ) : (
             <div className="w-full bg-indigo-50/50 dark:bg-indigo-950/20 border border-indigo-100 dark:border-indigo-950/40 rounded-2xl p-5 text-center animate-in zoom-in-95 duration-300 space-y-3">
-              <div className="text-slate-500 dark:text-slate-400 font-bold text-xs uppercase tracking-widest">
+              <div className="text-slate-500 dark:text-slate-400 font-bold uppercase tracking-widest" style={{ fontSize: sizeTiny }}>
                 Kết quả chẩn đoán đọc sách
               </div>
-              <div className="text-4xl font-black text-indigo-600 dark:text-indigo-400">
-                {result.percentage}% <span className="text-lg font-bold text-slate-500">({result.total}/25 điểm)</span>
+              <div className="font-black text-indigo-600 dark:text-indigo-400" style={{ fontSize: sizeTitle }}>
+                {result.percentage}% <span className="font-bold text-slate-500" style={{ fontSize: sizeSubtitle }}>({result.total}/25 điểm)</span>
               </div>
-              <p className="text-slate-700 dark:text-slate-300 max-w-xl mx-auto font-medium text-sm leading-relaxed">
+              <p className="text-slate-700 dark:text-slate-300 max-w-xl mx-auto font-medium leading-relaxed" style={{ fontSize: sizeBody }}>
                 {result.diagnosis}
               </p>
-              <div className="pt-2 text-xs font-semibold text-slate-400 dark:text-slate-600">
+              <div className="pt-2 font-semibold text-slate-400 dark:text-slate-600" style={{ fontSize: sizeTiny }}>
                 * Thang điểm: 5-12 điểm: Đọc thụ động | 13-19 điểm: Đọc bán chủ động | 20-25 điểm: Đọc chủ động hiệu quả.
               </div>
             </div>
@@ -417,19 +469,19 @@ export default function SQ3RPage() {
 
       {/* Comparison Table Section */}
       <section className="bg-white dark:bg-slate-800 rounded-3xl p-6 sm:p-8 border border-slate-200/60 dark:border-slate-800 shadow-sm space-y-6">
-        <h2 className="text-2xl font-extrabold text-slate-900 dark:text-slate-100">
+        <h2 className="font-extrabold text-slate-900 dark:text-slate-100" style={{ fontSize: sizeHeading }}>
           So Sánh SQ3R & Đọc Truyền Thống
         </h2>
         <div className="overflow-x-auto">
           <table className="w-full text-left border-collapse">
             <thead>
-              <tr className="border-b border-slate-200 dark:border-slate-700 text-xs font-bold text-slate-400 dark:text-slate-500 uppercase tracking-wider">
+              <tr className="border-b border-slate-200 dark:border-slate-700 font-bold text-slate-400 dark:text-slate-500 uppercase tracking-wider" style={{ fontSize: sizeTiny }}>
                 <th className="py-3 px-4">Đặc điểm</th>
                 <th className="py-3 px-4 bg-indigo-50/30 dark:bg-indigo-950/10 text-indigo-600 dark:text-indigo-400">Phương pháp SQ3R (Chủ động)</th>
                 <th className="py-3 px-4">Phương pháp truyền thống (Thụ động)</th>
               </tr>
             </thead>
-            <tbody className="divide-y divide-slate-100 dark:divide-slate-700/50 text-sm">
+            <tbody className="divide-y divide-slate-100 dark:divide-slate-700/50" style={{ fontSize: sizeSmall }}>
               <tr>
                 <td className="py-4 px-4 font-bold text-slate-700 dark:text-slate-300">Tư thế bắt đầu</td>
                 <td className="py-4 px-4 bg-indigo-50/20 dark:bg-indigo-950/5 text-slate-600 dark:text-slate-300">
@@ -468,7 +520,7 @@ export default function SQ3RPage() {
               </tr>
               <tr>
                 <td className="py-4 px-4 font-bold text-slate-700 dark:text-slate-300">Hiệu quả dài hạn</td>
-                <td className="py-4 px-4 bg-indigo-50/20 dark:bg-indigo-950/5 text-slate-600 dark:text-slate-300 font-medium text-indigo-700 dark:text-indigo-300 font-semibold">
+                <td className="py-4 px-4 bg-indigo-50/20 dark:bg-indigo-950/5 font-semibold text-indigo-700 dark:text-indigo-300">
                   Khắc ghi sâu, lưu trữ vào trí nhớ dài hạn, dễ dàng trích xuất để áp dụng.
                 </td>
                 <td className="py-4 px-4 text-slate-500 dark:text-slate-400">

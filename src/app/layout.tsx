@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import Link from "next/link";
-import { BookOpen, Gamepad2 } from "lucide-react";
+import { BookOpen, Gamepad2, Brain } from "lucide-react";
 import ThemeToggle from "@/components/ThemeToggle";
 
 const inter = Inter({ subsets: ["latin", "vietnamese"] });
@@ -49,6 +49,10 @@ export default function RootLayout({
                 <Link href="/quizzes" className="flex items-center space-x-1 text-slate-600 dark:text-slate-300 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">
                   <Gamepad2 className="w-5 h-5" />
                   <span className="hidden sm:inline font-medium">Mini Game</span>
+                </Link>
+                <Link href="/sq3r" className="flex items-center space-x-1 text-slate-600 dark:text-slate-300 hover:text-indigo-600 dark:hover:text-indigo-400 transition-colors">
+                  <Brain className="w-5 h-5" />
+                  <span className="hidden sm:inline font-medium">SQ3R</span>
                 </Link>
                 <ThemeToggle />
               </nav>

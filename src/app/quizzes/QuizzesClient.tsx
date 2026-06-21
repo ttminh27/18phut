@@ -5,7 +5,7 @@ import Link from "next/link";
 import { Gamepad2, ZoomIn, ZoomOut } from "lucide-react";
 import { Chapter } from "@/lib/chapters";
 
-export default function QuizzesClient({ chapters }: { chapters: Chapter[] }) {
+export default function QuizzesClient({ chapters }: { chapters: (Chapter & { quizCount?: number })[] }) {
   const [fontSize, setFontSize] = useState(16); // Default base font size
 
   const handleZoomIn = () => setFontSize(s => Math.min(s + 2, 24));
@@ -61,7 +61,7 @@ export default function QuizzesClient({ chapters }: { chapters: Chapter[] }) {
               className="font-medium text-slate-400 dark:text-slate-500 bg-slate-50 dark:bg-slate-900/30 px-2 py-0.5 sm:px-2.5 sm:py-1 rounded-full flex-shrink-0"
               style={{ fontSize: `${fontSize * 0.75}px` }}
             >
-              10 quiz
+              {chapter.quizCount || 0} câu hỏi
             </span>
           </Link>
         ))}

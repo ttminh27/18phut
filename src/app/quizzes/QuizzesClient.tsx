@@ -83,7 +83,7 @@ export default function QuizzesClient({ chapters }: { chapters: (Chapter & { qui
           {searchQuery && (
             <button
               onClick={() => setSearchQuery("")}
-              className="absolute right-3 top-1/2 -translate-y-1/2 text-slate-400 dark:text-slate-500 hover:text-slate-750 dark:hover:text-slate-300 transition-colors p-0.5 rounded-full hover:bg-slate-100 dark:hover:bg-slate-700"
+              className="absolute right-3 top-1/2 -translate-y-1/2 text-slate-400 dark:text-slate-500 hover:text-slate-700 dark:hover:text-slate-300 transition-colors p-0.5 rounded-full hover:bg-slate-100 dark:hover:bg-slate-700"
             >
               <X className="w-3.5 h-3.5" />
             </button>
@@ -93,7 +93,7 @@ export default function QuizzesClient({ chapters }: { chapters: (Chapter & { qui
 
       {filteredChapters.length === 0 ? (
         <div className="text-center py-12 px-4 bg-white dark:bg-slate-800 rounded-2xl border border-slate-100 dark:border-slate-800/80 shadow-xs animate-in fade-in zoom-in-95 duration-300">
-          <Gamepad2 className="w-12 h-12 text-slate-300 dark:text-slate-650 mx-auto mb-3" />
+          <Gamepad2 className="w-12 h-12 text-slate-300 dark:text-slate-600 mx-auto mb-3" />
           <p className="text-slate-500 dark:text-slate-400 font-medium">Không tìm thấy Game trắc nghiệm nào phù hợp.</p>
         </div>
       ) : (

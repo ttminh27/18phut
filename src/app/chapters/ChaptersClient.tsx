@@ -93,7 +93,7 @@ export default function ChaptersClient({ chapters }: { chapters: Chapter[] }) {
       
       {filteredChapters.length === 0 ? (
         <div className="text-center py-12 px-4 bg-white dark:bg-slate-800 rounded-2xl border border-slate-100 dark:border-slate-800/80 shadow-xs animate-in fade-in zoom-in-95 duration-300">
-          <BookText className="w-12 h-12 text-slate-300 dark:text-slate-650 mx-auto mb-3" />
+          <BookText className="w-12 h-12 text-slate-300 dark:text-slate-600 mx-auto mb-3" />
           <p className="text-slate-500 dark:text-slate-400 font-medium">Không tìm thấy chương nào phù hợp với từ khóa của bạn.</p>
         </div>
       ) : (

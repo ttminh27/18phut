@@ -137,7 +137,7 @@ export default function QuizClient({ quizzes, chapterTitle, chapterId }: { quizz
           <span className="flex-shrink-0">
             <span className="hidden sm:inline">Câu hỏi </span>{currentIndex + 1} / {quizzes.length}
           </span>
-          <span className="font-semibold text-slate-750 dark:text-slate-200 truncate flex-1 text-center px-2 text-xs sm:text-sm">
+          <span className="font-semibold text-slate-700 dark:text-slate-200 truncate flex-1 text-center px-2 text-xs sm:text-sm">
             {chapterTitle}
           </span>
           <span className="flex-shrink-0 text-right">

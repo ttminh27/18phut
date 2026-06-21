@@ -57,30 +57,37 @@ export default function AboutPage() {
       </div>
 
       {/* Banner / Header Card */}
-      <div className="relative overflow-hidden rounded-3xl bg-gradient-to-br from-slate-50 to-indigo-50/30 dark:from-slate-800/80 dark:to-indigo-950/20 p-6 sm:p-10 md:p-12 shadow-xs border border-slate-200/60 dark:border-slate-700/60 mb-8 group transition-all duration-300">
-        <div className="absolute top-0 right-0 -mt-4 -mr-4 w-56 h-56 rounded-full bg-indigo-500/5 dark:bg-indigo-500/10 blur-2xl group-hover:scale-115 transition-transform duration-500"></div>
-        <div className="absolute bottom-0 left-0 -mb-8 -ml-8 w-44 h-44 rounded-full bg-purple-500/5 dark:bg-purple-500/10 blur-xl group-hover:scale-115 transition-transform duration-500"></div>
-        
-        <div className="relative flex flex-col md:flex-row items-center gap-6 md:gap-8">
-          <div className="relative w-32 h-32 md:w-36 md:h-36 rounded-full overflow-hidden border-2 border-indigo-100 dark:border-indigo-900/50 shadow-md bg-transparent flex-shrink-0 group-hover:rotate-3 group-hover:scale-[1.02] transition-all duration-300">
-            <Image
-              src="/author_avatar.png"
-              alt="Thiên Cơ"
-              fill
-              priority
-              className="object-cover"
-            />
+      <div className="relative overflow-hidden rounded-2xl bg-gradient-to-br from-slate-50 to-indigo-50/40 dark:from-slate-800/90 dark:to-indigo-950/30 p-5 sm:p-7 md:p-8 shadow-md border border-slate-200/60 dark:border-slate-700/60 mb-6 group transition-all duration-300">
+        {/* Dynamic decorative blobs */}
+        <div className="absolute top-0 right-0 -mt-8 -mr-8 w-48 h-48 rounded-full bg-indigo-500/10 dark:bg-indigo-500/15 blur-2xl group-hover:scale-110 transition-transform duration-700"></div>
+        <div className="absolute bottom-0 left-0 -mb-8 -ml-8 w-40 h-40 rounded-full bg-purple-500/10 dark:bg-purple-500/15 blur-2xl group-hover:scale-110 transition-transform duration-700"></div>
+
+        <div className="relative flex flex-col sm:flex-row items-center gap-5 sm:gap-7">
+          {/* Avatar container with glowing rings to prevent stretching and distortion */}
+          <div className="relative shrink-0 w-24 h-24 sm:w-28 sm:h-28 aspect-square rounded-full p-0.5 bg-gradient-to-tr from-indigo-500/80 via-purple-500/50 to-pink-500/80 dark:from-indigo-500 dark:via-purple-500/70 dark:to-pink-500 shadow-md shadow-indigo-500/5 dark:shadow-indigo-500/15 group-hover:rotate-2 group-hover:scale-105 transition-all duration-500">
+            <div className="w-full h-full rounded-full overflow-hidden bg-white dark:bg-slate-900 p-[2px]">
+              <div className="relative w-full h-full rounded-full overflow-hidden bg-slate-50 dark:bg-slate-800">
+                <Image
+                  src="/author_avatar.png"
+                  alt="Thiên Cơ"
+                  fill
+                  sizes="(max-width: 640px) 96px, 112px"
+                  priority
+                  className="object-cover rounded-full"
+                />
+              </div>
+            </div>
           </div>
           
-          <div className="text-center md:text-left">
-            <span className="inline-flex items-center gap-1 text-xs font-semibold tracking-wider uppercase px-2.5 py-1 bg-indigo-50 dark:bg-indigo-950/40 text-indigo-650 dark:text-indigo-400 border border-indigo-100/50 dark:border-indigo-900/30 rounded-full mb-3">
-              <Sparkles className="w-3 h-3 text-amber-500 dark:text-amber-400 fill-current" /> Tác Giả Web App
+          <div className="text-center sm:text-left flex-1 min-w-0">
+            <span className="inline-flex items-center gap-1 text-[10px] sm:text-xs font-bold tracking-wider uppercase px-2.5 py-0.5 sm:py-1 bg-indigo-100/80 dark:bg-indigo-950/60 text-indigo-700 dark:text-indigo-300 border border-indigo-200/50 dark:border-indigo-850/50 rounded-full mb-2 shadow-xs transition-all duration-300 hover:bg-indigo-200/50 dark:hover:bg-indigo-900/50">
+              <Sparkles className="w-3 h-3 text-amber-500 dark:text-amber-400 fill-amber-500/20 dark:fill-amber-400/20 animate-pulse" /> Tác Giả Web App
             </span>
-            <h1 className="text-3xl md:text-4xl font-extrabold tracking-tight text-slate-900 dark:text-white mb-2">
+            <h1 className="text-2xl sm:text-3xl font-extrabold tracking-tight mb-1.5 bg-gradient-to-r from-slate-900 via-indigo-950 to-slate-900 dark:from-white dark:via-indigo-100 dark:to-white bg-clip-text text-transparent">
               Thiên Cơ
             </h1>
             <p 
-              className="text-slate-650 dark:text-slate-355 font-medium max-w-md leading-relaxed"
+              className="text-slate-600 dark:text-slate-300 font-medium max-w-md sm:max-w-xl leading-relaxed"
               style={{ fontSize: `${fontSize - 1}px` }}
             >
               Một người yêu thích nghiên cứu công nghệ, luôn tìm tòi học hỏi những điều mới mẻ và mong muốn chia sẻ tri thức hữu ích tới mọi người.
@@ -99,7 +106,7 @@ export default function AboutPage() {
               <Heart className="w-5 h-5 text-rose-500 fill-rose-500/10" /> Về Dự Án & Bản Thân
             </h2>
             <div 
-              className="space-y-4 text-slate-650 dark:text-slate-300 leading-relaxed"
+              className="space-y-4 text-slate-600 dark:text-slate-300 leading-relaxed"
               style={{ fontSize: `${fontSize}px` }}
             >
               <p>
@@ -137,7 +144,7 @@ export default function AboutPage() {
                 <div className="min-w-0">
                   <span className="block text-xs font-semibold text-slate-400 dark:text-slate-500 uppercase tracking-wider">Email</span>
                   <span 
-                    className="block font-semibold text-slate-750 dark:text-slate-350 truncate"
+                    className="block font-semibold text-slate-700 dark:text-slate-300 truncate"
                     style={{ fontSize: `${fontSize - 2}px` }}
                   >
                     ttminh27@gmail.com
@@ -149,13 +156,13 @@ export default function AboutPage() {
                 href="tel:0989021981"
                 className="flex items-center gap-3 p-3 rounded-xl bg-slate-50 dark:bg-slate-900/50 hover:bg-indigo-50/50 dark:hover:bg-indigo-950/20 border border-slate-100 dark:border-slate-800 hover:border-indigo-100 dark:hover:border-indigo-900/50 transition-all group"
               >
-                <div className="w-10 h-10 rounded-lg bg-indigo-50 dark:bg-indigo-950/50 text-indigo-650 dark:text-indigo-400 flex items-center justify-center flex-shrink-0 group-hover:scale-105 transition-transform">
+                <div className="w-10 h-10 rounded-lg bg-indigo-50 dark:bg-indigo-950/50 text-indigo-600 dark:text-indigo-400 flex items-center justify-center flex-shrink-0 group-hover:scale-105 transition-transform">
                   <Phone className="w-5 h-5" />
                 </div>
                 <div className="min-w-0">
                   <span className="block text-xs font-semibold text-slate-400 dark:text-slate-500 uppercase tracking-wider">Điện thoại</span>
                   <span 
-                    className="block font-semibold text-slate-750 dark:text-slate-350 truncate"
+                    className="block font-semibold text-slate-700 dark:text-slate-300 truncate"
                     style={{ fontSize: `${fontSize - 2}px` }}
                   >
                     0989 021 981

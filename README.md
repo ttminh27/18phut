@@ -10,6 +10,8 @@ Dự án này được thiết kế nhằm giúp người đọc không chỉ ti
 
 - 📖 **Đọc Sách Tiện Lợi**: Mục lục trực quan, nội dung các chương sách được số hóa từ các tệp Markdown (`src/content/chapters`) và hiển thị định dạng mượt mà với React Markdown.
 - 🎮 **Mini Game Thử Thách**: Mỗi chương đi kèm với một bộ 10 câu hỏi trắc nghiệm tương tác giúp kiểm tra và khắc sâu kiến thức.
+- 🧘 **Trang Tác Giả (About Page)**: Giới thiệu về tác giả Thiên Cơ, động lực phát triển ứng dụng dưới dạng mô hình *"Tea-supported software"*, thông tin liên hệ và các sở thích cá nhân độc đáo.
+- 🔍 **Thu Phóng Linh Hoạt (Font Zoom)**: Hỗ trợ thu phóng kích thước chữ trực tiếp trên giao diện đọc sách và trang tác giả để tùy biến trải nghiệm đọc.
 - 🌓 **Chế Độ Giao Diện (Dark/Light Mode)**: Hỗ trợ chuyển đổi giao diện sáng/tối linh hoạt giúp bảo vệ mắt khi đọc sách vào ban đêm.
 - 📱 **Thiết Kế Responsive**: Tương thích hoàn hảo trên các thiết bị di động (Mobile), máy tính bảng (Tablet) và máy tính để bàn (Desktop).
 - ⚡ **Tốc Độ Vượt Trội**: Trải nghiệm tải trang cực nhanh nhờ sức mạnh tối ưu hóa của Next.js App Router.
@@ -32,6 +34,7 @@ Dự án này được thiết kế nhằm giúp người đọc không chỉ ti
 ├── public/                 # Các tài nguyên tĩnh (hình ảnh, favicon, v.v.)
 ├── src/
 │   ├── app/                # Next.js App Router (pages & layouts)
+│   │   ├── about/          # Trang giới thiệu tác giả (About page)
 │   │   ├── chapters/       # Trang mục lục và giao diện đọc chương sách
 │   │   ├── quizzes/        # Giao diện quản lý và chơi mini game trắc nghiệm
 │   │   ├── globals.css     # Định nghĩa styles chung & Tailwind imports
@@ -137,4 +140,4 @@ Nếu muốn deploy trực tiếp từ dòng lệnh (terminal):
 ## 📝 Bản Quyền & Thiết Kế
 
 - Nội dung sách thuộc bản quyền của tác giả **Peter Bregman**.
-- Giao diện và phát triển ứng dụng bởi **Thiên Cơ**.
+- Thiết kế & phát triển ứng dụng bởi **Thiên Cơ** (Mô hình *Tea-supported software* – mời tác giả trà xanh 🍵 / nước vối để tiếp thêm nhiên liệu sáng tạo).

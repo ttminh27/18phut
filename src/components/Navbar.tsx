@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { BookOpen, Gamepad2, Brain } from "lucide-react";
+import { BookOpen, Gamepad2, Brain, User } from "lucide-react";
 import ThemeToggle from "./ThemeToggle";
 
 export default function Navbar() {
@@ -23,6 +23,11 @@ export default function Navbar() {
       href: "/sq3r",
       label: "SQ3R",
       icon: Brain,
+    },
+    {
+      href: "/about",
+      label: "Tác giả",
+      icon: User,
     },
   ];
 

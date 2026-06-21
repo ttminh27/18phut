@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { CheckCircle2, XCircle, ArrowRight, RotateCcw, Trophy, ZoomIn, ZoomOut } from "lucide-react";
 import Link from "next/link";
 
@@ -20,8 +20,31 @@ export default function QuizClient({ quizzes, chapterTitle, chapterId }: { quizz
   const [showResult, setShowResult] = useState(false);
   const [fontSize, setFontSize] = useState(16); // Default font size for quiz
 
-  const handleZoomIn = () => setFontSize(s => Math.min(s + 2, 24));
-  const handleZoomOut = () => setFontSize(s => Math.max(s - 2, 12));
+  useEffect(() => {
+    const saved = localStorage.getItem("18phut-ui-font-size");
+    if (saved) {
+      const parsed = parseInt(saved, 10);
+      if (!isNaN(parsed) && parsed >= 12 && parsed <= 24) {
+        setFontSize(parsed);
+      }
+    }
+  }, []);
+
+  const handleZoomIn = () => {
+    setFontSize((s) => {
+      const next = Math.min(s + 2, 24);
+      localStorage.setItem("18phut-ui-font-size", next.toString());
+      return next;
+    });
+  };
+
+  const handleZoomOut = () => {
+    setFontSize((s) => {
+      const next = Math.max(s - 2, 12);
+      localStorage.setItem("18phut-ui-font-size", next.toString());
+      return next;
+    });
+  };
 
   const currentQuiz = quizzes[currentIndex];
 

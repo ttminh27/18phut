@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { 
   Compass, 
   HelpCircle, 
@@ -147,8 +147,31 @@ export default function SQ3RPage() {
   const [scores, setScores] = useState<number[]>([0, 0, 0, 0, 0]);
   const [showResult, setShowResult] = useState<boolean>(false);
 
-  const handleZoomIn = () => setFontSize(s => Math.min(s + 2, 24));
-  const handleZoomOut = () => setFontSize(s => Math.max(s - 2, 12));
+  useEffect(() => {
+    const saved = localStorage.getItem("18phut-ui-font-size");
+    if (saved) {
+      const parsed = parseInt(saved, 10);
+      if (!isNaN(parsed) && parsed >= 12 && parsed <= 24) {
+        setFontSize(parsed);
+      }
+    }
+  }, []);
+
+  const handleZoomIn = () => {
+    setFontSize((s) => {
+      const next = Math.min(s + 2, 24);
+      localStorage.setItem("18phut-ui-font-size", next.toString());
+      return next;
+    });
+  };
+
+  const handleZoomOut = () => {
+    setFontSize((s) => {
+      const next = Math.max(s - 2, 12);
+      localStorage.setItem("18phut-ui-font-size", next.toString());
+      return next;
+    });
+  };
 
   // Scaled font sizes
   const sizeTitle = `${fontSize * 2.25}px`;

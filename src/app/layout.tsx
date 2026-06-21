@@ -62,12 +62,18 @@ export default function RootLayout({
             {children}
           </main>
           <footer className="bg-white dark:bg-slate-900 border-t border-slate-200 dark:border-slate-800 mt-auto transition-colors">
-            <div className="max-w-4xl mx-auto px-4 py-6 text-center text-slate-500 dark:text-slate-400 text-sm flex items-center justify-center gap-2">
-              <span>&copy; {new Date().getFullYear()} Design by</span>
-              <span className="inline-flex items-center gap-1">
-                <LotusIcon className="w-4.5 h-4.5 text-amber-500 dark:text-amber-400 fill-current" />
-                <span className="font-semibold text-slate-700 dark:text-slate-300">Thiên Cơ</span>
-                <LotusIcon className="w-4.5 h-4.5 text-amber-500 dark:text-amber-400 fill-current" />
+            <div className="max-w-4xl mx-auto px-4 py-6 text-center text-slate-500 dark:text-slate-400 text-sm flex flex-col sm:flex-row items-center justify-center gap-2">
+              <div className="flex items-center gap-2">
+                <span>&copy; {new Date().getFullYear()} Design by</span>
+                <span className="inline-flex items-center gap-1">
+                  <LotusIcon className="w-4.5 h-4.5 text-amber-500 dark:text-amber-400 fill-current" />
+                  <span className="font-semibold text-slate-700 dark:text-slate-300">Thiên Cơ</span>
+                  <LotusIcon className="w-4.5 h-4.5 text-amber-500 dark:text-amber-400 fill-current" />
+                </span>
+              </div>
+              <span className="hidden sm:inline text-slate-300 dark:text-slate-700">|</span>
+              <span className="text-xs bg-slate-100 dark:bg-slate-800 text-slate-600 dark:text-slate-300 px-2 py-0.5 rounded-full font-mono">
+                v1.0.0
               </span>
             </div>
           </footer>

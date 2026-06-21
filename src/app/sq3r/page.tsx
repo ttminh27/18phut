@@ -411,6 +411,31 @@ export default function SQ3RPage() {
           </p>
         </div>
 
+        {/* Thang điểm chú thích */}
+        <div className="flex flex-wrap items-center gap-x-4 gap-y-2.5 p-4 bg-slate-50 dark:bg-slate-900/30 rounded-2xl border border-slate-100 dark:border-slate-800/80" style={{ fontSize: sizeTiny }}>
+          <span className="font-bold text-slate-700 dark:text-slate-300 mr-1">Thang điểm đánh giá:</span>
+          <div className="flex items-center space-x-1.5">
+            <span className="font-bold text-indigo-600 dark:text-indigo-400 bg-indigo-50/80 dark:bg-indigo-950/40 w-5.5 h-5.5 rounded-md inline-flex items-center justify-center text-center text-[10px]">1</span>
+            <span className="text-slate-500 dark:text-slate-400">Rất hiếm khi / Không bao giờ</span>
+          </div>
+          <div className="flex items-center space-x-1.5">
+            <span className="font-bold text-slate-500 dark:text-slate-400 bg-white dark:bg-slate-800 w-5.5 h-5.5 border border-slate-200 dark:border-slate-700 rounded-md inline-flex items-center justify-center text-center text-[10px]">2</span>
+            <span className="text-slate-500 dark:text-slate-400">Hiếm khi</span>
+          </div>
+          <div className="flex items-center space-x-1.5">
+            <span className="font-bold text-slate-500 dark:text-slate-400 bg-white dark:bg-slate-800 w-5.5 h-5.5 border border-slate-200 dark:border-slate-700 rounded-md inline-flex items-center justify-center text-center text-[10px]">3</span>
+            <span className="text-slate-500 dark:text-slate-400">Thỉnh thoảng</span>
+          </div>
+          <div className="flex items-center space-x-1.5">
+            <span className="font-bold text-slate-500 dark:text-slate-400 bg-white dark:bg-slate-800 w-5.5 h-5.5 border border-slate-200 dark:border-slate-700 rounded-md inline-flex items-center justify-center text-center text-[10px]">4</span>
+            <span className="text-slate-500 dark:text-slate-400">Thường xuyên</span>
+          </div>
+          <div className="flex items-center space-x-1.5">
+            <span className="font-bold text-indigo-600 dark:text-indigo-400 bg-indigo-50/80 dark:bg-indigo-950/40 w-5.5 h-5.5 rounded-md inline-flex items-center justify-center text-center text-[10px]">5</span>
+            <span className="text-slate-500 dark:text-slate-400">Luôn luôn / Rất thường xuyên</span>
+          </div>
+        </div>
+
         <div className="space-y-4 pt-2">
           {assessmentQuestions.map((q, idx) => (
             <div key={idx} className="flex flex-col sm:flex-row sm:items-center justify-between p-4 bg-slate-50 dark:bg-slate-900/30 rounded-2xl border border-slate-100 dark:border-slate-800/80 gap-3">

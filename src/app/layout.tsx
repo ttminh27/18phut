@@ -52,8 +52,9 @@ export default function RootLayout({
         <div className="flex flex-col min-h-screen">
           <header className="sticky top-0 z-50 bg-white/80 dark:bg-slate-900/80 backdrop-blur-md border-b border-slate-200 dark:border-slate-800 transition-colors">
             <div className="max-w-4xl mx-auto px-4 h-16 flex items-center justify-between">
-              <Link href="/" className="text-xl font-bold text-indigo-600 dark:text-indigo-400">
-                18 Phút - Peter Bregman
+              <Link href="/" className="font-bold text-indigo-600 dark:text-indigo-400 whitespace-nowrap">
+                <span className="inline sm:hidden text-base">18 Phút</span>
+                <span className="hidden sm:inline text-xl">18 Phút - Peter Bregman</span>
               </Link>
               <Navbar />
             </div>

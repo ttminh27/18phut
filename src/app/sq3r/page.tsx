@@ -215,7 +215,7 @@ export default function SQ3RPage() {
       </div>
 
       {/* Hero Header Banner */}
-      <div className="relative rounded-3xl overflow-hidden bg-gradient-to-br from-indigo-500 via-purple-600 to-pink-500 p-8 text-white shadow-xl dark:shadow-indigo-950/20">
+      <div className="relative rounded-3xl overflow-hidden bg-gradient-to-br from-indigo-600 via-indigo-700 to-violet-800 dark:from-slate-900 dark:via-indigo-950 dark:to-slate-950 p-8 text-white shadow-xl dark:shadow-indigo-950/20 border border-indigo-100/10 dark:border-slate-800/80">
         <div className="absolute inset-0 bg-[radial-gradient(ellipse_at_top_right,_var(--tw-gradient-stops))] from-white/10 via-transparent to-transparent pointer-events-none" />
         <div className="relative z-10 max-w-2xl">
           <div className="inline-flex items-center space-x-2 bg-white/20 backdrop-blur-md px-3 py-1 rounded-full uppercase mb-4 border border-white/10" style={{ padding: "0.25rem 0.75rem" }}>

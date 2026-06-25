@@ -137,6 +137,67 @@ Nếu muốn deploy trực tiếp từ dòng lệnh (terminal):
 
 ---
 
+## ☁️ Hướng Dẫn Deploy Lên Cloudflare Pages
+
+Dự án này **đã được cấu hình sẵn** để sử dụng tính năng **Static Export** của Next.js (trong tệp [next.config.ts](file:///home/mark/working/18phut/next.config.ts)), đây là phương pháp tối ưu nhất về hiệu năng và hoàn toàn miễn phí trên Cloudflare Pages vì ứng dụng sử dụng cấu trúc nội dung từ các file Markdown tĩnh và các trang chi tiết đã được định nghĩa sẵn hàm `generateStaticParams()`.
+
+### Hướng dẫn triển khai lên Cloudflare Pages
+
+Bạn có thể triển khai bản build tĩnh lên Cloudflare Pages bằng 2 cách dưới đây:
+
+#### Cách 1: Sử dụng Git Integration (Tự động deploy khi push code)
+
+1. **Đẩy mã nguồn dự án của bạn lên GitHub/GitLab**.
+2. **Cấu hình trên Cloudflare Pages Dashboard**:
+   - Truy cập **Cloudflare Dashboard** -> **Workers & Pages** -> **Create application** -> **Pages** -> **Connect to Git**.
+   - Chọn repo chứa mã nguồn dự án `18phut` của bạn.
+   - Ở phần **Build settings**, cấu hình như sau:
+     - **Framework preset**: `Next.js (Static HTML Export)`
+     - **Build command**: `npm run build`
+     - **Build output directory**: `out`
+   - Nhấp vào **Save and Deploy**. Cloudflare sẽ tự động build ứng dụng và cung cấp tên miền có đuôi `*.pages.dev`.
+
+#### Cách 2: Sử dụng Wrangler CLI (Deploy trực tiếp từ Terminal)
+
+Phương pháp này phù hợp nếu bạn muốn tự kiểm soát quá trình build hoặc deploy trực tiếp từ local mà không cần liên kết trực tiếp repo Git với Cloudflare.
+
+1. **Biên dịch dự án thành các tệp tĩnh**:
+   ```bash
+   npm run build
+   ```
+2. **Triển khai thư mục `out` lên Cloudflare Pages**:
+   Sử dụng công cụ `wrangler` của Cloudflare để upload trực tiếp:
+   ```bash
+   npx wrangler pages deploy out
+   ```
+   *Lưu ý*:
+   - Trong lần đầu tiên chạy lệnh này, Wrangler sẽ tự động mở trình duyệt để bạn đăng nhập tài khoản Cloudflare.
+   - CLI sẽ hỏi bạn muốn tạo dự án mới hay chọn dự án hiện có.
+   - Bạn có thể bỏ qua các bước lựa chọn bằng cách chỉ định tên dự án trực tiếp:
+     ```bash
+     npx wrangler pages deploy out --project-name=18phut
+     ```
+   - Trong môi trường tự động (như CI/CD / GitHub Actions), bạn có thể thiết lập các biến môi trường `CLOUDFLARE_API_TOKEN` và `CLOUDFLARE_ACCOUNT_ID` để tự động hóa deploy mà không cần đăng nhập thủ công.
+
+### Kiểm tra Build tĩnh ở local (Tùy chọn)
+
+Nếu bạn muốn kiểm tra xem bản Build tĩnh hoạt động có chính xác không trước khi deploy:
+1. Chạy lệnh build:
+   ```bash
+   npm run build
+   ```
+2. Dự án sẽ xuất ra thư mục tĩnh tên là `out`. Bạn có thể dùng một local web server để chạy thử thư mục này:
+   ```bash
+   npx serve@latest out
+   ```
+
+---
+
+> [!NOTE]
+> **Lưu ý về cấu hình**: Tệp [next.config.ts](file:///home/mark/working/18phut/next.config.ts) đã được thiết lập sẵn thuộc tính `output: 'export'` cùng với `images.unoptimized: true` để Next.js xuất ra các file tĩnh chuẩn mà không sử dụng trình tối ưu ảnh động (vốn cần máy chủ Node.js chạy runtime). Nếu sau này bạn phát triển thêm các tính năng động (như API Routes, Server Actions) và muốn chạy trên Cloudflare Edge Runtime, bạn cần bỏ cấu hình `output: 'export'` và tích hợp adapter `@cloudflare/next-on-pages`.
+
+---
+
 ## 📝 Bản Quyền & Thiết Kế
 
 - Nội dung sách thuộc bản quyền của tác giả **Peter Bregman**.

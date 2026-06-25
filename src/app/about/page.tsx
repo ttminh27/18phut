@@ -83,7 +83,7 @@ export default function AboutPage() {
             <span className="inline-flex items-center gap-1 text-[10px] sm:text-xs font-bold tracking-wider uppercase px-2.5 py-0.5 sm:py-1 bg-indigo-100/80 dark:bg-indigo-950/60 text-indigo-700 dark:text-indigo-300 border border-indigo-200/50 dark:border-indigo-850/50 rounded-full mb-2 shadow-xs transition-all duration-300 hover:bg-indigo-200/50 dark:hover:bg-indigo-900/50">
               <Sparkles className="w-3 h-3 text-amber-500 dark:text-amber-400 fill-amber-500/20 dark:fill-amber-400/20 animate-pulse" /> Tác Giả Web App
             </span>
-            <h1 className="text-2xl sm:text-3xl font-extrabold tracking-tight mb-1.5 bg-gradient-to-r from-slate-900 via-indigo-950 to-slate-900 dark:from-white dark:via-indigo-100 dark:to-white bg-clip-text text-transparent">
+            <h1 className="text-2xl sm:text-3xl font-extrabold tracking-tight mb-1.5 text-slate-600 dark:text-slate-300">
               Thiên Cơ
             </h1>
             <p 

@@ -21,8 +21,8 @@ function VnBookIcon({ className }: { className?: string }) {
       <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z" />
       <text
         x="6.5"
-        y="14"
-        fontSize="11"
+        y="14.5"
+        fontSize="13"
         fontFamily="sans-serif"
         fontWeight="bold"
         fill="currentColor"
@@ -33,8 +33,8 @@ function VnBookIcon({ className }: { className?: string }) {
       </text>
       <text
         x="17.5"
-        y="14"
-        fontSize="11"
+        y="14.5"
+        fontSize="13"
         fontFamily="sans-serif"
         fontWeight="bold"
         fill="currentColor"
@@ -63,8 +63,8 @@ function EnBookIcon({ className }: { className?: string }) {
       <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z" />
       <text
         x="6.5"
-        y="14"
-        fontSize="11"
+        y="14.5"
+        fontSize="13"
         fontFamily="sans-serif"
         fontWeight="bold"
         fill="currentColor"
@@ -75,8 +75,8 @@ function EnBookIcon({ className }: { className?: string }) {
       </text>
       <text
         x="17.5"
-        y="14"
-        fontSize="11"
+        y="14.5"
+        fontSize="13"
         fontFamily="sans-serif"
         fontWeight="bold"
         fill="currentColor"

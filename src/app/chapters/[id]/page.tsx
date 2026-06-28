@@ -6,9 +6,10 @@ import ChapterReader from "./ChapterReader";
 
 export async function generateStaticParams() {
   const chapters = getAllChapters();
-  return chapters.map((chapter) => ({
-    id: chapter.id,
-  }));
+  return chapters.flatMap((chapter) => [
+    { id: chapter.id },
+    { id: encodeURIComponent(chapter.id) },
+  ]);
 }
 
 export default async function ChapterPage({ params }: { params: Promise<{ id: string }> }) {

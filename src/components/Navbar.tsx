@@ -15,8 +15,13 @@ export default function Navbar() {
       icon: BookOpen,
     },
     {
+      href: "/en/chapters",
+      label: "Content",
+      icon: BookOpen,
+    },
+    {
       href: "/quizzes",
-      label: "Mini Game",
+      label: "Game",
       icon: Gamepad2,
     },
     {

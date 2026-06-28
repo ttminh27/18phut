@@ -6,8 +6,8 @@ import time
 genai.configure(api_key=os.environ.get("GEMINI_API_KEY"))
 model = genai.GenerativeModel('gemini-2.5-flash')
 
-json_path = "/home/mark/working/18phut/webapp/src/data/quizzes_10_part5.json"
-chapters_dir = "/home/mark/working/18phut/webapp/src/content/chapters"
+json_path = "/home/mark/working/18phut/src/data/quizzes_10_part5.json"
+chapters_dir = "/home/mark/working/18phut/src/content/vn/chapters"
 
 with open(json_path, 'r', encoding='utf-8') as f:
     data = json.load(f)

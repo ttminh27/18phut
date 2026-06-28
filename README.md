@@ -1,6 +1,6 @@
-# 18 Phút - Peter Bregman (Web App & Mini Game)
+# 18 Phút - Peter Bregman (Web App & Game)
 
-Chào mừng bạn đến với dự án **18 Phút** – Ứng dụng đọc sách kết hợp Mini Game trắc nghiệm tương tác dựa trên cuốn sách nổi tiếng **"18 Minutes: Find Your Focus, Master Distraction, and Get the Right Things Done"** của tác giả Peter Bregman.
+Chào mừng bạn đến với dự án **18 Phút** – Ứng dụng đọc sách kết hợp Game trắc nghiệm tương tác dựa trên cuốn sách nổi tiếng **"18 Minutes: Find Your Focus, Master Distraction, and Get the Right Things Done"** của tác giả Peter Bregman.
 
 Dự án này được thiết kế nhằm giúp người đọc không chỉ tiếp thu kiến thức một cách thụ động mà còn có thể ôn tập, ghi nhớ sâu sắc các bài học thực tế qua các thử thách trắc nghiệm thú vị.
 
@@ -8,8 +8,8 @@ Dự án này được thiết kế nhằm giúp người đọc không chỉ ti
 
 ## 🚀 Tính Năng Nổi Bật
 
-- 📖 **Đọc Sách Tiện Lợi**: Mục lục trực quan, nội dung các chương sách được số hóa từ các tệp Markdown (`src/content/chapters`) và hiển thị định dạng mượt mà với React Markdown.
-- 🎮 **Mini Game Thử Thách**: Mỗi chương đi kèm với một bộ 10 câu hỏi trắc nghiệm tương tác giúp kiểm tra và khắc sâu kiến thức.
+- 📖 **Đọc Sách Tiện Lợi (Song Ngữ)**: Mục lục trực quan tiếng Việt (Nội dung) và tiếng Anh (Content). Nội dung các chương sách được số hóa từ các tệp Markdown (`src/content/vn/chapters` và `src/content/en/chapters`) và hiển thị mượt mà với React Markdown.
+- 🎮 **Game Thử Thách**: Mỗi chương (bản tiếng Việt) đi kèm với một bộ 10 câu hỏi trắc nghiệm tương tác giúp kiểm tra và khắc sâu kiến thức.
 - 🧘 **Trang Tác Giả (About Page)**: Giới thiệu về tác giả Thiên Cơ, động lực phát triển ứng dụng dưới dạng mô hình *"Tea-supported software"*, thông tin liên hệ và các sở thích cá nhân độc đáo.
 - 🔍 **Thu Phóng Linh Hoạt (Font Zoom)**: Hỗ trợ thu phóng kích thước chữ trực tiếp trên giao diện đọc sách và trang tác giả để tùy biến trải nghiệm đọc.
 - 🌓 **Chế Độ Giao Diện (Dark/Light Mode)**: Hỗ trợ chuyển đổi giao diện sáng/tối linh hoạt giúp bảo vệ mắt khi đọc sách vào ban đêm.
@@ -35,13 +35,16 @@ Dự án này được thiết kế nhằm giúp người đọc không chỉ ti
 ├── src/
 │   ├── app/                # Next.js App Router (pages & layouts)
 │   │   ├── about/          # Trang giới thiệu tác giả (About page)
-│   │   ├── chapters/       # Trang mục lục và giao diện đọc chương sách
-│   │   ├── quizzes/        # Giao diện quản lý và chơi mini game trắc nghiệm
+│   │   ├── chapters/       # Mục lục và giao diện đọc chương sách tiếng Việt
+│   │   ├── en/             # Các route dành cho phiên bản tiếng Anh
+│   │   │   └── chapters/   # Mục lục và giao diện đọc chương sách tiếng Anh
+│   │   ├── quizzes/        # Giao diện quản lý và chơi game trắc nghiệm (Game)
 │   │   ├── globals.css     # Định nghĩa styles chung & Tailwind imports
 │   │   └── layout.tsx      # Bố cục giao diện chung (Header, Footer, Navbar)
-│   ├── components/         # Các thành phần giao diện dùng chung (như ThemeToggle)
+│   ├── components/         # Các thành phần giao diện dùng chung (như ThemeToggle, Navbar)
 │   ├── content/
-│   │   └── chapters/       # Tệp Markdown (.md) chứa nội dung chi tiết các chương
+│   │   ├── en/chapters/    # Các tệp Markdown tiếng Anh (.md) chứa nội dung chương
+│   │   └── vn/chapters/    # Các tệp Markdown tiếng Việt (.md) chứa nội dung chương
 │   ├── data/               # Dữ liệu câu hỏi trắc nghiệm JSON và mã nguồn Python hỗ trợ
 │   └── lib/                # Thư viện tiện ích, trình đọc & xử lý file
 ├── .gitignore              # Định nghĩa các tệp/thư mục không đưa lên git

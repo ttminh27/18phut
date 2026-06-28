@@ -25,7 +25,7 @@ AVAILABLE_MODELS = [
 ]
 
 # Paths
-chapters_dir = "/home/mark/working/18phut/src/content/chapters"
+chapters_dir = "/home/mark/working/18phut/src/content/vn/chapters"
 cache_path = "/home/mark/working/18phut/src/data/quizzes_25_cache.json"
 final_quizzes_path = "/home/mark/working/18phut/src/data/quizzes.json"
 

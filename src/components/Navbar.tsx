@@ -5,6 +5,90 @@ import { usePathname } from "next/navigation";
 import { BookOpen, Gamepad2, Brain, User } from "lucide-react";
 import ThemeToggle from "./ThemeToggle";
 
+function VnBookIcon({ className }: { className?: string }) {
+  return (
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth="2"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      className={className}
+    >
+      <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z" />
+      <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z" />
+      <text
+        x="6.5"
+        y="12.5"
+        fontSize="7"
+        fontFamily="sans-serif"
+        fontWeight="bold"
+        fill="currentColor"
+        stroke="none"
+        textAnchor="middle"
+      >
+        v
+      </text>
+      <text
+        x="17.5"
+        y="12.5"
+        fontSize="7"
+        fontFamily="sans-serif"
+        fontWeight="bold"
+        fill="currentColor"
+        stroke="none"
+        textAnchor="middle"
+      >
+        n
+      </text>
+    </svg>
+  );
+}
+
+function EnBookIcon({ className }: { className?: string }) {
+  return (
+    <svg
+      xmlns="http://www.w3.org/2000/svg"
+      viewBox="0 0 24 24"
+      fill="none"
+      stroke="currentColor"
+      strokeWidth="2"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      className={className}
+    >
+      <path d="M2 3h6a4 4 0 0 1 4 4v14a3 3 0 0 0-3-3H2z" />
+      <path d="M22 3h-6a4 4 0 0 0-4 4v14a3 3 0 0 1 3-3h7z" />
+      <text
+        x="6.5"
+        y="12.5"
+        fontSize="7"
+        fontFamily="sans-serif"
+        fontWeight="bold"
+        fill="currentColor"
+        stroke="none"
+        textAnchor="middle"
+      >
+        e
+      </text>
+      <text
+        x="17.5"
+        y="12.5"
+        fontSize="7"
+        fontFamily="sans-serif"
+        fontWeight="bold"
+        fill="currentColor"
+        stroke="none"
+        textAnchor="middle"
+      >
+        n
+      </text>
+    </svg>
+  );
+}
+
 export default function Navbar() {
   const pathname = usePathname();
 
@@ -12,12 +96,12 @@ export default function Navbar() {
     {
       href: "/chapters",
       label: "Nội dung",
-      icon: BookOpen,
+      icon: VnBookIcon,
     },
     {
       href: "/en/chapters",
       label: "Content",
-      icon: BookOpen,
+      icon: EnBookIcon,
     },
     {
       href: "/quizzes",
